@@ -1,0 +1,3258 @@
+[
+  {
+    "id": "evi_001_1",
+    "chapter": 1,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "此名《太平要术》，汝得之，当代天宣化，普救世人；若萌异心，必获恶报。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_001_2",
+    "chapter": 1,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "贼兵众，我兵寡，明公宜作速招军应敌。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_001_3",
+    "chapter": 1,
+    "paragraph_start": 8,
+    "paragraph_end": 12,
+    "quote_excerpt": "念刘备、关羽、张飞，虽然异姓，既结为兄弟，则同心协力，救困扶危；上报国家，下安黎庶。不求同年同月同日生，只愿同年同月同日死。皇…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_001_4",
+    "chapter": 1,
+    "paragraph_start": 13,
+    "paragraph_end": 17,
+    "quote_excerpt": "我今围贼在此，贼弟张梁、张宝在颍川，与皇甫嵩、朱儁对垒。汝可引本部人马，我更助汝一千官军，前去颍川打探消息，约期剿捕。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_002_1",
+    "chapter": 2,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "他是朝廷命官，岂可擅杀？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_002_2",
+    "chapter": 2,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "昔高祖之得天下，盖为能招降纳顺；公何拒韩忠耶？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_002_3",
+    "chapter": 2,
+    "paragraph_start": 7,
+    "paragraph_end": 10,
+    "quote_excerpt": "督邮逼勒县吏，欲害刘公；我等皆来苦告，不得放入，反遭把门人赶打！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_002_4",
+    "chapter": 2,
+    "paragraph_start": 11,
+    "paragraph_end": 13,
+    "quote_excerpt": "若欲立协，必先诛何进，以绝后患。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_003_1",
+    "chapter": 3,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "宦官之祸，古今皆有；但世主不当假之权宠，使至于此。若欲治罪，当除元恶，但付一狱吏足矣，何必纷纷召外兵乎？欲尽诛之，事必宣露。吾…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_003_2",
+    "chapter": 3,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "此何进之谋也；我等不先下手，皆灭族矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_003_3",
+    "chapter": 3,
+    "paragraph_start": 8,
+    "paragraph_end": 12,
+    "quote_excerpt": "此间不可久恋，须别寻活路。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_003_4",
+    "chapter": 3,
+    "paragraph_start": 13,
+    "paragraph_end": 13,
+    "quote_excerpt": "吾堂堂丈夫，安肯为汝子乎！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_004_1",
+    "chapter": 4,
+    "paragraph_start": 1,
+    "paragraph_end": 5,
+    "quote_excerpt": "事未可定，不可妄杀。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_004_2",
+    "chapter": 4,
+    "paragraph_start": 6,
+    "paragraph_end": 8,
+    "quote_excerpt": "嫩草绿凝烟，袅袅双飞燕。洛水一条青，陌上人称羡。远望碧云深，是吾旧宫殿。何人仗忠义，泄我心中怨！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_004_3",
+    "chapter": 4,
+    "paragraph_start": 9,
+    "paragraph_end": 10,
+    "quote_excerpt": "吾有西凉进来好马，奉先可亲去拣一骑赐与孟德。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_004_4",
+    "chapter": 4,
+    "paragraph_start": 11,
+    "paragraph_end": 14,
+    "quote_excerpt": "我是客商，覆姓皇甫。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_005_1",
+    "chapter": 5,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "我为国家跟他到此，杀之不义。不若弃而他往。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_005_2",
+    "chapter": 5,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "旧日蒙兄保备为平原县令，今闻大军过此，将来奉候，就请兄长入城歇马。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_005_3",
+    "chapter": 5,
+    "paragraph_start": 7,
+    "paragraph_end": 10,
+    "quote_excerpt": "助恶匹夫，何不早降！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_005_4",
+    "chapter": 5,
+    "paragraph_start": 11,
+    "paragraph_end": 13,
+    "quote_excerpt": "董卓屯兵虎牢，截俺诸侯中路，今可勒兵一半迎敌。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_006_1",
+    "chapter": 6,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "董卓与我，本无仇隙。今我奋不顾身，亲冒矢石，来决死战者，上为国家讨贼，下为将军家门之私；而将军却听谗言，不发粮草，致坚败绩，将…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_006_2",
+    "chapter": 6,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "今董贼西去，正可乘势追袭；本初按兵不动，何也？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_006_3",
+    "chapter": 6,
+    "paragraph_start": 9,
+    "paragraph_end": 10,
+    "quote_excerpt": "袁绍无能为也，久必有变。吾等且归。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_007_1",
+    "chapter": 7,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "大丈夫纵横天下，何待人送粮为食！冀州乃钱粮广盛之地，将军何不取之？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_007_2",
+    "chapter": 7,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "可请汝兄自来，吾有商议。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_007_3",
+    "chapter": 7,
+    "paragraph_start": 9,
+    "paragraph_end": 12,
+    "quote_excerpt": "袁绍与公孙瓒，亦当今豪杰。现在磐河厮杀，宜假天子之诏，差人往和解之。二人感德，必顺太师矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_007_4",
+    "chapter": 7,
+    "paragraph_start": 13,
+    "paragraph_end": 16,
+    "quote_excerpt": "此非吉兆，可暂班师。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_008_1",
+    "chapter": 8,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "今孙坚已丧，其子皆幼。乘此虚弱之时，火速进军，江东一鼓可得。若还尸罢兵，容其养成气力，荆州之患也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_008_2",
+    "chapter": 8,
+    "paragraph_start": 3,
+    "paragraph_end": 4,
+    "quote_excerpt": "吾除却一心腹之患也！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_008_3",
+    "chapter": 8,
+    "paragraph_start": 5,
+    "paragraph_end": 9,
+    "quote_excerpt": "吕布乃相府一将，司徒是朝廷大臣，何故错敬？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_009_1",
+    "chapter": 9,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "儒适至府门，知太师怒入后园，寻问吕布。因急走来，正遇吕布奔走，云：‘太师杀我！’儒慌赶入园中劝解，不意误撞恩相。死罪！死罪！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_009_2",
+    "chapter": 9,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "天子病体新痊，欲会文武于未央殿，议将禅位于太师，故有此诏。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_009_3",
+    "chapter": 9,
+    "paragraph_start": 7,
+    "paragraph_end": 9,
+    "quote_excerpt": "助卓为虐者，皆李儒也！谁可擒之？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_009_4",
+    "chapter": 9,
+    "paragraph_start": 10,
+    "paragraph_end": 13,
+    "quote_excerpt": "势急矣！请司徒上马，同出关去，别图良策。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_010_1",
+    "chapter": 10,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "不可。今日若便杀之，恐众人不服，不如仍旧奉之为主，赚诸侯入关，先去其羽翼，然后杀之，天下可图也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_010_2",
+    "chapter": 10,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "目今人心未宁，频动干戈，深为不便；不若设一宴，请张济、樊稠庆功，就席间擒稠斩之，毫不费力。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_010_3",
+    "chapter": 10,
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "quote_excerpt": "我获罪于天，致使徐州之民，受此大难！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_011_1",
+    "chapter": 11,
+    "paragraph_start": 1,
+    "paragraph_end": 5,
+    "quote_excerpt": "我乃南方火德星君也，奉上帝教，往烧汝家。感君相待以礼，故明告君。君可速归，搬出财物。吾当夜来。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_011_2",
+    "chapter": 11,
+    "paragraph_start": 6,
+    "paragraph_end": 9,
+    "quote_excerpt": "曹兵势大，操又善于用兵，未可轻战。且观其动静，然后进兵。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_011_3",
+    "chapter": 11,
+    "paragraph_start": 10,
+    "paragraph_end": 12,
+    "quote_excerpt": "今天下分崩，英雄并起；君以千里之众，而反受制于人，不亦鄙乎！今曹操征东，兖州空虚；而吕布乃当世勇士，若与之共取兖州，霸业可图也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_011_4",
+    "chapter": 11,
+    "paragraph_start": 13,
+    "paragraph_end": 16,
+    "quote_excerpt": "吾与汝自来无仇，何得夺吾州郡？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_012_1",
+    "chapter": 12,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "濮阳城中有富户田氏，家僮千百，为一郡之巨室；可令彼密使人往操寨中下书，言‘吕温侯残暴不仁，民心大怨。今欲移兵黎阳，止有高顺在城…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_012_2",
+    "chapter": 12,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "误中匹夫之计，吾必当报之！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_012_3",
+    "chapter": 12,
+    "paragraph_start": 8,
+    "paragraph_end": 11,
+    "quote_excerpt": "曹兵之去，止为吕布袭兖州故也。今因岁荒罢兵，来春又必至矣。府君两番欲让位于刘玄德，时府君尚强健，故玄德不肯受；今病已沉重，正可…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_013_1",
+    "chapter": 13,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "今曹兵势大，未可与争。先寻取安身之地，那时再来未迟。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_013_2",
+    "chapter": 13,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "今曹操拥兵二十余万，谋臣武将数十员，若得此人扶持社稷，剿除奸党，天下幸甚。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_013_3",
+    "chapter": 13,
+    "paragraph_start": 7,
+    "paragraph_end": 10,
+    "quote_excerpt": "臣观贾诩虽为李傕腹心，然实未尝忘君，陛下当与谋之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_013_4",
+    "chapter": 13,
+    "paragraph_start": 11,
+    "paragraph_end": 13,
+    "quote_excerpt": "陛下免忧。臣与杨将军誓斩二贼，以靖天下。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_014_1",
+    "chapter": 14,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "血流芒砀白蛇亡，赤帜纵横游四方。秦鹿逐翻兴社稷，楚雅推倒立封疆。天子懦弱奸邪起，气色凋零盗贼狂。看到两京遭难处，铁人无泪也怬惶！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_014_2",
+    "chapter": 14,
+    "paragraph_start": 4,
+    "paragraph_end": 8,
+    "quote_excerpt": "不可。操兵精将勇，不如降之，求免本身之罪。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_014_3",
+    "chapter": 14,
+    "paragraph_start": 9,
+    "paragraph_end": 13,
+    "quote_excerpt": "子非山阳满伯宁耶！何以至此？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_014_4",
+    "chapter": 14,
+    "paragraph_start": 14,
+    "paragraph_end": 18,
+    "quote_excerpt": "我兄临去时，分付我少饮酒，恐致失事。众官今日尽此一醉，明日都各戒酒，帮我守城。今日却都要满饮。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_015_1",
+    "chapter": 15,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "古人云：‘兄弟如手足，妻子如衣服。衣服破，尚可缝；手足断，安可续？’吾三人桃园结义，不求同生，但愿同死。今虽失了城池家小，安忍…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_015_2",
+    "chapter": 15,
+    "paragraph_start": 3,
+    "paragraph_end": 6,
+    "quote_excerpt": "使术有子如孙郎，死复何恨！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_015_3",
+    "chapter": 15,
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "quote_excerpt": "我便是东莱太史慈也，特来捉孙策！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_015_4",
+    "chapter": 15,
+    "paragraph_start": 9,
+    "paragraph_end": 13,
+    "quote_excerpt": "我知子义真丈夫也。刘繇蠢辈，不能用为大将，以致此败。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_016_1",
+    "chapter": 16,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "刘备屯军小沛，虽然易取，奈吕布虎踞徐州，前次许他金帛粮马，至今未与，恐其助备；今当令人送与粮食，以结其心，使其按兵不动，则刘备…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_016_2",
+    "chapter": 16,
+    "paragraph_start": 4,
+    "paragraph_end": 5,
+    "quote_excerpt": "此天令你两家罢兵也！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_016_3",
+    "chapter": 16,
+    "paragraph_start": 6,
+    "paragraph_end": 8,
+    "quote_excerpt": "谁献此计，教袁公与奉先联姻？意在取刘玄德之头乎？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_016_4",
+    "chapter": 16,
+    "paragraph_start": 9,
+    "paragraph_end": 13,
+    "quote_excerpt": "布乃无义之辈，吾与贤弟并力诛之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_017_1",
+    "chapter": 17,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "昔汉高祖不过泗上一亭长，而有天下；今历年四百，气数已尽，海内鼎沸。吾家四世三公，百姓所归；吾效应天顺人，正位九五。尔众人以为何…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_017_2",
+    "chapter": 17,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "汝赖吾玉玺，僭称帝号，背反汉室，大逆不道！吾方欲加兵问罪，岂肯反助叛贼乎！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_017_3",
+    "chapter": 17,
+    "paragraph_start": 9,
+    "paragraph_end": 11,
+    "quote_excerpt": "如三日内不并力破城，皆斩！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_018_1",
+    "chapter": 18,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "某在城上见曹操绕城而观者三日。他见城东南角砖土之色，新旧不等，鹿角多半毁坏，意将从此处攻进，却虚去西北上积草，诈为声势，欲哄我…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_018_2",
+    "chapter": 18,
+    "paragraph_start": 3,
+    "paragraph_end": 4,
+    "quote_excerpt": "吾思去年于此地折了吾大将典韦，不由不哭耳！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_018_3",
+    "chapter": 18,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "陈珪父子面谀将军，其心不可测，宜善防之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_019_1",
+    "chapter": 19,
+    "paragraph_start": 1,
+    "paragraph_end": 6,
+    "quote_excerpt": "吾闻大丈夫不废人之妻子。今与将军争天下者，曹公耳。玄德常念辕门射赖之恩，不敢背将军也。今不得已而投曹公，惟将军怜之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_019_2",
+    "chapter": 19,
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "quote_excerpt": "今郝萌被获，操必知我情，预作准备。若非将军亲自护送，谁能突出重围？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_019_3",
+    "chapter": 19,
+    "paragraph_start": 9,
+    "paragraph_end": 11,
+    "quote_excerpt": "托将军虎威，追得失马。众将皆来作贺。酿得些酒，未敢擅饮，特先奉上微意。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_020_1",
+    "chapter": 20,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "此等赤心之人，正当留用。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_020_2",
+    "chapter": 20,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "朕夜来与后说霸河之苦，念国舅大功，故特宣入慰劳。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_020_3",
+    "chapter": 20,
+    "paragraph_start": 8,
+    "paragraph_end": 8,
+    "quote_excerpt": "国舅好自在！亏你如何睡得着！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_021_1",
+    "chapter": 21,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "见有豫州牧刘玄德在此，何不求之？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_021_2",
+    "chapter": 21,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "公孙瓒已被袁绍破了。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_021_3",
+    "chapter": 21,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "奉丞相命，特请将军回去，别有商议。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_022_1",
+    "chapter": 22,
+    "paragraph_start": 1,
+    "paragraph_end": 11,
+    "quote_excerpt": "曹操所惧者袁绍。绍虎踞冀、青、幽、并诸郡，带甲百万，文官武将极多，今何不写书遣人到彼求救？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_022_2",
+    "chapter": 22,
+    "paragraph_start": 12,
+    "paragraph_end": 23,
+    "quote_excerpt": "金辇璧，输货权门，窃盗鼎司，倾覆重器。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_022_3",
+    "chapter": 22,
+    "paragraph_start": 24,
+    "paragraph_end": 34,
+    "quote_excerpt": "彷徨东裔，蹈据无所。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_022_4",
+    "chapter": 22,
+    "paragraph_start": 35,
+    "paragraph_end": 46,
+    "quote_excerpt": "榜楚参并，五毒备至；",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_022_5",
+    "chapter": 22,
+    "paragraph_start": 47,
+    "paragraph_end": 57,
+    "quote_excerpt": "往者伐鼓北征公孙瓒，强寇桀逆，拒围一年。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_022_6",
+    "chapter": 22,
+    "paragraph_start": 58,
+    "paragraph_end": 69,
+    "quote_excerpt": "若回旆方徂，登高冈而击鼓吹，扬素挥以启降路，必土崩瓦解，不俟血刃。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_022_7",
+    "chapter": 22,
+    "paragraph_start": 70,
+    "paragraph_end": 80,
+    "quote_excerpt": "有文事者，必须以武略济之。陈琳文事虽佳，其如袁绍武略之不足何！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_023_1",
+    "chapter": 23,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "二人本非刘备敌手，若斩之，恐失将士之心。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_023_2",
+    "chapter": 23,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "祢衡戏谑主公，何不杀之？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_023_3",
+    "chapter": 23,
+    "paragraph_start": 9,
+    "paragraph_end": 11,
+    "quote_excerpt": "刘表结连袁绍，起兵五十万，共分十路杀来。马腾结连韩遂，起西凉军七十二万，从北杀来。曹操尽起许昌兵马，分头迎敌，城中空虚。若聚五…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_023_4",
+    "chapter": 23,
+    "paragraph_start": 12,
+    "paragraph_end": 17,
+    "quote_excerpt": "乘热服之，少汗即愈。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_024_1",
+    "chapter": 24,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "明公所以能威震四方，号令天下者，以奉汉家名号故也，今诸侯未平，遽行废立之事，必起兵端矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_024_2",
+    "chapter": 24,
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "quote_excerpt": "风从何方来？吹折甚颜色旗？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_024_3",
+    "chapter": 24,
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "quote_excerpt": "袁绍有言，‘倘不如意，可来相投’，今不若暂往依栖，别作良图。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_025_1",
+    "chapter": 25,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "云长有万人之敌，非智谋不能取之。今可即差刘备手下投降之兵，入下邳，见关公，只说是逃回的，伏于城中为内应；却引关公出战，诈败佯输…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_025_2",
+    "chapter": 25,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "汝说我有三罪，欲我如何？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_025_3",
+    "chapter": 25,
+    "paragraph_start": 8,
+    "paragraph_end": 12,
+    "quote_excerpt": "二嫂思兄痛哭，不由某心不悲。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_025_4",
+    "chapter": 25,
+    "paragraph_start": 13,
+    "paragraph_end": 13,
+    "quote_excerpt": "此必是刘玄德之弟关云长也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_026_1",
+    "chapter": 26,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "明公只听一面之词，而绝向日之情耶？备自徐州失散，二弟云长未知存否；天下同貌者不少，岂赤面长须之人，即为关某也？明公何不察之？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_026_2",
+    "chapter": 26,
+    "paragraph_start": 3,
+    "paragraph_end": 5,
+    "quote_excerpt": "今番又是红面长髯的斩了文丑。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_026_3",
+    "chapter": 26,
+    "paragraph_start": 6,
+    "paragraph_end": 8,
+    "quote_excerpt": "闻兄在阵上知玄德音信，特来贺喜。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_027_1",
+    "chapter": 27,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "不忘故主，来去明白，真丈夫也。汝等皆当效之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_027_2",
+    "chapter": 27,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "既无丞相文凭，即系私行；若不阻挡，必有罪责。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_027_3",
+    "chapter": 27,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "匹夫！我与你无仇，如何令人放火烧我？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_028_1",
+    "chapter": 28,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "汝来赶我，有失丞相大度。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_028_2",
+    "chapter": 28,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "犬子冒渎虎威，深感将军恩恕。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_028_3",
+    "chapter": 28,
+    "paragraph_start": 9,
+    "paragraph_end": 10,
+    "quote_excerpt": "玄德离了袁绍处，投汝南去了。今云长直从许都送二位夫人至此，请将军出迎。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_028_4",
+    "chapter": 28,
+    "paragraph_start": 11,
+    "paragraph_end": 14,
+    "quote_excerpt": "贤弟可保护二嫂，暂住此城，待我与孙乾先去探听兄长消息。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_029_1",
+    "chapter": 29,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "孙策骁勇，与项籍相似。朝廷宜外示荣宠，召在京师；不可使居外镇，以为后患。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_029_2",
+    "chapter": 29,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "吾儿屈杀神仙，故招此祸。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_029_3",
+    "chapter": 29,
+    "paragraph_start": 8,
+    "paragraph_end": 11,
+    "quote_excerpt": "公瑾已回，吾无忧矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_030_1",
+    "chapter": 30,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "今且宜静守以待天时，不可妄兴大兵，恐有不利。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_030_2",
+    "chapter": 30,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "早晚大将韩猛运粮至军前接济，先令我等探路。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_030_3",
+    "chapter": 30,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "不可。曹军劫粮，曹操必然亲往；操既自出，寨必空虚，可纵兵先击曹操之寨；操闻之，必速还：此孙膑围魏救赵之计也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_030_4",
+    "chapter": 30,
+    "paragraph_start": 11,
+    "paragraph_end": 15,
+    "quote_excerpt": "今可扬言调拨人马，一路取酸枣，攻邺郡；一路取黎阳，断袁兵归路。袁绍闻之，必然惊惶，分兵拒我；我乘其兵动时击之，绍可破也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_031_1",
+    "chapter": 31,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "若听田丰之言，我等怎遭此祸！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_031_2",
+    "chapter": 31,
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "quote_excerpt": "若如此，吾前后受敌，无所归矣！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_031_3",
+    "chapter": 31,
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "quote_excerpt": "诸君皆有王佐之才，不幸跟随刘备。备之命窘，累及诸君。今日身无立锥，诚恐有误诸君。君等何不弃备而投明主，以取功名乎？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_032_1",
+    "chapter": 32,
+    "paragraph_start": 1,
+    "paragraph_end": 6,
+    "quote_excerpt": "累世公卿立大名，少年意气自纵横。空招俊杰三千客，漫有英雄百万兵。羊质虎皮功不就，凤毛鸡胆事难成。更怜一种伤心处，家难徒延两弟兄。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_032_2",
+    "chapter": 32,
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "quote_excerpt": "吾父在日，吾并未慢待二将军，今何从吾弟而见逼耶？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_032_3",
+    "chapter": 32,
+    "paragraph_start": 9,
+    "paragraph_end": 11,
+    "quote_excerpt": "今曹兵运粮入白沟，必来攻冀州，如之奈何？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_032_4",
+    "chapter": 32,
+    "paragraph_start": 12,
+    "paragraph_end": 14,
+    "quote_excerpt": "此是城中无粮，教老弱百姓出降，后必有兵出也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_033_1",
+    "chapter": 33,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "妾乃袁将军之妻刘氏也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_033_2",
+    "chapter": 33,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "今操已破冀州，兵势正盛，袁氏兄弟不久必为操擒，救之无益；况操常有窥荆襄之意，我只养兵自守，未可妄动。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_033_3",
+    "chapter": 33,
+    "paragraph_start": 9,
+    "paragraph_end": 11,
+    "quote_excerpt": "乐进、李典、张燕攻打并州，高干守住壶关口，不能下。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_033_4",
+    "chapter": 33,
+    "paragraph_start": 12,
+    "paragraph_end": 14,
+    "quote_excerpt": "敌兵不整，便可击之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_034_1",
+    "chapter": 34,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "昔舜母梦玉雀入怀而生舜。今得铜雀，亦吉祥之兆也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_034_2",
+    "chapter": 34,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "备往常身不离鞍，髀肉皆散；分久不骑，髀里肉生。日月磋跎，老将至矣，而功业不建：是以悲耳！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_034_3",
+    "chapter": 34,
+    "paragraph_start": 8,
+    "paragraph_end": 11,
+    "quote_excerpt": "昨见主公匆匆而回，意甚不乐。愚意度之，在荆州必有事故。今忽请赴会，不可轻往。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_035_1",
+    "chapter": 35,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "蔡瑁引军望西赶去了。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_035_2",
+    "chapter": 35,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "今刘备屯兵新野，招军买马，积草储粮，其志不小，不可不早图之。吾二人自降丞相之后，未有寸功，愿请精兵五千，取刘备之头，以献丞相。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_035_3",
+    "chapter": 35,
+    "paragraph_start": 8,
+    "paragraph_end": 8,
+    "quote_excerpt": "二吕被杀，军士多被活捉。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_036_1",
+    "chapter": 36,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "曹仁屯兵樊城，今知二将被诛，必起大军来战。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_036_2",
+    "chapter": 36,
+    "paragraph_start": 3,
+    "paragraph_end": 6,
+    "quote_excerpt": "胜负乃军家之常。但不知谁为刘备画策？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_036_3",
+    "chapter": 36,
+    "paragraph_start": 7,
+    "paragraph_end": 7,
+    "quote_excerpt": "庶本欲事刘豫州，奈老母为曹操所囚，驰书来召，只得舍之而往。临行时，将公荐与玄德。玄德即日将来奉谒，望公勿推阻，即展平生之大才以…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_037_1",
+    "chapter": 37,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "公乃高明之士，何故屈身而事刘备乎？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_037_2",
+    "chapter": 37,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "苍天如圆盖，陆地似棋局；世人黑白分，往来争荣辱：荣者自安安，辱者定碌碌。南阳有隐居，高眠卧不足！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_037_3",
+    "chapter": 37,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "备久慕先生，无缘拜会。昨因徐元直称荐，敬至仙庄，不遇空回。今特冒风雪而来。得瞻道貌，实为万幸，",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_038_1",
+    "chapter": 38,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "兄长两次亲往拜谒，其礼太过矣。想诸葛亮有虚名而无实学，故避而不敢见。兄何惑于斯人之甚也！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_038_2",
+    "chapter": 38,
+    "paragraph_start": 4,
+    "paragraph_end": 5,
+    "quote_excerpt": "吾受刘皇叔三顾之恩，不容不出。汝可躬耕于此，勿得荒芜田亩。待我功成之日，即当归隐。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_038_3",
+    "chapter": 38,
+    "paragraph_start": 6,
+    "paragraph_end": 8,
+    "quote_excerpt": "操欲令我遣子入朝，是牵制诸侯之法也。然若不令去，恐其兴兵下江东，势必危矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_038_4",
+    "chapter": 38,
+    "paragraph_start": 9,
+    "paragraph_end": 13,
+    "quote_excerpt": "吾为汝夫报仇，汝当从我；不从则死。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_039_1",
+    "chapter": 39,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "我向日不曾轻待汝，今何相逼耶？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_039_2",
+    "chapter": 39,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "东吴已攻杀黄祖，现今屯兵柴桑。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_039_3",
+    "chapter": 39,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "江夏重地，固非他人可守，正须公子自往。东南之事，兄父子当之；西北之事，备愿当之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_040_1",
+    "chapter": 40,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "新野小县，不可久居，近闻刘景升病在危笃，可乘此机会，取彼荆州为安身之地，庶可拒曹操也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_040_2",
+    "chapter": 40,
+    "paragraph_start": 4,
+    "paragraph_end": 8,
+    "quote_excerpt": "我病已入膏肓，不久便死矣，特托孤于贤弟。我子无才，恐不能承父业，我死之后，贤弟可自领荆州。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_040_3",
+    "chapter": 40,
+    "paragraph_start": 9,
+    "paragraph_end": 10,
+    "quote_excerpt": "主公且宽心。前番一把火，烧了夏侯惇大半人马；今番曹军又来，必教他中这条计。我等在新野住不得了，不如早到樊城去。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_041_1",
+    "chapter": 41,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "诸葛村夫，安敢如此；",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_041_2",
+    "chapter": 41,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "辱弟备无德无才，负兄寄托之重，罪在备一身，与百姓无干。望兄英灵，垂救荆襄之民！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_041_3",
+    "chapter": 41,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "云长往江夏去了，绝无回音，不知若何。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_041_4",
+    "chapter": 41,
+    "paragraph_start": 11,
+    "paragraph_end": 16,
+    "quote_excerpt": "主公将甘、糜二夫人与小主人阿斗，托付在我身上；今日军中失散，有何面目去见主人？不如去决一死战，好歹要寻主母与小主人下落！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_042_1",
+    "chapter": 42,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "子龙速行，追兵我自当之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_042_2",
+    "chapter": 42,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "丞相休惊。料张飞一人，何足深惧！今急回军杀去，刘备可擒也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_042_3",
+    "chapter": 42,
+    "paragraph_start": 7,
+    "paragraph_end": 10,
+    "quote_excerpt": "今刘备已投江夏，恐结连东吴，是滋蔓也，当用何计破之？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_043_1",
+    "chapter": 43,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "先生见孙将军，切不可实言曹操兵多将广。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_043_2",
+    "chapter": 43,
+    "paragraph_start": 3,
+    "paragraph_end": 5,
+    "quote_excerpt": "今曹公兵屯百万，将列千员，龙骧虎视，平吞江夏，公以为何如？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_043_3",
+    "chapter": 43,
+    "paragraph_start": 6,
+    "paragraph_end": 7,
+    "quote_excerpt": "公好为大言，未必真有实学，恐适为儒者所笑耳。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_044_1",
+    "chapter": 44,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "先姊遗言云：‘伯符临终有言：内事不决问张昭，外事不决问周瑜。’今何不请公瑾问之？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_044_2",
+    "chapter": 44,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "舍弟诸葛亮自汉上来，言刘豫州欲结东吴，共伐曹操，文武商议未定。因舍弟为使，瑾不敢多言，专候都督来决此事。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_044_3",
+    "chapter": 44,
+    "paragraph_start": 8,
+    "paragraph_end": 8,
+    "quote_excerpt": "王法无亲，诸君各守乃职。方今曹操弄权，甚于董卓：囚天子于许昌。屯暴兵于境上。吾今奉命讨之，诸君幸皆努力向前。大军到处，不得扰民…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_045_1",
+    "chapter": 45,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "卿先行，孤即起兵继后。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_045_2",
+    "chapter": 45,
+    "paragraph_start": 5,
+    "paragraph_end": 9,
+    "quote_excerpt": "非向日斩颜良、文丑者乎？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_045_3",
+    "chapter": 45,
+    "paragraph_start": 10,
+    "paragraph_end": 13,
+    "quote_excerpt": "此皆北军灯火之光也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_045_4",
+    "chapter": 45,
+    "paragraph_start": 14,
+    "paragraph_end": 18,
+    "quote_excerpt": "此皆江东之英杰。今日此会，可名群英会。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_046_1",
+    "chapter": 46,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "连日措办军务，有失听教。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_046_2",
+    "chapter": 46,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "重雾迷江，彼军忽至，必有埋伏，切不可轻动。可拨水军弓弩手乱箭射之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_046_3",
+    "chapter": 46,
+    "paragraph_start": 7,
+    "paragraph_end": 10,
+    "quote_excerpt": "吾兄无罪，被操贼所杀。吾二人欲报兄仇，特来投降。望赐收录，愿为前部。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_047_1",
+    "chapter": 47,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "大丈夫处世，不能立功建业，不几与草木同腐乎！公既捐躯报主，泽又何惜微生！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_047_2",
+    "chapter": 47,
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "quote_excerpt": "江左甘宁，被周瑜所辱，愿为内应；黄盖受责，令阚泽来纳降：俱未可深信。谁敢直入周瑜寨中，探听实信？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_047_3",
+    "chapter": 47,
+    "paragraph_start": 7,
+    "paragraph_end": 9,
+    "quote_excerpt": "姓庞，名统，字士元。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_048_1",
+    "chapter": 48,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "你若说破我计，可惜江南八十一州百姓，皆是你送了也！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_048_2",
+    "chapter": 48,
+    "paragraph_start": 3,
+    "paragraph_end": 5,
+    "quote_excerpt": "大小船只，俱已配搭连锁停当。旌旗战具，一一齐备。请丞相调遣，克日进兵。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_049_1",
+    "chapter": 49,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "江北百万之众，虎踞鲸吞。不争都督如此，倘曹兵一至，如之奈何？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_049_2",
+    "chapter": 49,
+    "paragraph_start": 5,
+    "paragraph_end": 10,
+    "quote_excerpt": "孔明之言谬矣。隆冬之时，怎得东南风乎？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_049_3",
+    "chapter": 49,
+    "paragraph_start": 11,
+    "paragraph_end": 12,
+    "quote_excerpt": "汝是何等人，敢来诈降！吾今缺少福物祭旗，愿借你首级。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_050_1",
+    "chapter": 50,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "后梢舵上一人，高叫将军表字。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_050_2",
+    "chapter": 50,
+    "paragraph_start": 3,
+    "paragraph_end": 6,
+    "quote_excerpt": "前面有两条路，请问丞相从那条路去？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_050_3",
+    "chapter": 50,
+    "paragraph_start": 7,
+    "paragraph_end": 7,
+    "quote_excerpt": "且喜将军立此盖世之功，与普天下除大害。合宜远接庆贺！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_051_1",
+    "chapter": 51,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "昔吾三人结义时，誓同生死。今云长虽犯法，不忍违却前盟。望权记过，容将功赎罪。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_051_2",
+    "chapter": 51,
+    "paragraph_start": 3,
+    "paragraph_end": 5,
+    "quote_excerpt": "目今失了彝陵，势已危急，何不拆丞相遗计观之，以解此危？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_052_1",
+    "chapter": 52,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "若不杀诸葛村夫，怎息我心中怨气！程德谋可助我攻打南郡，定要夺还东吴。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_052_2",
+    "chapter": 52,
+    "paragraph_start": 4,
+    "paragraph_end": 5,
+    "quote_excerpt": "要知荆州久远之计，何不求贤士以问之？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_052_3",
+    "chapter": 52,
+    "paragraph_start": 6,
+    "paragraph_end": 8,
+    "quote_excerpt": "零陵已取了，桂阳郡何人敢取？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_053_1",
+    "chapter": 53,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "前者子龙取桂阳郡时，责下军令状而去。今日翼德要取武陵，必须也责下军令状，方可领兵去。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_053_2",
+    "chapter": 53,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "我且饶你性命！快换马来厮杀！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_053_3",
+    "chapter": 53,
+    "paragraph_start": 9,
+    "paragraph_end": 11,
+    "quote_excerpt": "孤下马相迎，足显公否？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_054_1",
+    "chapter": 54,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "主公闻令侄弃世，特具薄礼，遣某前来致祭。周都督再三致意刘皇叔、诸葛先生。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_054_2",
+    "chapter": 54,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "范近闻皇叔失偶，有一门好亲，故不避嫌，特来作媒。未知尊意若何？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_054_3",
+    "chapter": 54,
+    "paragraph_start": 9,
+    "paragraph_end": 12,
+    "quote_excerpt": "令爱已许刘玄德为夫人，今玄德已到，何故相瞒？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_054_4",
+    "chapter": 54,
+    "paragraph_start": 13,
+    "paragraph_end": 15,
+    "quote_excerpt": "南人驾船，北人乘马，信有之也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_055_1",
+    "chapter": 55,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "贵人休得惊惧：夫人自幼好观武事，居常令侍婢击剑为乐，故尔如此。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_055_2",
+    "chapter": 55,
+    "paragraph_start": 3,
+    "paragraph_end": 6,
+    "quote_excerpt": "孔明分付三个锦囊与我，教我一到南徐，开第一个；住到年终，开第二个；临到危急无路之时，开第三个：于内有神出鬼没之计，可保主公回家…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_055_3",
+    "chapter": 55,
+    "paragraph_start": 7,
+    "paragraph_end": 11,
+    "quote_excerpt": "追兵既至，如之奈何？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_056_1",
+    "chapter": 56,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "不可。曹操日夜思报赤壁之恨，因恐孙、刘同心，故未敢兴兵。今主公若以一时之忿，自相吞并，操必乘虚来攻，国势危矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_056_2",
+    "chapter": 56,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "有能射中箭垛红心者，即以锦袍赐之；如射不中，罚水一杯。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_056_3",
+    "chapter": 56,
+    "paragraph_start": 7,
+    "paragraph_end": 11,
+    "quote_excerpt": "今日皇叔做了东吴女婿，便是鲁肃主人，如何敢坐？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_056_4",
+    "chapter": 56,
+    "paragraph_start": 12,
+    "paragraph_end": 13,
+    "quote_excerpt": "原来今番也中了吾计！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_057_1",
+    "chapter": 57,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "玄德、孔明在前山顶上饮酒取乐。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_057_2",
+    "chapter": 57,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "肃碌碌庸才，误蒙公瑾重荐，其实不称所职，愿举一人以助主公。此人上通天文，下晓地理；谋略不减于管、乐，枢机可并于孙、吴。往日周公…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_057_3",
+    "chapter": 57,
+    "paragraph_start": 8,
+    "paragraph_end": 11,
+    "quote_excerpt": "所废之事何在！曹操、孙权，吾视之若掌上观文，量此小县，何足介意！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_058_1",
+    "chapter": 58,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "今刘备、孙权结为唇齿，若刘备欲取西川，丞相可命上将提兵，会合淝之众，径取江南，则孙权必求救于刘备；备意在西川，必无心救权；权无…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_058_2",
+    "chapter": 58,
+    "paragraph_start": 3,
+    "paragraph_end": 6,
+    "quote_excerpt": "雪地遇虎，梦兆殊恶。莫非老将军在许昌有事否？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_058_3",
+    "chapter": 58,
+    "paragraph_start": 7,
+    "paragraph_end": 11,
+    "quote_excerpt": "先带一万人马，替钟繇紧守潼关。如十日内失了关隘，皆斩；十日外，不干汝二人之事。我统大军随后便至。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_058_4",
+    "chapter": 58,
+    "paragraph_start": 12,
+    "paragraph_end": 16,
+    "quote_excerpt": "勿伤吾主！曹洪在此！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_059_1",
+    "chapter": 59,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "可取渭河沙土筑起土城，可以坚守。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_059_2",
+    "chapter": 59,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "操兵乘虚已渡河西，吾军前后受敌，如之奈何？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_059_3",
+    "chapter": 59,
+    "paragraph_start": 8,
+    "paragraph_end": 11,
+    "quote_excerpt": "公知吾阵前对语之意否？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_060_1",
+    "chapter": 60,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "别驾有何高见，可解张鲁之危？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_060_2",
+    "chapter": 60,
+    "paragraph_start": 4,
+    "paragraph_end": 5,
+    "quote_excerpt": "公且暂居馆舍，容某再禀丞相，令公面君。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_060_3",
+    "chapter": 60,
+    "paragraph_start": 6,
+    "paragraph_end": 7,
+    "quote_excerpt": "久闻大夫高名，如雷灌耳。恨云山遥远，不得听教。今闻回都，专此相接。倘蒙不弃，到荒州暂歇片时，以叙渴仰之思，实为万幸！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_060_4",
+    "chapter": 60,
+    "paragraph_start": 8,
+    "paragraph_end": 13,
+    "quote_excerpt": "操乃汉贼，欲篡天下，不可为言。彼已有取川之心。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_061_1",
+    "chapter": 61,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "吾初入蜀中，恩信未立，此事决不可行。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_061_2",
+    "chapter": 61,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "嫂嫂不以俺哥哥为重，私自归家，这便无礼！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_061_3",
+    "chapter": 61,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "遥望沿江一带，旗幡无数，不知兵聚何处。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_062_1",
+    "chapter": 62,
+    "paragraph_start": 1,
+    "paragraph_end": 6,
+    "quote_excerpt": "且休要动兵。若一兴师，曹操必复至。不如修书二封：一封与刘璋，言刘备结连东吴，共取西川，使刘璋心疑而攻刘备；一封与张鲁，教进兵向…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_062_2",
+    "chapter": 62,
+    "paragraph_start": 7,
+    "paragraph_end": 9,
+    "quote_excerpt": "闻皇叔远回，特具薄礼相送。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_062_3",
+    "chapter": 62,
+    "paragraph_start": 10,
+    "paragraph_end": 11,
+    "quote_excerpt": "谁敢建头功，去取二将寨栅？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_062_4",
+    "chapter": 62,
+    "paragraph_start": 12,
+    "paragraph_end": 15,
+    "quote_excerpt": "来日四更造饭，五更起兵。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_063_1",
+    "chapter": 63,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "此公乃广汉人，姓彭，名羕，字永言，蜀中豪杰也。因直言触忤刘璋，被璋髡钳为徒隶，因此短发。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_063_2",
+    "chapter": 63,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "吾道号凤雏，此处名落凤坡，不利于吾。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_063_3",
+    "chapter": 63,
+    "paragraph_start": 8,
+    "paragraph_end": 12,
+    "quote_excerpt": "吾前者算今年罡星在西方，不利于军师；天狗犯于吾军，太白临于雒城，已拜书主公，教谨防之。谁想今夕西方星坠，庞士元命必休矣！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_063_4",
+    "chapter": 63,
+    "paragraph_start": 13,
+    "paragraph_end": 15,
+    "quote_excerpt": "此所谓独坐穷山，引虎自卫者也！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_064_1",
+    "chapter": 64,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "从此取雒城，凡守御关隘，都是老夫所管，官军皆出于掌握之中。今感将军之恩，无可以报，老夫当为前部，所到之处，尽皆唤出拜降。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_064_2",
+    "chapter": 64,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "曹操以百万之众，闻吾之名，望风而走；今汝何人，敢不投降？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_064_3",
+    "chapter": 64,
+    "paragraph_start": 7,
+    "paragraph_end": 11,
+    "quote_excerpt": "张鲁与吾世仇，安肯相救？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_065_1",
+    "chapter": 65,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "超感主公之恩，无可上报，愿领一军攻取葭萌关，生擒刘备，务要刘璋割二十州奉还主公。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_065_2",
+    "chapter": 65,
+    "paragraph_start": 3,
+    "paragraph_end": 7,
+    "quote_excerpt": "须是张、赵二将，方可与敌。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_065_3",
+    "chapter": 65,
+    "paragraph_start": 8,
+    "paragraph_end": 11,
+    "quote_excerpt": "吾本领张鲁兵来救益州，谁想张鲁听信杨松谗言，反欲害我。今已归降刘皇叔。公可纳士拜降，免致生灵受苦。如或执迷，吾先攻城矣！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_065_4",
+    "chapter": 65,
+    "paragraph_start": 12,
+    "paragraph_end": 13,
+    "quote_excerpt": "父亲知马超武艺过人，要入川来与之比试高低。教就禀伯父此事。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_066_1",
+    "chapter": 66,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "刘备所倚仗者，诸葛亮耳。其兄诸葛瑾今仕于吴，何不将瑾老小执下，使瑾入川告其弟，令劝刘备交割荆州：‘如其不还，必累及我老小。’亮…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_066_2",
+    "chapter": 66,
+    "paragraph_start": 5,
+    "paragraph_end": 9,
+    "quote_excerpt": "吾弟性急，极难与言。子瑜可暂回，容吾取了东川、汉中诸郡，调云长往守之，那时方得交付荆州。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_066_3",
+    "chapter": 66,
+    "paragraph_start": 10,
+    "paragraph_end": 11,
+    "quote_excerpt": "不可。丞相官至魏公，荣加九锡，位已极矣。今又进升王位，于理不可。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_066_4",
+    "chapter": 66,
+    "paragraph_start": 12,
+    "paragraph_end": 14,
+    "quote_excerpt": "我命亦不知在何时也！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_067_1",
+    "chapter": 67,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "汉中最险无如阳平关；可于关之左右，依山傍林，下十余个寨栅，迎敌曹兵。兄在汉宁，多拨粮草应付。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_067_2",
+    "chapter": 67,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "魏公曹丞相久闻盛德，特使某送金甲为信。更有密书呈上。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_067_3",
+    "chapter": 67,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "昨承诸葛子瑜取长沙等三郡，为军师不在，有失交割，今传书送还。所有荆州南郡、零陵，本欲送还；被曹操袭取东川，使关将军无容身之地。…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_068_1",
+    "chapter": 68,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "今曹操远来，必须先挫其锐气。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_068_2",
+    "chapter": 68,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "弓弩齐发，不能得出，如何？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_068_3",
+    "chapter": 68,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "大王今日水陆俱备，大宴群臣，四方异物极多，内中欠少何物，贫道愿取之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_069_1",
+    "chapter": 69,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "飞步凌云遍九州，独凭遁甲自遨游。等闲施设神仙术，点悟曹瞒不转头。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_069_2",
+    "chapter": 69,
+    "paragraph_start": 3,
+    "paragraph_end": 5,
+    "quote_excerpt": "东吴主亡一大将，西蜀有兵犯界。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_069_3",
+    "chapter": 69,
+    "paragraph_start": 6,
+    "paragraph_end": 7,
+    "quote_excerpt": "曹阿瞒！吾生不能杀汝，死当作厉鬼以击贼！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_070_1",
+    "chapter": 70,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "阆中地恶山险，可以埋伏。将军引兵出战，我出奇兵相助，郃可擒矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_070_2",
+    "chapter": 70,
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "quote_excerpt": "今葭萌关紧急，必须阆中取翼德，方可退张郃也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_070_3",
+    "chapter": 70,
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "quote_excerpt": "黄忠连退二日，于中必有诡计。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_070_4",
+    "chapter": 70,
+    "paragraph_start": 9,
+    "paragraph_end": 13,
+    "quote_excerpt": "军士力困，可以暂歇。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_071_1",
+    "chapter": 71,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "你既要去，吾教法正助你。凡事计议而行。吾随后拨人马来接应。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_071_2",
+    "chapter": 71,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "将军休动，某愿当之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_071_3",
+    "chapter": 71,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "曹操自领大军二十万，来与夏侯渊报仇。目今郃在米仓山搬运粮草，移于汉水北山脚下。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_072_1",
+    "chapter": 72,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "某等各引本部兵去迎曹兵。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_072_2",
+    "chapter": 72,
+    "paragraph_start": 4,
+    "paragraph_end": 5,
+    "quote_excerpt": "今蜀兵将远近小路，尽皆塞断；砍柴去处，尽放火烧绝。不知兵在何处。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_073_1",
+    "chapter": 73,
+    "paragraph_start": 1,
+    "paragraph_end": 5,
+    "quote_excerpt": "今曹操专权，百姓无主；主公仁义著于天下，今已抚有两川之地，可以应天顺人，即皇帝位，名正言顺，以讨国贼。事不宜迟，便请择吉。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_073_2",
+    "chapter": 73,
+    "paragraph_start": 6,
+    "paragraph_end": 8,
+    "quote_excerpt": "某已料曹操必有此谋；然吴中谋士极多，必教操令曹仁先兴兵矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_073_3",
+    "chapter": 73,
+    "paragraph_start": 9,
+    "paragraph_end": 12,
+    "quote_excerpt": "猪亦有龙象。龙附足，乃升腾之意，不必疑忌。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_073_4",
+    "chapter": 73,
+    "paragraph_start": 13,
+    "paragraph_end": 13,
+    "quote_excerpt": "不听公言，兵败将亡，失却襄阳，如之奈何？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_074_1",
+    "chapter": 74,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "关某威震华夏，未逢对手；今遇令明，真劲敌也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_074_2",
+    "chapter": 74,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "庞德刀法惯熟，真吾敌手。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_074_3",
+    "chapter": 74,
+    "paragraph_start": 7,
+    "paragraph_end": 10,
+    "quote_excerpt": "军士折伤大半，四下无路，不如投降。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_075_1",
+    "chapter": 75,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "父亲若损此臂，安能出敌？不如暂回荆州调理。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_075_2",
+    "chapter": 75,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "近闻云长擒于禁，斩庞德，威震华夏，操欲迁都以避其锋。今樊城危急，遣使求救，事定之后，恐有反覆。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_075_3",
+    "chapter": 75,
+    "paragraph_start": 9,
+    "paragraph_end": 12,
+    "quote_excerpt": "今云长果撤荆州之兵，攻取樊城，便可设计袭取荆州。卿与吾弟孙皎同引大军前去，何如？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_076_1",
+    "chapter": 76,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "吾非不忠。势危力困，不能支持，我今已降东吴。将军亦不如早降。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_076_2",
+    "chapter": 76,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "今徐晃夺了偃城等处；又兼曹操自引大军，分三路来救樊城；多有人言荆州已被吕蒙袭了。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_076_3",
+    "chapter": 76,
+    "paragraph_start": 8,
+    "paragraph_end": 11,
+    "quote_excerpt": "蒙昔日与关将军结好，乃一己之私见；今日之事，乃上命差遣，不得自主。烦使者回报将军，善言致意。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_076_4",
+    "chapter": 76,
+    "paragraph_start": 12,
+    "paragraph_end": 15,
+    "quote_excerpt": "关公兵败，现困于麦城，被围至急。蜀中援兵，不能旦夕即至。特命某突围而出，来此求救。望二将军速起上庸之兵，以救此危。倘稍迟延，公…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_077_1",
+    "chapter": 77,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "此卦主敌人投西北而走，今夜亥时必然就擒。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_077_2",
+    "chapter": 77,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "昨夜梦见主公浑身血污，立于前；急问之，忽然惊觉。不知主何吉凶？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_077_3",
+    "chapter": 77,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "今主公损了关公父子，江东祸不远矣！此人与刘备桃园结义之时，誓同生死。今刘备已有两川之兵；更兼诸葛亮之谋，张、黄、马、赵之勇。备…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_077_4",
+    "chapter": 77,
+    "paragraph_start": 11,
+    "paragraph_end": 13,
+    "quote_excerpt": "汝何人，夤度至吾内室？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_078_1",
+    "chapter": 78,
+    "paragraph_start": 1,
+    "paragraph_end": 5,
+    "quote_excerpt": "王上少忧。自古道死生有命；关公平日刚而自矜，故今日有此祸。王上且宜保养尊体，徐图报仇。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_078_2",
+    "chapter": 78,
+    "paragraph_start": 6,
+    "paragraph_end": 7,
+    "quote_excerpt": "臣孙权久知天命已归王上，伏望早正大位，遣将剿灭刘备，扫平两川，臣即率群下纳土归降矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_078_3",
+    "chapter": 78,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "大王善保玉体，不日定当霍然。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_079_1",
+    "chapter": 79,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "家有长子，国有储君。先王玺绶，非君侯之所宜问也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_079_2",
+    "chapter": 79,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "汝弟植平生嗜酒疏狂，盖因自恃胸中之才，故尔放纵。汝可念同胞之情，存其性命。吾至九泉亦瞑目也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_079_3",
+    "chapter": 79,
+    "paragraph_start": 8,
+    "paragraph_end": 12,
+    "quote_excerpt": "昔汉中王待公甚厚，今何渐薄也？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_079_4",
+    "chapter": 79,
+    "paragraph_start": 13,
+    "paragraph_end": 14,
+    "quote_excerpt": "且说魏王曹丕，自即王位，将文武官僚，尽皆升赏；",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_080_1",
+    "chapter": 80,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "伏睹魏王，自登位以来，德布四方，仁及万物，越古超今，虽唐、虞无以过此。群臣会议，言汉祚已终，望陛下效尧、舜之道，以山川社稷，禅…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_080_2",
+    "chapter": 80,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "虽二次有诏，然终恐天下后世，不免篡窃之名也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_080_3",
+    "chapter": 80,
+    "paragraph_start": 9,
+    "paragraph_end": 12,
+    "quote_excerpt": "近有祥风庆云之瑞；成都西北角有黄气数十丈，冲霄而起；帝星见于毕、胃、昴之分，煌煌如月。此正应汉中王当即帝位，以继汉统，更复何疑？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_081_1",
+    "chapter": 81,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "国贼乃曹操，非孙权也。今曹丕篡汉，神人共怒。陛下可早图关中，屯兵渭河上流，以讨凶逆，则关东义士，必裹粮策马以迎王师；若舍魏以伐…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_081_2",
+    "chapter": 81,
+    "paragraph_start": 3,
+    "paragraph_end": 4,
+    "quote_excerpt": "合损一上将。三日之内，必有惊报。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_081_3",
+    "chapter": 81,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "今天子如此烦恼，将何解劝？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_082_1",
+    "chapter": 82,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "瑾弟在蜀为相，必有事而来。陛下何故绝之？当召入，看他言语。可从则从；如不可，则就借彼口说与孙权，令知问罪有名也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_082_2",
+    "chapter": 82,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "主公宜自称上将军、九州伯之位，不当受魏帝封爵。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_082_3",
+    "chapter": 82,
+    "paragraph_start": 9,
+    "paragraph_end": 12,
+    "quote_excerpt": "我等是冯习帐下士卒，因赏罚不明，待来投降，就报机密。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_083_1",
+    "chapter": 83,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "老将军此来，有何事故？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_083_2",
+    "chapter": 83,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "我等皆是荆州之兵，被吕蒙诡计送了主公性命，今刘皇叔御驾亲征，东吴早晚休矣。所恨者，糜芳、傅士仁也。我等何不杀此二贼，去蜀营投降…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_083_3",
+    "chapter": 83,
+    "paragraph_start": 8,
+    "paragraph_end": 12,
+    "quote_excerpt": "东吴遣使送张车骑之首，并囚范疆、张达二贼至。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_084_1",
+    "chapter": 84,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "吾视此等兵如儿戏耳。愿同韩将军分两路击之。如其不胜，甘当军令。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_084_2",
+    "chapter": 84,
+    "paragraph_start": 3,
+    "paragraph_end": 5,
+    "quote_excerpt": "非汝之过也。吾欲试敌人之虚实耳。破蜀之计，吾已定矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_084_3",
+    "chapter": 84,
+    "paragraph_start": 6,
+    "paragraph_end": 8,
+    "quote_excerpt": "川兵死者无数，降者极多，汝主刘备已被擒获，今汝力穷势孤，何不早降！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_085_1",
+    "chapter": 85,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "朕早听丞相之言，不致今日之败！今有何面目复回成都见群臣乎！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_085_2",
+    "chapter": 85,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "曹真、夏侯尚围了南郡，被陆逊伏兵于内，诸葛瑾伏兵于外，内外夹攻，因此大败。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_085_3",
+    "chapter": 85,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "不知在何处。只有丞相钧旨，教挡住百官，勿得辄入。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_086_1",
+    "chapter": 86,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "蜀前使人求救于魏，魏一时不明，故发兵应之；今已大悔，欲起四路兵取川，东吴可来接应。若得蜀土，各分一半。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_086_2",
+    "chapter": 86,
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "quote_excerpt": "先帝在日，与吴不睦，今已晏驾。当今主上，深慕吴王，欲捐旧忿，永结盟好，并力破魏。望大夫善言回奏。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_086_3",
+    "chapter": 86,
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "quote_excerpt": "吴、蜀连和，必有图中原之意也。不若朕先伐之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_087_1",
+    "chapter": 87,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "南蛮之地，离国甚远，人多不习王化，收伏甚难，吾当亲去征之。可刚可柔，别有斟酌，非可容易托人。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_087_2",
+    "chapter": 87,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "此乃诸葛亮反间之计：欲令我两人不和，故施此谋也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_087_3",
+    "chapter": 87,
+    "paragraph_start": 8,
+    "paragraph_end": 11,
+    "quote_excerpt": "今蛮兵三路而来，吾欲令子龙、文长去；此二人不识地理，未敢用之。王平可往左路迎敌，马忠可往右路迎敌。吾却使子龙、文长随后接应。今…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_088_1",
+    "chapter": 88,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "孟获乃南蛮渠魁，今幸被擒，南方便定；丞相何故放之？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_088_2",
+    "chapter": 88,
+    "paragraph_start": 4,
+    "paragraph_end": 5,
+    "quote_excerpt": "汝前者有言：但再擒得，便肯降服。今日如何？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_088_3",
+    "chapter": 88,
+    "paragraph_start": 6,
+    "paragraph_end": 8,
+    "quote_excerpt": "诸葛亮受了礼物大喜，将随行之人，皆唤入帐中，杀牛宰羊，设宴相待。二大王令某密报大王：今夜二更，里应外合，以成大事。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_089_1",
+    "chapter": 89,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "闻西洱河上流有一山，其山多竹，大者数围。可令人伐之，于河上搭起竹桥，以渡军马。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_089_2",
+    "chapter": 89,
+    "paragraph_start": 4,
+    "paragraph_end": 8,
+    "quote_excerpt": "诸葛弃寨而走，莫非有计否？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_089_3",
+    "chapter": 89,
+    "paragraph_start": 9,
+    "paragraph_end": 10,
+    "quote_excerpt": "邻兵助我，我必胜矣！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_090_1",
+    "chapter": 90,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "吾屡受辱于蜀兵，立誓欲报之。汝等有何高见？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_090_2",
+    "chapter": 90,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "蛮王孟获妻弟带来洞主，因劝孟获归降，获不从，今将孟获并祝融夫人及宗党数百余人尽皆擒来，献与丞相。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_090_3",
+    "chapter": 90,
+    "paragraph_start": 8,
+    "paragraph_end": 9,
+    "quote_excerpt": "某素闻南蛮中有一乌戈国，无人伦者也。更有藤甲护身，急切难伤。又有桃叶恶水，本国人饮之，反添精神；别国人饮之即死：如此蛮方，纵使…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_090_4",
+    "chapter": 90,
+    "paragraph_start": 10,
+    "paragraph_end": 14,
+    "quote_excerpt": "乌戈国兵与蜀兵大战，将诸葛亮围在盘蛇谷中了。特请大王前去接应。我等皆是本洞之人，不得已而降蜀；今知大王前到，特来助战。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_091_1",
+    "chapter": 91,
+    "paragraph_start": 1,
+    "paragraph_end": 5,
+    "quote_excerpt": "此水原有猖神作祸，往来者必须祭之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_091_2",
+    "chapter": 91,
+    "paragraph_start": 6,
+    "paragraph_end": 8,
+    "quote_excerpt": "司马懿上表乞守雍、凉，正为此也。先时太祖武皇帝尝谓臣曰：司马懿鹰视狼顾，不可付以兵权；久必为国家大祸。今日反情已萌，可速诛之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_091_3",
+    "chapter": 91,
+    "paragraph_start": 9,
+    "paragraph_end": 11,
+    "quote_excerpt": "孔明受诏归府，唤诸将听令：前督部——镇北将军、领丞相司马、凉州刺史、都亭侯魏延；",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_091_4",
+    "chapter": 91,
+    "paragraph_start": 12,
+    "paragraph_end": 13,
+    "quote_excerpt": "我虽年迈，尚有廉颇之勇，马援之雄。此二古人皆不服老，何故不用我耶？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_092_1",
+    "chapter": 92,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "魏主曹睿遣驸马夏侯楙，调关中诸路军马，前来拒敌。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_092_2",
+    "chapter": 92,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "此郡壕深城峻，不易攻也。吾正事不在此城，汝等如只久攻，倘魏兵分道而出，以取汉中，吾军危矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_092_3",
+    "chapter": 92,
+    "paragraph_start": 8,
+    "paragraph_end": 9,
+    "quote_excerpt": "夏侯驸马乃金枝玉叶，倘有疏虞，难逃坐视之罪。太守何不尽起本部兵以救之？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_093_1",
+    "chapter": 93,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "诸葛亮必伏兵于郡后，赚我兵出城，乘虚袭我。某愿请精兵三千，伏于要路。太守随后发兵出城，不可远去，止行三十里便回；但看火起为号，…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_093_2",
+    "chapter": 93,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "目今天水姜维现守冀城，使人持书来说：但得驸马在，我愿归降。吾今饶汝性命，汝肯招安姜维否？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_093_3",
+    "chapter": 93,
+    "paragraph_start": 9,
+    "paragraph_end": 12,
+    "quote_excerpt": "天水城中尹赏、梁绪，与某至厚；当写密书二封，射入城中，使其内乱，城可得矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_094_1",
+    "chapter": 94,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "西羌之人，自太祖时连年入贡，文皇帝亦有恩惠加之；我等今可据住险阻，遣人从小路直入羌中求救，许以和亲，羌人必起兵袭蜀兵之后。吾却…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_094_2",
+    "chapter": 94,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "此因羌兵攻击，故尔退去。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_094_3",
+    "chapter": 94,
+    "paragraph_start": 8,
+    "paragraph_end": 11,
+    "quote_excerpt": "魏主曹睿，一面驾幸长安；一面诏司马懿复职，加为平西都督，起本处之兵，于长安聚会。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_095_1",
+    "chapter": 95,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "今将军当于何处进兵？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_095_2",
+    "chapter": 95,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "不如今晚去劫魏寨，再复街亭。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_095_3",
+    "chapter": 95,
+    "paragraph_start": 9,
+    "paragraph_end": 12,
+    "quote_excerpt": "莫非诸葛亮无军，故作此态？父亲何故便退兵？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_096_1",
+    "chapter": 96,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "此论若何？懿奏曰：“孙尚书所言极当。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_096_2",
+    "chapter": 96,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "臣本庸才，叨窃非据，亲秉旄钺，以励三军。不能训章明法，临事而惧，至有街亭违命之阙，箕谷不戒之失。咎皆在臣，授任无方。臣明不知人…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_096_3",
+    "chapter": 96,
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "quote_excerpt": "此言极有理，吴当灭矣！臣愿引一军往助曹休。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_097_1",
+    "chapter": 97,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "曹都督兵败，即元帅之干系，何故急回耶？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_097_2",
+    "chapter": 97,
+    "paragraph_start": 3,
+    "paragraph_end": 6,
+    "quote_excerpt": "诸葛丞相将军马分拨已定，即日将出师伐魏。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_097_3",
+    "chapter": 97,
+    "paragraph_start": 7,
+    "paragraph_end": 10,
+    "quote_excerpt": "东边救兵到了，旗上书：‘魏先锋大将王双’。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_098_1",
+    "chapter": 98,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "卿既有先见之明，何不自引一军以袭之？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_098_2",
+    "chapter": 98,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "蜀诸葛丞相出兵两次，魏都督曹真兵损将亡。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_098_3",
+    "chapter": 98,
+    "paragraph_start": 9,
+    "paragraph_end": 11,
+    "quote_excerpt": "汝二人领五千兵，星夜直奔陈仓城下；如见火起，并力攻城。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_098_4",
+    "chapter": 98,
+    "paragraph_start": 12,
+    "paragraph_end": 14,
+    "quote_excerpt": "陈仓已失，郝昭已亡，散关亦被蜀兵夺了。今孔明复出祁山，分道进兵。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_099_1",
+    "chapter": 99,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "汝等曾与蜀兵对阵否？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_099_2",
+    "chapter": 99,
+    "paragraph_start": 3,
+    "paragraph_end": 6,
+    "quote_excerpt": "武都、阴平二郡已失。孔明伏于要路，前后攻杀，因此大败，弃马步行，方得逃回。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_099_3",
+    "chapter": 99,
+    "paragraph_start": 7,
+    "paragraph_end": 10,
+    "quote_excerpt": "今魏兵来追，必然死战，汝等须以一当十，吾以伏兵截其后：非智勇之将，不可当此任。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_099_4",
+    "chapter": 99,
+    "paragraph_start": 11,
+    "paragraph_end": 13,
+    "quote_excerpt": "蜀兵数次侵界，屡犯中原，若不剿除，必为后患。今时值秋凉，人马安闲，正当征伐。臣愿与司马懿同领大军，径入汉中，殄灭奸党，以清边境。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_100_1",
+    "chapter": 100,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "魏兵苦雨，不能屯扎，因此回去，正好乘势追之。丞相如何不追？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_100_2",
+    "chapter": 100,
+    "paragraph_start": 5,
+    "paragraph_end": 10,
+    "quote_excerpt": "只有些小蜀兵，尽赶去了。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_100_3",
+    "chapter": 100,
+    "paragraph_start": 11,
+    "paragraph_end": 14,
+    "quote_excerpt": "吾主上法尧禅舜，相传二帝，坐镇中原，容汝蜀、吴二国者，乃吾主宽慈仁厚，恐伤百姓也。汝乃南阳一耕夫，不识天数，强要相侵，理宜殄灭…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_100_4",
+    "chapter": 100,
+    "paragraph_start": 15,
+    "paragraph_end": 18,
+    "quote_excerpt": "吾军中专以粮为大事，误了三日，便该处斩！汝今误了十日，有何理说？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_101_1",
+    "chapter": 101,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "老臣出了祁山，欲取长安，忽承陛下降诏召回，不知有何大事？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_101_2",
+    "chapter": 101,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "这个又是孔明作怪也！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_101_3",
+    "chapter": 101,
+    "paragraph_start": 7,
+    "paragraph_end": 10,
+    "quote_excerpt": "若白日进兵，城中必有准备；今可乘夜晚攻之。此处城低壕浅，可便打破。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_101_4",
+    "chapter": 101,
+    "paragraph_start": 11,
+    "paragraph_end": 15,
+    "quote_excerpt": "蜀兵大队已退，但不知城中还有多少兵。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_102_1",
+    "chapter": 102,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "臣今职掌司天台，但有祸福，不可不奏：近有群鸟数万，自南飞来，投于汉水而死，此不祥之兆；臣又观天象，见奎星躔于太白之分，盛气在北…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_102_2",
+    "chapter": 102,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "今蜀兵现在祁山，倘跨渭登原，接连北山，阻绝陇道，大可虞也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_102_3",
+    "chapter": 102,
+    "paragraph_start": 8,
+    "paragraph_end": 12,
+    "quote_excerpt": "某乃魏国偏将军郑文也。近与秦朗同领人马，听司马懿调用，不料懿徇私偏向，加秦朗为前将军，而视文如草芥，因此不平，特来投降丞相。愿…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_102_4",
+    "chapter": 102,
+    "paragraph_start": 13,
+    "paragraph_end": 17,
+    "quote_excerpt": "蜀兵用木牛流马转运粮草。人不大劳，牛马不食。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_103_1",
+    "chapter": 103,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "吴人必轻我远来，未曾提备；今夜可乘虚劫其水寨，必得全胜。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_103_2",
+    "chapter": 103,
+    "paragraph_start": 4,
+    "paragraph_end": 8,
+    "quote_excerpt": "吾当作表申奏主上，请撤新城之围，以兵断魏军归路，吾率众攻其前：彼首尾不敌，一鼓可破也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_103_3",
+    "chapter": 103,
+    "paragraph_start": 9,
+    "paragraph_end": 11,
+    "quote_excerpt": "诸葛丞相不在祁山，在上方谷西十里下营安住。今每日运粮屯于上方谷。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_103_4",
+    "chapter": 103,
+    "paragraph_start": 12,
+    "paragraph_end": 17,
+    "quote_excerpt": "仲达既为大将，统领中原之众，不思披坚执锐，以决雌雄，乃甘窟守土巢，谨避刀箭，与妇人又何异哉！今遣人送巾帼素衣至，如不出战，可再…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_104_1",
+    "chapter": 104,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "此吾命当绝，非文长之过也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_104_2",
+    "chapter": 104,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "孔明善会六丁六甲之法，今见我久不出战，故以此术诈死，诱我出耳。今若追之，必中其计。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_104_3",
+    "chapter": 104,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "孔明真死矣！可速追之！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_105_1",
+    "chapter": 105,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "丞相在日，料此人久后必反，谁想今日果然如此！今断吾归路，当复如何？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_105_2",
+    "chapter": 105,
+    "paragraph_start": 4,
+    "paragraph_end": 5,
+    "quote_excerpt": "汝助杨仪造反，何敢骂我！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_105_3",
+    "chapter": 105,
+    "paragraph_start": 6,
+    "paragraph_end": 7,
+    "quote_excerpt": "既已名正其罪，仍念前功，赐棺椁葬之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_105_4",
+    "chapter": 105,
+    "paragraph_start": 8,
+    "paragraph_end": 13,
+    "quote_excerpt": "边庭报来，东吴令全琮引兵数万，屯于巴丘界口，未知何意。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_106_1",
+    "chapter": 106,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "中原待主公以上公之爵，不为卑贱；今若背反，实为不顺。更兼司马懿善能用兵，西蜀诸葛武侯且不能取胜，何况主公乎？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_106_2",
+    "chapter": 106,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "若魏兵来攻，休与交战。彼千里而来，粮草不继，难以持久，粮尽必退；待他退时，然后出奇兵击之，司马懿可擒也。昔司马懿与蜀兵相拒，坚…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_106_3",
+    "chapter": 106,
+    "paragraph_start": 8,
+    "paragraph_end": 11,
+    "quote_excerpt": "五日之后，星落处必斩公孙渊矣。来日可并力攻城。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_106_4",
+    "chapter": 106,
+    "paragraph_start": 12,
+    "paragraph_end": 14,
+    "quote_excerpt": "主公大权，不可委托他人，恐生后患。爽曰：“司马公与我同受先帝托孤之命，安忍背之？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_107_1",
+    "chapter": 107,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "天子在外，如之奈何？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_107_2",
+    "chapter": 107,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "传得圣贤真妙诀，平原管辂相通神。鬼幽鬼躁分何邓，未丧先知是死人。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_107_3",
+    "chapter": 107,
+    "paragraph_start": 9,
+    "paragraph_end": 11,
+    "quote_excerpt": "麴山二城，皆被魏兵围困，绝了水道。幸得天降大雪，因此化雪度日。甚是危急。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_108_1",
+    "chapter": 108,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "吾事魏历年，官授太傅，人臣之位极矣；人皆疑吾有异志，吾尝怀恐惧。吾死之后，汝二人善理国政。慎之！慎之！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_108_2",
+    "chapter": 108,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "不过三千人耳，何足惧哉！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_108_3",
+    "chapter": 108,
+    "paragraph_start": 9,
+    "paragraph_end": 12,
+    "quote_excerpt": "某因新丧父亲，入城请僧追荐；初见是寺院而入，却不想是太傅之府。却怎生来到此处也？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_109_1",
+    "chapter": 109,
+    "paragraph_start": 1,
+    "paragraph_end": 6,
+    "quote_excerpt": "向取雍州，不克而还；今若再出，必又有准备。公有何高见？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_109_2",
+    "chapter": 109,
+    "paragraph_start": 7,
+    "paragraph_end": 9,
+    "quote_excerpt": "昔日丞相在上方谷，不曾捉住司马懿，吾深为恨；今司马昭必被吾擒矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_109_3",
+    "chapter": 109,
+    "paragraph_start": 10,
+    "paragraph_end": 12,
+    "quote_excerpt": "司马师视朕如小儿，觑百官如草芥，社稷早晚必归此人矣！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_109_4",
+    "chapter": 109,
+    "paragraph_start": 13,
+    "paragraph_end": 14,
+    "quote_excerpt": "今主上荒淫无道，亵近娼优，听信谗言，闭塞贤路：其罪甚于汉之昌邑，不能主天下。吾谨按伊尹、霍光之法，别立新君，以保社稷，以安天下…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_110_1",
+    "chapter": 110,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "父亲官居方面，司马师专权废主，国家有累卵之危，安可宴然自守？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_110_2",
+    "chapter": 110,
+    "paragraph_start": 4,
+    "paragraph_end": 8,
+    "quote_excerpt": "都督勿忧。我与拙子文鸯，只消五千兵，取保乐嘉城。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_110_3",
+    "chapter": 110,
+    "paragraph_start": 9,
+    "paragraph_end": 9,
+    "quote_excerpt": "且说后主因姜维有洮西之功，降诏封维为大将军。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_111_1",
+    "chapter": 111,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "姜维夜遁，其力已竭，不敢再出矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_111_2",
+    "chapter": 111,
+    "paragraph_start": 3,
+    "paragraph_end": 4,
+    "quote_excerpt": "吾守陇西二三十年，未尝如此明察地理。公之所言，真神算也！公可速去，吾自攻此处寨栅。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_111_3",
+    "chapter": 111,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "今主公掌握大柄，四方人心必然未安；且当暗访，然后徐图大事。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_112_1",
+    "chapter": 112,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "吴兵之助诸葛诞，实为利也；以利诱之，则必胜矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_112_2",
+    "chapter": 112,
+    "paragraph_start": 4,
+    "paragraph_end": 7,
+    "quote_excerpt": "今孙綝退去，外无救兵，城可围矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_112_3",
+    "chapter": 112,
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "quote_excerpt": "今司马昭迁主于军中，必有李傕、郭汜之意也，吾今奉朝廷明命，前来问罪，汝当早降。若还愚迷，全家诛戮！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_113_1",
+    "chapter": 113,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "姜维知大将军兵到，故先退去。不必追之，追则中彼之计也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_113_2",
+    "chapter": 113,
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "quote_excerpt": "一夜狂风不息，今早又无故惊倒，恐非吉兆，不可赴会。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_113_3",
+    "chapter": 113,
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "quote_excerpt": "如有妄动者斩！便有敌兵到营边，休要问他，只管以弓弩射之！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_114_1",
+    "chapter": 114,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "将在外，君命有所不受。今虽有诏，未可动也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_114_2",
+    "chapter": 114,
+    "paragraph_start": 3,
+    "paragraph_end": 4,
+    "quote_excerpt": "吾乃天子也！汝等突入宫庭，欲弑君耶？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_114_3",
+    "chapter": 114,
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "quote_excerpt": "人谁不死？正恐不得死所耳！以此弃命，何恨之有！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_115_1",
+    "chapter": 115,
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "quote_excerpt": "臣累出战，虽未成大功，已挫动魏人心胆。今养兵日久，不战则懒，懒则致病。况今军思效死，将思用命。臣如不胜，当受死罪。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_115_2",
+    "chapter": 115,
+    "paragraph_start": 3,
+    "paragraph_end": 6,
+    "quote_excerpt": "眼见得是空城，只有些小百姓，听知大将军兵到，尽弃城而走了。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_115_3",
+    "chapter": 115,
+    "paragraph_start": 7,
+    "paragraph_end": 10,
+    "quote_excerpt": "姜维屡犯中原，不能剿除，是吾心腹之患也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_116_1",
+    "chapter": 116,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "《易》云：山上有水曰蹇。蹇卦者：‘利西南，不利东北。’孔子云：‘蹇利西南，往有功也；不利东北，其道穷也。’将军此行，必然克蜀；…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_116_2",
+    "chapter": 116,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "请降诏遣左车骑将军张翼领兵守护阳安关，右车骑将军廖化领兵守阴平桥：这二处最为要紧，若失二处，汉中不保矣。一面当遣使入吴求救。臣…",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_116_3",
+    "chapter": 116,
+    "paragraph_start": 7,
+    "paragraph_end": 9,
+    "quote_excerpt": "吾今大兵百万，上将千员，分二十路而进，已到成都。汝不思早降，犹欲抗拒，何不知天命耶！",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_117_1",
+    "chapter": 117,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "公勿忧虑。若有维在，必不容魏来吞蜀也。且守剑阁，徐图退敌之计。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_117_2",
+    "chapter": 117,
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "quote_excerpt": "观其辞色，甚不以将军之言为然，但以口强应而已。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_117_3",
+    "chapter": 117,
+    "paragraph_start": 7,
+    "paragraph_end": 9,
+    "quote_excerpt": "闻武侯在日，曾拨一千兵守此险隘。今蜀主刘禅废之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_117_4",
+    "chapter": 117,
+    "paragraph_start": 10,
+    "paragraph_end": 13,
+    "quote_excerpt": "若只守涪城，倘被蜀人据住前山，何能成功耶？如迁延日久，姜维兵到，我军危矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_118_1",
+    "chapter": 118,
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "quote_excerpt": "城外百姓，扶老携幼，哭声大震，各逃生命。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_118_2",
+    "chapter": 118,
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "quote_excerpt": "汝等幸遇我，故有今日耳。若遇他将，必皆殄灭矣。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_119_1",
+    "chapter": 119,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "可先令监军卫瓘收艾。艾若杀瓘，反情实矣。将军却起兵讨之，可也。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_119_2",
+    "chapter": 119,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "吾夜梦大蛇数千条咬吾，主何吉凶？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_119_3",
+    "chapter": 119,
+    "paragraph_start": 9,
+    "paragraph_end": 12,
+    "quote_excerpt": "公荒淫无道，废贤失政，理宜诛戮。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_120_1",
+    "chapter": 120,
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "quote_excerpt": "【上雨下单】幼不能专政，不若取乌程侯孙皓立之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_120_2",
+    "chapter": 120,
+    "paragraph_start": 5,
+    "paragraph_end": 8,
+    "quote_excerpt": "其中恐有奸诈，都督且宜慢饮。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_120_3",
+    "chapter": 120,
+    "paragraph_start": 9,
+    "paragraph_end": 13,
+    "quote_excerpt": "北来诸军乃飞渡江也？",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  },
+  {
+    "id": "evi_120_4",
+    "chapter": 120,
+    "paragraph_start": 14,
+    "paragraph_end": 18,
+    "quote_excerpt": "风波甚急，船不能行；且待风势少息行之。",
+    "source_version": "三国演义（原著.txt分段抽取）"
+  }
+]

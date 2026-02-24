@@ -1,0 +1,24 @@
+{
+  "name": "sgyy-storyline-system",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace @sgyy/web",
+    "build": "npm run build --workspace @sgyy/web",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "pipeline:build": "python3 pipeline/offline_ai/build_full_dataset.py",
+    "pipeline:validate": "python3 pipeline/offline_ai/validate_full_dataset.py"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^22.17.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}

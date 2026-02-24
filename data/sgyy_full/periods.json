@@ -1,0 +1,37 @@
+[
+  {
+    "id": "p1",
+    "title": "第一卷：乱世狂澜",
+    "chapter_start": 1,
+    "chapter_end": 9,
+    "description": "黄巾起义至董卓覆灭"
+  },
+  {
+    "id": "p2",
+    "title": "第二卷：群雄逐鹿",
+    "chapter_start": 10,
+    "chapter_end": 33,
+    "description": "诸侯割据至官渡之后"
+  },
+  {
+    "id": "p3",
+    "title": "第三卷：赤壁风云",
+    "chapter_start": 34,
+    "chapter_end": 50,
+    "description": "三顾茅庐至赤壁余波"
+  },
+  {
+    "id": "p4",
+    "title": "第四卷：三分天下",
+    "chapter_start": 51,
+    "chapter_end": 85,
+    "description": "入川建国至白帝托孤"
+  },
+  {
+    "id": "p5",
+    "title": "第五卷：星落五丈原",
+    "chapter_start": 86,
+    "chapter_end": 120,
+    "description": "北伐余晖至三分归晋"
+  }
+]

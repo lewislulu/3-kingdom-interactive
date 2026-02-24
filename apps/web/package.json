@@ -1,0 +1,31 @@
+{
+  "name": "@sgyy/web",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@sgyy/schema": "0.1.0",
+    "d3-array": "^3.2.4",
+    "d3-scale": "^4.0.2",
+    "d3-shape": "^3.2.0",
+    "framer-motion": "^12.23.12",
+    "minisearch": "^7.2.0",
+    "next": "^15.5.10",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "three": "^0.179.1"
+  },
+  "devDependencies": {
+    "@types/d3-array": "^3.2.1",
+    "@types/d3-scale": "^4.0.9",
+    "@types/d3-shape": "^3.1.7",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "^19.2.2",
+    "@types/three": "^0.179.0"
+  }
+}

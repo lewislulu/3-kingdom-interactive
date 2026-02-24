@@ -1,0 +1,135 @@
+[
+  {
+    "id": "character:liu_bei",
+    "type": "character",
+    "title": "刘备",
+    "chapter": 1,
+    "content": "刘备 玄德 刘皇叔 汉室宗亲，早年颠沛流离，以仁德聚人，终成蜀汉开国之主。"
+  },
+  {
+    "id": "character:guan_yu",
+    "type": "character",
+    "title": "关羽",
+    "chapter": 1,
+    "content": "关羽 云长 美髯公 勇武与忠义并重，早期追随刘备南北征战，是蜀汉核心武将。"
+  },
+  {
+    "id": "character:zhang_fei",
+    "type": "character",
+    "title": "张飞",
+    "chapter": 1,
+    "content": "张飞 翼德 性烈而勇猛，善于突阵，桃园结义后长期与刘备并肩作战。"
+  },
+  {
+    "id": "character:zhuge_liang",
+    "type": "character",
+    "title": "诸葛亮",
+    "chapter": 37,
+    "content": "诸葛亮 孔明 卧龙 隆中隐士，具全局战略眼光，三顾后出山辅佐刘备。"
+  },
+  {
+    "id": "character:cao_cao",
+    "type": "character",
+    "title": "曹操",
+    "chapter": 1,
+    "content": "曹操 孟德 阿瞒 善谋断、重实务，挟天子以令诸侯，逐步统一北方。"
+  },
+  {
+    "id": "character:sun_jian",
+    "type": "character",
+    "title": "孙坚",
+    "chapter": 5,
+    "content": "孙坚 文台 江东孙氏奠基者，讨董时期表现突出。"
+  },
+  {
+    "id": "character:sun_ce",
+    "type": "character",
+    "title": "孙策",
+    "chapter": 15,
+    "content": "孙策 小霸王 孙坚之子，勇决善战，迅速奠定江东版图。"
+  },
+  {
+    "id": "character:dong_zhuo",
+    "type": "character",
+    "title": "董卓",
+    "chapter": 3,
+    "content": "董卓 仲颖 西凉军阀，入京后废立天子，开启群雄并起乱局。"
+  },
+  {
+    "id": "character:lu_bu",
+    "type": "character",
+    "title": "吕布",
+    "chapter": 3,
+    "content": "吕布 奉先 骁勇绝伦而反复无常，先后依附丁原、董卓。"
+  },
+  {
+    "id": "character:yuan_shao",
+    "type": "character",
+    "title": "袁绍",
+    "chapter": 5,
+    "content": "袁绍 本初 四世三公出身，前期声望最高，后在官渡失利。"
+  },
+  {
+    "id": "character:han_xiandi",
+    "type": "character",
+    "title": "汉献帝",
+    "chapter": 4,
+    "content": "汉献帝 刘协 东汉末代皇帝，政治命运受制于董卓与曹操。"
+  },
+  {
+    "id": "event:ev_peach_oath",
+    "type": "event",
+    "title": "桃园结义",
+    "chapter": 1,
+    "content": "桃园结义 黄巾乱起，州郡告急。刘备感国难当头，招募义勇，关羽与张飞前来投效。 三人于张飞庄后桃园设祭，誓同生死、共扶汉室，自此结为异姓兄弟。 刘关张形成稳定核心行动体，成为后续蜀汉叙事最重要的人物线起点。"
+  },
+  {
+    "id": "event:ev_yellow_turban",
+    "type": "event",
+    "title": "黄巾起义",
+    "chapter": 1,
+    "content": "黄巾起义 张角聚众起事，天下州郡震动，东汉政权秩序急剧崩解。 地方豪杰与官军并进镇压，刘备等人借机登上历史舞台，群雄路线初现。 中央权威加速衰落，为董卓入京与后续诸侯割据埋下因果。"
+  },
+  {
+    "id": "event:ev_dong_chaos",
+    "type": "event",
+    "title": "董卓入京与废立",
+    "chapter": 3,
+    "content": "董卓入京与废立 何进遇害后朝廷内斗升级，董卓率兵入洛阳，掌控禁军。 董卓先后废少帝、立献帝，诛杀异己，并以暴政震慑百官。 皇权名义存续但实权转移，地方诸侯以讨董名义形成联盟。"
+  },
+  {
+    "id": "event:ev_hulao",
+    "type": "event",
+    "title": "虎牢关会战",
+    "chapter": 5,
+    "content": "虎牢关会战 讨董联军集结，董卓派吕布与西凉军据守要冲。 诸侯联军多路进攻，吕布与关羽、张飞、刘备等交锋，战局激烈僵持。 董卓虽暂退，但联军因内部分裂未能形成持续追击，天下割据延续。"
+  },
+  {
+    "id": "event:ev_xudu",
+    "type": "event",
+    "title": "挟天子以令诸侯",
+    "chapter": 14,
+    "content": "挟天子以令诸侯 长安动荡后，献帝流离。曹操掌握迎奉机会，谋求政治合法性。 曹操护驾迁都许县，整合朝政中枢与军事资源，形成政令中心。 曹操获取名义与实权双重优势，北方统一进程进入加速阶段。"
+  },
+  {
+    "id": "event:ev_guandu",
+    "type": "event",
+    "title": "官渡之战",
+    "chapter": 30,
+    "content": "官渡之战 袁绍兵多将广，曹操兵少粮紧，北方两大集团进入决战期。 曹操抓住袁绍后勤漏洞，奇袭乌巢，扭转劣势并击溃主力。 袁绍集团由盛转衰，曹操获得北方主导地位。"
+  },
+  {
+    "id": "event:ev_jingzhou_refuge",
+    "type": "event",
+    "title": "刘备依附荆州",
+    "chapter": 34,
+    "content": "刘备依附荆州 刘备在北方失利后南下荆州，暂借刘表势力休整。 刘备于新野驻屯，观察曹操与荆州内部局势，同时求贤问策。 为寻找战略突破口与引入诸葛亮埋下直接前提。"
+  },
+  {
+    "id": "event:ev_three_visits",
+    "type": "event",
+    "title": "三顾茅庐",
+    "chapter": 37,
+    "content": "三顾茅庐 司马徽与徐庶多次荐举诸葛亮，刘备急需战略级谋士。 刘备三次登门，终感动诸葛亮出山，并在隆中形成三分天下构想。 蜀汉集团从战术求生转入战略建构阶段，人物线出现决定性交汇。"
+  }
+]

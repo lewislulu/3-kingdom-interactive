@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f1dfb7"/>
+      <stop offset="100%" stop-color="#d5bb8a"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="url(#bg)" stroke="#7c5b35" stroke-width="4"/>
+  <text x="60" y="66" text-anchor="middle" font-size="12" font-family="Songti SC, STSong, serif" fill="#3d2f20">dong zhuo</text>
+</svg>

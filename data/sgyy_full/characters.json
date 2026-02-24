@@ -1,0 +1,450 @@
+[
+  {
+    "id": "liubei",
+    "name": "刘备",
+    "aliases": [
+      "刘备"
+    ],
+    "camp": "蜀",
+    "title": "昭烈帝",
+    "intro": "弘毅宽厚，知人待士。",
+    "avatar_url": "/avatars/liubei.svg",
+    "first_chapter": 1,
+    "last_chapter": 119,
+    "importance": 10
+  },
+  {
+    "id": "guanyu",
+    "name": "关羽",
+    "aliases": [
+      "关羽"
+    ],
+    "camp": "蜀",
+    "title": "汉寿亭侯",
+    "intro": "威震华夏，义薄云天。",
+    "avatar_url": "/avatars/guanyu.svg",
+    "first_chapter": 1,
+    "last_chapter": 118,
+    "importance": 7
+  },
+  {
+    "id": "zhangfei",
+    "name": "张飞",
+    "aliases": [
+      "张飞"
+    ],
+    "camp": "蜀",
+    "title": "西乡侯",
+    "intro": "勇冠三军，嫉恶如仇。",
+    "avatar_url": "/avatars/zhangfei.svg",
+    "first_chapter": 1,
+    "last_chapter": 99,
+    "importance": 7
+  },
+  {
+    "id": "caocao",
+    "name": "曹操",
+    "aliases": [
+      "曹操"
+    ],
+    "camp": "魏",
+    "title": "魏武帝",
+    "intro": "乱世雄主，谋断兼资。",
+    "avatar_url": "/avatars/caocao.svg",
+    "first_chapter": 1,
+    "last_chapter": 119,
+    "importance": 10
+  },
+  {
+    "id": "caorui",
+    "name": "曹叡",
+    "aliases": [
+      "曹叡"
+    ],
+    "camp": "魏",
+    "title": "魏明帝",
+    "intro": "守成有术，内政谨严。",
+    "avatar_url": "/avatars/caorui.svg",
+    "first_chapter": 1,
+    "last_chapter": 100,
+    "importance": 7
+  },
+  {
+    "id": "dongzhuo",
+    "name": "董卓",
+    "aliases": [
+      "董卓"
+    ],
+    "camp": "群雄",
+    "title": "太师",
+    "intro": "祸乱朝纲，暴虐专权。",
+    "avatar_url": "/avatars/dongzhuo.svg",
+    "first_chapter": 1,
+    "last_chapter": 120,
+    "importance": 7
+  },
+  {
+    "id": "sunjian",
+    "name": "孙坚",
+    "aliases": [
+      "孙坚"
+    ],
+    "camp": "吴",
+    "title": "破虏将军",
+    "intro": "江东孙氏奠基者。",
+    "avatar_url": "/avatars/sunjian.svg",
+    "first_chapter": 2,
+    "last_chapter": 120,
+    "importance": 7
+  },
+  {
+    "id": "yuanshao",
+    "name": "袁绍",
+    "aliases": [
+      "袁绍"
+    ],
+    "camp": "群雄",
+    "title": "大将军",
+    "intro": "四世三公，盛极而衰。",
+    "avatar_url": "/avatars/yuanshao.svg",
+    "first_chapter": 2,
+    "last_chapter": 120,
+    "importance": 7
+  },
+  {
+    "id": "lubu",
+    "name": "吕布",
+    "aliases": [
+      "吕布"
+    ],
+    "camp": "群雄",
+    "title": "温侯",
+    "intro": "骁勇绝伦，反复无常。",
+    "avatar_url": "/avatars/lubu.svg",
+    "first_chapter": 3,
+    "last_chapter": 60,
+    "importance": 7
+  },
+  {
+    "id": "yuanshu",
+    "name": "袁术",
+    "aliases": [
+      "袁术"
+    ],
+    "camp": "群雄",
+    "title": "后将军",
+    "intro": "僭号称帝，速起速亡。",
+    "avatar_url": "/avatars/yuanshu.svg",
+    "first_chapter": 3,
+    "last_chapter": 93,
+    "importance": 7
+  },
+  {
+    "id": "han_xiandi",
+    "name": "汉献帝",
+    "aliases": [
+      "汉献帝"
+    ],
+    "camp": "汉室",
+    "title": "天子",
+    "intro": "名义皇权在乱世飘零。",
+    "avatar_url": "/avatars/han_xiandi.svg",
+    "first_chapter": 4,
+    "last_chapter": 120,
+    "importance": 7
+  },
+  {
+    "id": "xiahoudun",
+    "name": "夏侯惇",
+    "aliases": [
+      "夏侯惇"
+    ],
+    "camp": "魏",
+    "title": "大将军",
+    "intro": "曹魏宗室重将。",
+    "avatar_url": "/avatars/xiahoudun.svg",
+    "first_chapter": 5,
+    "last_chapter": 91,
+    "importance": 7
+  },
+  {
+    "id": "liubiao",
+    "name": "刘表",
+    "aliases": [
+      "刘表"
+    ],
+    "camp": "群雄",
+    "title": "荆州牧",
+    "intro": "据荆州以观天下。",
+    "avatar_url": "/avatars/liubiao.svg",
+    "first_chapter": 6,
+    "last_chapter": 62,
+    "importance": 7
+  },
+  {
+    "id": "zhaoyun",
+    "name": "赵云",
+    "aliases": [
+      "赵云"
+    ],
+    "camp": "蜀",
+    "title": "顺平侯",
+    "intro": "一身是胆，忠勇兼备。",
+    "avatar_url": "/avatars/zhaoyun.svg",
+    "first_chapter": 7,
+    "last_chapter": 110,
+    "importance": 7
+  },
+  {
+    "id": "sunce",
+    "name": "孙策",
+    "aliases": [
+      "孙策"
+    ],
+    "camp": "吴",
+    "title": "讨逆将军",
+    "intro": "小霸王定江东。",
+    "avatar_url": "/avatars/sunce.svg",
+    "first_chapter": 7,
+    "last_chapter": 120,
+    "importance": 7
+  },
+  {
+    "id": "diaochan",
+    "name": "貂蝉",
+    "aliases": [
+      "貂蝉"
+    ],
+    "camp": "其他",
+    "title": "绝世舞姬",
+    "intro": "连环计关键人物。",
+    "avatar_url": "/avatars/diaochan.svg",
+    "first_chapter": 8,
+    "last_chapter": 16,
+    "importance": 7
+  },
+  {
+    "id": "machao",
+    "name": "马超",
+    "aliases": [
+      "马超"
+    ],
+    "camp": "蜀",
+    "title": "骠骑将军",
+    "intro": "西凉锦马超，勇烈过人。",
+    "avatar_url": "/avatars/machao.svg",
+    "first_chapter": 10,
+    "last_chapter": 92,
+    "importance": 7
+  },
+  {
+    "id": "zhangliao",
+    "name": "张辽",
+    "aliases": [
+      "张辽"
+    ],
+    "camp": "魏",
+    "title": "征东将军",
+    "intro": "逍遥津震江东。",
+    "avatar_url": "/avatars/zhangliao.svg",
+    "first_chapter": 11,
+    "last_chapter": 98,
+    "importance": 7
+  },
+  {
+    "id": "xuchu",
+    "name": "许褚",
+    "aliases": [
+      "许褚"
+    ],
+    "camp": "魏",
+    "title": "虎侯",
+    "intro": "勇猛刚直，护主著称。",
+    "avatar_url": "/avatars/xuchu.svg",
+    "first_chapter": 12,
+    "last_chapter": 116,
+    "importance": 7
+  },
+  {
+    "id": "sunquan",
+    "name": "孙权",
+    "aliases": [
+      "孙权"
+    ],
+    "camp": "吴",
+    "title": "吴大帝",
+    "intro": "知人善任，雄踞东南。",
+    "avatar_url": "/avatars/sunquan.svg",
+    "first_chapter": 15,
+    "last_chapter": 120,
+    "importance": 10
+  },
+  {
+    "id": "zhouyu",
+    "name": "周瑜",
+    "aliases": [
+      "周瑜"
+    ],
+    "camp": "吴",
+    "title": "大都督",
+    "intro": "赤壁都督，雄姿英发。",
+    "avatar_url": "/avatars/zhouyu.svg",
+    "first_chapter": 15,
+    "last_chapter": 75,
+    "importance": 7
+  },
+  {
+    "id": "caopi",
+    "name": "曹丕",
+    "aliases": [
+      "曹丕"
+    ],
+    "camp": "魏",
+    "title": "魏文帝",
+    "intro": "受禅称帝，开曹魏帝业。",
+    "avatar_url": "/avatars/caopi.svg",
+    "first_chapter": 32,
+    "last_chapter": 119,
+    "importance": 7
+  },
+  {
+    "id": "zhugeliang",
+    "name": "诸葛亮",
+    "aliases": [
+      "诸葛亮"
+    ],
+    "camp": "蜀",
+    "title": "武乡侯",
+    "intro": "鞠躬尽瘁，死而后已。",
+    "avatar_url": "/avatars/zhugeliang.svg",
+    "first_chapter": 34,
+    "last_chapter": 120,
+    "importance": 10
+  },
+  {
+    "id": "lumeng",
+    "name": "吕蒙",
+    "aliases": [
+      "吕蒙"
+    ],
+    "camp": "吴",
+    "title": "大都督",
+    "intro": "白衣渡江，谋取荆州。",
+    "avatar_url": "/avatars/lumeng.svg",
+    "first_chapter": 38,
+    "last_chapter": 110,
+    "importance": 7
+  },
+  {
+    "id": "luxun",
+    "name": "陆逊",
+    "aliases": [
+      "陆逊"
+    ],
+    "camp": "吴",
+    "title": "丞相",
+    "intro": "夷陵火攻，名震天下。",
+    "avatar_url": "/avatars/luxun.svg",
+    "first_chapter": 38,
+    "last_chapter": 119,
+    "importance": 7
+  },
+  {
+    "id": "liuzhang",
+    "name": "刘璋",
+    "aliases": [
+      "刘璋"
+    ],
+    "camp": "群雄",
+    "title": "益州牧",
+    "intro": "宽柔守成，失于决断。",
+    "avatar_url": "/avatars/liuzhang.svg",
+    "first_chapter": 38,
+    "last_chapter": 117,
+    "importance": 7
+  },
+  {
+    "id": "huangzhong",
+    "name": "黄忠",
+    "aliases": [
+      "黄忠"
+    ],
+    "camp": "蜀",
+    "title": "后将军",
+    "intro": "老当益壮，定军扬威。",
+    "avatar_url": "/avatars/huangzhong.svg",
+    "first_chapter": 53,
+    "last_chapter": 91,
+    "importance": 7
+  },
+  {
+    "id": "simayi",
+    "name": "司马懿",
+    "aliases": [
+      "司马懿"
+    ],
+    "camp": "晋",
+    "title": "晋宣帝",
+    "intro": "隐忍深沉，善守善谋。",
+    "avatar_url": "/avatars/simayi.svg",
+    "first_chapter": 67,
+    "last_chapter": 120,
+    "importance": 10
+  },
+  {
+    "id": "simashi",
+    "name": "司马师",
+    "aliases": [
+      "司马师"
+    ],
+    "camp": "晋",
+    "title": "晋景帝",
+    "intro": "承父权柄，主导中枢。",
+    "avatar_url": "/avatars/simashi.svg",
+    "first_chapter": 78,
+    "last_chapter": 119,
+    "importance": 7
+  },
+  {
+    "id": "jiangwei",
+    "name": "姜维",
+    "aliases": [
+      "姜维"
+    ],
+    "camp": "蜀",
+    "title": "大将军",
+    "intro": "继志北伐，心存汉祚。",
+    "avatar_url": "/avatars/jiangwei.svg",
+    "first_chapter": 86,
+    "last_chapter": 120,
+    "importance": 7
+  },
+  {
+    "id": "simazhao",
+    "name": "司马昭",
+    "aliases": [
+      "司马昭"
+    ],
+    "camp": "晋",
+    "title": "晋文帝",
+    "intro": "篡魏前夜，权归司马。",
+    "avatar_url": "/avatars/simazhao.svg",
+    "first_chapter": 89,
+    "last_chapter": 120,
+    "importance": 7
+  },
+  {
+    "id": "simayan",
+    "name": "司马炎",
+    "aliases": [
+      "司马炎"
+    ],
+    "camp": "晋",
+    "title": "晋武帝",
+    "intro": "受禅建晋，终并东吴。",
+    "avatar_url": "/avatars/simayan.svg",
+    "first_chapter": 114,
+    "last_chapter": 120,
+    "importance": 7
+  }
+]

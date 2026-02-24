@@ -1,0 +1,123 @@
+[
+  {
+    "id": "liu_bei",
+    "name": "刘备",
+    "aliases": ["玄德", "刘皇叔"],
+    "camp": "蜀",
+    "intro": "汉室宗亲，早年颠沛流离，以仁德聚人，终成蜀汉开国之主。",
+    "avatar_url": "/avatars/liu_bei.svg",
+    "first_chapter": 1,
+    "last_chapter": 38,
+    "importance": 10
+  },
+  {
+    "id": "guan_yu",
+    "name": "关羽",
+    "aliases": ["云长", "美髯公"],
+    "camp": "蜀",
+    "intro": "勇武与忠义并重，早期追随刘备南北征战，是蜀汉核心武将。",
+    "avatar_url": "/avatars/guan_yu.svg",
+    "first_chapter": 1,
+    "last_chapter": 38,
+    "importance": 9
+  },
+  {
+    "id": "zhang_fei",
+    "name": "张飞",
+    "aliases": ["翼德"],
+    "camp": "蜀",
+    "intro": "性烈而勇猛，善于突阵，桃园结义后长期与刘备并肩作战。",
+    "avatar_url": "/avatars/zhang_fei.svg",
+    "first_chapter": 1,
+    "last_chapter": 38,
+    "importance": 9
+  },
+  {
+    "id": "zhuge_liang",
+    "name": "诸葛亮",
+    "aliases": ["孔明", "卧龙"],
+    "camp": "蜀",
+    "intro": "隆中隐士，具全局战略眼光，三顾后出山辅佐刘备。",
+    "avatar_url": "/avatars/zhuge_liang.svg",
+    "first_chapter": 37,
+    "last_chapter": 38,
+    "importance": 10
+  },
+  {
+    "id": "cao_cao",
+    "name": "曹操",
+    "aliases": ["孟德", "阿瞒"],
+    "camp": "魏",
+    "intro": "善谋断、重实务，挟天子以令诸侯，逐步统一北方。",
+    "avatar_url": "/avatars/cao_cao.svg",
+    "first_chapter": 1,
+    "last_chapter": 38,
+    "importance": 10
+  },
+  {
+    "id": "sun_jian",
+    "name": "孙坚",
+    "aliases": ["文台"],
+    "camp": "吴",
+    "intro": "江东孙氏奠基者，讨董时期表现突出。",
+    "avatar_url": "/avatars/sun_jian.svg",
+    "first_chapter": 5,
+    "last_chapter": 10,
+    "importance": 7
+  },
+  {
+    "id": "sun_ce",
+    "name": "孙策",
+    "aliases": ["小霸王"],
+    "camp": "吴",
+    "intro": "孙坚之子，勇决善战，迅速奠定江东版图。",
+    "avatar_url": "/avatars/sun_ce.svg",
+    "first_chapter": 15,
+    "last_chapter": 29,
+    "importance": 8
+  },
+  {
+    "id": "dong_zhuo",
+    "name": "董卓",
+    "aliases": ["仲颖"],
+    "camp": "群雄",
+    "intro": "西凉军阀，入京后废立天子，开启群雄并起乱局。",
+    "avatar_url": "/avatars/dong_zhuo.svg",
+    "first_chapter": 3,
+    "last_chapter": 9,
+    "importance": 8
+  },
+  {
+    "id": "lu_bu",
+    "name": "吕布",
+    "aliases": ["奉先"],
+    "camp": "群雄",
+    "intro": "骁勇绝伦而反复无常，先后依附丁原、董卓。",
+    "avatar_url": "/avatars/lu_bu.svg",
+    "first_chapter": 3,
+    "last_chapter": 19,
+    "importance": 8
+  },
+  {
+    "id": "yuan_shao",
+    "name": "袁绍",
+    "aliases": ["本初"],
+    "camp": "群雄",
+    "intro": "四世三公出身，前期声望最高，后在官渡失利。",
+    "avatar_url": "/avatars/yuan_shao.svg",
+    "first_chapter": 5,
+    "last_chapter": 32,
+    "importance": 8
+  },
+  {
+    "id": "han_xiandi",
+    "name": "汉献帝",
+    "aliases": ["刘协"],
+    "camp": "汉室",
+    "intro": "东汉末代皇帝，政治命运受制于董卓与曹操。",
+    "avatar_url": "/avatars/han_xiandi.svg",
+    "first_chapter": 4,
+    "last_chapter": 38,
+    "importance": 7
+  }
+]

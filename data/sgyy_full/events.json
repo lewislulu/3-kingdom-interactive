@@ -1,0 +1,8458 @@
+[
+  {
+    "id": "ev_001_1",
+    "chapter": 1,
+    "period_id": "p1",
+    "seq_in_chapter": 1,
+    "title": "黄巾起义",
+    "background": "时有宦官曹节等弄权，窦武、陈蕃谋诛之，机事不密，反为所害，中涓自此愈横。",
+    "process": "帝惊倒，左右急救入宫，百官俱奔避；帝下诏问群臣以灾异之由，议郎蔡邕上疏，以为蜺堕鸡化，乃妇寺干政之所致，言颇切直。",
+    "result": "何进奏帝火速降诏，令各处备御，讨贼立功。",
+    "impact_score": 84,
+    "character_ids": [
+      "liubei",
+      "guanyu",
+      "zhangfei",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_001_1"
+    ]
+  },
+  {
+    "id": "ev_001_2",
+    "chapter": 1,
+    "period_id": "p1",
+    "seq_in_chapter": 2,
+    "title": "桃园结义",
+    "background": "当时闻得贼兵将至，召校尉邹靖计议。",
+    "process": "榜文行到涿县，引出涿县中一个英雄。",
+    "result": "同到张飞庄上，共议大事。",
+    "impact_score": 83,
+    "character_ids": [
+      "liubei",
+      "guanyu",
+      "zhangfei",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_001_2"
+    ]
+  },
+  {
+    "id": "ev_001_3",
+    "chapter": 1,
+    "period_id": "p1",
+    "seq_in_chapter": 3,
+    "title": "桃园结义（其二）",
+    "background": "祭罢天地，复宰牛设酒，聚乡中勇士，得三百余人，就桃园中痛饮一醉。",
+    "process": "刘焉令邹靖引玄德等三人，统兵五百，前去破敌；张飞挺丈八蛇矛直出，手起处，刺中邓茂心窝，翻身落马。",
+    "result": "贼势大败，剿戮极多，遂解青州之围。",
+    "impact_score": 83,
+    "character_ids": [
+      "liubei",
+      "zhangfei",
+      "guanyu",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_001_3"
+    ]
+  },
+  {
+    "id": "ev_001_4",
+    "chapter": 1,
+    "period_id": "p1",
+    "seq_in_chapter": 4,
+    "title": "斩黄巾英雄首立功",
+    "background": "时皇甫嵩、朱儁领军拒贼，贼战不利，退入长社，依草结营。",
+    "process": "二更以后，一齐纵火，嵩与儁各引兵攻击贼寨，火焰张天，贼众惊慌，马不及鞍，人不及甲，四散奔走；杀到天明，张梁、张宝引败残军士，夺路而走。",
+    "result": "正值张梁、张宝败走，曹操拦住，大杀一阵，斩首万余级，夺得旗幡、金鼓、马匹极多。",
+    "impact_score": 83,
+    "character_ids": [
+      "liubei",
+      "dongzhuo",
+      "zhangfei",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_001_4"
+    ]
+  },
+  {
+    "id": "ev_002_1",
+    "chapter": 2,
+    "period_id": "p1",
+    "seq_in_chapter": 1,
+    "title": "董卓乱政",
+    "background": "当日怠慢了玄德，张飞性发，便欲杀之。",
+    "process": "是时曹操自跟皇甫嵩讨张梁，大战于曲阳；飞纵马挺矛，与升交战，不数合，刺升落马。",
+    "result": "败阵而归，与朱儁计议。",
+    "impact_score": 85,
+    "character_ids": [
+      "liubei",
+      "zhangfei",
+      "dongzhuo",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_002_1"
+    ]
+  },
+  {
+    "id": "ev_002_2",
+    "chapter": 2,
+    "period_id": "p1",
+    "seq_in_chapter": 2,
+    "title": "玄德从背后掩杀",
+    "background": "朱儁引兵围住阳城攻打，一面差人打探皇甫嵩消息。",
+    "process": "贼必弃城而走，无心恋战，可即擒也；正追赶间，赵弘、孙仲引贼众到，与儁交战。",
+    "result": "到县未及四月，朝廷降诏，凡有军功为长吏者当沙汰。",
+    "impact_score": 88,
+    "character_ids": [
+      "liubei",
+      "sunjian",
+      "dongzhuo",
+      "caocao",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_002_2"
+    ]
+  },
+  {
+    "id": "ev_002_3",
+    "chapter": 2,
+    "period_id": "p1",
+    "seq_in_chapter": 3,
+    "title": "玄德乃取印绶",
+    "background": "张飞饮了数杯闷酒，乘马从馆驿前过，见五六十个老人，皆在门前痛哭。",
+    "process": "赵忠、张让差人问破黄巾将士索金帛，不从者奏罢职；十常侍即于狱中谋杀之。",
+    "result": "恢见玄德乃汉室宗亲，留匿在家不题。",
+    "impact_score": 84,
+    "character_ids": [
+      "liubei",
+      "zhangfei",
+      "sunjian",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_002_3"
+    ]
+  },
+  {
+    "id": "ev_002_4",
+    "chapter": 2,
+    "period_id": "p1",
+    "seq_in_chapter": 4,
+    "title": "何国舅谋诛宦竖",
+    "background": "刘虞表奏刘备大功，朝廷赦免鞭督邮之罪，除下密丞，迁高堂尉。",
+    "process": "因妹入宫为贵人，生皇子辩，遂立为皇后；董太后尝劝帝立皇子协为太子。",
+    "result": "何进大喜，遂点御林军五千。",
+    "impact_score": 84,
+    "character_ids": [
+      "liubei",
+      "yuanshao",
+      "caocao",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_002_4"
+    ]
+  },
+  {
+    "id": "ev_003_1",
+    "chapter": 3,
+    "period_id": "p1",
+    "seq_in_chapter": 1,
+    "title": "黄巾起义",
+    "background": "欲尽诛之，事必宣露。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "后又结托朝贵，遂任显官，统西州大军二十万，常有不臣之心。",
+    "impact_score": 86,
+    "character_ids": [
+      "dongzhuo",
+      "caocao",
+      "lubu",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_003_1"
+    ]
+  },
+  {
+    "id": "ev_003_2",
+    "chapter": 3,
+    "period_id": "p1",
+    "seq_in_chapter": 2,
+    "title": "袁绍厉声大叫阉官谋杀大臣",
+    "background": "袁术引兵突入宫庭，但见阉官，不论大小，尽皆杀之。",
+    "process": "至嘉德殿门，张让、段珪迎出，左右围住，进大惊；时卢植弃官未去，见宫中事变，擐甲持戈，立于阁下。",
+    "result": "绍复令军士分头来杀十常侍家属，不分大小，尽皆诛绝，多有无须者误被杀死。",
+    "impact_score": 89,
+    "character_ids": [
+      "yuanshao",
+      "caocao",
+      "yuanshu",
+      "dongzhuo",
+      "lubu"
+    ],
+    "evidence_ref_ids": [
+      "evi_003_2"
+    ]
+  },
+  {
+    "id": "ev_003_3",
+    "chapter": 3,
+    "period_id": "p1",
+    "seq_in_chapter": 3,
+    "title": "馈金珠李肃说吕布",
+    "background": "张让、段珪劫拥少帝及陈留王，冒烟突火，连夜奔走至北邙山。",
+    "process": "庄主是夜梦两红日坠于庄后，惊觉，披衣出户，四下观望，见庄后草堆上红光冲天，慌忙往视，却是二人卧于草畔。",
+    "result": "卓兵大败，退三十余里下寨，聚众商议。",
+    "impact_score": 85,
+    "character_ids": [
+      "dongzhuo",
+      "lubu",
+      "yuanshao",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_003_3"
+    ]
+  },
+  {
+    "id": "ev_003_4",
+    "chapter": 3,
+    "period_id": "p1",
+    "seq_in_chapter": 4,
+    "title": "二更时分布提刀径入丁原帐中",
+    "background": "二更时分，布提刀径入丁原帐中。",
+    "process": "李儒劝卓早定废立之计。",
+    "result": "事件收束后，人物关系与后续局势随之改写。",
+    "impact_score": 85,
+    "character_ids": [
+      "yuanshao",
+      "lubu",
+      "dongzhuo",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_003_4"
+    ]
+  },
+  {
+    "id": "ev_004_1",
+    "chapter": 4,
+    "period_id": "p1",
+    "seq_in_chapter": 1,
+    "title": "董卓乱政",
+    "background": "诚不若加之一郡守，以收民心。",
+    "process": "且袁氏树恩四世，门生故吏遍于天下。",
+    "result": "管骂不绝口，至死神色不变。",
+    "impact_score": 87,
+    "character_ids": [
+      "yuanshao",
+      "dongzhuo",
+      "han_xiandi",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_004_1"
+    ]
+  },
+  {
+    "id": "ev_004_2",
+    "chapter": 4,
+    "period_id": "p1",
+    "seq_in_chapter": 2,
+    "title": "谋董贼孟德献刀",
+    "background": "少帝与何太后、唐妃困于永安宫中，衣服饮食，渐渐少缺。",
+    "process": "尝引军出城，行到阳城地方，时当二月，村民社赛，男女皆集；卓命军士围住，尽皆杀之，掠妇女财物，装载车上，悬头千余颗于车下，连轸还都，扬言杀贼大胜而回。",
+    "result": "时袁绍在渤海，闻知董卓弄权，乃差人赍密书来见王允。",
+    "impact_score": 86,
+    "character_ids": [
+      "dongzhuo",
+      "caocao",
+      "lubu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_004_2"
+    ]
+  },
+  {
+    "id": "ev_004_3",
+    "chapter": 4,
+    "period_id": "p1",
+    "seq_in_chapter": 3,
+    "title": "孟德献刀",
+    "background": "见董卓坐于床上，吕布侍立于侧。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "卓胖大不耐久坐，遂倒身而卧，转面向内。",
+    "impact_score": 86,
+    "character_ids": [
+      "caocao",
+      "lubu",
+      "dongzhuo",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_004_3"
+    ]
+  },
+  {
+    "id": "ev_004_4",
+    "chapter": 4,
+    "period_id": "p1",
+    "seq_in_chapter": 4,
+    "title": "宫曰孟德心多",
+    "background": "曹操逃出城外，飞奔谯郡。",
+    "process": "至夜分，县令唤亲随人暗地取出曹操，直至后院中审究。",
+    "result": "今日留之，必为后患。",
+    "impact_score": 86,
+    "character_ids": [
+      "caocao",
+      "dongzhuo",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_004_4"
+    ]
+  },
+  {
+    "id": "ev_005_1",
+    "chapter": 5,
+    "period_id": "p1",
+    "seq_in_chapter": 1,
+    "title": "董卓乱政",
+    "background": "此间有孝廉卫弘，疏财仗义，其家巨富。",
+    "process": "年十四从师学武，有人辱骂其师，惇杀之，逃于外方；闻知曹操起兵，与其族弟夏侯渊两个，各引壮士千人来会。",
+    "result": "时袁绍得操矫诏，乃聚麾下文武，引兵三万，离渤海来与曹操会盟。",
+    "impact_score": 96,
+    "character_ids": [
+      "caocao",
+      "dongzhuo",
+      "xiahoudun",
+      "yuanshao",
+      "yuanshu",
+      "sunjian"
+    ],
+    "evidence_ref_ids": [
+      "evi_005_1"
+    ]
+  },
+  {
+    "id": "ev_005_2",
+    "chapter": 5,
+    "period_id": "p1",
+    "seq_in_chapter": 2,
+    "title": "张飞曰当时若容我杀了此贼",
+    "background": "正行之间，遥见桑树丛中，一面黄旗，数骑来迎。",
+    "process": "今董卓作乱，天下诸侯共往诛之；操乃宰牛杀马，大会诸侯，商议进兵之策。",
+    "result": "操乃宰牛杀马，大会诸侯，商议进兵之策。",
+    "impact_score": 95,
+    "character_ids": [
+      "liubei",
+      "guanyu",
+      "zhangfei",
+      "dongzhuo",
+      "lubu",
+      "sunjian"
+    ],
+    "evidence_ref_ids": [
+      "evi_005_2"
+    ]
+  },
+  {
+    "id": "ev_005_3",
+    "chapter": 5,
+    "period_id": "p1",
+    "seq_in_chapter": 3,
+    "title": "曹操曰莫非破黄巾刘玄德乎",
+    "background": "孙坚引兵回至梁东屯住，使人于袁绍处报捷，就于袁术处催粮。",
+    "process": "坚挥军直杀至关前，关上矢石如雨；雄军只望赤帻者追赶，坚乃从小路得脱。",
+    "result": "雄军只望赤帻者追赶，坚乃从小路得脱。",
+    "impact_score": 95,
+    "character_ids": [
+      "liubei",
+      "sunjian",
+      "yuanshu",
+      "caocao",
+      "yuanshao",
+      "lubu"
+    ],
+    "evidence_ref_ids": [
+      "evi_005_3"
+    ]
+  },
+  {
+    "id": "ev_005_4",
+    "chapter": 5,
+    "period_id": "p1",
+    "seq_in_chapter": 4,
+    "title": "破关兵三英战吕布",
+    "background": "幸得乔瑁、袁遗两军皆至，来救王匡，吕布方退。",
+    "process": "上党太守张杨部将穆顺，出马挺枪迎战，被吕布手起一戟，刺于马下；若擒了吕布，董卓易诛耳。",
+    "result": "议立袁绍作盟主，誓扶王室定太平。",
+    "impact_score": 95,
+    "character_ids": [
+      "lubu",
+      "liubei",
+      "dongzhuo",
+      "zhangfei",
+      "yuanshao",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_005_4"
+    ]
+  },
+  {
+    "id": "ev_006_1",
+    "chapter": 6,
+    "period_id": "p1",
+    "seq_in_chapter": 1,
+    "title": "董卓乱政",
+    "background": "坚引程普、黄盖至袁术寨中相见。",
+    "process": "不若引兵回洛阳，迁帝于长安，以应童谣。",
+    "result": "卓出上车，只见二人望车而揖，视之，乃尚书周毖、城门校尉伍琼也。",
+    "impact_score": 97,
+    "character_ids": [
+      "dongzhuo",
+      "sunjian",
+      "yuanshao",
+      "liubei",
+      "yuanshu",
+      "lubu"
+    ],
+    "evidence_ref_ids": [
+      "evi_006_1"
+    ]
+  },
+  {
+    "id": "ev_006_2",
+    "chapter": 6,
+    "period_id": "p1",
+    "seq_in_chapter": 2,
+    "title": "匿玉玺孙坚背约",
+    "background": "董卓行至荥阳地方，太守徐荣出接。",
+    "process": "右边喊声又起，郭汜引军杀到，操急令曹仁迎敌；曹操慌忙策马，夺路奔逃，正遇徐荣，转身便走。",
+    "result": "绍大怒，遂写书一封，差心腹人连夜往荆州，送与刺史刘表，教就路上截住夺之。",
+    "impact_score": 96,
+    "character_ids": [
+      "xiahoudun",
+      "caocao",
+      "dongzhuo",
+      "lubu",
+      "sunjian",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_006_2"
+    ]
+  },
+  {
+    "id": "ev_006_3",
+    "chapter": 6,
+    "period_id": "p1",
+    "seq_in_chapter": 3,
+    "title": "人报曹操追董卓",
+    "background": "人报曹操追董卓，战于荥阳，大败而回。",
+    "process": "皆深沟高垒，勿与战，益为疑兵，示天下形势；瑁推辞不与，岱引军突入瑁营，杀死乔瑁，尽降其众。",
+    "result": "山背后金鼓齐鸣、乃刘表亲自引军来到。",
+    "impact_score": 96,
+    "character_ids": [
+      "sunjian",
+      "yuanshao",
+      "liubiao",
+      "dongzhuo",
+      "liubei",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_006_3"
+    ]
+  },
+  {
+    "id": "ev_007_1",
+    "chapter": 7,
+    "period_id": "p1",
+    "seq_in_chapter": 1,
+    "title": "袁绍磐河战公孙",
+    "background": "孙坚被刘表围住，亏得程普、黄盖、韩当三将死救得脱，折兵大半，夺路引兵回江东。",
+    "process": "冀州牧韩馥，遣人送粮以资军用；瓒得书，见说共攻冀州，平分其地，大喜，即日兴兵。",
+    "result": "绍将颜良立斩耿武，文丑砍死关纯。",
+    "impact_score": 83,
+    "character_ids": [
+      "yuanshao",
+      "sunjian",
+      "liubiao",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_007_1"
+    ]
+  },
+  {
+    "id": "ev_007_2",
+    "chapter": 7,
+    "period_id": "p1",
+    "seq_in_chapter": 2,
+    "title": "公孙瓒知袁绍已据冀州",
+    "background": "绍知瓒兵至，亦领军出。",
+    "process": "战不到十余合，瓒抵挡不住，败阵而走；瓒手下健将四员，一齐迎战。",
+    "result": "袁绍先使探马看时，回报麴义斩将搴旗，追赶败兵。",
+    "impact_score": 90,
+    "character_ids": [
+      "yuanshao",
+      "zhaoyun",
+      "liubei",
+      "dongzhuo",
+      "guanyu",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_007_2"
+    ]
+  },
+  {
+    "id": "ev_007_3",
+    "chapter": 7,
+    "period_id": "p1",
+    "seq_in_chapter": 3,
+    "title": "孙坚跨江击刘表",
+    "background": "现在磐河厮杀，宜假天子之诏，差人往和解之。",
+    "process": "今本初又与表私议欲袭江东；表大惊，急聚文武将士商议。",
+    "result": "孙坚掩杀败军，直到汉水，命黄盖将船只进泊汉江。",
+    "impact_score": 90,
+    "character_ids": [
+      "liubiao",
+      "sunjian",
+      "yuanshao",
+      "liubei",
+      "yuanshu",
+      "sunce"
+    ],
+    "evidence_ref_ids": [
+      "evi_007_3"
+    ]
+  },
+  {
+    "id": "ev_007_4",
+    "chapter": 7,
+    "period_id": "p1",
+    "seq_in_chapter": 4,
+    "title": "孙坚分兵四面",
+    "background": "孙坚分兵四面，围住襄阳攻打。",
+    "process": "但有追兵到时，不可径走；若能取胜，放起连珠号炮，城中便出接应。",
+    "result": "孙策回到汉水，方知父亲被乱箭射死，尸首已被刘表军士扛抬入城去了，放声大哭。",
+    "impact_score": 82,
+    "character_ids": [
+      "liubiao",
+      "sunjian",
+      "yuanshao",
+      "sunce"
+    ],
+    "evidence_ref_ids": [
+      "evi_007_4"
+    ]
+  },
+  {
+    "id": "ev_008_1",
+    "chapter": 8,
+    "period_id": "p1",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "乘此虚弱之时，火速进军，江东一鼓可得。",
+    "process": "孙策换回黄祖，迎接灵柩，罢战回江东，葬父于曲阿之原；丧事已毕，引军居江都，招贤纳士，屈己待人，四方豪杰，渐渐投之。",
+    "result": "丧事已毕，引军居江都，招贤纳士，屈己待人，四方豪杰，渐渐投之。",
+    "impact_score": 84,
+    "character_ids": [
+      "sunjian",
+      "sunce",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_008_1"
+    ]
+  },
+  {
+    "id": "ev_008_2",
+    "chapter": 8,
+    "period_id": "p1",
+    "seq_in_chapter": 2,
+    "title": "连环计",
+    "background": "董氏宗族，不问长幼，皆封列侯。",
+    "process": "一日，卓出横门，百官皆送，卓留宴，适北地招安降卒数百人到；哀号之声震天，百官战慄失箸，卓饮食谈笑自若。",
+    "result": "允潜步窥之，乃府中歌伎貂蝉也。",
+    "impact_score": 87,
+    "character_ids": [
+      "diaochan",
+      "dongzhuo",
+      "lubu",
+      "sunjian",
+      "yuanshu"
+    ],
+    "evidence_ref_ids": [
+      "evi_008_2"
+    ]
+  },
+  {
+    "id": "ev_008_3",
+    "chapter": 8,
+    "period_id": "p1",
+    "seq_in_chapter": 3,
+    "title": "董太师大闹凤仪亭",
+    "background": "便将家藏明珠数颗，令良匠嵌造金冠一顶，使人密送吕布。",
+    "process": "允具朝服出迎，再拜起居；卓下车，左右持戟甲士百余，簇拥入堂，分列两傍。",
+    "result": "吕布怒恨而归，路遇李儒，告知其故。",
+    "impact_score": 83,
+    "character_ids": [
+      "diaochan",
+      "lubu",
+      "dongzhuo",
+      "han_xiandi"
+    ],
+    "evidence_ref_ids": [
+      "evi_008_3"
+    ]
+  },
+  {
+    "id": "ev_009_1",
+    "chapter": 9,
+    "period_id": "p1",
+    "seq_in_chapter": 1,
+    "title": "董卓乱政",
+    "background": "那撞倒董卓的人，正是李儒。",
+    "process": "昔楚庄王绝缨之会，不究戏爱姬之蒋雄，后为秦兵所困，得其死力相救。",
+    "result": "正在生死之间，得太师来，救了性命。",
+    "impact_score": 85,
+    "character_ids": [
+      "lubu",
+      "diaochan",
+      "dongzhuo",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_009_1"
+    ]
+  },
+  {
+    "id": "ev_009_2",
+    "chapter": 9,
+    "period_id": "p1",
+    "seq_in_chapter": 2,
+    "title": "受禅建晋",
+    "background": "人报天子有诏，卓教唤入。",
+    "process": "卓出坞上车，前遮后拥，望长安来；到北掖门，军兵尽挡在门外，独有御车二十余人同入。",
+    "result": "谁知天意无私曲，郿坞方成已灭亡。",
+    "impact_score": 92,
+    "character_ids": [
+      "lubu",
+      "dongzhuo",
+      "diaochan",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_009_2"
+    ]
+  },
+  {
+    "id": "ev_009_3",
+    "chapter": 9,
+    "period_id": "p1",
+    "seq_in_chapter": 3,
+    "title": "犯长安李傕听贾诩",
+    "background": "王允又命吕布同皇甫嵩、李肃领兵五万，至郿坞抄籍董卓家产、人口。",
+    "process": "李傕、郭汜、张济、樊稠闻董卓已死，吕布将至，便引了飞熊军连夜奔凉州去了；但系董卓亲属，不分老幼，悉皆诛戮。",
+    "result": "于是聚众十余万，分作四路，杀奔长安来。",
+    "impact_score": 84,
+    "character_ids": [
+      "lubu",
+      "dongzhuo",
+      "diaochan",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_009_3"
+    ]
+  },
+  {
+    "id": "ev_009_4",
+    "chapter": 9,
+    "period_id": "p1",
+    "seq_in_chapter": 4,
+    "title": "吕布勒兵到山下",
+    "background": "吕布勒兵到山下，李傕引军搦战。",
+    "process": "未及对敌，背后郭汜又领军杀到；军士畏吕布暴厉，多有降贼者，布心甚忧。",
+    "result": "太常卿种拂、太仆鲁馗、大鸿胪周奂、城门校尉崔烈、越骑校尉王颀皆死于国难。",
+    "impact_score": 84,
+    "character_ids": [
+      "lubu",
+      "dongzhuo",
+      "han_xiandi",
+      "yuanshu"
+    ],
+    "evidence_ref_ids": [
+      "evi_009_4"
+    ]
+  },
+  {
+    "id": "ev_010_1",
+    "chapter": 10,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "董卓乱政",
+    "background": "又下令追寻董卓尸首，获得些零碎皮骨，以香木雕成形体，安凑停当，大设祭祀，用王者衣冠棺椁，选择吉日，迁葬郿坞。",
+    "process": "并州刺史韩遂二将引军十余万，杀奔长安来，声言讨贼；二将先曾使人入长安，结连侍中马宇、谏议大夫种邵、左中郎将刘范三人为内应，共谋贼党。",
+    "result": "马腾、韩遂乘势追杀，大获胜捷，直逼隘口下寨，把李蒙斩首号令。",
+    "impact_score": 86,
+    "character_ids": [
+      "machao",
+      "han_xiandi",
+      "dongzhuo",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_010_1"
+    ]
+  },
+  {
+    "id": "ev_010_2",
+    "chapter": 10,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "报父仇曹操兴师",
+    "background": "李傕、郭汜自战败西凉兵，诸侯莫敢谁何。",
+    "process": "操追赶贼兵，直到济北，降者数万；操即用贼为前驱，兵马到处，无不降顺。",
+    "result": "韦下马，喝退众军，一手执定旗杆，立于风中，巍然不动。",
+    "impact_score": 85,
+    "character_ids": [
+      "caocao",
+      "xiahoudun",
+      "yuanshao",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_010_2"
+    ]
+  },
+  {
+    "id": "ev_010_3",
+    "chapter": 10,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "陶谦在徐州",
+    "background": "操大军所到之处，杀戮人民，发掘坟墓。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "军马列成阵势，曹操纵马出阵，身穿缟素，扬鞭大骂。",
+    "impact_score": 85,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "guanyu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_010_3"
+    ]
+  },
+  {
+    "id": "ev_011_1",
+    "chapter": 11,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "黄巾起义",
+    "background": "献计之人，乃东海朐县人，姓糜，名竺，字子仲。",
+    "process": "陶谦先打发陈元龙往青州去讫，然后命糜竺赍书赴北海，自己率众守城，以备攻击；后为中郎将，累迁北海太守。",
+    "result": "两下夹攻，大败群贼，降者无数，余党溃散。",
+    "impact_score": 87,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "guanyu",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_011_1"
+    ]
+  },
+  {
+    "id": "ev_011_2",
+    "chapter": 11,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "刘皇叔北海救孔融",
+    "background": "曹操见两路军到，亦分了军势，不敢向前攻城。",
+    "process": "是日玄德、张飞引一千人马杀入曹兵寨边；正行之间，寨内一声鼓响，马军步军，如潮似浪，拥将出来。",
+    "result": "两马相交，战到数合，玄德掣双股剑麾兵大进，于禁败走。",
+    "impact_score": 90,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "zhangfei",
+      "guanyu",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_011_2"
+    ]
+  },
+  {
+    "id": "ev_011_3",
+    "chapter": 11,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "吕温侯濮阳破曹操",
+    "background": "操问其故，报说吕布已袭破兖州，进据濮阳。",
+    "process": "李傕、郭汜知之，遂斩庞舒，写书与张杨，教杀吕布；止有鄄城、东阿、范县三处，被荀彧、程昱设计死守得全，其余俱破。",
+    "result": "曹操回军，曹仁接着，言吕布势大，更有陈宫为辅，兖州、濮阳已失，其鄄城、东阿、范县三处，赖荀彧、程昱二人设计相连，死守城郭。",
+    "impact_score": 94,
+    "character_ids": [
+      "liubei",
+      "lubu",
+      "caocao",
+      "yuanshao",
+      "guanyu",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_011_3"
+    ]
+  },
+  {
+    "id": "ev_011_4",
+    "chapter": 11,
+    "period_id": "p2",
+    "seq_in_chapter": 4,
+    "title": "曹操兵近濮阳",
+    "background": "操立马于门旗下，遥望吕布兵到。",
+    "process": "夏侯惇拍马便出助战，吕布阵上张辽截住厮杀；夏侯惇、乐进皆走，吕布掩杀，曹军大败，退三四十里。",
+    "result": "众将死战，操当先冲阵。",
+    "impact_score": 86,
+    "character_ids": [
+      "lubu",
+      "caocao",
+      "xiahoudun",
+      "zhangliao"
+    ],
+    "evidence_ref_ids": [
+      "evi_011_4"
+    ]
+  },
+  {
+    "id": "ev_012_1",
+    "chapter": 12,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "曹孟穗大战吕布",
+    "background": "曹操正慌走间，正南上一彪军到，乃夏侯惇引军来救援，截住吕布大战。",
+    "process": "今欲移兵黎阳，止有高顺在城内；操若来，诱之入城，四门放火，外设伏兵。",
+    "result": "典韦冒烟突火，又杀入去，到处寻觅。",
+    "impact_score": 88,
+    "character_ids": [
+      "lubu",
+      "caocao",
+      "xiahoudun",
+      "zhangliao"
+    ],
+    "evidence_ref_ids": [
+      "evi_012_1"
+    ]
+  },
+  {
+    "id": "ev_012_2",
+    "chapter": 12,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "曹操见典韦杀出去了",
+    "background": "曹操见典韦杀出去了，四下里人马截来，不得出南门。",
+    "process": "韦拥护曹操，杀条血路，到城门边，火焰甚盛，城上推下柴草，遍地都是火，韦用戟拨开，飞马冒烟突火先出；操乘渊马，典韦杀条大路而走。",
+    "result": "吕布死战得脱，折了好些人马。",
+    "impact_score": 87,
+    "character_ids": [
+      "caocao",
+      "lubu",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_012_2"
+    ]
+  },
+  {
+    "id": "ev_012_3",
+    "chapter": 12,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "空城计",
+    "background": "今因岁荒罢兵，来春又必至矣。",
+    "process": "破而取其粮，以养三军，朝廷喜，百姓悦，乃顺天之事也；典韦追袭何仪到葛陂，壮士引军迎住。",
+    "result": "又一日寇至，坞中无粮，遂与贼和，约以耕牛换米。",
+    "impact_score": 95,
+    "character_ids": [
+      "lubu",
+      "liubei",
+      "xiahoudun",
+      "caocao",
+      "xuchu",
+      "zhangliao"
+    ],
+    "evidence_ref_ids": [
+      "evi_012_3"
+    ]
+  },
+  {
+    "id": "ev_013_1",
+    "chapter": 13,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "董卓乱政",
+    "background": "先寻取安身之地，那时再来未迟。",
+    "process": "不若助操攻之，方可无患；布大惊，与陈宫商议。",
+    "result": "近邑小沛，乃备昔日屯兵之处。",
+    "impact_score": 97,
+    "character_ids": [
+      "liubei",
+      "lubu",
+      "caocao",
+      "zhangfei",
+      "yuanshao",
+      "dongzhuo"
+    ],
+    "evidence_ref_ids": [
+      "evi_013_1"
+    ]
+  },
+  {
+    "id": "ev_013_2",
+    "chapter": 13,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "李傕郭汜大交兵",
+    "background": "倘司马知之，必遭其害。",
+    "process": "汜妻乃暗置毒于中，方始献入，汜便欲食；一日朝罢，李傕力邀郭汜赴家饮宴。",
+    "result": "傕乃移帝后车驾于郿坞，使侄李暹监之，断绝内使，饮食不继，侍臣皆有饥色。",
+    "impact_score": 88,
+    "character_ids": [
+      "caocao",
+      "han_xiandi",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_013_2"
+    ]
+  },
+  {
+    "id": "ev_013_3",
+    "chapter": 13,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "李傕平日最喜左道妖邪之术",
+    "background": "少顷，李傕来见，带剑而入。",
+    "process": "帝知郦能言，又与李傕同乡，诏使往两边解和。",
+    "result": "杨奉乘势掩杀，汜军大败，退走二十余里。",
+    "impact_score": 88,
+    "character_ids": [
+      "lubu",
+      "caocao",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_013_3"
+    ]
+  },
+  {
+    "id": "ev_013_4",
+    "chapter": 13,
+    "period_id": "p2",
+    "seq_in_chapter": 4,
+    "title": "郭汜败了一阵",
+    "background": "郭汜败了一阵，次日又点军杀至营前来。",
+    "process": "杨奉、董承知贼兵远来，遂勒兵回，与贼大战于东涧；杨奉、董承两边死战，刚保帝后车出。",
+    "result": "二贼从其言，乃放百官及宫人归。",
+    "impact_score": 88,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "guanyu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_013_4"
+    ]
+  },
+  {
+    "id": "ev_014_1",
+    "chapter": 14,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "曹操在山东",
+    "background": "两马相交，只一合，被徐晃一斧砍于马下，杀散余党，保护车驾过箕关。",
+    "process": "百官朝贺，皆立于荆棘之中；秦鹿逐翻兴社稷，楚雅推倒立封疆。",
+    "result": "惇乃与曹洪分为两翼，马军先出，步军后随，尽力攻击。",
+    "impact_score": 83,
+    "character_ids": [
+      "xiahoudun",
+      "caocao",
+      "xuchu",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_014_1"
+    ]
+  },
+  {
+    "id": "ev_014_2",
+    "chapter": 14,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "曹孟德移驾幸许都",
+    "background": "李傕、郭汜知操远来，议欲速战。",
+    "process": "阵圆处，李傕侄李暹、李别出马阵前，未及开言，许褚飞马过去，一刀先斩李暹；操亲掣宝剑押阵，率众连夜追杀，剿戮极多，降者不计其数。",
+    "result": "刀斧相交，战五十余合，不分胜败。",
+    "impact_score": 86,
+    "character_ids": [
+      "caocao",
+      "xuchu",
+      "xiahoudun",
+      "yuanshao",
+      "han_xiandi"
+    ],
+    "evidence_ref_ids": [
+      "evi_014_2"
+    ]
+  },
+  {
+    "id": "ev_014_3",
+    "chapter": 14,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "满宠扮作小卒",
+    "background": "满宠扮作小卒，混入彼军队中，偷至徐晃帐前，只见晃秉烛被甲而坐。",
+    "process": "曹操趁彼军乱，乘势攻击，两家军士大半多降；于是迎銮驾到许都，盖造宫室殿宇，立宗庙社稷、省台司院衙门，修城郭府库。",
+    "result": "玄德驱兵杀将过去，纪灵大败，退守淮阴河口，不敢交战。",
+    "impact_score": 90,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "lubu",
+      "zhangfei",
+      "yuanshu",
+      "xiahoudun"
+    ],
+    "evidence_ref_ids": [
+      "evi_014_3"
+    ]
+  },
+  {
+    "id": "ev_014_4",
+    "chapter": 14,
+    "period_id": "p2",
+    "seq_in_chapter": 4,
+    "title": "吕奉先乘夜袭徐郡",
+    "background": "张飞自送玄德起身后，一应杂事，俱付陈元龙管理。",
+    "process": "张飞此时酒犹未醒，不能力战；十八骑燕将，保着张飞，杀出东门，玄德家眷在府中，都不及顾了。",
+    "result": "战了三合，曹豹败走，飞赶到河边，一枪正刺中曹豹后心，连人带马，死于河中。",
+    "impact_score": 82,
+    "character_ids": [
+      "zhangfei",
+      "lubu",
+      "liubei",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_014_4"
+    ]
+  },
+  {
+    "id": "ev_015_1",
+    "chapter": 15,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "桃园结义",
+    "background": "家眷虽被陷，吕布必不谋害，尚可设计救之。",
+    "process": "袁术知吕布袭了徐州，星夜差人至吕布处，许以粮五万斛、马五百匹、金银一万两、彩缎一千匹，使夹攻刘备。",
+    "result": "甘、麋二夫人见玄德，具说吕布令兵把定宅门。",
+    "impact_score": 88,
+    "character_ids": [
+      "liubei",
+      "lubu",
+      "yuanshu",
+      "zhangfei",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_015_1"
+    ]
+  },
+  {
+    "id": "ev_015_2",
+    "chapter": 15,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "太史慈酣斗小霸王",
+    "background": "人报孙策征庐江太守陆康，得胜而回。",
+    "process": "策老母家小，皆在曲阿，必将被害。",
+    "result": "收得牛渚邸阁粮食、军器，并降卒四千余人，遂进兵神亭。",
+    "impact_score": 83,
+    "character_ids": [
+      "sunce",
+      "yuanshu",
+      "sunjian",
+      "dongzhuo"
+    ],
+    "evidence_ref_ids": [
+      "evi_015_2"
+    ]
+  },
+  {
+    "id": "ev_015_3",
+    "chapter": 15,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "孙策看了半晌",
+    "background": "两马相交，战五十合，不分胜负。",
+    "process": "慈见孙策枪法无半点儿渗漏，乃佯输诈败，引孙策赶来；孙策引军到刘繇营前，刘繇引军出迎。",
+    "result": "孙策还兵复攻秣陵，亲到城壕边，招谕薛礼投降。",
+    "impact_score": 83,
+    "character_ids": [
+      "sunce",
+      "zhouyu",
+      "liubiao",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_015_3"
+    ]
+  },
+  {
+    "id": "ev_015_4",
+    "chapter": 15,
+    "period_id": "p2",
+    "seq_in_chapter": 4,
+    "title": "太史慈招得精壮二千余人",
+    "background": "孙策与周瑜商议活捉太史慈之计。",
+    "process": "于是孙策聚数万之众，下江东，安民恤众，投者无数；韩当引军直杀到阊门下，贼退入城里去了。",
+    "result": "孙策一连攻了数日，不能成功，乃与众将计议。",
+    "impact_score": 99,
+    "character_ids": [
+      "sunce",
+      "zhouyu",
+      "sunquan",
+      "yuanshu",
+      "caocao",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_015_4"
+    ]
+  },
+  {
+    "id": "ev_016_1",
+    "chapter": 16,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "黄巾起义",
+    "background": "先擒刘备，后图吕布，徐州可得也。",
+    "process": "胤回告袁术，术遂遣纪灵为大将，雷薄、陈兰为副将，统兵数万，进攻小沛；玄德闻知此信，聚众商议。",
+    "result": "布乃居中坐，使灵居左，备居右，且教设宴行酒。",
+    "impact_score": 89,
+    "character_ids": [
+      "liubei",
+      "lubu",
+      "yuanshu",
+      "zhangfei",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_016_1"
+    ]
+  },
+  {
+    "id": "ev_016_2",
+    "chapter": 16,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "主公有一子",
+    "background": "不说玄德入小沛，吕布归徐州。",
+    "process": "纪灵回淮南见袁术，说吕布辕门射就解和之事，呈上书信；曹氏先亡无出，貂蝉亦无所出，惟严氏生一女，布最钟爱。",
+    "result": "事件收束后，人物关系与后续局势随之改写。",
+    "impact_score": 88,
+    "character_ids": [
+      "lubu",
+      "liubei",
+      "yuanshu",
+      "diaochan",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_016_2"
+    ]
+  },
+  {
+    "id": "ev_016_3",
+    "chapter": 16,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "吕奉先射戟辕门",
+    "background": "陈宫竟往馆驿内拜望韩胤。",
+    "process": "打听得是刘备之弟张飞，诈妆出贼，抢劫马匹去了；吕布见玄德去了，也不来赶，随即入城安民，令高顺守小沛，自己仍回徐州去了。",
+    "result": "况闻袁术有称帝之意，是造反也。",
+    "impact_score": 99,
+    "character_ids": [
+      "liubei",
+      "lubu",
+      "zhangfei",
+      "caocao",
+      "yuanshu",
+      "zhangliao"
+    ],
+    "evidence_ref_ids": [
+      "evi_016_3"
+    ]
+  },
+  {
+    "id": "ev_016_4",
+    "chapter": 16,
+    "period_id": "p2",
+    "seq_in_chapter": 4,
+    "title": "玄德前奔许都",
+    "background": "玄德前奔许都，到城外下寨，先使孙乾来见曹操，言被吕布追逼。",
+    "process": "操正欲起兵，自往征吕布，忽流星马报说张济自关中引兵攻南阳，为流矢所中而死；操大怒，欲兴兵讨之，又恐吕布来侵许都，乃问计于荀彧。",
+    "result": "左右诸将，见于禁向前，各引兵击之，绣军大败，追杀百余里。",
+    "impact_score": 92,
+    "character_ids": [
+      "liubei",
+      "lubu",
+      "xiahoudun",
+      "caocao",
+      "yuanshu",
+      "liubiao"
+    ],
+    "evidence_ref_ids": [
+      "evi_016_4"
+    ]
+  },
+  {
+    "id": "ev_017_1",
+    "chapter": 17,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "袁公路大起七军",
+    "background": "袁术在淮南，地广粮多，又有孙策所质玉玺，遂思僭称帝号。",
+    "process": "因命使催取吕布之女为东宫妃，却闻布已将韩胤解赴许都，为曹操所斩，乃大怒；术自引军三万，使李丰、梁刚、乐就为催进使，接应七路之兵。",
+    "result": "纪灵大败而走，吕布引兵追杀。",
+    "impact_score": 99,
+    "character_ids": [
+      "lubu",
+      "yuanshu",
+      "guanyu",
+      "caocao",
+      "sunce",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_017_1"
+    ]
+  },
+  {
+    "id": "ev_017_2",
+    "chapter": 17,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "桥蕤当先出马",
+    "background": "曹操使至，拜策为会稽太守，令起兵征讨袁术。",
+    "process": "孙策自发书后，防袁术兵来，点军守住江口；一面先发人会合孙策与刘备、吕布。",
+    "result": "桥蕤当先出马，与夏侯惇战不三合，被夏侯惇搠死。",
+    "impact_score": 99,
+    "character_ids": [
+      "liubei",
+      "yuanshu",
+      "sunce",
+      "xiahoudun",
+      "caocao",
+      "lubu"
+    ],
+    "evidence_ref_ids": [
+      "evi_017_2"
+    ]
+  },
+  {
+    "id": "ev_017_3",
+    "chapter": 17,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "商议欲进兵渡淮",
+    "background": "商议欲进兵渡淮，追赶袁术。",
+    "process": "自己即日班师，别议征张绣之事；曹操引军回许都，人报段煨杀了李傕，伍习杀了郭汜，将头来献。",
+    "result": "只三合，许褚斩张先于马下，绣军大败。",
+    "impact_score": 93,
+    "character_ids": [
+      "liubiao",
+      "caocao",
+      "liubei",
+      "lubu",
+      "xuchu",
+      "yuanshu"
+    ],
+    "evidence_ref_ids": [
+      "evi_017_3"
+    ]
+  },
+  {
+    "id": "ev_018_1",
+    "chapter": 18,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "贾诩料知曹操之意",
+    "background": "来日可今精壮之兵，饱食轻装，尽蒙于东南房屋内，却教百姓假扮军士，虚守西北。",
+    "process": "早有探马报曹操，说张绣尽撤兵在西北角上，呐喊守城，东南却甚空虚；日间只引军攻西北角。",
+    "result": "曹操计点败军，折兵五万余人，失去辎重无数。",
+    "impact_score": 87,
+    "character_ids": [
+      "caocao",
+      "xiahoudun",
+      "liubiao",
+      "sunce"
+    ],
+    "evidence_ref_ids": [
+      "evi_018_1"
+    ]
+  },
+  {
+    "id": "ev_018_2",
+    "chapter": 18,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "刘表问贾诩曰前以精兵追退兵",
+    "background": "操军缓缓而行，至襄城，到清水，操忽于马上放声大哭。",
+    "process": "刘表军已守险要，张绣随后引军赶来；操纵奇兵出，大破两家之兵。",
+    "result": "曹军奋力接战，绣、表两军大败而还。",
+    "impact_score": 94,
+    "character_ids": [
+      "liubiao",
+      "caocao",
+      "yuanshao",
+      "lubu",
+      "liubei",
+      "xiahoudun"
+    ],
+    "evidence_ref_ids": [
+      "evi_018_2"
+    ]
+  },
+  {
+    "id": "ev_018_3",
+    "chapter": 18,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "夏侯惇拨矢啖睛",
+    "background": "陈宫令搜其身，得玄德回答曹操密书一封。",
+    "process": "令高顺、张辽取沛城，攻玄德；高顺等引兵出徐州，将至小沛，有人报知玄德。",
+    "result": "高顺从背后赶来，麾军齐上，曹兵大败。",
+    "impact_score": 94,
+    "character_ids": [
+      "liubei",
+      "xiahoudun",
+      "lubu",
+      "zhangliao",
+      "caocao",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_018_3"
+    ]
+  },
+  {
+    "id": "ev_019_1",
+    "chapter": 19,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "董卓乱政",
+    "background": "刘安闻豫州牧至，欲寻野味供食，一时不能得，乃杀其妻以食之。",
+    "process": "至晓将去，往后院取马，忽见一妇人杀于厨下，臂上肉已都割去；又说刘安杀妻为食之事，操乃令孙乾以金百两往赐之。",
+    "result": "若早来降，共扶王室，当不失封侯之位。",
+    "impact_score": 96,
+    "character_ids": [
+      "liubei",
+      "lubu",
+      "caocao",
+      "zhangfei",
+      "zhangliao",
+      "yuanshu"
+    ],
+    "evidence_ref_ids": [
+      "evi_019_1"
+    ]
+  },
+  {
+    "id": "ev_019_2",
+    "chapter": 19,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "下邳城曹操鏖兵",
+    "background": "许汜、王楷回见吕布，具言袁术先欲得妇，然后起兵救援。",
+    "process": "吕布虽勇，终是缚一女在身上，只恐有伤，不敢冲突重围；吕布屡败，锐气已堕，军以将为主，将衰则军无战心。",
+    "result": "吕布虽勇，终是缚一女在身上，只恐有伤，不敢冲突重围。",
+    "impact_score": 95,
+    "character_ids": [
+      "lubu",
+      "liubei",
+      "zhangliao",
+      "caocao",
+      "yuanshu",
+      "xuchu"
+    ],
+    "evidence_ref_ids": [
+      "evi_019_2"
+    ]
+  },
+  {
+    "id": "ev_019_3",
+    "chapter": 19,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "白门楼吕布殒命",
+    "background": "侯成知觉，追杀后槽人，将马夺回。",
+    "process": "魏续便开门放出，却佯作追赶之状；曹操闻此信，便押榜数十张射入城去。",
+    "result": "操令将吕布缢死，然后枭首。",
+    "impact_score": 91,
+    "character_ids": [
+      "lubu",
+      "liubei",
+      "zhangliao",
+      "caocao",
+      "dongzhuo"
+    ],
+    "evidence_ref_ids": [
+      "evi_019_3"
+    ]
+  },
+  {
+    "id": "ev_020_1",
+    "chapter": 20,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "董卓乱政",
+    "background": "霸闻吕布已死，张辽已降，遂亦引本部军投降。",
+    "process": "孙观等亦各加官，令守青、徐沿海地面；献帝设朝，操表奏玄德军功，引玄德见帝。",
+    "result": "自此人皆称为刘皇叔。",
+    "impact_score": 97,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "guanyu",
+      "han_xiandi",
+      "zhangliao",
+      "lubu"
+    ],
+    "evidence_ref_ids": [
+      "evi_020_1"
+    ]
+  },
+  {
+    "id": "ev_020_2",
+    "chapter": 20,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "帝乃自作一密诏",
+    "background": "帝乃自作一密诏，咬破指尖，以血写之，暗令伏皇后缝于玉带紫锦衬内，却自穿锦袍，自系此带，令内史宣董承入。",
+    "process": "晨起，复至书院中，将诏再三观看，无计可施；乃放诏于几上，沈思灭操之计。",
+    "result": "乃放诏于几上，沈思灭操之计。",
+    "impact_score": 88,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "guanyu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_020_2"
+    ]
+  },
+  {
+    "id": "ev_020_3",
+    "chapter": 20,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "董国舅内阁受诏",
+    "background": "门吏知子服与董承交厚，不敢拦阻，竟入书院。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "王侍郎之言乃戏耳。",
+    "impact_score": 88,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "guanyu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_020_3"
+    ]
+  },
+  {
+    "id": "ev_021_1",
+    "chapter": 21,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "曹操煮酒论英雄",
+    "background": "玄德非不欲图操，恨操牙爪多，恐力不及耳。",
+    "process": "玄德也防曹操谋害，就下处后园种菜，亲自浇灌，以为韬晦之计；天雨方住，见两个人撞入后园，手提宝剑，突至亭前，左右拦挡不住。",
+    "result": "操视之，乃关、张二人也。",
+    "impact_score": 91,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "guanyu",
+      "xuchu",
+      "zhangliao",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_021_1"
+    ]
+  },
+  {
+    "id": "ev_021_2",
+    "chapter": 21,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "退守城中被袁绍穿地直入瓒所…",
+    "background": "正饮间，人报满宠去探听袁绍而回。",
+    "process": "因此袁绍兵来，多有降者；瓒自出战，伏兵四起，军马折其大半。",
+    "result": "术使人归帝号于袁绍。",
+    "impact_score": 90,
+    "character_ids": [
+      "liubei",
+      "yuanshao",
+      "yuanshu",
+      "caocao",
+      "xuchu",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_021_2"
+    ]
+  },
+  {
+    "id": "ev_021_3",
+    "chapter": 21,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "玄德正行之间",
+    "background": "许褚至，见严兵整甲，乃下马入营见玄德。",
+    "process": "撞破铁笼逃虎豹，顿开金锁走蛟龙；斗无十合，张飞大喝一声，刺纪灵于马下，败军奔走。",
+    "result": "术嫌饭粗，不能下咽，乃命庖人取蜜水止渴。",
+    "impact_score": 90,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "yuanshu",
+      "zhangfei",
+      "guanyu",
+      "xuchu"
+    ],
+    "evidence_ref_ids": [
+      "evi_021_3"
+    ]
+  },
+  {
+    "id": "ev_022_1",
+    "chapter": 22,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "董卓乱政",
+    "background": "融每当讲学，必设绛帐，前聚生徒，后陈声妓，侍女环列左右。",
+    "process": "玄德想出此人，大喜，便同陈登亲至郑玄家中，求其作书；玄德便差孙乾星夜赍往袁绍处投递。",
+    "result": "于是绛侯朱虚兴兵奋怒。",
+    "impact_score": 84,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "yuanshao",
+      "dongzhuo"
+    ],
+    "evidence_ref_ids": [
+      "evi_022_1"
+    ]
+  },
+  {
+    "id": "ev_022_2",
+    "chapter": 22,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "至乃愚佻短略",
+    "background": "金辇璧，输货权门，窃盗鼎司，倾覆重器。",
+    "process": "操同谘合谋，授以裨师，谓其鹰犬之才，爪牙可任；乃愚佻短略，轻进易退，伤夷折衄，数丧师徒。",
+    "result": "乃愚佻短略，轻进易退，伤夷折衄，数丧师徒。",
+    "impact_score": 83,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "guanyu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_022_2"
+    ]
+  },
+  {
+    "id": "ev_022_3",
+    "chapter": 22,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "方地夺于吕布",
+    "background": "枝之义，且不登叛人之党，故复援旌擐甲，席卷起征，金。",
+    "process": "幕府无德于兖土之民，而有大造于操也；后会銮驾返旆，群虏寇攻。",
+    "result": "故太尉杨彪，典历二司，享国极位。",
+    "impact_score": 83,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "guanyu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_022_3"
+    ]
+  },
+  {
+    "id": "ev_022_4",
+    "chapter": 22,
+    "period_id": "p2",
+    "seq_in_chapter": 4,
+    "title": "操欲迷夺时明",
+    "background": "议郎赵彦，忠谏直言，义有可纳，是以圣朝含听，改容。",
+    "process": "操欲迷夺时明，杜绝言路，擅收立杀，不俟报国；而操帅将吏士，亲临发掘，破棺裸尸，掠取金宝。",
+    "result": "操豺狼野心，潜包祸谋，乃欲摧挠栋梁，孤弱汉室，除。",
+    "impact_score": 83,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "guanyu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_022_4"
+    ]
+  },
+  {
+    "id": "ev_022_5",
+    "chapter": 22,
+    "period_id": "p2",
+    "seq_in_chapter": 5,
+    "title": "往者伐鼓北征公孙瓒",
+    "background": "操因其未破，阴交书命，外助王师，内相掩袭。",
+    "process": "会其行人发露，瓒亦枭夷，故使锋芒挫缩，厥图不果。",
+    "result": "部曲，咸怨旷思归，流涕北顾。",
+    "impact_score": 83,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "guanyu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_022_5"
+    ]
+  },
+  {
+    "id": "ev_022_6",
+    "chapter": 22,
+    "period_id": "p2",
+    "seq_in_chapter": 6,
+    "title": "若回旆方徂",
+    "background": "若回旆方徂，登高冈而击鼓吹，扬素挥以启降路，必。",
+    "process": "方畿之内，简练之臣，皆垂头□翼，莫所；操持部曲精兵七百，围守宫阙，外托宿卫，内实拘执。",
+    "result": "此乃忠臣肝脑涂地之秋，烈士。",
+    "impact_score": 83,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "guanyu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_022_6"
+    ]
+  },
+  {
+    "id": "ev_022_7",
+    "chapter": 22,
+    "period_id": "p2",
+    "seq_in_chapter": 7,
+    "title": "官渡之战",
+    "background": "其部下如许攸、郭图、审配、逢纪皆智谋之士。",
+    "process": "及操取兖州，岱降于操，操用为偏将，故今差他与王忠一同领兵；袁绍心怀疑惑，不思进兵，操乃唤吕布手下降将臧霸守把青、徐。",
+    "result": "刘岱见降卒身受重伤，遂听其说，虚扎空寨，伏兵在外。",
+    "impact_score": 99,
+    "character_ids": [
+      "liubei",
+      "guanyu",
+      "zhangfei",
+      "caocao",
+      "yuanshao",
+      "lubu"
+    ],
+    "evidence_ref_ids": [
+      "evi_022_7"
+    ]
+  },
+  {
+    "id": "ev_023_1",
+    "chapter": 23,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "可先使人招安张绣、刘表，然后再图徐州。",
+    "process": "正议间，忽报袁绍有使至。",
+    "result": "维岳降神，异人并出。",
+    "impact_score": 85,
+    "character_ids": [
+      "liubiao",
+      "caocao",
+      "liubei",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_023_1"
+    ]
+  },
+  {
+    "id": "ev_023_2",
+    "chapter": 23,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "表问众谋士曰袁本初又遣使来",
+    "background": "衡至荆州，见刘表毕，虽颂德，实讥讽。",
+    "process": "操遂拜嵩为侍中，领零陵太守。",
+    "result": "事件收束后，人物关系与后续局势随之改写。",
+    "impact_score": 84,
+    "character_ids": [
+      "liubiao",
+      "caocao",
+      "yuanshao",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_023_2"
+    ]
+  },
+  {
+    "id": "ev_023_3",
+    "chapter": 23,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "董承自刘玄德去后",
+    "background": "董承自刘玄德去后，日夜与王子服等商议，无计可施。",
+    "process": "马腾结连韩遂，起西凉军七十二万，从北杀来；乘今夜府中大宴，庆赏元宵，将府围住，突入杀之。",
+    "result": "承乃取出衣带诏，令平视之。",
+    "impact_score": 84,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "liubiao",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_023_3"
+    ]
+  },
+  {
+    "id": "ev_023_4",
+    "chapter": 23,
+    "period_id": "p2",
+    "seq_in_chapter": 4,
+    "title": "操回府以诏状示众谋士商议",
+    "background": "曹操诈患头风，召吉平用药。",
+    "process": "药已半干，平已暗下毒药，亲自送上；带领众人径投董承家探病。",
+    "result": "操见吉平已死，教左右牵过秦庆童至面前。",
+    "impact_score": 84,
+    "character_ids": [
+      "caocao",
+      "han_xiandi",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_023_4"
+    ]
+  },
+  {
+    "id": "ev_024_1",
+    "chapter": 24,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "官渡之战",
+    "background": "曹操见了衣带诏，与众谋士商议，欲废却献帝，更择有德者立之。",
+    "process": "曹操既杀了董承等众人，怒气未消，遂带剑入宫，来弑董贵妃；见曹操带剑入宫，面有怒容，帝大惊失色。",
+    "result": "刘备新整军兵，众心未服，丞相引兵东征，一战可定矣。",
+    "impact_score": 99,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "yuanshao",
+      "dongzhuo",
+      "han_xiandi",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_024_1"
+    ]
+  },
+  {
+    "id": "ev_024_2",
+    "chapter": 24,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "所领军兵原是曹操手下旧军",
+    "background": "操便令军兵且住，聚众谋士问吉凶。",
+    "process": "正东张辽、正西许褚、正南于禁、正北李典、东南徐晃、西南乐进，东北夏侯惇、西北夏侯渊，八处军马杀来；所领军兵原是曹操手下旧军，见事势已急，尽皆投降去了。",
+    "result": "所领军兵原是曹操手下旧军，见事势已急，尽皆投降去了。",
+    "impact_score": 93,
+    "character_ids": [
+      "zhangfei",
+      "caocao",
+      "liubei",
+      "xiahoudun",
+      "zhangliao",
+      "xuchu"
+    ],
+    "evidence_ref_ids": [
+      "evi_024_2"
+    ]
+  },
+  {
+    "id": "ev_024_3",
+    "chapter": 24,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "玄德突围而走",
+    "background": "玄德突围而走，夏侯渊又从后赶来。",
+    "process": "欲投徐州、下邳，又见曹军漫山塞野，截住去路；玄德匹马投青州，日行三百里，奔至青州城下叫门。",
+    "result": "谭乃留玄德于馆驿中住下，发书报父袁绍。",
+    "impact_score": 93,
+    "character_ids": [
+      "liubei",
+      "yuanshao",
+      "guanyu",
+      "caocao",
+      "xiahoudun",
+      "zhangliao"
+    ],
+    "evidence_ref_ids": [
+      "evi_024_3"
+    ]
+  },
+  {
+    "id": "ev_025_1",
+    "chapter": 25,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "屯土山关公约三事",
+    "background": "夏侯惇为先锋，领兵五千来搦战。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "捱到天晓，再欲整顿下山冲突，忽见一人跑马上山来，视之乃张辽也。",
+    "impact_score": 95,
+    "character_ids": [
+      "xiahoudun",
+      "liubei",
+      "xuchu",
+      "caocao",
+      "zhangliao",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_025_1"
+    ]
+  },
+  {
+    "id": "ev_025_2",
+    "chapter": 25,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "桃园结义",
+    "background": "只恐日后曹操不容叔叔去寻皇叔。",
+    "process": "操即传令，退军三十里；谁想毫发不动，一军不敢入门。",
+    "result": "却又三日一次于内门外躬身施礼，动问二嫂安否。",
+    "impact_score": 90,
+    "character_ids": [
+      "caocao",
+      "guanyu",
+      "zhangliao",
+      "liubei",
+      "han_xiandi"
+    ],
+    "evidence_ref_ids": [
+      "evi_025_2"
+    ]
+  },
+  {
+    "id": "ev_025_3",
+    "chapter": 25,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "正说间适曹操命使来请关公赴宴",
+    "background": "今徐州已破，操兵方锐，未可轻敌。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "奸相枉将虚礼待，岂知关羽不降曹。",
+    "impact_score": 94,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "guanyu",
+      "lubu",
+      "yuanshao",
+      "zhangliao"
+    ],
+    "evidence_ref_ids": [
+      "evi_025_3"
+    ]
+  },
+  {
+    "id": "ev_025_4",
+    "chapter": 25,
+    "period_id": "p2",
+    "seq_in_chapter": 4,
+    "title": "绍大怒指玄德曰汝弟斩吾爱将",
+    "background": "颜良败军奔回，半路迎见袁绍，报说被赤面长须使大刀一勇将，匹马入阵，斩颜良而去，因此大败。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "事件收束后，人物关系与后续局势随之改写。",
+    "impact_score": 86,
+    "character_ids": [
+      "liubei",
+      "yuanshao",
+      "guanyu",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_025_4"
+    ]
+  },
+  {
+    "id": "ev_026_1",
+    "chapter": 26,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "官渡之战",
+    "background": "却说袁绍欲斩玄德。",
+    "process": "曹兵围裹将来，文丑挺身独战，军士自相践踏；辽奋力再赶，坐下战马，又被文丑一箭射中面颊。",
+    "result": "操乃先使人移徙居民于西河，然后自领兵迎之。",
+    "impact_score": 99,
+    "character_ids": [
+      "liubei",
+      "guanyu",
+      "yuanshao",
+      "zhangliao",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_026_1"
+    ]
+  },
+  {
+    "id": "ev_026_2",
+    "chapter": 26,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "官渡之战（其二）",
+    "background": "河北军大半落水，粮草马匹仍被曹操夺回。",
+    "process": "正杀之间，刘玄德领三万军随后到。",
+    "result": "今刘、龚二人归顺袁绍，相助攻曹。",
+    "impact_score": 99,
+    "character_ids": [
+      "liubei",
+      "guanyu",
+      "caocao",
+      "yuanshao",
+      "xiahoudun"
+    ],
+    "evidence_ref_ids": [
+      "evi_026_2"
+    ]
+  },
+  {
+    "id": "ev_026_3",
+    "chapter": 26,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "桃园结义",
+    "background": "于禁探知刘备在河北，报与曹操。",
+    "process": "乃往张辽家相探，欲言其事；丞相所拨人役，皆不带去，只带原跟从人，及随身行李，出北门去了。",
+    "result": "乃往张辽家相探，欲言其事。",
+    "impact_score": 91,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "zhangliao",
+      "yuanshao",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_026_3"
+    ]
+  },
+  {
+    "id": "ev_027_1",
+    "chapter": 27,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "黄巾起义",
+    "background": "若纵之使归袁绍，是与虎添翼也。",
+    "process": "不若追而杀了，以绝后患；彼各为其主，勿追也。",
+    "result": "见曹操引数十骑，飞奔前来，背后乃是许褚、徐晃、于禁、李典之辈。",
+    "impact_score": 97,
+    "character_ids": [
+      "guanyu",
+      "caocao",
+      "zhangliao",
+      "yuanshao",
+      "xuchu",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_027_1"
+    ]
+  },
+  {
+    "id": "ev_027_2",
+    "chapter": 27,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "孟坦曰吾有一计先将鹿角拦定…",
+    "background": "早有军士报知洛阳太守韩福。",
+    "process": "今不可力敌，只须设计擒之。",
+    "result": "那镇国寺乃汉明帝御前香火院，本寺有僧三十余人。",
+    "impact_score": 88,
+    "character_ids": [
+      "caocao",
+      "guanyu",
+      "liubei",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_027_2"
+    ]
+  },
+  {
+    "id": "ev_027_3",
+    "chapter": 27,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "汉寿侯五关斩六将",
+    "background": "行至滑州界首，有人报与刘延。",
+    "process": "延引数十骑，出郭而迎；马骑赤兔行千里，刀偃青龙出五关。",
+    "result": "袁绍多疑，主持不定。",
+    "impact_score": 88,
+    "character_ids": [
+      "yuanshao",
+      "xiahoudun",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_027_3"
+    ]
+  },
+  {
+    "id": "ev_028_1",
+    "chapter": 28,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "关公同孙乾保二嫂向汝南进发",
+    "background": "于是张辽与夏侯惇领军自回。",
+    "process": "行了数日，忽值大雨滂沱，行装尽湿；至黄昏时候，忽见一少年，引数人入庄，径上草堂。",
+    "result": "事件收束后，人物关系与后续局势随之改写。",
+    "impact_score": 87,
+    "character_ids": [
+      "xiahoudun",
+      "guanyu",
+      "zhangliao",
+      "yuanshao",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_028_1"
+    ]
+  },
+  {
+    "id": "ev_028_2",
+    "chapter": 28,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "公乃停刀立马",
+    "background": "自张角死后，一向无主，啸聚山林，权于此处藏伏。",
+    "process": "果见一人，黑面长身，持枪乘马，引众而至。",
+    "result": "原在黄巾张宝部下为将，张宝死，啸聚山林。",
+    "impact_score": 82,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "guanyu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_028_2"
+    ]
+  },
+  {
+    "id": "ev_028_3",
+    "chapter": 28,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "桃园结义",
+    "background": "张飞在芒砀山中，住了月余，因出外探听玄德消息，偶过古城。",
+    "process": "县官不肯，飞怒，因就逐去县官，夺了县印，占住城池，权且安身；孙乾惊讶，又不敢问，只得随出城来。",
+    "result": "视之，乃糜竺、糜芳也。",
+    "impact_score": 86,
+    "character_ids": [
+      "zhangfei",
+      "guanyu",
+      "liubei",
+      "caocao",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_028_3"
+    ]
+  },
+  {
+    "id": "ev_028_4",
+    "chapter": 28,
+    "period_id": "p2",
+    "seq_in_chapter": 4,
+    "title": "会古城主臣聚义",
+    "background": "再苦一番驱驰，仍往河北去报知皇叔，同至古城便了。",
+    "process": "仓不忿，与那将交战，被他连胜数次，身中三枪；江东孙伯符威镇三江，地连六郡，谋臣武士极多，可使人结之，共攻曹操。",
+    "result": "于是杀牛宰马，先拜谢天地，然后遍劳诸军。",
+    "impact_score": 90,
+    "character_ids": [
+      "liubei",
+      "yuanshao",
+      "caocao",
+      "zhangfei",
+      "zhaoyun",
+      "liubiao"
+    ],
+    "evidence_ref_ids": [
+      "evi_028_4"
+    ]
+  },
+  {
+    "id": "ev_029_1",
+    "chapter": 29,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "黄巾起义",
+    "background": "建安四年，袭取庐江，败刘勋，使虞翻驰檄豫章，豫章太守华歆投降。",
+    "process": "一日，孙策引军会猎于丹徒之西山，赶起一大鹿，策纵马上山逐之；看孙策时，血流满面，被伤至重，乃以刀割抱，裹其伤处，救回吴会养病。",
+    "result": "于是众官及百姓，共将于吉扶下柴堆，解去绳索，再拜称谢。",
+    "impact_score": 84,
+    "character_ids": [
+      "sunce",
+      "caocao",
+      "yuanshao",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_029_1"
+    ]
+  },
+  {
+    "id": "ev_029_2",
+    "chapter": 29,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "小霸王怒斩于吉",
+    "background": "策怒，欲杀守尸军士。",
+    "process": "灯影之下，见于吉立于床前；走离殿宇，又见于吉立于殿门首，怒目视策。",
+    "result": "策乃不入府，随点起三军，出城外下寨，传唤众将商议，欲起兵助袁绍夹攻曹操。",
+    "impact_score": 87,
+    "character_ids": [
+      "sunquan",
+      "sunce",
+      "zhouyu",
+      "yuanshao",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_029_2"
+    ]
+  },
+  {
+    "id": "ev_029_3",
+    "chapter": 29,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "陈震回见袁绍",
+    "background": "当时孙权承孙策遗命，掌江东之事。",
+    "process": "为今之计，须求高明远见之人为辅，然后江东可定也；此人胸怀韬略，腹隐机谋。",
+    "result": "肃从其言，遂同周瑜来见孙权。",
+    "impact_score": 91,
+    "character_ids": [
+      "sunquan",
+      "zhouyu",
+      "sunce",
+      "caocao",
+      "yuanshao",
+      "liubiao"
+    ],
+    "evidence_ref_ids": [
+      "evi_029_3"
+    ]
+  },
+  {
+    "id": "ev_030_1",
+    "chapter": 30,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "官渡之战",
+    "background": "曹操起军七万，前往迎敌，留荀彧守许都。",
+    "process": "彼军无粮，利在急战；若能旷以日月，则彼军不战自败矣。",
+    "result": "袁绍驱兵掩杀，曹军大败，尽退至官渡。",
+    "impact_score": 97,
+    "character_ids": [
+      "caocao",
+      "yuanshao",
+      "xiahoudun",
+      "zhangliao",
+      "xuchu"
+    ],
+    "evidence_ref_ids": [
+      "evi_030_1"
+    ]
+  },
+  {
+    "id": "ev_030_2",
+    "chapter": 30,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "官渡之战（其二）",
+    "background": "意欲弃官渡退回许昌，迟疑未决，乃作书遣人赴许昌问荀彧。",
+    "process": "史涣便杀散人夫，放火焚烧粮车；两下夹攻，杀散袁军，四将合兵一处，回官渡寨中。",
+    "result": "沮授被袁绍拘禁在军中，是夜因见众星朗列，乃命监者引出中庭，仰观天象。",
+    "impact_score": 96,
+    "character_ids": [
+      "yuanshao",
+      "caocao",
+      "zhangliao",
+      "xuchu",
+      "xiahoudun"
+    ],
+    "evidence_ref_ids": [
+      "evi_030_2"
+    ]
+  },
+  {
+    "id": "ev_030_3",
+    "chapter": 30,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "官渡之战（其三）",
+    "background": "袁绍在帐中，闻报正北上火光满天，知是乌巢有失，急出帐召文武各官，商议遣兵往救。",
+    "process": "操既自出，寨必空虚，可纵兵先击曹操之寨；曹操多谋，外出必为内备，以防不虞。",
+    "result": "于是二人领本部兵马，往曹操寨中投降。",
+    "impact_score": 96,
+    "character_ids": [
+      "caocao",
+      "yuanshao",
+      "xiahoudun",
+      "zhangliao",
+      "xuchu"
+    ],
+    "evidence_ref_ids": [
+      "evi_030_3"
+    ]
+  },
+  {
+    "id": "ev_030_4",
+    "chapter": 30,
+    "period_id": "p2",
+    "seq_in_chapter": 4,
+    "title": "张辽许褚徐晃于禁四员将",
+    "background": "袁绍既去了许攸，又去了张邰、高览，又失了乌巢粮，军心皇皇。",
+    "process": "当夜三更时分，出军三路劫寨；混战到明，各自收兵，绍军折其大半。",
+    "result": "袁绍兵败而奔，沮授因被囚禁，急走不脱，为曹军所获，擒见曹操。",
+    "impact_score": 84,
+    "character_ids": [
+      "yuanshao",
+      "caocao",
+      "zhangliao",
+      "xuchu"
+    ],
+    "evidence_ref_ids": [
+      "evi_030_4"
+    ]
+  },
+  {
+    "id": "ev_031_1",
+    "chapter": 31,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "官渡之战",
+    "background": "曹操乘袁绍之败，整顿军马，迤逦追袭。",
+    "process": "袁绍回冀州，心烦意乱，不理政事。",
+    "result": "操视之，乃徐晃部将史涣也。",
+    "impact_score": 99,
+    "character_ids": [
+      "yuanshao",
+      "liubei",
+      "caocao",
+      "xuchu",
+      "xiahoudun",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_031_1"
+    ]
+  },
+  {
+    "id": "ev_031_2",
+    "chapter": 31,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "又使赵云搦战",
+    "background": "玄德再使张飞搦战，操兵亦不出。",
+    "process": "报龚都运粮至，被曹军围住，玄德急令张飞去救。",
+    "result": "玄德大惊，视之，乃刘辟引败军千余骑，护送玄德家小前来。",
+    "impact_score": 93,
+    "character_ids": [
+      "liubei",
+      "xiahoudun",
+      "zhaoyun",
+      "guanyu",
+      "zhangfei",
+      "xuchu"
+    ],
+    "evidence_ref_ids": [
+      "evi_031_2"
+    ]
+  },
+  {
+    "id": "ev_031_3",
+    "chapter": 31,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "官渡之战（其二）",
+    "background": "玄德正慌，方欲自战，高览后军忽然自乱，一将冲阵而来，枪起处，高览翻身落马。",
+    "process": "张飞去救龚都，龚都已被夏侯渊所杀；飞奋力杀退夏侯渊，迤逦赶去，却被乐进引军围住。",
+    "result": "刘备先从吕布，后事曹操，近投袁绍，皆不克终，足可见其为人。",
+    "impact_score": 99,
+    "character_ids": [
+      "liubei",
+      "liubiao",
+      "caocao",
+      "yuanshao",
+      "guanyu",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_031_3"
+    ]
+  },
+  {
+    "id": "ev_032_1",
+    "chapter": 32,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "官渡之战",
+    "background": "张辽乘势掩杀，袁尚不能主张，急急引军奔回冀州。",
+    "process": "曹操探知救军已到，遣乐进、李典引兵于半路接着，两头围住尽杀之；袁谭知尚止拨兵五千，又被半路坑杀，大怒，乃唤逢纪责骂。",
+    "result": "愚意可遣人投降曹操，使操将兵攻冀州，尚必还救。",
+    "impact_score": 99,
+    "character_ids": [
+      "yuanshao",
+      "caocao",
+      "liubiao",
+      "zhangliao",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_032_1"
+    ]
+  },
+  {
+    "id": "ev_032_2",
+    "chapter": 32,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "夺冀州袁尚争锋",
+    "background": "袁谭见尚退军，乃大起平原军马，随后赶来。",
+    "process": "操引军退屯黎阳，封吕旷、吕翔为列侯，随军听用；待操破了袁尚，可乘便图之。",
+    "result": "今又封赏吕旷、吕翔，带去军中，此乃牢笼河北人心。",
+    "impact_score": 86,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "guanyu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_032_2"
+    ]
+  },
+  {
+    "id": "ev_032_3",
+    "chapter": 32,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "袁尚与审配商议今曹兵运粮入…",
+    "background": "先绝袁谭，然后破曹。",
+    "process": "楷措手不及，被许褚一刀斩于马下，余众奔溃；操尽招降之，即勒兵取邯郸。",
+    "result": "袁尚攻平原，闻曹操已破尹楷、沮鹄，大军围困冀州，乃掣兵回救。",
+    "impact_score": 86,
+    "character_ids": [
+      "caocao",
+      "xuchu",
+      "zhangliao",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_032_3"
+    ]
+  },
+  {
+    "id": "ev_032_4",
+    "chapter": 32,
+    "period_id": "p2",
+    "seq_in_chapter": 4,
+    "title": "决漳河许攸献计",
+    "background": "操教将红旗一招，张辽、徐晃两路兵齐出乱杀，城中兵只得复回。",
+    "process": "时各路军马一齐杀至，两军混战，袁尚大败；尚引败兵退往西山下寨，令人催取马延、张顗军来。",
+    "result": "审配在东南城楼上，见操军已入城中，引数骑下城死战，正迎徐晃交马。",
+    "impact_score": 86,
+    "character_ids": [
+      "caocao",
+      "zhangliao",
+      "caopi",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_032_4"
+    ]
+  },
+  {
+    "id": "ev_033_1",
+    "chapter": 33,
+    "period_id": "p2",
+    "seq_in_chapter": 1,
+    "title": "曹丕乘乱纳甄氏",
+    "background": "曹丕见二妇人啼哭，拔剑欲斩之。",
+    "process": "因熙出镇幽州，甄氏不肯远行，故留于此。",
+    "result": "数曾献计于袁绍，绍不从，因此托疾在家。",
+    "impact_score": 88,
+    "character_ids": [
+      "caopi",
+      "caocao",
+      "yuanshao",
+      "xuchu"
+    ],
+    "evidence_ref_ids": [
+      "evi_033_1"
+    ]
+  },
+  {
+    "id": "ev_033_2",
+    "chapter": 33,
+    "period_id": "p2",
+    "seq_in_chapter": 2,
+    "title": "郭图谓谭曰来日尽驱百姓当先",
+    "background": "尚无心战斗，径奔幽州投袁熙。",
+    "process": "若冀州不弟，当降心相从；百姓闻得，乃亲往营中投首。",
+    "result": "乌桓触乃出城迎接三路军马，径来降操。",
+    "impact_score": 87,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "liubiao",
+      "caopi"
+    ],
+    "evidence_ref_ids": [
+      "evi_033_2"
+    ]
+  },
+  {
+    "id": "ev_033_3",
+    "chapter": 33,
+    "period_id": "p2",
+    "seq_in_chapter": 3,
+    "title": "行至上洛被都尉王琰所杀",
+    "background": "唤降将吕旷、吕翔，附耳低言如此如此。",
+    "process": "将至曹寨，背后喊声大震，伏兵四起；高干知是中计，急回壶关城，乐进、李典已夺了关、高于夺路走脱，往投单于。",
+    "result": "遂留郭嘉于易州养病，求向导官以引路。",
+    "impact_score": 95,
+    "character_ids": [
+      "caocao",
+      "liubiao",
+      "liubei",
+      "yuanshao",
+      "zhangliao",
+      "caopi"
+    ],
+    "evidence_ref_ids": [
+      "evi_033_3"
+    ]
+  },
+  {
+    "id": "ev_033_4",
+    "chapter": 33,
+    "period_id": "p2",
+    "seq_in_chapter": 4,
+    "title": "郭嘉遗计定辽东",
+    "background": "辽引许褚、于禁、徐晃分四路下山，奋力急攻，蹋顿大乱。",
+    "process": "辽拍马斩蹋顿于马下，余众皆降；时天气寒且旱，二百里无水，军又乏粮，杀马为食，凿地三四十丈，方得水。",
+    "result": "当日知袁熙、袁尚来投，遂聚本部属官商议此事。",
+    "impact_score": 95,
+    "character_ids": [
+      "zhangliao",
+      "caocao",
+      "xiahoudun",
+      "xuchu",
+      "yuanshao",
+      "liubiao"
+    ],
+    "evidence_ref_ids": [
+      "evi_033_4"
+    ]
+  },
+  {
+    "id": "ev_034_1",
+    "chapter": 34,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "乃即日破土断木，烧瓦磨砖，筑铜雀台于漳河之上。",
+    "process": "复聚众谋士商议，欲南征刘表；一日，正相聚饮酒，忽报降将张武、陈孙在江夏掳掠人民，共谋造反。",
+    "result": "玄德遂将此马送与刘表。",
+    "impact_score": 97,
+    "character_ids": [
+      "liubei",
+      "liubiao",
+      "caocao",
+      "zhaoyun",
+      "sunquan",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_034_1"
+    ]
+  },
+  {
+    "id": "ev_034_2",
+    "chapter": 34,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "蔡夫人隔屏听密语",
+    "background": "是时正在屏风后，闻玄德此言，心甚恨之。",
+    "process": "刘表闻玄德语，口虽不言，心怀不足，别了玄德，退入内宅；伊籍将蔡瑁之谋，报知玄德，催促玄德速速起身。",
+    "result": "玄德自知语失，托醉而起，归馆舍安歇。",
+    "impact_score": 88,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "liubiao",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_034_2"
+    ]
+  },
+  {
+    "id": "ev_034_3",
+    "chapter": 34,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "刘皇叔跃马过檀溪",
+    "background": "愚意度之，在荆州必有事故。",
+    "process": "蔡瑁出郭迎接，意甚谦谨；刘琦、刘琮二子，引一班文武官僚出迎。",
+    "result": "蔡瑁在外收拾得铁桶相似，将玄德带来三百军，都遣归馆舍，只待半酣，号起下手。",
+    "impact_score": 88,
+    "character_ids": [
+      "liubei",
+      "zhaoyun",
+      "guanyu",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_034_3"
+    ]
+  },
+  {
+    "id": "ev_035_1",
+    "chapter": 35,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "黄巾起义",
+    "background": "到头天命有所归，泥中蟠龙向天飞。",
+    "process": "云再回马时，蔡瑁已入城去了；又恐有埋伏，遂急引军归新野。",
+    "result": "若孙乾、糜竺辈，乃白面书生，非经纶济世之才也。",
+    "impact_score": 87,
+    "character_ids": [
+      "liubei",
+      "zhaoyun",
+      "guanyu",
+      "zhangfei",
+      "liubiao"
+    ],
+    "evidence_ref_ids": [
+      "evi_035_1"
+    ]
+  },
+  {
+    "id": "ev_035_2",
+    "chapter": 35,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "单福新野遇英主",
+    "background": "曹操自冀州回许都，常有取荆州之意，特差曹仁、李典并降将吕旷、吕翔等领兵三万，屯樊城，虎视荆襄，就探看虚实。",
+    "process": "玄德麾军掩杀，吕翔抵敌不住，引军便走；玄德合军追赶，大半多被擒获。",
+    "result": "翔措手不及，被张飞一矛刺中，翻身落马而死。",
+    "impact_score": 86,
+    "character_ids": [
+      "liubei",
+      "zhaoyun",
+      "zhangfei",
+      "caocao",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_035_2"
+    ]
+  },
+  {
+    "id": "ev_035_3",
+    "chapter": 35,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "败军回见曹仁",
+    "background": "今二将阵亡，死折许多军马，此仇不可不急报。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "事件收束后，人物关系与后续局势随之改写。",
+    "impact_score": 82,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "sunquan",
+      "zhouyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_035_3"
+    ]
+  },
+  {
+    "id": "ev_036_1",
+    "chapter": 36,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "玄德用计袭樊城",
+    "background": "曹仁忿怒，遂大起本部之兵，星夜渡河，意欲踏平新野。",
+    "process": "约战十数合，李典料敌不过，拨马回阵；乃调李典领后军，仁自引兵为前部。",
+    "result": "玄德麾军冲击，曹兵大败而退。",
+    "impact_score": 84,
+    "character_ids": [
+      "liubei",
+      "zhaoyun",
+      "guanyu",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_036_1"
+    ]
+  },
+  {
+    "id": "ev_036_2",
+    "chapter": 36,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "元直走马荐诸葛",
+    "background": "中平末年，尝为人报仇杀人，披发涂面而走，为吏所获。",
+    "process": "今在新野，助逆臣刘备，背叛朝廷，正犹美玉落于汙泥之中，诚为可惜；操大怒，叱武士执徐母出，将斩之。",
+    "result": "纵使曹操相逼，庶亦终身不设一谋。",
+    "impact_score": 83,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "zhugeliang",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_036_2"
+    ]
+  },
+  {
+    "id": "ev_036_3",
+    "chapter": 36,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "徐庶既别玄德",
+    "background": "徐庶既别玄德，感其留恋之情，恐孔明不肯出山辅之，遂乘马直至卧龙冈下，入草庐见孔明。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "庶羞惭而退，上马趱程，赴许昌见母。",
+    "impact_score": 83,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "caocao",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_036_3"
+    ]
+  },
+  {
+    "id": "ev_037_1",
+    "chapter": 37,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "司马徽再荐名士",
+    "background": "曹操知徐庶已到，遂命荀彧、程昱等一班谋士往迎之。",
+    "process": "徐庶葬母柩于许昌之南原，居丧守墓；今得光降，大慰仰慕之私。",
+    "result": "今得光降，大慰仰慕之私。",
+    "impact_score": 85,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "caocao",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_037_1"
+    ]
+  },
+  {
+    "id": "ev_037_2",
+    "chapter": 37,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "玄德立马听之",
+    "background": "玄德同关、张并从人等来隆中。",
+    "process": "冈前疏林内茅庐中，即诸葛先生高卧之地；叩户苍猿时献果，守门老鹤夜听经。",
+    "result": "青蛇飞下御座傍，又见妖虹降玉堂。",
+    "impact_score": 84,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "zhangfei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_037_2"
+    ]
+  },
+  {
+    "id": "ev_037_3",
+    "chapter": 37,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "玄德待其歌罢",
+    "background": "昨因徐元直称荐，敬至仙庄，不遇空回。",
+    "process": "均送出，玄德再三殷勤致意而别；关、张闻之不悦，遂一齐入谏玄德。",
+    "result": "乃令卜者揲蓍，选择吉期，斋戒三日，薰沐更衣，再往卧龙冈谒孔明。",
+    "impact_score": 84,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "zhangfei",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_037_3"
+    ]
+  },
+  {
+    "id": "ev_038_1",
+    "chapter": 38,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "董卓乱政",
+    "background": "想诸葛亮有虚名而无实学，故避而不敢见。",
+    "process": "于是三人乘马引从者往隆中。",
+    "result": "于是玄德等在庄中共宿一宵。",
+    "impact_score": 94,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "zhangfei",
+      "guanyu",
+      "sunquan",
+      "liuzhang"
+    ],
+    "evidence_ref_ids": [
+      "evi_038_1"
+    ]
+  },
+  {
+    "id": "ev_038_2",
+    "chapter": 38,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "秋风五丈原",
+    "background": "先取荆州后取川，大展经纶补天手。",
+    "process": "只因先主丁宁后，星落秋风五丈原；平秦灭楚入咸阳，二百年前几断绝。",
+    "result": "可密令人过江探听虚实。",
+    "impact_score": 93,
+    "character_ids": [
+      "zhugeliang",
+      "liubei",
+      "caocao",
+      "han_xiandi"
+    ],
+    "evidence_ref_ids": [
+      "evi_038_2"
+    ]
+  },
+  {
+    "id": "ev_038_3",
+    "chapter": 38,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "建安八年十一月",
+    "background": "孙权自孙策死后，据住江东，承父兄基业，广纳贤士，开宾馆于吴会，命顾雍、张纮延接四方宾客。",
+    "process": "建安七年，曹操破袁绍，遣使往江东，命孙权遣子入朝随驾；吴太夫人命周瑜、张昭等面议。",
+    "result": "自此曹操有下江南之意。",
+    "impact_score": 93,
+    "character_ids": [
+      "sunquan",
+      "caocao",
+      "zhouyu",
+      "sunce",
+      "lumeng",
+      "luxun"
+    ],
+    "evidence_ref_ids": [
+      "evi_038_3"
+    ]
+  },
+  {
+    "id": "ev_038_4",
+    "chapter": 38,
+    "period_id": "p3",
+    "seq_in_chapter": 4,
+    "title": "战长江孙氏报仇",
+    "background": "丹阳督将妫览、郡丞戴员二人，常有杀翊之心。",
+    "process": "妫览措手不及，被傅婴一刀砍倒在地，孙高再复一刀，登时杀死；不一日，孙权自领军马至丹阳，见徐氏已杀妫、戴二贼，乃封孙高、傅婴为牙门将，令守丹阳，取徐氏归家养老。",
+    "result": "宁因此得过夏口，欲投江东，恐江东恨其救黄祖杀凌操之事。",
+    "impact_score": 89,
+    "character_ids": [
+      "sunquan",
+      "lumeng",
+      "zhouyu",
+      "liubiao",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_038_4"
+    ]
+  },
+  {
+    "id": "ev_039_1",
+    "chapter": 39,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "孙权督众攻打夏口，黄祖兵败将亡，情知守把不住，遂弃江夏，望荆州而走。",
+    "process": "甘宁冲开士卒，直赶将来，只听得后面喊声起处，又有数骑赶来；表败而后乘势攻之，荆襄可得也。",
+    "result": "东吴自此广造战船，分兵守把江岸。",
+    "impact_score": 87,
+    "character_ids": [
+      "sunquan",
+      "liubiao",
+      "zhouyu",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_039_1"
+    ]
+  },
+  {
+    "id": "ev_039_2",
+    "chapter": 39,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "荆州城公子三求计",
+    "background": "来到荆州，馆驿安下，留张飞屯兵城外，玄德与孔明入城见刘表。",
+    "process": "当时即欲斩蔡瑁之首，以献贤弟。",
+    "result": "玄德只推腹痛，乃浼孔明代往回拜刘琦。",
+    "impact_score": 94,
+    "character_ids": [
+      "zhugeliang",
+      "liubei",
+      "liubiao",
+      "zhangfei",
+      "guanyu",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_039_2"
+    ]
+  },
+  {
+    "id": "ev_039_3",
+    "chapter": 39,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "博望坡军师初用兵",
+    "background": "刘表令刘琦引兵三千往江夏镇守。",
+    "process": "自是文官大备，乃聚武将商议南征；有经天纬地之才，出鬼入神之计，真当世之奇才，非可小觑。",
+    "result": "曹家人马，自相践踏，死者不计其数。",
+    "impact_score": 94,
+    "character_ids": [
+      "zhugeliang",
+      "liubei",
+      "xiahoudun",
+      "zhangfei",
+      "caocao",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_039_3"
+    ]
+  },
+  {
+    "id": "ev_040_1",
+    "chapter": 40,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "玄德问孔明求拒曹兵之计。",
+    "process": "选定建安十三年秋七月丙午日出师；操闻之，大怒，欲杀之。",
+    "result": "向者祢衡之辱丞相，乃融使之也。",
+    "impact_score": 96,
+    "character_ids": [
+      "zhugeliang",
+      "liubei",
+      "caocao",
+      "xiahoudun",
+      "sunquan",
+      "liubiao"
+    ],
+    "evidence_ref_ids": [
+      "evi_040_1"
+    ]
+  },
+  {
+    "id": "ev_040_2",
+    "chapter": 40,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "官渡之战",
+    "background": "玄德引关、张至荆州见刘表。",
+    "process": "刘表病中闻此信，吃惊不小，商议写遗嘱，令玄德辅佐长子刘琦为荆州之主；刘表既死，蔡夫人与蔡瑁、张允商议，假写遗嘱，令次子刘琮为荆州之主，然后举哀报丧。",
+    "result": "宋忠领命，直至宛城，接着曹操，献上降书。",
+    "impact_score": 99,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "liubiao",
+      "guanyu",
+      "zhugeliang",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_040_2"
+    ]
+  },
+  {
+    "id": "ev_040_3",
+    "chapter": 40,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "空城计",
+    "background": "玄德慌忙发付伊籍回江夏整顿军马，一面与孔明商议拒敌之计。",
+    "process": "只望城中火起，便可追杀败兵，然后却来白河上流头接应；曹仁、曹洪引军十万为前队，前面已有许褚引三千铁甲军开路，浩浩荡荡，杀奔新野来。",
+    "result": "曹仁大败，夺路而走，刘封又引一军截杀一阵。",
+    "impact_score": 95,
+    "character_ids": [
+      "xuchu",
+      "zhugeliang",
+      "liubei",
+      "xiahoudun",
+      "guanyu",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_040_3"
+    ]
+  },
+  {
+    "id": "ev_041_1",
+    "chapter": 41,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "许褚不敢恋战，夺路走脱。",
+    "process": "曹仁收拾残军，就新野屯住，使曹洪去见曹操，具言失利之事；若其来降，则荆州之地，可不战而定也。",
+    "result": "徐庶辞回，见了曹操，言玄德并无降意。",
+    "impact_score": 97,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "zhangfei",
+      "caocao",
+      "xuchu",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_041_1"
+    ]
+  },
+  {
+    "id": "ev_041_2",
+    "chapter": 41,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "刘玄德携民渡江",
+    "background": "军士杀死刘琮及蔡夫人，于禁回报曹操，操重赏于禁。",
+    "process": "教他速起兵乘船会于江陵。",
+    "result": "瑁遂与张允同至樊城，拜见曹操。",
+    "impact_score": 96,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "zhugeliang",
+      "guanyu",
+      "zhaoyun",
+      "liubiao"
+    ],
+    "evidence_ref_ids": [
+      "evi_041_2"
+    ]
+  },
+  {
+    "id": "ev_041_3",
+    "chapter": 41,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "赵子龙单骑救主",
+    "background": "玄德引十数万百姓、三千余军马，一程程挨着往江陵进发。",
+    "process": "正在危迫之际，幸得张飞引军至，杀开一条血路，救玄德望东而走；飞却亲自横矛立马于桥上，向西而望。",
+    "result": "飞却亲自横矛立马于桥上，向西而望。",
+    "impact_score": 96,
+    "character_ids": [
+      "liubei",
+      "zhaoyun",
+      "zhangfei",
+      "zhugeliang",
+      "caocao",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_041_3"
+    ]
+  },
+  {
+    "id": "ev_041_4",
+    "chapter": 41,
+    "period_id": "p3",
+    "seq_in_chapter": 4,
+    "title": "长坂坡奔战",
+    "background": "中箭着枪抛男弃女而走者不计其数。",
+    "process": "当时夏侯恩自恃勇力，背着曹操，只顾引人抢夺掳掠；前后枪刺剑砍，杀死曹营名将五十余员。",
+    "result": "那将乃曹操随身背剑之将夏侯恩也。",
+    "impact_score": 96,
+    "character_ids": [
+      "zhaoyun",
+      "caocao",
+      "liubei",
+      "xiahoudun",
+      "zhangfei",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_041_4"
+    ]
+  },
+  {
+    "id": "ev_042_1",
+    "chapter": 42,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "张翼德大闹长坂桥",
+    "background": "两马相交，战不三合。",
+    "process": "云左手持枪隔过画戟，右手拔出青釭宝剑砍去，带盔连脑，砍去一半，绅落马而死，余众奔散。",
+    "result": "于是诸军众将一齐望西奔走。",
+    "impact_score": 91,
+    "character_ids": [
+      "zhaoyun",
+      "zhangfei",
+      "caocao",
+      "liubei",
+      "xiahoudun",
+      "zhangliao"
+    ],
+    "evidence_ref_ids": [
+      "evi_042_1"
+    ]
+  },
+  {
+    "id": "ev_042_2",
+    "chapter": 42,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "曹操惧张飞之威",
+    "background": "曹操惧张飞之威，骤马望西而走，冠簪尽落，披发奔逃。",
+    "process": "今急回军杀去，刘备可擒也；张飞见曹军一拥而退，不敢追赶。",
+    "result": "若不就此时擒捉，如放鱼入海，纵虎归山矣。",
+    "impact_score": 90,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "zhugeliang",
+      "guanyu",
+      "zhangfei",
+      "zhangliao"
+    ],
+    "evidence_ref_ids": [
+      "evi_042_2"
+    ]
+  },
+  {
+    "id": "ev_042_3",
+    "chapter": 42,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "曹操见云长在旱路引军截出",
+    "background": "荆州治中邓义、别驾刘先，已备知襄阳之事，料不能抵敌曹操，遂引荆州军民出郭投降。",
+    "process": "曹操入城、安民已定，释韩嵩之囚，加为大鸿胪；一面计点马步水军共八十三万，诈称一百万，水陆并进，船骑双行，沿江而来，西连荆、峡、东接蕲、黄、赛栅联络三百余里。",
+    "result": "鲁肃遂别了玄德、刘琦，与孔明登舟，望柴桑郡来。",
+    "impact_score": 90,
+    "character_ids": [
+      "zhugeliang",
+      "liubei",
+      "caocao",
+      "sunquan",
+      "liubiao",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_042_3"
+    ]
+  },
+  {
+    "id": "ev_043_1",
+    "chapter": 43,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "鲁肃、孔明辞了玄德、刘琦，登舟望柴桑郡来。",
+    "process": "如降操，则东吴民安，江南六郡可保矣。",
+    "result": "刘琮孺子，听信佞言，暗自投降，致使曹操得以猖獗。",
+    "impact_score": 92,
+    "character_ids": [
+      "zhugeliang",
+      "caocao",
+      "sunquan",
+      "liubei",
+      "liubiao",
+      "xiahoudun"
+    ],
+    "evidence_ref_ids": [
+      "evi_043_1"
+    ]
+  },
+  {
+    "id": "ev_043_2",
+    "chapter": 43,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "孔明曰寻章摘句",
+    "background": "今江东兵精粮足，且有长江之险，犹欲使其主屈膝降贼，不顾天下耻笑。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "汉传世至今，天数将终。",
+    "impact_score": 83,
+    "character_ids": [
+      "zhugeliang",
+      "caocao",
+      "yuanshao",
+      "yuanshu"
+    ],
+    "evidence_ref_ids": [
+      "evi_043_2"
+    ]
+  },
+  {
+    "id": "ev_043_3",
+    "chapter": 43,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "鲁子敬力排众议",
+    "background": "时座上张温、骆统二人，又欲问难。",
+    "process": "众人见孔明对答如流，尽皆失色；引至堂上，孙权降阶而迎，优礼相待。",
+    "result": "时武将或有要战的，文官都是要降的，议论纷纷不一。",
+    "impact_score": 91,
+    "character_ids": [
+      "zhugeliang",
+      "caocao",
+      "sunquan",
+      "yuanshao",
+      "liubei",
+      "lubu"
+    ],
+    "evidence_ref_ids": [
+      "evi_043_3"
+    ]
+  },
+  {
+    "id": "ev_044_1",
+    "chapter": 44,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "孙权决计破曹操",
+    "background": "周瑜在鄱阳湖训练水师，闻曹操大军至汉上，便星夜回柴桑郡议军机事。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "瑜接入堂中坐定，叙寒温毕。",
+    "impact_score": 89,
+    "character_ids": [
+      "zhouyu",
+      "caocao",
+      "zhugeliang",
+      "sunquan",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_044_1"
+    ]
+  },
+  {
+    "id": "ev_044_2",
+    "chapter": 44,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "又未几诸葛瑾吕范等一班儿文…",
+    "background": "有要战者，有要降者，互相争论。",
+    "process": "至晚，人报鲁子敬引孔明来拜；战则必败，降则易安。",
+    "result": "操兵犯此数忌，虽多必败。",
+    "impact_score": 92,
+    "character_ids": [
+      "zhugeliang",
+      "caocao",
+      "zhouyu",
+      "sunquan",
+      "lubu",
+      "liubiao"
+    ],
+    "evidence_ref_ids": [
+      "evi_044_2"
+    ]
+  },
+  {
+    "id": "ev_044_3",
+    "chapter": 44,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "孔明用智激周瑜",
+    "background": "左右立刀斧手，聚集文官武将听令。",
+    "process": "平明，瑜赴行营，升中军帐高坐；孔明接入，哭拜，各诉阔情。",
+    "result": "今刘皇叔乃汉室之胄，兄若能去东吴，而与弟同事刘皇叔，则上不愧为汉臣，而骨肉又得相聚，此情义两全之策也。",
+    "impact_score": 92,
+    "character_ids": [
+      "zhugeliang",
+      "zhouyu",
+      "caocao",
+      "liubei",
+      "dongzhuo",
+      "lumeng"
+    ],
+    "evidence_ref_ids": [
+      "evi_044_3"
+    ]
+  },
+  {
+    "id": "ev_045_1",
+    "chapter": 45,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "三江口曹操折兵",
+    "background": "周瑜闻诸葛瑾之言，转恨孔明，存心欲谋杀之。",
+    "process": "周瑜在中央下寨，岸上依西山结营，周围屯住；亦必须先断操之粮，然后可破。",
+    "result": "遥望江南岸旗幡隐隐，戈戟重重，料是东吴已动兵矣，乃尽移江夏之兵，至樊口屯扎。",
+    "impact_score": 94,
+    "character_ids": [
+      "zhugeliang",
+      "liubei",
+      "zhouyu",
+      "caocao",
+      "guanyu",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_045_1"
+    ]
+  },
+  {
+    "id": "ev_045_2",
+    "chapter": 45,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "孔明偶来江边",
+    "background": "只见周瑜面有杀气，两边壁衣中密排刀斧手。",
+    "process": "即日破敌收功之后，专当叩贺。",
+    "result": "曹操知周瑜毁书斩使，大怒，便唤蔡瑁、张允等一班荆州降将为前部，操自为后军，催督战船，到三江口。",
+    "impact_score": 93,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "guanyu",
+      "zhouyu",
+      "caocao",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_045_2"
+    ]
+  },
+  {
+    "id": "ev_045_3",
+    "chapter": 45,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "比及曹寨中船出时",
+    "background": "周瑜得胜回寨，犒赏三军，一面差人到吴侯处报捷。",
+    "process": "瑜欲亲往探看曹军水寨，乃命收拾楼船一只，带着鼓东，随行健将数员，各带强弓硬弩，一齐上船迤逦前进；比及曹寨中船出时，周瑜的楼船已离了十数里远，追之不及，回报曹操。",
+    "result": "叙礼毕，坐定，即传令悉召江左英杰与子翼相见。",
+    "impact_score": 85,
+    "character_ids": [
+      "zhouyu",
+      "caocao",
+      "liubei",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_045_3"
+    ]
+  },
+  {
+    "id": "ev_045_4",
+    "chapter": 45,
+    "period_id": "p3",
+    "seq_in_chapter": 4,
+    "title": "群英会蒋干中计",
+    "background": "瑜复携干入帐，会诸将再饮。",
+    "process": "干戴上巾帻，潜步出帐，唤了小童，径出辕门；干取出书信，将上项事逐一说与曹操。",
+    "result": "干见帐内桌上，堆着一卷文书，乃起床偷视之，却都是往来书信。",
+    "impact_score": 85,
+    "character_ids": [
+      "zhouyu",
+      "caocao",
+      "zhugeliang",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_045_4"
+    ]
+  },
+  {
+    "id": "ev_046_1",
+    "chapter": 46,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "坐定瑜问孔明曰即日将与曹军…",
+    "background": "曹操、虽被一时瞒过，必然便省悟，只是不肯认错耳。",
+    "process": "盖夫鬼神之所凭依，英雄之所战守也；隔断蓬莱之岛，暗围阊阖之宫。",
+    "result": "降疾厄于人间，起风尘于塞外。",
+    "impact_score": 87,
+    "character_ids": [
+      "zhugeliang",
+      "caocao",
+      "zhouyu",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_046_1"
+    ]
+  },
+  {
+    "id": "ev_046_2",
+    "chapter": 46,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "吾料曹操虽两番经我这条计",
+    "background": "曹寨中，听得擂鼓呐喊，毛玠、于禁二人慌忙飞报曹操。",
+    "process": "骤雨飞蝗来战舰，孔明今日伏周郎；可差人去东吴诈降，为奸细内应，以通消息，方可图也。",
+    "result": "可差人去东吴诈降，为奸细内应，以通消息，方可图也。",
+    "impact_score": 86,
+    "character_ids": [
+      "zhugeliang",
+      "caocao",
+      "zhouyu",
+      "zhangliao"
+    ],
+    "evidence_ref_ids": [
+      "evi_046_2"
+    ]
+  },
+  {
+    "id": "ev_046_3",
+    "chapter": 46,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "周瑜正理会进兵之事",
+    "background": "周瑜正理会进兵之事，忽报江北有船来到江口，称是蔡瑁之弟蔡和、蔡中，特来投降。",
+    "process": "二人拜谢，以为中计；至出兵之日，先要杀他两个祭旗。",
+    "result": "众官扶起黄盖，打得皮开肉绽，鲜血进流，扶归本寨，昏绝几次。",
+    "impact_score": 86,
+    "character_ids": [
+      "zhugeliang",
+      "zhouyu",
+      "caocao",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_046_3"
+    ]
+  },
+  {
+    "id": "ev_047_1",
+    "chapter": 47,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "阚泽密献诈降书",
+    "background": "孙权召为参谋，与黄盖最相善。",
+    "process": "盖知其能言有胆，故欲使献诈降书；少顷，有人入帐，于操耳边私语。",
+    "result": "倘今约定日期，急切下不得手，这里反来接应，事必泄漏。",
+    "impact_score": 88,
+    "character_ids": [
+      "caocao",
+      "zhouyu",
+      "sunquan",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_047_1"
+    ]
+  },
+  {
+    "id": "ev_047_2",
+    "chapter": 47,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "连环计",
+    "background": "除非献连环计，教他钉作一处，然后功可成也。",
+    "process": "瑜大喜，一面分付庞统用计；干见不来接，心中疑虑，教把船于僻静岸口缆系，乃入寨见周瑜。",
+    "result": "干见不来接，心中疑虑，教把船于僻静岸口缆系，乃入寨见周瑜。",
+    "impact_score": 87,
+    "character_ids": [
+      "zhouyu",
+      "caocao",
+      "liubei",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_047_2"
+    ]
+  },
+  {
+    "id": "ev_047_3",
+    "chapter": 47,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "连环计（其二）",
+    "background": "干往窥之，只见一人挂剑灯前，诵孙、吴兵书。",
+    "process": "其人开门出迎，仪表非俗。",
+    "result": "如肯归曹，干当引进。",
+    "impact_score": 95,
+    "character_ids": [
+      "zhouyu",
+      "caocao",
+      "liubei",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_047_3"
+    ]
+  },
+  {
+    "id": "ev_048_1",
+    "chapter": 48,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "黄巾起义",
+    "background": "庞统闻言，吃了一惊，急回视其人，原来却是徐庶。",
+    "process": "此便是庞统救徐庶之计；馥起自合淝，创立州治，聚逃散之民，立学校，广屯田，兴治教，久事曹操，多立功绩。",
+    "result": "事件收束后，人物关系与后续局势随之改写。",
+    "impact_score": 97,
+    "character_ids": [
+      "caocao",
+      "zhouyu",
+      "zhugeliang",
+      "liubei",
+      "sunce",
+      "lubu"
+    ],
+    "evidence_ref_ids": [
+      "evi_048_1"
+    ]
+  },
+  {
+    "id": "ev_048_2",
+    "chapter": 48,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "宴长江曹操赋诗",
+    "background": "令毕，水军寨中发擂三通，各队伍战船，分门而出。",
+    "process": "操立于将台之上，观看调练，心中大喜，以为必胜之法；但彼若用火攻，难以回避。",
+    "result": "四更造饭，五更结束已定，早听得水寨中擂鼓鸣金。",
+    "impact_score": 96,
+    "character_ids": [
+      "zhouyu",
+      "xiahoudun",
+      "caocao",
+      "xuchu",
+      "zhangliao",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_048_2"
+    ]
+  },
+  {
+    "id": "ev_049_1",
+    "chapter": 49,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "七星坛诸葛祭风",
+    "background": "周瑜立于山顶，观望良久，忽然望后而倒，口吐鲜血，不省人事。",
+    "process": "第二层周围黄旗六十四面，按六十四卦，分八位而立；前左立一人，手执长竿，竿尖上用鸡羽为葆。",
+    "result": "孔明缓步登坛，观瞻方位已定，焚香于炉，注水于盂，仰天暗祝。",
+    "impact_score": 83,
+    "character_ids": [
+      "zhugeliang",
+      "zhouyu",
+      "caocao",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_049_1"
+    ]
+  },
+  {
+    "id": "ev_049_2",
+    "chapter": 49,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "华容道放曹",
+    "background": "瑜出帐看时，旗脚竟飘西北。",
+    "process": "丁奉马军先到，见坛上执旗将士，当风而立；丁奉下马提剑上坛，不见孔明，慌问守坛将士。",
+    "result": "却令黄盖安排火船，使小卒驰书约曹操，今夜来降。",
+    "impact_score": 90,
+    "character_ids": [
+      "zhugeliang",
+      "caocao",
+      "guanyu",
+      "liubei",
+      "zhaoyun",
+      "zhouyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_049_2"
+    ]
+  },
+  {
+    "id": "ev_049_3",
+    "chapter": 49,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "赤壁决战",
+    "background": "江东，天色向晚，周瑜唤出蔡和，令军士缚倒。",
+    "process": "二十只火船，撞入水寨，曹寨中船只一时尽着；张辽与十数人保护曹操，飞奔岸口。",
+    "result": "张辽拈弓搭箭，觑着黄盖较近，一箭射去。",
+    "impact_score": 90,
+    "character_ids": [
+      "caocao",
+      "zhangliao",
+      "zhouyu",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_049_3"
+    ]
+  },
+  {
+    "id": "ev_050_1",
+    "chapter": 50,
+    "period_id": "p3",
+    "seq_in_chapter": 1,
+    "title": "赤壁决战",
+    "background": "当夜张辽一箭射黄盖下水，救得曹操登岸，寻着马匹走时，军已大乱。",
+    "process": "曹军着枪中箭、火焚水溺者，不计其数；曹操与张辽引百余骑，在火林内走，看前面无一处不着。",
+    "result": "徐晃出问，乃是袁绍手下降将马延、张顗，有三千北地军马，列寨在彼。",
+    "impact_score": 99,
+    "character_ids": [
+      "caocao",
+      "zhugeliang",
+      "zhangliao",
+      "zhouyu",
+      "zhaoyun",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_050_1"
+    ]
+  },
+  {
+    "id": "ev_050_2",
+    "chapter": 50,
+    "period_id": "p3",
+    "seq_in_chapter": 2,
+    "title": "华容道放曹",
+    "background": "诸葛亮多谋，故使人于山僻烧烟，使我军不敢从这条山路走，他却伏兵于大路等着。",
+    "process": "务要即时行动，如违令者斩；操恐后军来赶，令张辽、许褚、徐晃引百骑执刀在手，但迟慢者便斩之。",
+    "result": "荆州原降文武各官，依旧带回许昌调用。",
+    "impact_score": 91,
+    "character_ids": [
+      "guanyu",
+      "caocao",
+      "zhugeliang",
+      "zhangliao",
+      "zhouyu",
+      "xiahoudun"
+    ],
+    "evidence_ref_ids": [
+      "evi_050_2"
+    ]
+  },
+  {
+    "id": "ev_050_3",
+    "chapter": 50,
+    "period_id": "p3",
+    "seq_in_chapter": 3,
+    "title": "华容道放曹（其二）",
+    "background": "此时诸路军马，皆得马匹、器械、钱粮，已回夏口。",
+    "process": "但既有军令状在此，不得不按军法。",
+    "result": "事件收束后，人物关系与后续局势随之改写。",
+    "impact_score": 83,
+    "character_ids": [
+      "guanyu",
+      "zhugeliang",
+      "caocao",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_050_3"
+    ]
+  },
+  {
+    "id": "ev_051_1",
+    "chapter": 51,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "所得降卒，尽行发付渡江，大犒三军，遂进兵攻取南郡。",
+    "process": "曹操临归，令曹仁守南郡等处，必有奇计；瑜即点兵，要亲与曹仁决战。",
+    "result": "曹操临归，令曹仁守南郡等处，必有奇计。",
+    "impact_score": 93,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "zhouyu",
+      "guanyu",
+      "caocao",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_051_1"
+    ]
+  },
+  {
+    "id": "ev_051_2",
+    "chapter": 51,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "曹仁大战东吴兵",
+    "background": "周瑜麾两翼军杀出，曹军大败。",
+    "process": "瑜自引军马追至南郡城下，曹军皆不入城，望西北面走；韩当、周泰引前部尽力追赶。",
+    "result": "曹仁引十数骑杀出重围，正遇曹洪，遂引败残军马一同奔走。",
+    "impact_score": 92,
+    "character_ids": [
+      "zhouyu",
+      "zhugeliang",
+      "xiahoudun",
+      "lumeng",
+      "zhaoyun",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_051_2"
+    ]
+  },
+  {
+    "id": "ev_052_1",
+    "chapter": 52,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "气伤箭疮，半晌方苏，众将再三劝解。",
+    "process": "于是鲁肃引从者径投南郡来，到城下叫门；幸得东吴杀退曹兵，救了皇叔。",
+    "result": "于是鲁肃引从者径投南郡来，到城下叫门。",
+    "impact_score": 94,
+    "character_ids": [
+      "zhugeliang",
+      "liubei",
+      "zhouyu",
+      "caocao",
+      "zhaoyun",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_052_1"
+    ]
+  },
+  {
+    "id": "ev_052_2",
+    "chapter": 52,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "赤壁决战",
+    "background": "刘玄德自得荆州、南郡、襄阳，心中大喜，商议久远之计。",
+    "process": "道荣轮大斧来迎，战不数合，气力不加，拨马便走；刘贤、道荣两下杀来，放火军便退。",
+    "result": "如其不降，打破城池，满门尽诛。",
+    "impact_score": 99,
+    "character_ids": [
+      "zhugeliang",
+      "liubei",
+      "zhangfei",
+      "zhaoyun",
+      "guanyu",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_052_2"
+    ]
+  },
+  {
+    "id": "ev_052_3",
+    "chapter": 52,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "赵子龙计取桂阳",
+    "background": "玄德入城安抚已毕，赏劳三军。",
+    "process": "二人都是桂阳岭山乡猎户出身，陈应会使飞叉，鲍隆曾射杀双虎；更兼孔明多谋，关、张极勇。",
+    "result": "将降将陈、鲍二人当时斩了。",
+    "impact_score": 89,
+    "character_ids": [
+      "zhaoyun",
+      "zhugeliang",
+      "liubei",
+      "zhangfei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_052_3"
+    ]
+  },
+  {
+    "id": "ev_053_1",
+    "chapter": 53,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "金旋听得张飞引兵到，乃集将校，整点精兵器械，出城迎敌。",
+    "process": "飞挺矛立马，大喝金旋；巩志出城纳降，飞就令巩志赍印绶，往桂阳见玄德。",
+    "result": "韩玄大喜，遂令杨龄引军一千，飞奔出城。",
+    "impact_score": 95,
+    "character_ids": [
+      "guanyu",
+      "zhangfei",
+      "huangzhong",
+      "liubei",
+      "zhugeliang",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_053_1"
+    ]
+  },
+  {
+    "id": "ev_053_2",
+    "chapter": 53,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "关云长义释黄汉升",
+    "background": "急回头看时，见黄忠被战马前失，掀在地下。",
+    "process": "云长方欲用刀砍去，忽听得脑后一声响。",
+    "result": "至死甘心无怨望，临降低首尚怀惭。",
+    "impact_score": 90,
+    "character_ids": [
+      "huangzhong",
+      "guanyu",
+      "liubei",
+      "zhugeliang",
+      "liubiao"
+    ],
+    "evidence_ref_ids": [
+      "evi_053_2"
+    ]
+  },
+  {
+    "id": "ev_053_3",
+    "chapter": 53,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "赤壁决战",
+    "background": "周瑜自回柴桑养病，令甘宁守巴陵郡，令凌统守汉阳郡，二处分布战船，听候调遣。",
+    "process": "张辽纵马当先，专搦孙权决战；张辽乘势掩杀过来，吴兵大乱，四散奔走。",
+    "result": "程普保孙权归大寨，败军陆续回营。",
+    "impact_score": 99,
+    "character_ids": [
+      "zhangliao",
+      "sunquan",
+      "zhugeliang",
+      "liubei",
+      "guanyu",
+      "zhouyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_053_3"
+    ]
+  },
+  {
+    "id": "ev_054_1",
+    "chapter": 54,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "赤壁决战",
+    "background": "周都督再三致意刘皇叔、诸葛先生。",
+    "process": "周瑜写了书呈，选快船送鲁肃投南徐见孙权，先说借荆州一事，呈上文书；留来人在馆驿中歇，别作商议。",
+    "result": "肃死不恨，只恐惹恼东吴，兴动干戈，皇叔亦不能安坐荆州，空为天下耻笑耳。",
+    "impact_score": 99,
+    "character_ids": [
+      "zhugeliang",
+      "liubei",
+      "zhouyu",
+      "caocao",
+      "liuzhang",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_054_1"
+    ]
+  },
+  {
+    "id": "ev_054_2",
+    "chapter": 54,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "玄德曰周瑜定计欲害刘备",
+    "background": "略用小谋，使周瑜半筹不展。",
+    "process": "囊中有三条妙计，依次而行；随行五百军士，俱披红挂彩，入南徐买办物件，传说玄德入赘东吴，城中人尽知其事。",
+    "result": "先教孙乾和吕范回见吴侯，面许已定，择日便去就亲。",
+    "impact_score": 91,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "zhouyu",
+      "sunquan",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_054_2"
+    ]
+  },
+  {
+    "id": "ev_054_3",
+    "chapter": 54,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "吴国太佛寺看新郎",
+    "background": "乔国老既见玄德，便入见吴国太贺喜。",
+    "process": "女婿已在馆驿安歇，五百随行军士都在城中买猪羊果品，准备成亲；少顷，孙权入后堂见母亲。",
+    "result": "二人叙礼毕，遂入方丈见国太。",
+    "impact_score": 87,
+    "character_ids": [
+      "liubei",
+      "sunquan",
+      "zhaoyun",
+      "zhouyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_054_3"
+    ]
+  },
+  {
+    "id": "ev_054_4",
+    "chapter": 54,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "乔国老入见国太",
+    "background": "二人共览之次，江风浩荡，洪波滚雪，白浪掀天。",
+    "process": "二人立马于山坡之上，扬鞭大笑。",
+    "result": "侍婢皆佩剑悬刀，立于两傍。",
+    "impact_score": 87,
+    "character_ids": [
+      "liubei",
+      "sunquan",
+      "zhaoyun",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_054_4"
+    ]
+  },
+  {
+    "id": "ev_055_1",
+    "chapter": 55,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "玄德见孙夫人房中两边枪刀森列，侍婢皆佩剑，不觉失色。",
+    "process": "既已弄假成真，又当就此用计；刘备起身微末，奔走天下，未尝受享富贵。",
+    "result": "使分开关、张之情，隔远诸葛之契，各置一方，然后以兵击之，大事可定矣。",
+    "impact_score": 93,
+    "character_ids": [
+      "liubei",
+      "sunquan",
+      "zhugeliang",
+      "zhouyu",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_055_1"
+    ]
+  },
+  {
+    "id": "ev_055_2",
+    "chapter": 55,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "赤壁决战",
+    "background": "住到年终，开第二个。",
+    "process": "当日，孙权大醉，左右近侍扶入后堂，文武皆散；孙权闻知走了玄德，急唤文武商议。",
+    "result": "既然肯顺刘备，必同心而去。",
+    "impact_score": 99,
+    "character_ids": [
+      "liubei",
+      "sunquan",
+      "zhaoyun",
+      "zhugeliang",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_055_2"
+    ]
+  },
+  {
+    "id": "ev_055_3",
+    "chapter": 55,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "玄德智激孙夫人",
+    "background": "军师有三条妙计，多在锦囊之中。",
+    "process": "昨闻吴侯将欲加害，故托荆州有难，以图归计；今吴侯又令人在后追赶，周瑜又使人于前截住，非夫人莫解此祸。",
+    "result": "见一军如旋风而来，视之，乃蒋钦、周泰。",
+    "impact_score": 96,
+    "character_ids": [
+      "liubei",
+      "zhouyu",
+      "zhaoyun",
+      "zhugeliang",
+      "guanyu",
+      "huangzhong"
+    ],
+    "evidence_ref_ids": [
+      "evi_055_3"
+    ]
+  },
+  {
+    "id": "ev_056_1",
+    "chapter": 56,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "赤壁决战",
+    "background": "孔明教休追赶，自和玄德归荆州庆喜，赏赐众将。",
+    "process": "蒋钦等一行人马自归南徐报孙权。",
+    "result": "闻操会群臣于邺郡，庆赏铜雀台，歆乃赴邺郡候见。",
+    "impact_score": 99,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "zhugeliang",
+      "zhouyu",
+      "huangzhong",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_056_1"
+    ]
+  },
+  {
+    "id": "ev_056_2",
+    "chapter": 56,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "曹操大宴铜雀台",
+    "background": "操欲观武官比试弓箭，乃使近侍将西川红锦战袍一领，挂于垂杨枝上，下设一箭垛，以百步为界。",
+    "process": "念自讨董卓，剿黄巾以来，除袁术、破吕布、灭袁绍、定刘表，遂平天下；当日筵散，操即引文武回许昌，表奏周瑜为总领南郡太守、程普为江夏太守。",
+    "result": "念自讨董卓，剿黄巾以来，除袁术、破吕布、灭袁绍、定刘表，遂平天下。",
+    "impact_score": 98,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "zhouyu",
+      "zhugeliang",
+      "sunquan",
+      "xuchu"
+    ],
+    "evidence_ref_ids": [
+      "evi_056_2"
+    ]
+  },
+  {
+    "id": "ev_056_3",
+    "chapter": 56,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "周瑜顿足曰子敬又中诸葛亮之…",
+    "background": "计会已定，接鲁肃入府，礼毕，叙坐。",
+    "process": "东吴军马收川，路过荆州，就问他索要钱粮，刘备必然出城劳军。",
+    "result": "等周瑜到来，他便不死，也九分无气。",
+    "impact_score": 90,
+    "character_ids": [
+      "zhugeliang",
+      "liubei",
+      "zhouyu",
+      "liuzhang",
+      "liubiao",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_056_3"
+    ]
+  },
+  {
+    "id": "ev_056_4",
+    "chapter": 56,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "周瑜大笑曰原来今番也中了吾计",
+    "background": "鲁肃回见周瑜，说玄德、孔明欢喜一节，准备出城劳军。",
+    "process": "周瑜此时箭疮已渐平愈，身躯无事，使甘宁为先锋，自与徐盛、丁奉为第二，凌统、吕蒙为后队，水陆大兵五万，望荆州而来；周瑜在船中，时复欢笑，以为孔明中计。",
+    "result": "喊声远近震动百余里，皆言要捉周瑜。",
+    "impact_score": 90,
+    "character_ids": [
+      "zhouyu",
+      "zhugeliang",
+      "zhaoyun",
+      "liubei",
+      "lumeng",
+      "liuzhang"
+    ],
+    "evidence_ref_ids": [
+      "evi_056_4"
+    ]
+  },
+  {
+    "id": "ev_057_1",
+    "chapter": 57,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "赤壁决战",
+    "background": "周瑜怒气填胸，坠于马下，左右急救归船。",
+    "process": "益州民强地险，刘璋虽暗弱，足以自守。",
+    "result": "奈死生不测，修短有命。",
+    "impact_score": 99,
+    "character_ids": [
+      "zhugeliang",
+      "zhouyu",
+      "liubei",
+      "sunquan",
+      "caocao",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_057_1"
+    ]
+  },
+  {
+    "id": "ev_057_2",
+    "chapter": 57,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "赤壁决战（其二）",
+    "background": "鲁肃送周瑜灵柩至芜湖，孙权接着，哭祭于前，命厚葬于本乡。",
+    "process": "谋略不减于管、乐，枢机可并于孙、吴。",
+    "result": "统到耒阳县，不理政事，终日饮酒为乐。",
+    "impact_score": 99,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "zhangfei",
+      "zhouyu",
+      "sunquan",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_057_2"
+    ]
+  },
+  {
+    "id": "ev_057_3",
+    "chapter": 57,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "赤壁决战（其三）",
+    "background": "早有人报到许昌，言刘备有诸葛亮、庞统为谋士，招军买马，积草屯粮，连结东吴，早晚必兴兵北伐。",
+    "process": "统方将出孔明所荐之书。",
+    "result": "曹操闻之，遂聚众谋士商议南征。",
+    "impact_score": 99,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "zhugeliang",
+      "sunquan",
+      "zhangfei",
+      "machao"
+    ],
+    "evidence_ref_ids": [
+      "evi_057_3"
+    ]
+  },
+  {
+    "id": "ev_058_1",
+    "chapter": 58,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "备意在西川，必无心救权。",
+    "process": "权无救则力乏兵衰，江东之地，必为丞相所得；今操杀马腾，其子马超现统西凉之众，必切齿操贼。",
+    "result": "今操杀马腾，其子马超现统西凉之众，必切齿操贼。",
+    "impact_score": 93,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "sunquan",
+      "machao",
+      "zhangliao",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_058_1"
+    ]
+  },
+  {
+    "id": "ev_058_2",
+    "chapter": 58,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "八将随着韩遂",
+    "background": "惊惧而觉，心中疑惑，聚帐下将佐，告说梦中之事。",
+    "process": "八将随着韩遂，合马超手下庞德、马岱，共起二十万大兵，杀奔长安来；马超、韩遂引大军都到，围住长安。",
+    "result": "八将随着韩遂，合马超手下庞德、马岱，共起二十万大兵，杀奔长安来。",
+    "impact_score": 84,
+    "character_ids": [
+      "machao",
+      "caocao",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_058_2"
+    ]
+  },
+  {
+    "id": "ev_058_3",
+    "chapter": 58,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "钟进措手不及",
+    "background": "钟繇退守潼关，飞报曹操。",
+    "process": "曹洪大怒，要提兵下关厮杀；曹洪便教备马，点起三千兵杀下关来。",
+    "result": "两马交战，斗得八九合，于禁败走。",
+    "impact_score": 84,
+    "character_ids": [
+      "machao",
+      "caocao",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_058_3"
+    ]
+  },
+  {
+    "id": "ev_058_4",
+    "chapter": 58,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "操曰诸公笑我无破马超之谋",
+    "background": "洪与马超战到四五十合，渐渐刀法散乱，气力不加。",
+    "process": "收拾败军，坚守寨栅，深沟高垒，不许出战；超每日引兵来寨前辱骂搦战。",
+    "result": "时有渭南县令丁斐，在南山之上，见马超追操甚急，恐伤操命，遂将寨内牛只马匹，尽驱于外，漫山遍野，皆是牛马。",
+    "impact_score": 84,
+    "character_ids": [
+      "machao",
+      "caocao",
+      "xuchu",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_058_4"
+    ]
+  },
+  {
+    "id": "ev_059_1",
+    "chapter": 59,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "许诸裸衣斗马超",
+    "background": "马超屯兵渭口，日夜分兵，前后攻击。",
+    "process": "马超又差庞德、马岱各引五百马军，往来冲突；更兼沙土不实，筑起便倒，操无计可施。",
+    "result": "曹操料马超可以计破，乃密令徐晃、朱灵尽渡河西结营，前后夹攻。",
+    "impact_score": 86,
+    "character_ids": [
+      "machao",
+      "xuchu",
+      "caocao",
+      "lubu"
+    ],
+    "evidence_ref_ids": [
+      "evi_059_1"
+    ]
+  },
+  {
+    "id": "ev_059_2",
+    "chapter": 59,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "曹操抹书问韩遂",
+    "background": "然后用反间计，令韩、马相疑，则一鼓可破也。",
+    "process": "韩遂部卒多有不识操者，出阵观看；见操并无甲仗，亦弃衣甲，轻服匹马而出。",
+    "result": "说罢大笑，相谈有一个时辰，方回马而别，各自归寨。",
+    "impact_score": 85,
+    "character_ids": [
+      "caocao",
+      "machao",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_059_2"
+    ]
+  },
+  {
+    "id": "ev_059_3",
+    "chapter": 59,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "西川争夺",
+    "background": "若看见上面要紧去处，尽皆改抹，只猜是韩遂恐超知甚机密事，自行改抹，正合着单骑会语之疑。",
+    "process": "韩遂引侯选、李堪、梁兴、马玩、杨秋五将出阵；约定放火为号，共谋马超。",
+    "result": "曹操亲自追至安定，知马超去远，方收兵回长安。",
+    "impact_score": 93,
+    "character_ids": [
+      "machao",
+      "caocao",
+      "liuzhang",
+      "xuchu",
+      "lubu",
+      "han_xiandi"
+    ],
+    "evidence_ref_ids": [
+      "evi_059_3"
+    ]
+  },
+  {
+    "id": "ev_060_1",
+    "chapter": 60,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "那进计于刘璋者，乃益州别驾，姓张，名松，字永年。",
+    "process": "松乃暗画西川地理图本藏之，带从人数骑，取路赴许都；曹操自破马超回，傲睨得志，每日饮宴，无事少出，国政皆在相府商议。",
+    "result": "问其姓名，乃太尉杨彪之子杨修，字德祖，现为丞相门下掌库主簿。",
+    "impact_score": 95,
+    "character_ids": [
+      "caocao",
+      "liuzhang",
+      "machao",
+      "lubu",
+      "zhugeliang",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_060_1"
+    ]
+  },
+  {
+    "id": "ev_060_2",
+    "chapter": 60,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "赤壁决战",
+    "background": "昔日濮阳攻吕布之时，宛城战张绣之日。",
+    "process": "适修以丞相所撰《孟德新书》示之，彼观一遍，即能暗诵，如此博闻强记，世所罕有；松言此书乃战国时无名氏所作，蜀中小儿，皆能熟记。",
+    "result": "松归馆舍，连夜出城，收拾回川。",
+    "impact_score": 99,
+    "character_ids": [
+      "zhaoyun",
+      "liubei",
+      "caocao",
+      "guanyu",
+      "lubu",
+      "liuzhang"
+    ],
+    "evidence_ref_ids": [
+      "evi_060_2"
+    ]
+  },
+  {
+    "id": "ev_060_3",
+    "chapter": 60,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "松曰大丈夫处世",
+    "background": "早膳毕，上马行不到三五里，只见一簇人马到。",
+    "process": "乃是玄德引着伏龙、凤雏，亲自来接；奈刘季玉与备同宗，若攻之，恐天下人唾骂。",
+    "result": "自此一连留张松饮宴三日，并不提起川中之事。",
+    "impact_score": 94,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "caocao",
+      "liuzhang",
+      "sunquan",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_060_3"
+    ]
+  },
+  {
+    "id": "ev_060_4",
+    "chapter": 60,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "赤壁决战（其二）",
+    "background": "次遣孟达领精兵五千，迎玄德入川为援。",
+    "process": "张松昨从荆州过，必与刘备同谋；况刘备世之枭雄，先事曹操，便思谋害。",
+    "result": "临行时，忽廖化引一军来降。",
+    "impact_score": 99,
+    "character_ids": [
+      "liubei",
+      "liuzhang",
+      "caocao",
+      "zhugeliang",
+      "zhaoyun",
+      "huangzhong"
+    ],
+    "evidence_ref_ids": [
+      "evi_060_4"
+    ]
+  },
+  {
+    "id": "ev_061_1",
+    "chapter": 61,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "长坂坡奔战",
+    "background": "庞统、法正二人，劝玄德就席间杀刘璋，西川唾手可得。",
+    "process": "玄德慨然领诺，即日引本部兵望葭萌关去了；只两人驾船前来，望着夫人所坐大船追赶。",
+    "result": "璋初时不从，后因众人苦劝，乃令白水都督杨怀、高沛二人，守把涪水关。",
+    "impact_score": 88,
+    "character_ids": [
+      "liubei",
+      "zhaoyun",
+      "liuzhang",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_061_1"
+    ]
+  },
+  {
+    "id": "ev_061_2",
+    "chapter": 61,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "赤壁决战",
+    "background": "周善见张飞上船，提刀来迎，被张飞手起一剑砍倒，提头掷于孙夫人前。",
+    "process": "行不数里，孔明引大队船只接来，见阿斗已夺回，大喜；正商议调兵，忽报曹操起军四十万来报赤壁之仇。",
+    "result": "彧会其意，遂服毒而亡。",
+    "impact_score": 99,
+    "character_ids": [
+      "zhangfei",
+      "caocao",
+      "zhaoyun",
+      "sunquan",
+      "zhugeliang",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_061_2"
+    ]
+  },
+  {
+    "id": "ev_061_3",
+    "chapter": 61,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "赤壁决战（其二）",
+    "background": "曹操军马退后便走，止喝不住。",
+    "process": "杀至天明，曹兵退五十余里下寨；丞相起兵，迁延日久，故孙权得以准备，夹濡须水口为坞，难于攻击。",
+    "result": "事件收束后，人物关系与后续局势随之改写。",
+    "impact_score": 99,
+    "character_ids": [
+      "caocao",
+      "sunquan",
+      "xuchu",
+      "liubei",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_061_3"
+    ]
+  },
+  {
+    "id": "ev_062_1",
+    "chapter": 62,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "西川争夺",
+    "background": "一封与张鲁，教进兵向荆州来。",
+    "process": "张鲁自守之贼，决不敢来犯界；来到关前，杨怀、高沛闻知此事，遂教高沛守关，杨怀同使者入成都，见刘璋呈上书信。",
+    "result": "杨怀、高沛乃蜀中名将，各仗强兵拒守关隘。",
+    "impact_score": 97,
+    "character_ids": [
+      "liubei",
+      "liuzhang",
+      "caocao",
+      "sunquan",
+      "zhugeliang",
+      "huangzhong"
+    ],
+    "evidence_ref_ids": [
+      "evi_062_1"
+    ]
+  },
+  {
+    "id": "ev_062_2",
+    "chapter": 62,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "玄德曰杨怀高沛离间吾兄弟",
+    "background": "见并无准备，心中暗喜，以为中计。",
+    "process": "入至帐下、见玄德正与庞统坐于帐中；玄德各加重赏，遂即分兵前后守把。",
+    "result": "玄德各加重赏，遂即分兵前后守把。",
+    "impact_score": 88,
+    "character_ids": [
+      "liubei",
+      "huangzhong",
+      "liuzhang",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_062_2"
+    ]
+  },
+  {
+    "id": "ev_062_3",
+    "chapter": 62,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "玄德聚众将问曰谁敢建头功",
+    "background": "人报刘璋拨四将前来，即日泠苞、邓贤领二万军离城六十里，扎下两个大寨。",
+    "process": "玄德既得涪水关，与庞统商议进取雒城。",
+    "result": "如先夺得者，便为头功。",
+    "impact_score": 78,
+    "character_ids": [
+      "liubei",
+      "huangzhong",
+      "liuzhang",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_062_3"
+    ]
+  },
+  {
+    "id": "ev_062_4",
+    "chapter": 62,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "细作报说东吴孙权遣人结好东…",
+    "background": "一声炮响，三军上马，杀将出来。",
+    "process": "汉军走了半夜，人马力乏，抵当不住，退后便走；黄忠乘势追赶，川兵大乱。",
+    "result": "玄德立起免死旗，但川兵倒戈卸甲者，并不许杀害，如伤者偿命。",
+    "impact_score": 92,
+    "character_ids": [
+      "liubei",
+      "huangzhong",
+      "liuzhang",
+      "sunquan",
+      "liubiao"
+    ],
+    "evidence_ref_ids": [
+      "evi_062_4"
+    ]
+  },
+  {
+    "id": "ev_063_1",
+    "chapter": 63,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "因直言触忤刘璋，被璋髡钳为徒隶，因此短发。",
+    "process": "泠苞见当夜风雨大作，引了五千军，径循江边而进，安排决江；前面魏延引军赶来，川兵自相践踏。",
+    "result": "玄德见庞统再三催促，乃引军前进。",
+    "impact_score": 87,
+    "character_ids": [
+      "liubei",
+      "huangzhong",
+      "zhugeliang",
+      "liuzhang",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_063_1"
+    ]
+  },
+  {
+    "id": "ev_063_2",
+    "chapter": 63,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "诸葛亮痛哭庞统",
+    "background": "庞统迤逦前进，抬头见两山逼窄，树木丛杂。",
+    "process": "预计三分平刻削，长驱万里独徘徊；魏延忙勒兵欲回，奈山路逼窄，厮杀不得。",
+    "result": "两下夹攻，杀败吴、雷二将，直冲至雒城之下。",
+    "impact_score": 82,
+    "character_ids": [
+      "liubei",
+      "huangzhong",
+      "zhugeliang",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_063_2"
+    ]
+  },
+  {
+    "id": "ev_063_3",
+    "chapter": 63,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "桃园结义",
+    "background": "孔明在荆州，时当七夕佳节，大会众官夜宴，共说收川之事。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "迤逦前行，所到之处，但降者秋毫无犯。",
+    "impact_score": 90,
+    "character_ids": [
+      "zhugeliang",
+      "guanyu",
+      "zhangfei",
+      "caocao",
+      "liubei",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_063_3"
+    ]
+  },
+  {
+    "id": "ev_063_4",
+    "chapter": 63,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "西川争夺",
+    "background": "彼军无粮，不过一月，自然退去。",
+    "process": "张飞大怒，咬牙睁目，披挂上马，引数百骑来巴郡城下搦战；张飞性急，几番杀到吊桥，要过护城河，又被乱箭射回。",
+    "result": "川兵大半弃甲倒戈而降。",
+    "impact_score": 86,
+    "character_ids": [
+      "zhangfei",
+      "liubei",
+      "zhugeliang",
+      "liuzhang",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_063_4"
+    ]
+  },
+  {
+    "id": "ev_064_1",
+    "chapter": 64,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "孔明定计捉张任",
+    "background": "凡到之处，尽是严颜所管，都唤出投降。",
+    "process": "攻到第四日，玄德自提一军攻打西门，令黄忠、魏延在东门攻打，留南门北门放军行走；张任教吴兰、雷铜二将引兵出北门，转东门，敌黄忠、魏延。",
+    "result": "吴兰、雷铜只顾引兵追赶黄忠、魏延，却被玄德、张飞截住归路。",
+    "impact_score": 92,
+    "character_ids": [
+      "liubei",
+      "zhangfei",
+      "huangzhong",
+      "zhugeliang",
+      "zhaoyun",
+      "machao"
+    ],
+    "evidence_ref_ids": [
+      "evi_064_1"
+    ]
+  },
+  {
+    "id": "ev_064_2",
+    "chapter": 64,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "刘璋差卓鹰张翼二将",
+    "background": "刘璋差卓鹰、张翼二将，前至雒城助战。",
+    "process": "张任知是计，急回军时，桥已拆断了；张任方欲退走，张飞大喝一声，众军齐上，将张任活捉了。",
+    "result": "令严颜、吴懿等一班蜀中降将为前部。",
+    "impact_score": 91,
+    "character_ids": [
+      "zhugeliang",
+      "liubei",
+      "liuzhang",
+      "zhangfei",
+      "zhaoyun",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_064_2"
+    ]
+  },
+  {
+    "id": "ev_064_3",
+    "chapter": 64,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "杨阜借兵破马超",
+    "background": "马超自兵败入羌，二载有余，结好羌兵，攻拔陇西州郡。",
+    "process": "韦康大开城门，投拜马超；叙乃与统兵校尉尹奉、赵昂商议。",
+    "result": "张鲁大喜，以为得马超，则西可以吞益州，东可以拒曹操，乃商议欲以女招超为婿。",
+    "impact_score": 87,
+    "character_ids": [
+      "machao",
+      "liuzhang",
+      "caocao",
+      "liubei",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_064_3"
+    ]
+  },
+  {
+    "id": "ev_065_1",
+    "chapter": 65,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "此时庞德卧病不能行，留于汉中。",
+    "process": "此计虽毒，刘璋必不能用也；费观听知玄德兵来，差李严出迎。",
+    "result": "李严再引兵来，黄忠又出战，不十合诈败，引兵便走。",
+    "impact_score": 89,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "liuzhang",
+      "huangzhong",
+      "machao"
+    ],
+    "evidence_ref_ids": [
+      "evi_065_1"
+    ]
+  },
+  {
+    "id": "ev_065_2",
+    "chapter": 65,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "马超大战葭萌关",
+    "background": "今马超之勇，天下皆知，渭桥六战，杀得曹操割须弃袍，几乎丧命，非等闲之比。",
+    "process": "魏延与杨柏交战，不十合，杨柏败走；是张飞初到关上，听得关前厮杀，便来看时，正见魏延中箭，因骤马下关，救了魏延。",
+    "result": "待其来撤时，便可用计招降马超矣。",
+    "impact_score": 92,
+    "character_ids": [
+      "machao",
+      "zhangfei",
+      "liubei",
+      "zhugeliang",
+      "zhaoyun",
+      "liuzhang"
+    ],
+    "evidence_ref_ids": [
+      "evi_065_2"
+    ]
+  },
+  {
+    "id": "ev_065_3",
+    "chapter": 65,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "刘备自领益州牧",
+    "background": "人报城北马超救兵到，刘璋方敢登城望之。",
+    "process": "不若开门投降，以救满城百姓。",
+    "result": "于是刘璋决计投降，厚待简雍。",
+    "impact_score": 92,
+    "character_ids": [
+      "liuzhang",
+      "liubei",
+      "zhugeliang",
+      "machao",
+      "guanyu",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_065_3"
+    ]
+  },
+  {
+    "id": "ev_065_4",
+    "chapter": 65,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "西川争夺",
+    "background": "今已得巴蜀四十一州，须用取索汉上诸郡。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "如其不还，即动干戈。",
+    "impact_score": 92,
+    "character_ids": [
+      "liubei",
+      "guanyu",
+      "zhugeliang",
+      "machao",
+      "zhangfei",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_065_4"
+    ]
+  },
+  {
+    "id": "ev_066_1",
+    "chapter": 66,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "桃园结义",
+    "background": "却说孙权要索荆州。",
+    "process": "兄休忧虑，弟自有计还荆州便了；瑾大喜，即同孔明入见玄德，呈上孙权书。",
+    "result": "瑾求了书，辞了玄德，别了孔明，登途径到荆州。",
+    "impact_score": 86,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "guanyu",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_066_1"
+    ]
+  },
+  {
+    "id": "ev_066_2",
+    "chapter": 66,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "桃园结义（其二）",
+    "background": "瑾不得已，只得回东吴见孙权，具言前事。",
+    "process": "如其不从，伏下刀斧手杀之；如无军来，只于庭后伏刀斧手五十人，就筵间杀之。",
+    "result": "权闻之大怒，商议起倾国之兵，来取荆州。",
+    "impact_score": 93,
+    "character_ids": [
+      "guanyu",
+      "sunquan",
+      "liubei",
+      "zhugeliang",
+      "lumeng",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_066_2"
+    ]
+  },
+  {
+    "id": "ev_066_3",
+    "chapter": 66,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "伏皇后为国捐生",
+    "background": "于是侍中王粲、杜袭、卫凯、和洽四人，议欲尊曹操为魏王。",
+    "process": "一日，曹操带剑入宫，献帝正与伏后共坐；帝见曹操，战栗不已。",
+    "result": "而歆乃先事孙权，后归曹操，至此乃有收捕伏皇后一事。",
+    "impact_score": 89,
+    "character_ids": [
+      "caocao",
+      "sunquan",
+      "liubei",
+      "han_xiandi",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_066_3"
+    ]
+  },
+  {
+    "id": "ev_066_4",
+    "chapter": 66,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "操方被酒而卧",
+    "background": "帝望见后，乃下殿抱后而哭。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "许褚虽疏，现充内侍。",
+    "impact_score": 89,
+    "character_ids": [
+      "xiahoudun",
+      "xuchu",
+      "caocao",
+      "han_xiandi",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_066_4"
+    ]
+  },
+  {
+    "id": "ev_067_1",
+    "chapter": 67,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "夏侯渊、张郃急上得马，四下里大兵拥入，曹兵大败，退见曹操。",
+    "process": "张郃二将，听得喊声，故引军杀来接应；于是杀退杨昂、杨任，救得曹操回寨。",
+    "result": "败兵回投阳平关，来见张卫。",
+    "impact_score": 91,
+    "character_ids": [
+      "caocao",
+      "xuchu",
+      "machao",
+      "xiahoudun",
+      "zhangliao"
+    ],
+    "evidence_ref_ids": [
+      "evi_067_1"
+    ]
+  },
+  {
+    "id": "ev_067_2",
+    "chapter": 67,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "曹操平定汉中地",
+    "background": "却教徐晃挑战，不数合败走。",
+    "process": "庞德不及提备，只得上马冲杀出来，望城而走；曹操下马，叱退军士，亲释其缚，问庞德肯降否。",
+    "result": "遂差人往巴中，劝使投降。",
+    "impact_score": 94,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "zhugeliang",
+      "xuchu",
+      "simayi",
+      "liuzhang"
+    ],
+    "evidence_ref_ids": [
+      "evi_067_2"
+    ]
+  },
+  {
+    "id": "ev_067_3",
+    "chapter": 67,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "张辽威震逍遥津",
+    "background": "所有荆州南郡、零陵，本欲送还。",
+    "process": "来日平明进兵，午未时便当破城；张辽引军至半路，哨马回报皖城已失。",
+    "result": "孙权在舟中望见，急令董袭棹舟接之，乃得渡回。",
+    "impact_score": 90,
+    "character_ids": [
+      "sunquan",
+      "lumeng",
+      "zhangliao",
+      "caocao",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_067_3"
+    ]
+  },
+  {
+    "id": "ev_068_1",
+    "chapter": 68,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "孙权在濡须口收拾军马，忽报曹操自汉中领兵四十万前来救合淝。",
+    "process": "都披甲上马，飞奔曹操寨边，拔开鹿角，大喊一声，杀入寨中，径奔中军来杀曹操；那甘宁百骑，在营内纵横驰骤，逢着便杀。",
+    "result": "曹操闻知，亲自策马到门旗下来看，见二将酣斗，乃令曹休暗放冷箭。",
+    "impact_score": 88,
+    "character_ids": [
+      "sunquan",
+      "caocao",
+      "zhangliao",
+      "lumeng"
+    ],
+    "evidence_ref_ids": [
+      "evi_068_1"
+    ]
+  },
+  {
+    "id": "ev_068_2",
+    "chapter": 68,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "左慈掷杯戏曹操",
+    "background": "泰到江边，回头又不见孙权，乃复翻身杀入围中，又寻见孙权。",
+    "process": "陈武再欲回身交战，被树株抓往袍袖，不能迎敌，为庞德所杀；吕蒙箭尽，正慌间，忽对江一宗船到，为首一员大将，乃是孙策女婿陆逊，自引十万兵到。",
+    "result": "长子曹丕，恐不得立，乃问计于中大夫贾诩。",
+    "impact_score": 95,
+    "character_ids": [
+      "sunquan",
+      "caocao",
+      "lumeng",
+      "caopi",
+      "han_xiandi",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_068_2"
+    ]
+  },
+  {
+    "id": "ev_068_3",
+    "chapter": 68,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "是日诸官皆至王宫大宴",
+    "background": "正行酒间，左慈足穿木履，立于筵前。",
+    "process": "左慈于龙腹中提出龙肝一副，鲜血尚流；顷刻发出牡丹一株，开放双花。",
+    "result": "小童归告主人，主人不敢隐讳，报知曹操。",
+    "impact_score": 87,
+    "character_ids": [
+      "caocao",
+      "xuchu",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_068_3"
+    ]
+  },
+  {
+    "id": "ev_069_1",
+    "chapter": 69,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "卜周易管辂知机",
+    "background": "当日曹操见黑风中群尸皆起，惊倒于地。",
+    "process": "琅琊太守单子春闻其名，召辂相见；安平太守王基，知辂神卜，延辂至家。",
+    "result": "辂令徙骸骨去城外十里埋之，妻与子遂无恙。",
+    "impact_score": 89,
+    "character_ids": [
+      "caocao",
+      "liubei",
+      "guanyu",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_069_1"
+    ]
+  },
+  {
+    "id": "ev_069_2",
+    "chapter": 69,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "受禅建晋",
+    "background": "不数日，飞报刘玄德遣张飞、马超兵屯下辨取关。",
+    "process": "待天子降诏，招安已定，便进兵杀投邺郡擒曹操，即发使赍诏召刘皇叔；又闻喊杀连天，知是营中有变，急上马出南门，正遇耿纪，一箭射中肩膊，几乎坠马，遂望西门而走。",
+    "result": "待天子降诏，招安已定，便进兵杀投邺郡擒曹操，即发使赍诏召刘皇叔。",
+    "impact_score": 99,
+    "character_ids": [
+      "xiahoudun",
+      "simayi",
+      "caocao",
+      "liubei",
+      "zhangfei",
+      "machao"
+    ],
+    "evidence_ref_ids": [
+      "evi_069_2"
+    ]
+  },
+  {
+    "id": "ev_069_3",
+    "chapter": 69,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "曹操于教场立红旗于左白旗于右",
+    "background": "夏侯惇奉曹操命，巡警许昌，领三万军，离城五里屯扎。",
+    "process": "夏侯惇入城，救灭遗火，尽收五人老小宗族，使人飞报曹操；如曾救火者，可立于红旗下。",
+    "result": "曹操方悟管辂火灾之说，遂重赏辂。",
+    "impact_score": 88,
+    "character_ids": [
+      "xiahoudun",
+      "machao",
+      "caocao",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_069_3"
+    ]
+  },
+  {
+    "id": "ev_070_1",
+    "chapter": 70,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "张飞离宕渠十里下寨，次日引兵搦战。",
+    "process": "张郃仍旧分兵守住三寨，多置擂木炮石，坚守不战；张飞又去搦战，张郃又不出。",
+    "result": "张飞只顾引军冲突，张郃大败，死命杀开条路，走上瓦口关，收聚败兵，坚守不出。",
+    "impact_score": 83,
+    "character_ids": [
+      "zhangfei",
+      "liubei",
+      "zhugeliang",
+      "huangzhong"
+    ],
+    "evidence_ref_ids": [
+      "evi_070_1"
+    ]
+  },
+  {
+    "id": "ev_070_2",
+    "chapter": 70,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "老黄忠计夺天荡山",
+    "background": "葭萌关守将孟达、霍峻，知张郃兵来。",
+    "process": "帐中诸将内选一人去破张郃。",
+    "result": "两军夹攻，张郃大败。",
+    "impact_score": 90,
+    "character_ids": [
+      "huangzhong",
+      "zhugeliang",
+      "zhangfei",
+      "liubei",
+      "zhaoyun",
+      "xiahoudun"
+    ],
+    "evidence_ref_ids": [
+      "evi_070_2"
+    ]
+  },
+  {
+    "id": "ev_070_3",
+    "chapter": 70,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "郃来前寨谏曰黄忠连退二日",
+    "background": "黄忠听知夏侯尚、韩浩来，遂引军马出营。",
+    "process": "黄忠力战二将，各斗十余合，黄忠败走；夏侯尚、韩浩赶来，忠又出阵，战数合，又败走。",
+    "result": "二将兵出，黄忠望风而走，连败数阵，直退在关上。",
+    "impact_score": 86,
+    "character_ids": [
+      "huangzhong",
+      "liubei",
+      "zhugeliang",
+      "zhaoyun",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_070_3"
+    ]
+  },
+  {
+    "id": "ev_070_4",
+    "chapter": 70,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "二更忠引五千军开关直下",
+    "background": "被黄忠破寨直入，人不及甲，马不及鞍，二将各自逃命而走，军马自相践踏，死者无数。",
+    "process": "尽弃了许多寨栅，直奔至汉水傍；于是张郃与二将连夜投天荡山来，见夏侯德，具言前事。",
+    "result": "既定汉中，然后练兵积粟，观衅伺隙，进可讨贼，退可自守。",
+    "impact_score": 90,
+    "character_ids": [
+      "huangzhong",
+      "liubei",
+      "zhugeliang",
+      "caocao",
+      "zhangfei",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_070_4"
+    ]
+  },
+  {
+    "id": "ev_071_1",
+    "chapter": 71,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "又差人往下辨，授计与马超，令他如此而行。",
+    "process": "又差严颜往巴西阆中守隘，替张飞、魏延来同取汉中；操大惊，急聚文武，商议发兵救汉中。",
+    "result": "操乃以琰配与董祀为妻。",
+    "impact_score": 92,
+    "character_ids": [
+      "huangzhong",
+      "liubei",
+      "zhugeliang",
+      "zhaoyun",
+      "caocao",
+      "xiahoudun"
+    ],
+    "evidence_ref_ids": [
+      "evi_071_1"
+    ]
+  },
+  {
+    "id": "ev_071_2",
+    "chapter": 71,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "占对山黄忠逸待劳",
+    "background": "黄忠与法正引兵屯于定军山口，累次挑战，夏侯渊坚守不出。",
+    "process": "黄忠、夏侯渊各立马于本阵门旗之下；两将交马，战到二十余合，曹营内忽然鸣金收兵。",
+    "result": "忠与陈式两下夹攻，混杀一阵，张郃败走。",
+    "impact_score": 83,
+    "character_ids": [
+      "huangzhong",
+      "caocao",
+      "zhaoyun",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_071_2"
+    ]
+  },
+  {
+    "id": "ev_071_3",
+    "chapter": 71,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "据汉水赵云寡胜众",
+    "background": "黄忠斩了夏侯渊首级，来葭萌关上见玄德献功。",
+    "process": "凡事计议而行，看谁立功。",
+    "result": "操大喜，遂命王平为副先锋，相助徐晃。",
+    "impact_score": 87,
+    "character_ids": [
+      "zhaoyun",
+      "huangzhong",
+      "liubei",
+      "caocao",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_071_3"
+    ]
+  },
+  {
+    "id": "ev_072_1",
+    "chapter": 72,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "徐晃引兵从辰时搦战，直至申时，蜀兵不动。",
+    "process": "两下夹攻，徐晃大败，军士逼入汉水，死者无数；平当夜引本部军就营中放起火来，曹兵大乱，徐晃弃营而走。",
+    "result": "当夜更深，孔明见曹营灯火方息，军士歇定，遂放号炮。",
+    "impact_score": 93,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "zhaoyun",
+      "huangzhong",
+      "caocao",
+      "zhangfei"
+    ],
+    "evidence_ref_ids": [
+      "evi_072_1"
+    ]
+  },
+  {
+    "id": "ev_072_2",
+    "chapter": 72,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "赤壁决战",
+    "background": "曹操退守阳平关，令军哨探。",
+    "process": "战不数合，被飞一矛刺中肩膀，翻身落马；操令医士疗治金疮，一面亲自提兵来与蜀兵决战。",
+    "result": "操乃叱退夏侯惇，下令来日进兵。",
+    "impact_score": 99,
+    "character_ids": [
+      "caocao",
+      "xiahoudun",
+      "zhangfei",
+      "xuchu",
+      "liubei",
+      "machao"
+    ],
+    "evidence_ref_ids": [
+      "evi_072_2"
+    ]
+  },
+  {
+    "id": "ev_073_1",
+    "chapter": 73,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "董卓乱政",
+    "background": "曹操退兵至斜谷，孔明料他必弃汉中而走，故差马超等诸将，分兵十数路，不时攻劫。",
+    "process": "方今天下分崩，英雄并起，各霸一方，四海才德之士，舍死亡生而事其上者，皆欲攀龙附凤，建立功名也；子刘禅，立为王世子。",
+    "result": "权知满宠到，遂与谋士商议。",
+    "impact_score": 94,
+    "character_ids": [
+      "liubei",
+      "guanyu",
+      "caocao",
+      "zhugeliang",
+      "sunquan",
+      "machao"
+    ],
+    "evidence_ref_ids": [
+      "evi_073_1"
+    ]
+  },
+  {
+    "id": "ev_073_2",
+    "chapter": 73,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "西川争夺",
+    "background": "细作人探听得曹操结连东吴，欲取荆州，即飞报入蜀。",
+    "process": "然吴中谋士极多，必教操令曹仁先兴兵矣。",
+    "result": "昔萧何、曹参与高祖同举大事，最为亲近，而韩信乃楚之亡将也。",
+    "impact_score": 93,
+    "character_ids": [
+      "guanyu",
+      "zhugeliang",
+      "caocao",
+      "zhangfei",
+      "zhaoyun",
+      "huangzhong"
+    ],
+    "evidence_ref_ids": [
+      "evi_073_2"
+    ]
+  },
+  {
+    "id": "ev_073_3",
+    "chapter": 73,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "玄德进位汉中王",
+    "background": "便觉左足阴阴疼痛，心中大疑。",
+    "process": "与曹兵两阵对圆，廖化出马搦战；二将战不多时，化诈败，拨马便走，翟元从后追杀，荆州兵退二十里。",
+    "result": "二将战不多时，化诈败，拨马便走，翟元从后追杀，荆州兵退二十里。",
+    "impact_score": 85,
+    "character_ids": [
+      "guanyu",
+      "lumeng",
+      "liubei",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_073_3"
+    ]
+  },
+  {
+    "id": "ev_073_4",
+    "chapter": 73,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "云长攻拔襄阳郡",
+    "background": "若兵临城下，将至壕边，急难抵当矣。",
+    "process": "云长混杀过来，曹兵大败，马步军折其大半，残败军奔入樊城。",
+    "result": "事件收束后，人物关系与后续局势随之改写。",
+    "impact_score": 85,
+    "character_ids": [
+      "guanyu",
+      "caocao",
+      "liubei",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_073_4"
+    ]
+  },
+  {
+    "id": "ev_074_1",
+    "chapter": 74,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "西川争夺",
+    "background": "曹操欲使于禁赴樊城救援，问众将谁敢作先锋。",
+    "process": "当日引各头目参拜于禁；禁闻此语，遂连夜入府启知曹操。",
+    "result": "故主马超，有勇无谋，兵败地亡，孤身入川，今与德各事其主，旧义已绝。",
+    "impact_score": 87,
+    "character_ids": [
+      "caocao",
+      "machao",
+      "guanyu",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_074_1"
+    ]
+  },
+  {
+    "id": "ev_074_2",
+    "chapter": 74,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "关云长放水淹七军",
+    "background": "倘有疏虞，非所以重伯父之托也。",
+    "process": "两阵对圆，二将齐出，更不打话，出马交锋。",
+    "result": "庞德累欲动兵，于禁只不允，乃移七军转过山口，离樊城北十里，依山下寨，禁自领兵截断大路，令庞德屯兵于谷后，使德不能进兵成功。",
+    "impact_score": 86,
+    "character_ids": [
+      "liubei",
+      "guanyu",
+      "zhugeliang",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_074_2"
+    ]
+  },
+  {
+    "id": "ev_074_3",
+    "chapter": 74,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "计议方定是夜风雨大作",
+    "background": "时庞德并二董及成何，与步卒五百人，皆无衣甲，立在堤上。",
+    "process": "自平明战至日中，勇力倍增；德令军士用短兵接战。",
+    "result": "其会水者料无去路，亦皆投降。",
+    "impact_score": 86,
+    "character_ids": [
+      "machao",
+      "guanyu",
+      "liubei",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_074_3"
+    ]
+  },
+  {
+    "id": "ev_075_1",
+    "chapter": 75,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "箭头有药，毒已入骨，右臂青肿，不能运动。",
+    "process": "众议可暂班师回荆州调理。",
+    "result": "操大喜，遂拨精兵五万，令徐晃为将，吕建副之，克日起兵，前到阳陵坡驻扎。",
+    "impact_score": 88,
+    "character_ids": [
+      "guanyu",
+      "simayi",
+      "sunquan",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_075_1"
+    ]
+  },
+  {
+    "id": "ev_075_2",
+    "chapter": 75,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "吕子明白衣渡江",
+    "background": "孙权接得曹操书信，览毕，欣然应允，即修书发付使者先回，乃聚文武商议。",
+    "process": "然其地势利于陆战，不利水战，纵然得之，亦难保守。",
+    "result": "孙权乃召吕蒙还建业养病。",
+    "impact_score": 91,
+    "character_ids": [
+      "luxun",
+      "lumeng",
+      "sunquan",
+      "guanyu",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_075_2"
+    ]
+  },
+  {
+    "id": "ev_075_3",
+    "chapter": 75,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "逊察知备细",
+    "background": "岂不闻昔日周瑜、程普为左右都督，事虽决于瑜，然普自以旧臣而居瑜下，颇不相睦。",
+    "process": "权大悟，遂拜吕蒙为大都督，总制江东诸路军马；蒙拜谢，点兵三万，快船八十余只，选会水者扮作商人，皆穿白衣，在船上摇橹，却将精兵伏于【舟冓】【舟鹿】船中。",
+    "result": "士仁大喜，即同虞翻赍印绶来荆州投降。",
+    "impact_score": 95,
+    "character_ids": [
+      "lumeng",
+      "sunquan",
+      "guanyu",
+      "caocao",
+      "zhouyu",
+      "luxun"
+    ],
+    "evidence_ref_ids": [
+      "evi_075_3"
+    ]
+  },
+  {
+    "id": "ev_076_1",
+    "chapter": 76,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "糜芳闻荆州有失，正无计可施。",
+    "process": "芳大惊，乃同傅士仁出城投降；时曹操在许都，正与众谋士议荆州之事，忽报东吴遣使奉书至。",
+    "result": "芳大惊，乃同傅士仁出城投降。",
+    "impact_score": 89,
+    "character_ids": [
+      "guanyu",
+      "lumeng",
+      "sunquan",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_076_1"
+    ]
+  },
+  {
+    "id": "ev_076_2",
+    "chapter": 76,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "徐公明大战沔水",
+    "background": "关平引一枝兵杀入魏寨，不见一人。",
+    "process": "关平等退兵，忙奔樊城大路而走；又兼曹操自引大军，分三路来救樊城。",
+    "result": "操因荆州未定，就屯兵于摩陂，以候消息。",
+    "impact_score": 88,
+    "character_ids": [
+      "lumeng",
+      "caocao",
+      "guanyu",
+      "luxun"
+    ],
+    "evidence_ref_ids": [
+      "evi_076_2"
+    ]
+  },
+  {
+    "id": "ev_076_3",
+    "chapter": 76,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "关云长败走麦城",
+    "background": "今日之事，乃上命差遣，不得自主。",
+    "process": "于是随征将士之家，皆来问信；使者辞别吕蒙，蒙亲送出城。",
+    "result": "被关平奋力冲杀，奉败走，廖化乘势杀出重围。",
+    "impact_score": 88,
+    "character_ids": [
+      "lumeng",
+      "guanyu",
+      "liubei",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_076_3"
+    ]
+  },
+  {
+    "id": "ev_076_4",
+    "chapter": 76,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "后汉中王登位之后",
+    "background": "且荆州九郡，俱已属彼，止有麦城，乃弹丸之地。",
+    "process": "化乃至馆驿安歇，专候发兵；廖化知事不谐，寻思须告汉中王求救，遂上马大骂出城，望成都而去。",
+    "result": "化乃至馆驿安歇，专候发兵。",
+    "impact_score": 92,
+    "character_ids": [
+      "zhugeliang",
+      "sunquan",
+      "lumeng",
+      "caocao",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_076_4"
+    ]
+  },
+  {
+    "id": "ev_077_1",
+    "chapter": 77,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "桃园结义",
+    "background": "彼军至，不可与敌，只可随后掩杀。",
+    "process": "彼军定无战心，必奔临沮；今遣将士各门攻打，只空北门，待其出走。",
+    "result": "背后关平赶来，报说赵累已死于乱军中。",
+    "impact_score": 83,
+    "character_ids": [
+      "sunquan",
+      "guanyu",
+      "caocao",
+      "lumeng"
+    ],
+    "evidence_ref_ids": [
+      "evi_077_1"
+    ]
+  },
+  {
+    "id": "ev_077_2",
+    "chapter": 77,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "赤壁决战",
+    "background": "急问之，忽然惊觉。",
+    "process": "子敬初见孤时，便及帝王大略，此一快也；权将吕蒙尸首，具棺安葬，赠南郡太守、孱陵侯。",
+    "result": "只见吕蒙倒于地上，七窍流血而死。",
+    "impact_score": 94,
+    "character_ids": [
+      "lumeng",
+      "sunquan",
+      "caocao",
+      "guanyu",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_077_2"
+    ]
+  },
+  {
+    "id": "ev_077_3",
+    "chapter": 77,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "水淹七军",
+    "background": "更兼诸葛亮之谋，张、黄、马、赵之勇。",
+    "process": "此人与刘备桃园结义之时，誓同生死。",
+    "result": "操愈加恐惧，遂设牲醴祭祀，刻沉香木为躯，以王侯之礼，葬于洛阳南门外，令大小官员送殡，操自拜祭，赠为荆王，差官守墓。",
+    "impact_score": 90,
+    "character_ids": [
+      "liubei",
+      "caocao",
+      "zhugeliang",
+      "guanyu",
+      "simayi",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_077_3"
+    ]
+  },
+  {
+    "id": "ev_077_4",
+    "chapter": 77,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "孔明曰刘封孟达如此无礼",
+    "background": "就室中起一阵冷风，灯灭复明，抬头见一人立于灯下。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "玄德忽然惊觉，乃是一梦。",
+    "impact_score": 90,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "guanyu",
+      "lumeng",
+      "zhangfei",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_077_4"
+    ]
+  },
+  {
+    "id": "ev_078_1",
+    "chapter": 78,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "桃园结义",
+    "background": "众文武急救，半晌方醒，扶入内殿。",
+    "process": "待吴、魏不和，乘时而伐之，可也；汉中王亲出南门招魂祭奠，号哭终日。",
+    "result": "因此《青囊书》不曾传于世，所传者止阉鸡猪等小法，乃烧剩一两叶中所载也。",
+    "impact_score": 84,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "caocao",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_078_1"
+    ]
+  },
+  {
+    "id": "ev_078_2",
+    "chapter": 78,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "操取书拆视之",
+    "background": "曹操自杀华佗之后，病势愈重，又忧吴、蜀之事。",
+    "process": "即日遣使赍诰敕赴东吴去讫；操惊倒于地，近侍救出，迁于别宫养病。",
+    "result": "今腾已死，昨宵复梦三马同槽。",
+    "impact_score": 87,
+    "character_ids": [
+      "sunquan",
+      "liubei",
+      "simayi",
+      "simashi",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_078_2"
+    ]
+  },
+  {
+    "id": "ev_078_3",
+    "chapter": 78,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "后人有邺中歌一篇叹曹操云邺…",
+    "background": "觉气冲上焦，目不见物，急召夏侯惇商议。",
+    "process": "孤平生所爱第三子植，为人虚华少诚实，嗜酒放纵，因此不立；次子曹彰，勇而无谋。",
+    "result": "华歆谄事魏，故草此诏，威逼献帝降之。",
+    "impact_score": 91,
+    "character_ids": [
+      "caopi",
+      "xiahoudun",
+      "simayi",
+      "caocao",
+      "sunquan",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_078_3"
+    ]
+  },
+  {
+    "id": "ev_079_1",
+    "chapter": 79,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "水淹七军",
+    "background": "曹丕闻曹彰提兵而来，惊问众官。",
+    "process": "丕令彰回鄢陵自守，彰拜辞而去。",
+    "result": "曹丕以于禁兵败被擒，不能死节，既降敌而复归，心鄙其为人，故先令人图画陵屋粉壁，故意使之往见以愧之。",
+    "impact_score": 85,
+    "character_ids": [
+      "caopi",
+      "guanyu",
+      "caocao",
+      "xuchu"
+    ],
+    "evidence_ref_ids": [
+      "evi_079_1"
+    ]
+  },
+  {
+    "id": "ev_079_2",
+    "chapter": 79,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "兄逼弟曹植赋诗",
+    "background": "又闻曹植被擒，其党丁仪等已杀，大惊。",
+    "process": "卞氏洒泪而入，丕出偏殿，召曹植入见。",
+    "result": "诗中不许犯着二牛斗墙下，一牛坠井死字样。",
+    "impact_score": 92,
+    "character_ids": [
+      "caopi",
+      "liubei",
+      "caocao",
+      "sunquan",
+      "guanyu",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_079_2"
+    ]
+  },
+  {
+    "id": "ev_079_3",
+    "chapter": 79,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "玄德问孔明曰彭羕有谋反之意",
+    "background": "使者方出南门外，被马超巡视军捉获，解见马超。",
+    "process": "使命至，调刘封回守绵竹去讫；使命持表回成都，奏汉中王，言孟达投魏之事。",
+    "result": "战不三合，达败走，封乘虚追杀二十余里，一声喊起，伏兵尽出，左边夏侯尚杀来，右边徐晃杀来，孟达回身复战。",
+    "impact_score": 84,
+    "character_ids": [
+      "liubei",
+      "zhugeliang",
+      "caopi",
+      "machao"
+    ],
+    "evidence_ref_ids": [
+      "evi_079_3"
+    ]
+  },
+  {
+    "id": "ev_079_4",
+    "chapter": 79,
+    "period_id": "p4",
+    "seq_in_chapter": 4,
+    "title": "受禅建晋",
+    "background": "魏王曹丕，自即王位，将文武官僚，尽皆升赏。",
+    "process": "遂统甲兵三十万，南巡沛国谯县，大飨先茔；是岁八月间，报称石邑县凤凰来仪，临淄城麒麟出现，黄龙现于邺郡。",
+    "result": "是岁八月间，报称石邑县凤凰来仪，临淄城麒麟出现，黄龙现于邺郡。",
+    "impact_score": 92,
+    "character_ids": [
+      "han_xiandi",
+      "caopi",
+      "xiahoudun",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_079_4"
+    ]
+  },
+  {
+    "id": "ev_080_1",
+    "chapter": 80,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "群臣会议言汉祚已终",
+    "background": "华歆等一班文武，入见献帝。",
+    "process": "汉室相传四百余年，延至陛下，气数已尽，宜早退避，不可迟疑；大禹有疏导之绩，而重华禅以帝位。",
+    "result": "陛下可急降诏，以安众心。",
+    "impact_score": 86,
+    "character_ids": [
+      "caopi",
+      "han_xiandi",
+      "simayi",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_080_1"
+    ]
+  },
+  {
+    "id": "ev_080_2",
+    "chapter": 80,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "受禅建晋",
+    "background": "则陛下子子孙孙，必蒙魏恩矣。",
+    "process": "降及朕躬，大乱滋昏，群凶恣逆，宇内颠覆；皇灵降瑞，人神告徵。",
+    "result": "不疾未痊，疑许昌宫室多妖，乃自许昌幸洛阳，大建宫室。",
+    "impact_score": 97,
+    "character_ids": [
+      "caopi",
+      "han_xiandi",
+      "caocao",
+      "liubei",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_080_2"
+    ]
+  },
+  {
+    "id": "ev_080_3",
+    "chapter": 80,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "桃园结义",
+    "background": "帝星见于毕、胃、昴之分，煌煌如月。",
+    "process": "曹丕篡汉自立，王上乃汉室苗裔，理合继统以延汉祀。",
+    "result": "于是孔明托病不出。",
+    "impact_score": 93,
+    "character_ids": [
+      "zhugeliang",
+      "caopi",
+      "zhaoyun",
+      "caocao",
+      "guanyu",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_080_3"
+    ]
+  },
+  {
+    "id": "ev_081_1",
+    "chapter": 81,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "桃园结义",
+    "background": "陛下可早图关中，屯兵渭河上流，以讨凶逆，则关东义士，必裹粮策马以迎王师。",
+    "process": "帐上帐下，但有犯者即鞭挞之；报使至，慌忙接入，开读诏旨。",
+    "result": "伐吴未克身先死，秋草长遗阆地愁。",
+    "impact_score": 95,
+    "character_ids": [
+      "zhangfei",
+      "zhugeliang",
+      "zhaoyun",
+      "sunquan",
+      "caocao",
+      "caopi"
+    ],
+    "evidence_ref_ids": [
+      "evi_081_1"
+    ]
+  },
+  {
+    "id": "ev_081_2",
+    "chapter": 81,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "先主大疑连夜令人求问孔明",
+    "background": "先主是夜心惊肉颤，寝卧不安。",
+    "process": "出帐仰观天文，见西北一星，其大如斗，忽然坠地。",
+    "result": "良久，见一员小将，白袍银铠，滚鞍下马，伏地而哭，乃张苞也。",
+    "impact_score": 86,
+    "character_ids": [
+      "zhugeliang",
+      "zhangfei",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_081_2"
+    ]
+  },
+  {
+    "id": "ev_081_3",
+    "chapter": 81,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "水陆并进船骑双行",
+    "background": "世人传说此老已三百余岁，能知人之生死吉凶，乃当世之神仙也。",
+    "process": "水陆并进，船骑双行，浩浩荡荡，杀奔吴国来；范疆、张达将张飞首级，投献吴侯，细告前事。",
+    "result": "范疆、张达将张飞首级，投献吴侯，细告前事。",
+    "impact_score": 86,
+    "character_ids": [
+      "zhangfei",
+      "sunquan",
+      "liubei",
+      "caopi"
+    ],
+    "evidence_ref_ids": [
+      "evi_081_3"
+    ]
+  },
+  {
+    "id": "ev_082_1",
+    "chapter": 82,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "白帝托孤",
+    "background": "如不可，则就借彼口说与孙权，令知问罪有名也。",
+    "process": "今若遣上将提数万之兵，渡江袭之，蜀攻其外，魏攻其内，吴国之亡，不出旬日；今陛下信其诈降，崇其位号以封殖之，是与虎添翼也。",
+    "result": "今陛下信其诈降，崇其位号以封殖之，是与虎添翼也。",
+    "impact_score": 96,
+    "character_ids": [
+      "sunquan",
+      "lumeng",
+      "caopi",
+      "caocao",
+      "zhugeliang",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_082_1"
+    ]
+  },
+  {
+    "id": "ev_082_2",
+    "chapter": 82,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "班曰不如先使小卒诈作降兵",
+    "background": "孙权聚集百官，商议御蜀兵之策。",
+    "process": "早有细作报说蜀主引本国大兵，及蛮王沙摩柯番兵数万，又有洞溪汉将杜路、刘宁二枝兵，水陆并进，声势震天；河生四子，桓居其长，弓马熟娴，常从吴王征讨，累立奇功，官授武卫都尉。",
+    "result": "蜀将吴班领先锋之印，自出川以来，所到之处，望风而降，兵不血刃，直到宜都。",
+    "impact_score": 87,
+    "character_ids": [
+      "sunquan",
+      "lumeng",
+      "liubei",
+      "sunce"
+    ],
+    "evidence_ref_ids": [
+      "evi_082_2"
+    ]
+  },
+  {
+    "id": "ev_082_3",
+    "chapter": 82,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "然问之小卒曰我等是冯习帐下…",
+    "background": "朱然听知孙桓损兵折将，正欲来救，忽伏路军引几个小卒上船投降。",
+    "process": "报事人行至半途，被关兴杀了；冯习、张南、吴班分兵三路，直杀入孙桓寨中，四面火起，吴兵大乱，寻路奔走。",
+    "result": "方进得城，吴班等追至，将城四面围定。",
+    "impact_score": 87,
+    "character_ids": [
+      "huangzhong",
+      "sunquan",
+      "liubei",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_082_3"
+    ]
+  },
+  {
+    "id": "ev_083_1",
+    "chapter": 83,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "战猇亭先主得仇人",
+    "background": "忠在吴军阵前，勒马横刀，单搦先锋潘璋交战。",
+    "process": "然狂风大起，忠急退时，山坡上马忠引一军出，一箭射中黄忠肩窝，险些儿落马；吴兵见忠中箭，一齐来攻，忽后面喊声大起，两路军杀来，吴兵溃散，救出黄忠，乃关兴、张苞也。",
+    "result": "先主乘势追杀，遂得猇亭。",
+    "impact_score": 89,
+    "character_ids": [
+      "huangzhong",
+      "liubei",
+      "guanyu",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_083_1"
+    ]
+  },
+  {
+    "id": "ev_083_2",
+    "chapter": 83,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "关兴行无数里",
+    "background": "马忠见救兵到来，慌忙引军自退。",
+    "process": "见西北上一彪军杀来，乃是张苞；苞、兴二人兵少，慌忙撤退，回至猇亭，来见先主，献上首级，具言此事。",
+    "result": "何不擒此二人，并张飞首级，遣使送还，交与荆州，送归夫人，上表求和，再会前情，共图灭魏，则蜀兵自退矣。",
+    "impact_score": 88,
+    "character_ids": [
+      "lumeng",
+      "sunquan",
+      "zhangfei",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_083_2"
+    ]
+  },
+  {
+    "id": "ev_083_3",
+    "chapter": 83,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "先主欲发兵前进",
+    "background": "吴大夫程秉到此，欲还荆州，送回夫人，永结盟好，共图灭魏，伏候圣旨。",
+    "process": "今子明虽丧，现有陆伯言在荆州；主上若能用之，破蜀必矣。",
+    "result": "逊若追来，朕引兵突出，断其归路，小子可擒矣。",
+    "impact_score": 88,
+    "character_ids": [
+      "luxun",
+      "liubei",
+      "zhangfei",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_083_3"
+    ]
+  },
+  {
+    "id": "ev_084_1",
+    "chapter": 84,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "白帝托孤",
+    "background": "韩当、周泰探知先主移营就凉，急来报知陆逊。",
+    "process": "吴班引兵到关前搦战，耀武扬威，辱骂不绝；过三日后，会诸将于关上观望，见吴班兵已退去。",
+    "result": "备乃世之枭雄，更多智谋，其兵始集，法度精专。",
+    "impact_score": 83,
+    "character_ids": [
+      "luxun",
+      "zhugeliang",
+      "liubei",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_084_1"
+    ]
+  },
+  {
+    "id": "ev_084_2",
+    "chapter": 84,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "白帝托孤（其二）",
+    "background": "比及离营五里，吴军徐盛、丁奉二人两下杀来，蜀兵退去，救了淳于丹回营。",
+    "process": "各军预带干粮，不许暂退，昼夜追袭，只擒了刘备方止；先主正在御营寻思破吴之计，忽见帐前中军旗幡，无风自倒。",
+    "result": "先主正慌，前面又一军拦住，乃是吴将丁奉，两下夹攻。",
+    "impact_score": 82,
+    "character_ids": [
+      "luxun",
+      "zhugeliang",
+      "zhaoyun",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_084_2"
+    ]
+  },
+  {
+    "id": "ev_084_3",
+    "chapter": 84,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "白帝托孤（其三）",
+    "background": "蜀祭酒程畿，匹马奔至江边，招呼水军赴敌，吴兵随后追来，水军四散奔逃。",
+    "process": "张、冯二将正行之间，前面吴兵杀来，背后孙桓从彝陵城杀出，两下夹攻；吴班杀出重围，又遇吴兵追赶。",
+    "result": "蜀将川兵，降者无数。",
+    "impact_score": 86,
+    "character_ids": [
+      "luxun",
+      "zhugeliang",
+      "liubei",
+      "zhaoyun",
+      "caopi"
+    ],
+    "evidence_ref_ids": [
+      "evi_084_3"
+    ]
+  },
+  {
+    "id": "ev_085_1",
+    "chapter": 85,
+    "period_id": "p4",
+    "seq_in_chapter": 1,
+    "title": "白帝托孤",
+    "background": "章武二年夏六月，东吴陆逊大破蜀兵于猇亭彝陵之地。",
+    "process": "臣归蜀无路，降吴不可，故来投陛下；东吴孙权，能识虚实，陆逊现屯兵于险要，隔江泛湖，皆难卒谋。",
+    "result": "臣归蜀无路，降吴不可，故来投陛下。",
+    "impact_score": 92,
+    "character_ids": [
+      "luxun",
+      "zhugeliang",
+      "caopi",
+      "sunquan",
+      "liubei",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_085_1"
+    ]
+  },
+  {
+    "id": "ev_085_2",
+    "chapter": 85,
+    "period_id": "p4",
+    "seq_in_chapter": 2,
+    "title": "西川争夺",
+    "background": "吴兵乘势冲杀一阵，魏兵大败，死者无数。",
+    "process": "孔明等与先主次子鲁王刘永、梁王刘理，来永安宫见帝，留太子刘禅守成都；烦丞相将诏付与太子禅，令勿以为常言。",
+    "result": "第二路，乃反将孟达，起上庸兵十万，犯汉中。",
+    "impact_score": 91,
+    "character_ids": [
+      "zhugeliang",
+      "caopi",
+      "guanyu",
+      "zhangfei",
+      "liubei",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_085_2"
+    ]
+  },
+  {
+    "id": "ev_085_3",
+    "chapter": 85,
+    "period_id": "p4",
+    "seq_in_chapter": 3,
+    "title": "止有孙权这一路兵",
+    "background": "门吏见驾到，慌忙拜伏于地而迎。",
+    "process": "此四路兵，臣已皆退去了也；止有孙权这一路兵，臣已有退之之计，但须一能言之人为使。",
+    "result": "今主上初登宝位，民心未安，当与东吴连合，结为唇齿，一洗先帝旧怨，此乃长久之计也。",
+    "impact_score": 87,
+    "character_ids": [
+      "zhugeliang",
+      "caopi",
+      "sunquan",
+      "machao",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_085_3"
+    ]
+  },
+  {
+    "id": "ev_086_1",
+    "chapter": 86,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "西川争夺",
+    "background": "今已大悔，欲起四路兵取川，东吴可来接应。",
+    "process": "权令人探得西番兵出西平关，见了马超，不战自退；南蛮孟获起兵攻四郡，皆被魏延用疑兵计杀退回洞去了。",
+    "result": "权从其言，遂立油鼎，命武士立于左右，各执军器，召邓芝入。",
+    "impact_score": 93,
+    "character_ids": [
+      "zhugeliang",
+      "luxun",
+      "caopi",
+      "machao",
+      "zhaoyun",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_086_1"
+    ]
+  },
+  {
+    "id": "ev_086_2",
+    "chapter": 86,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "西川争夺（其二）",
+    "background": "报东吴遣张温与邓芝入川答礼。",
+    "process": "当今主上，深慕吴王，欲捐旧忿，永结盟好，并力破魏；正饮酒间，忽一人乘醉而入，昂然长揖，入席就坐。",
+    "result": "吴王见张温入蜀未还，乃聚文武商议。",
+    "impact_score": 84,
+    "character_ids": [
+      "zhugeliang",
+      "caopi",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_086_2"
+    ]
+  },
+  {
+    "id": "ev_086_3",
+    "chapter": 86,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "破曹丕徐盛用火攻",
+    "background": "魏黄初五年秋八月，会聚大小将士，令曹真为前部，张辽、张郃、文聘、徐晃等为大将先行，许褚、吕虔为中军护卫，曹休为合后，刘晔、蒋济为参谋官。",
+    "process": "于是日夜并工，造龙舟十只，长二十余丈，可容二千余人，收拾战船三千余只；即传令教众官军多置器械，多设旌旗，以为守护江岸之计。",
+    "result": "魏兵不能抵当，折其大半，淹死者无数。",
+    "impact_score": 92,
+    "character_ids": [
+      "caopi",
+      "simayi",
+      "zhangliao",
+      "sunquan",
+      "zhaoyun",
+      "xuchu"
+    ],
+    "evidence_ref_ids": [
+      "evi_086_3"
+    ]
+  },
+  {
+    "id": "ev_087_1",
+    "chapter": 87,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "两川之民，忻乐太平，夜不闭户，路不拾遗。",
+    "process": "⒃綆Q郡太守高定，二人献了城；近已安痊，打探得系吴仇人已皆诛戮，径来西川见帝，恰在途中遇见征南之兵，特来投见。",
+    "result": "艘病Ｇ矣宏等乃疥癣之疾，丞相只须遣一大将讨之，必然成功。",
+    "impact_score": 86,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_087_1"
+    ]
+  },
+  {
+    "id": "ev_087_2",
+    "chapter": 87,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "征南寇丞相大兴师",
+    "background": "孔明统大军已到益州界分。",
+    "process": "战不数合，延诈败走，焕随后赶来；张翼、王平两路军杀来，绝其后路。",
+    "result": "丸善涫准丁ｊ部下军士皆降高定。",
+    "impact_score": 85,
+    "character_ids": [
+      "zhugeliang",
+      "caopi",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_087_2"
+    ]
+  },
+  {
+    "id": "ev_087_3",
+    "chapter": 87,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "赵云引兵杀到阿会喃寨后之时",
+    "background": "孔明正在寨中议事，忽哨马飞报，说三洞元帅分兵三路到来。",
+    "process": "刚到金环三结大寨之时，约有四更，蛮兵方起造饭，准备天明厮杀；董荼那听知寨后有军杀至，便引兵出寨拒敌。",
+    "result": "孟获正追杀之间，忽然喊声大起，左有张嶷，右有张翼，两路兵杀出，截断归路。",
+    "impact_score": 85,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_087_3"
+    ]
+  },
+  {
+    "id": "ev_088_1",
+    "chapter": 88,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "渡泸水再缚番王",
+    "background": "当日孟获行至泸水，正遇手下败残的蛮兵，皆来寻探。",
+    "process": "此时董荼那、阿会喃已在洞中；楼上多设弓弩炮石，准备久处之计。",
+    "result": "马岱望见蛮兵已到，遂将二千军摆在山前。",
+    "impact_score": 87,
+    "character_ids": [
+      "zhugeliang",
+      "caocao",
+      "sunquan",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_088_1"
+    ]
+  },
+  {
+    "id": "ev_088_2",
+    "chapter": 88,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "孔明已有细作探知此事",
+    "background": "孔明已有细作探知此事，于是密传号令，教各寨将士，整顿军器，方教为首酋长解孟获入来，其余皆回本寨听候。",
+    "process": "孟获随即遣亲信之人，守把隘口，自引军出了夹山峪，要与马岱交战，却并不见一人；孔明正在帐中与马谡、吕凯、蒋琬、费祎等共议平蛮之事，忽帐下一人，报称孟获差弟孟优来进宝贝。",
+    "result": "若丞相肯放回去，就当招安本部人马，同心合胆，方可归顺。",
+    "impact_score": 86,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_088_2"
+    ]
+  },
+  {
+    "id": "ev_088_3",
+    "chapter": 88,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "识诈降三擒孟获",
+    "background": "今晚到了蜀寨时，放火为号。",
+    "process": "一彪军杀到，乃是蜀将王平；获大惊，急奔左队时，火光冲天，一彪军杀到，为首蜀将乃是魏延。",
+    "result": "于是孔明招安蛮兵，降者无数。",
+    "impact_score": 86,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_088_3"
+    ]
+  },
+  {
+    "id": "ev_089_1",
+    "chapter": 89,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "诸将大怒皆来禀孔明曰某等情…",
+    "background": "孔明自驾小车，引数百骑前来探路。",
+    "process": "将近西洱河，孟获引前部一万刀牌獠丁，直扣前寨搦战；孔明急令退回本寨，四面紧闭，不许出战。",
+    "result": "于是蜀兵坚守数日。",
+    "impact_score": 88,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_089_1"
+    ]
+  },
+  {
+    "id": "ev_089_2",
+    "chapter": 89,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "南蛮王五次遭擒",
+    "background": "却将敢战之兵，皆移于寨前面。",
+    "process": "孔明先到寨中，招安蛮兵，并诸甸酋长洞丁——此时大半皆归本乡去了——除死伤外，其余尽皆归降；蜀兵受不过暑气，自然退矣。",
+    "result": "却教新降蛮兵引路，寻西北小径而入。",
+    "impact_score": 87,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_089_2"
+    ]
+  },
+  {
+    "id": "ev_089_3",
+    "chapter": 89,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "正欲起程忽报洞后迤西银冶洞…",
+    "background": "正欲起程，忽报洞后迤西银冶洞二十一洞主杨锋引三万兵来助战。",
+    "process": "须臾，数十蛮姑，皆披发跣足，从帐外舞跳而入，群蛮拍手以歌和之；杨锋将孟获、孟优、朵思等解赴孔明寨来。",
+    "result": "于是各洞蛮兵，皆走回本乡。",
+    "impact_score": 87,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_089_3"
+    ]
+  },
+  {
+    "id": "ev_090_1",
+    "chapter": 90,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "孔明即唤马岱赵云魏延三人受计",
+    "background": "倘若不熟，杀蛇为羹，煮象为饭。",
+    "process": "孔明约军退后，即闭寨不出；于是蜀兵十余万，并降兵万余，将所包之土，一齐弃于城下。",
+    "result": "败残兵来见孔明，告知其事。",
+    "impact_score": 89,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_090_1"
+    ]
+  },
+  {
+    "id": "ev_090_2",
+    "chapter": 90,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "烧藤甲七擒孟获",
+    "background": "二将受了计，引二千精壮兵，伏于两廊。",
+    "process": "带来洞主引刀斧手解孟获等数百人，拜于殿下。",
+    "result": "败残蛮兵有千余人，大半中伤而逃，正遇蛮王孟获。",
+    "impact_score": 88,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_090_2"
+    ]
+  },
+  {
+    "id": "ev_090_3",
+    "chapter": 90,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "乌戈国主引一彪藤甲军过河来",
+    "background": "蜀兵以弩箭射到藤甲之上，皆不能透，俱落于地。",
+    "process": "孔明令土人引路，自乘小车到桃花渡口北岸山僻去处，遍观地理；出谷则三江城大路，谷前名塔郎甸。",
+    "result": "魏延回兵交战，不三合又败，只看白旗处而走，又有一寨，延就寨屯住。",
+    "impact_score": 88,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_090_3"
+    ]
+  },
+  {
+    "id": "ev_090_4",
+    "chapter": 90,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "孟获在寨中",
+    "background": "获知中计，急退兵时，左边张嶷，右边马忠，两路军杀出。",
+    "process": "孟获匹马杀出重围，望山径而走；此时王平、张翼已引一军赶到蛮寨中，将祝融夫人并一应老小皆活捉而来。",
+    "result": "蛮人伤破，父兄死亡，留外人而不留兵，必成祸患，二不易也。",
+    "impact_score": 88,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_090_4"
+    ]
+  },
+  {
+    "id": "ev_091_1",
+    "chapter": 91,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "西川争夺",
+    "background": "前者马岱引蜀兵千余，皆死于水中。",
+    "process": "更兼杀死南人，尽弃此处；才闻破竹之声，便是失猿之势。",
+    "result": "于是曹真、陈群、司马懿、曹休等，一面举哀，一面拥立曹睿为大魏皇帝。",
+    "impact_score": 83,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "caopi",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_091_1"
+    ]
+  },
+  {
+    "id": "ev_091_2",
+    "chapter": 91,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "西川争夺（其二）",
+    "background": "曹睿览毕，大惊失色，急问群臣。",
+    "process": "今日反情已萌，可速诛之。",
+    "result": "先帝不以臣卑鄙，猥自枉屈，三顾臣于草庐之中，谘臣以当世之事，由是感激，遂许先帝以驱驰。",
+    "impact_score": 82,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_091_2"
+    ]
+  },
+  {
+    "id": "ev_091_3",
+    "chapter": 91,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "孔明受诏归府",
+    "background": "前军都督——领扶风太守张翼。",
+    "process": "分拨已定，又檄李严等守川口以拒东吴；选定建兴五年春三月丙寅日，出师伐魏。",
+    "result": "分拨已定，又檄李严等守川口以拒东吴。",
+    "impact_score": 72,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_091_3"
+    ]
+  },
+  {
+    "id": "ev_091_4",
+    "chapter": 91,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "更兼诸葛亮足智多谋",
+    "background": "更兼诸葛亮足智多谋，深通韧略，不可轻敌。",
+    "process": "孔明出师，后主引百官送于北门外十里；夏侯驸马素不曾经战，今付以大任，非其所宜。",
+    "result": "夏侯楙辞了魏主，星夜到长安，调关西诸路军马二十余万，来敌孔明。",
+    "impact_score": 86,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "xiahoudun",
+      "huangzhong",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_091_4"
+    ]
+  },
+  {
+    "id": "ev_092_1",
+    "chapter": 92,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "赵子龙力斩五将",
+    "background": "孔明率兵前至沔阳，经过马超坟墓，乃令其弟马岱挂孝，孔明亲自祭之。",
+    "process": "次子韩瑶见之，纵马挥刀来战；三子韩琼，急挺方天戟骤马前来夹攻。",
+    "result": "夏侯楙乃无谋之人，更兼年幼，不曾经战，见军大乱，遂引帐下骁将百余人，望南安郡而走。",
+    "impact_score": 84,
+    "character_ids": [
+      "zhaoyun",
+      "zhugeliang",
+      "machao",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_092_1"
+    ]
+  },
+  {
+    "id": "ev_092_2",
+    "chapter": 92,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "诸葛亮智取三城",
+    "background": "孔明遂乘小车亲到城边周围看了一遍，回寨升帐而坐。",
+    "process": "又唤关兴、张苞受计，如此如此；安定太守崔谅，在城中闻蜀兵围了南安，困住夏侯楙，十分慌惧，即点军马约共四千，守住城池。",
+    "result": "交马只一合，生擒夏侯楙于马上，余皆杀死。",
+    "impact_score": 83,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_092_2"
+    ]
+  },
+  {
+    "id": "ev_092_3",
+    "chapter": 92,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "天水郡太守马遵",
+    "background": "天水郡太守马遵，听知夏侯楙困在南安城中，乃聚文武官商议。",
+    "process": "又且裴绪乃无名下将，从不曾见。",
+    "result": "事件收束后，人物关系与后续局势随之改写。",
+    "impact_score": 83,
+    "character_ids": [
+      "zhugeliang",
+      "jiangwei",
+      "zhaoyun",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_092_3"
+    ]
+  },
+  {
+    "id": "ev_093_1",
+    "chapter": 93,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "姜伯约归降孔明",
+    "background": "但看火起为号，前后来攻，可获大胜。",
+    "process": "只留梁绪、尹赏守城；战不数合，维精神倍长。",
+    "result": "梁虔引三千军去保上邽。",
+    "impact_score": 85,
+    "character_ids": [
+      "zhugeliang",
+      "jiangwei",
+      "zhaoyun",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_093_1"
+    ]
+  },
+  {
+    "id": "ev_093_2",
+    "chapter": 93,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "姜维引兵至冀城",
+    "background": "维入城闭门，率兵守护，拜见老母，并不出战。",
+    "process": "楙得脱出寨，欲寻路而走，奈不知路径；正行之间，逢数人奔走。",
+    "result": "夜间妆姜维者，乃孔明之计，令部卒形貌相似者，假扮姜维攻城，因火光之中，不辨真伪。",
+    "impact_score": 84,
+    "character_ids": [
+      "jiangwei",
+      "zhugeliang",
+      "zhaoyun",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_093_2"
+    ]
+  },
+  {
+    "id": "ev_093_3",
+    "chapter": 93,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "孔明遂同姜维回寨",
+    "background": "孔明遂同姜维回寨，升帐商议取天水、上邽之计。",
+    "process": "今蜀兵已到祁山，前军临渭水之西，乞早发兵破敌；老夫自出，只用一席话，管教诸葛亮拱手而降，蜀兵不战自退。",
+    "result": "降至初平、建安之岁，董卓造逆，傕、汜继虐。",
+    "impact_score": 92,
+    "character_ids": [
+      "zhugeliang",
+      "jiangwei",
+      "zhaoyun",
+      "dongzhuo",
+      "yuanshu",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_093_3"
+    ]
+  },
+  {
+    "id": "ev_094_1",
+    "chapter": 94,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "诸葛亮乘雪破羌兵",
+    "background": "西羌国王彻里吉，自曹操时年年入贡。",
+    "process": "蜀兵大败，马岱、张苞两军先退；关兴一军，被羌兵一裹，直围入西北角上去了。",
+    "result": "是时十二月终，果然天降大雪。",
+    "impact_score": 90,
+    "character_ids": [
+      "zhugeliang",
+      "jiangwei",
+      "simayi",
+      "caocao",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_094_1"
+    ]
+  },
+  {
+    "id": "ev_094_2",
+    "chapter": 94,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "司马懿克日擒孟达",
+    "background": "前面蜀兵乱走，魏兵随后追袭。",
+    "process": "曹、郭二人，引败兵冲路走脱；蜀兵全胜，直追到渭水，夺了魏寨。",
+    "result": "曹、郭二人，引败兵冲路走脱。",
+    "impact_score": 85,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "zhaoyun",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_094_2"
+    ]
+  },
+  {
+    "id": "ev_094_3",
+    "chapter": 94,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "忽细作人报说魏主曹睿",
+    "background": "一面诏司马懿复职，加为平西都督，起本处之兵，于长安聚会。",
+    "process": "诸葛亮兵在祁山，杀得内外人皆胆落；孟达恰待开门追赶，四面旌旗蔽日，司马懿兵到。",
+    "result": "司马懿在宛城闲住，闻知魏兵累败于蜀，乃仰天长叹。",
+    "impact_score": 85,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "simashi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_094_3"
+    ]
+  },
+  {
+    "id": "ev_095_1",
+    "chapter": 95,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "失守街亭",
+    "background": "他非无谋，但怕有失，不肯弄险。",
+    "process": "诸葛亮欺子丹无备，定从此进；若是怠忽，必中诸葛亮之计。",
+    "result": "司马懿大驱军马，一拥而进，把山四面围定。",
+    "impact_score": 91,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "simazhao",
+      "zhaoyun",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_095_1"
+    ]
+  },
+  {
+    "id": "ev_095_2",
+    "chapter": 95,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "失守街亭（其二）",
+    "background": "王平见魏兵到，引军杀来，正遇张郃。",
+    "process": "正危急间，忽一彪军杀入，乃王平也；听得山坡后喊声若雷，一彪军杀入，乃是王平，救了高、魏二人，径奔列柳城来。",
+    "result": "孔明分拨已定，先引五千兵退去西城县搬运粮草。",
+    "impact_score": 86,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "simazhao",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_095_2"
+    ]
+  },
+  {
+    "id": "ev_095_3",
+    "chapter": 95,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "失守街亭（其三）",
+    "background": "城门内外，有二十余百姓，低头洒扫，傍若无人，懿看毕大疑，便到中军，教后军作前军，前军作后军，望北山路而退。",
+    "process": "见如此模样，疑有伏兵，所以退去；此人必引军投山北小路去也。",
+    "result": "兴、苞二人皆遵将令，不敢追袭，多得军器粮草而归。",
+    "impact_score": 90,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "zhaoyun",
+      "simazhao",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_095_3"
+    ]
+  },
+  {
+    "id": "ev_096_1",
+    "chapter": 96,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "白帝托孤",
+    "background": "今若尽起天下之兵伐蜀，则东吴又将入寇。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "及投列柳城时，路逢高翔，遂分兵三路去劫魏寨，指望克复街亭。",
+    "impact_score": 88,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_096_1"
+    ]
+  },
+  {
+    "id": "ev_096_2",
+    "chapter": 96,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "失守街亭",
+    "background": "孔明斩了马谡，将首级遍示各营已毕，用线缝在尸上，具棺葬之，自修祭文享祀。",
+    "process": "琬回成都，入见后主，进上孔明表章。",
+    "result": "丞相败绩，自行贬降，正其宜也。",
+    "impact_score": 87,
+    "character_ids": [
+      "zhugeliang",
+      "jiangwei",
+      "simayi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_096_2"
+    ]
+  },
+  {
+    "id": "ev_096_3",
+    "chapter": 96,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "西川争夺",
+    "background": "周鲂智谋之士，必不肯降，此特诱兵之诡计也。",
+    "process": "今鲂诈施诡计，暗陈七事，引诱魏兵深入重地，可设伏兵擒之；今听周鲂诱言，深入重地，元帅以兵击之，曹休必败。",
+    "result": "所得车仗、牛马、驴骡、军资、器械，不计其数，降兵数万余人。",
+    "impact_score": 87,
+    "character_ids": [
+      "simayi",
+      "luxun",
+      "zhugeliang",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_096_3"
+    ]
+  },
+  {
+    "id": "ev_097_1",
+    "chapter": 97,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "蜀汉建兴六年秋九月，魏都督曹休被东吴陆逊大破于石亭，车仗马匹，军资器械，并皆罄尽，休惶恐之甚，气忧成病，到洛阳，疽发背而死。",
+    "process": "听知此信，即设宴大会诸将，计议出师；建立庙堂，四时享祭。",
+    "result": "青史书忠烈，应流百世芳。",
+    "impact_score": 97,
+    "character_ids": [
+      "zhugeliang",
+      "zhaoyun",
+      "simayi",
+      "luxun",
+      "guanyu",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_097_1"
+    ]
+  },
+  {
+    "id": "ev_097_2",
+    "chapter": 97,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "失守街亭",
+    "background": "臣受命之日，寝不安席，食不甘味。",
+    "process": "今岁不战，明年不征，使孙权坐大，遂并江东，此臣之未解二也；曹操五攻昌霸不下，四越巢湖不成，任用李服而李服图之，委任夏侯而夏侯败亡，先帝每称操为能，犹有此失。",
+    "result": "至于成败利钝，非臣之明所能逆睹也。",
+    "impact_score": 99,
+    "character_ids": [
+      "zhugeliang",
+      "caocao",
+      "zhaoyun",
+      "simayi",
+      "sunquan",
+      "guanyu"
+    ],
+    "evidence_ref_ids": [
+      "evi_097_2"
+    ]
+  },
+  {
+    "id": "ev_097_3",
+    "chapter": 97,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "失守街亭（其二）",
+    "background": "孔明恐城内郝昭引兵冲出，乃把人马退二十里下寨。",
+    "process": "王双驱兵大杀一阵，蜀兵折伤甚多；闻知王双斩将立功，大喜，乃令中护军大将费耀，权摄前部总督，诸将各自守把隘口。",
+    "result": "曹真听知折了费耀，悔之不及，遂与郭淮商议退兵之策。",
+    "impact_score": 88,
+    "character_ids": [
+      "zhugeliang",
+      "jiangwei",
+      "simayi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_097_3"
+    ]
+  },
+  {
+    "id": "ev_098_1",
+    "chapter": 98,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "失守街亭",
+    "background": "陛下可降诏，令曹真坚守诸路关隘，不要出战。",
+    "process": "追赶之人，大要仔细，勿遣性急气躁者追之；真又令张辽子张虎为先锋，乐进子乐綝为副先锋，同守头营，不许出战。",
+    "result": "急收军回时，吴班、吴懿两路兵杀出，断其归路。",
+    "impact_score": 91,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "luxun",
+      "sunquan",
+      "zhangliao",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_098_1"
+    ]
+  },
+  {
+    "id": "ev_098_2",
+    "chapter": 98,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "西川争夺",
+    "background": "张郃追蜀兵不上，回到寨中。",
+    "process": "谥父孙坚为武烈皇帝，母吴氏为武烈皇后，兄孙策为长沙桓王。",
+    "result": "权大喜，遂将驴赐之。",
+    "impact_score": 90,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "sunquan",
+      "luxun",
+      "sunjian",
+      "sunce"
+    ],
+    "evidence_ref_ids": [
+      "evi_098_2"
+    ]
+  },
+  {
+    "id": "ev_098_3",
+    "chapter": 98,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "安下营寨孔明聚众言曰吾二次…",
+    "background": "如见火起，并力攻城。",
+    "process": "时郝昭病危，当夜正呻吟之间，忽报蜀军到城下了。",
+    "result": "张郃见蜀兵把住要路，遂令退军。",
+    "impact_score": 82,
+    "character_ids": [
+      "zhugeliang",
+      "jiangwei",
+      "simayi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_098_3"
+    ]
+  },
+  {
+    "id": "ev_098_4",
+    "chapter": 98,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "似此国家危急",
+    "background": "此时曹真病未痊，即召司马懿商议。",
+    "process": "淮自引兵星夜来郿城守御，一面上表入洛阳告急。",
+    "result": "陆逊亦知其意，故假作兴兵之势以应之，实是坐观成败耳。",
+    "impact_score": 90,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "luxun",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_098_4"
+    ]
+  },
+  {
+    "id": "ev_099_1",
+    "chapter": 99,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "诸葛亮大破魏兵",
+    "background": "司马懿引兵到长安，张郃接见，备言前事。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "两下夹攻，魏兵大败。",
+    "impact_score": 84,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_099_1"
+    ]
+  },
+  {
+    "id": "ev_099_2",
+    "chapter": 99,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "失守街亭",
+    "background": "可再引兵守把雍、郿二城，切勿出战。",
+    "process": "戴陵在左，张郃在右，各取小路进发，深入蜀兵之后；三更时分，来到大路，两军相遇，合兵一处，却从蜀兵背后杀来。",
+    "result": "山上矢石如雨，郃不能上山，乃拍马舞枪，冲出重围，无人敢当。",
+    "impact_score": 83,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "zhangfei",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_099_2"
+    ]
+  },
+  {
+    "id": "ev_099_3",
+    "chapter": 99,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "司马懿入寇西蜀",
+    "background": "司马懿留下许多军马守寨，只引五千精兵，随后进发。",
+    "process": "如见魏兵围住王平、张翼，十分危急，不必去救，只开锦囊看视，自有解危之策。",
+    "result": "然喊声大震，两路军杀出，乃王平、张翼也。",
+    "impact_score": 83,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_099_3"
+    ]
+  },
+  {
+    "id": "ev_099_4",
+    "chapter": 99,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "孔明将大军屯于汉中",
+    "background": "文武官僚出城迎接，送入丞相府中，后主御驾自来问病，命御医调治，日渐痊可。",
+    "process": "旬日内，司马懿入朝，魏主将曹真表奏之事，逐一言之；二人遂将大军前队作后队，后队作前队，徐徐而退。",
+    "result": "未及半月，天雨大降，淋漓不止。",
+    "impact_score": 83,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_099_4"
+    ]
+  },
+  {
+    "id": "ev_100_1",
+    "chapter": 100,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "失守街亭",
+    "background": "更兼前临渭滨，后靠斜谷，左出右入。",
+    "process": "可以伏兵，乃用武之地；孔明令魏延、张嶷、杜琼、陈式出箕谷。",
+    "result": "闻喊声大震，一彪军杀入，乃是魏延。",
+    "impact_score": 85,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_100_1"
+    ]
+  },
+  {
+    "id": "ev_100_2",
+    "chapter": 100,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "汉兵劫寨破曹真",
+    "background": "秦良领命，引兵刚到谷口，哨见蜀兵退去。",
+    "process": "曹真正奔走，忽然喊声大震，一彪军杀到；真胆战心惊，视之，乃司马懿也。",
+    "result": "魏主闻知曹真已死，即下诏催司马懿出战。",
+    "impact_score": 92,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_100_2"
+    ]
+  },
+  {
+    "id": "ev_100_3",
+    "chapter": 100,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "孔明尽起祁山之兵前到谓滨一…",
+    "background": "三通鼓罢，魏阵中门旗开处，司马懿出马，众将随后而出。",
+    "process": "只见孔明端坐于四轮车上，手摇羽扇。",
+    "result": "于是戴陵在中，张虎在前，乐綝在后，各引三十骑，从生门打入。",
+    "impact_score": 84,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_100_3"
+    ]
+  },
+  {
+    "id": "ev_100_4",
+    "chapter": 100,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "忽然魏兵大乱原来姜维引一彪…",
+    "background": "蜀兵周围杀到，懿引三军望南死命冲击。",
+    "process": "司马懿退在渭滨南岸下寨，坚守不出；苟安被责，心中怀恨，连夜引亲随五六骑，径奔魏寨投降。",
+    "result": "苟安被责，心中怀恨，连夜引亲随五六骑，径奔魏寨投降。",
+    "impact_score": 84,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_100_4"
+    ]
+  },
+  {
+    "id": "ev_101_1",
+    "chapter": 101,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "司马懿恐有埋伏，不敢追赶，亦收兵回长安去了，因此蜀兵不曾折了一人。",
+    "process": "急令人捕之，已投魏国去了。",
+    "result": "卤城太守素知孔明，慌忙开城出降。",
+    "impact_score": 86,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_101_1"
+    ]
+  },
+  {
+    "id": "ev_101_2",
+    "chapter": 101,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "懿大惊曰方才那个车上坐着孔明",
+    "background": "三人各受计，引兵推车而去。",
+    "process": "魏兵皆骤马追赶，但见阴风习习，冷雾漫漫；尽力赶了一程，追之不上。",
+    "result": "此乃六甲天书内缩地之法也。",
+    "impact_score": 85,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_101_2"
+    ]
+  },
+  {
+    "id": "ev_101_3",
+    "chapter": 101,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "奔剑阁张郃中计",
+    "background": "两下合兵，一声鼓响，把卤城围得铁桶相似。",
+    "process": "淮令人去麦田搜时，四角上火光冲天，喊声大震，四路蜀兵，一齐杀至；司马懿引败兵奋死突出重围，占住了山头。",
+    "result": "且蜀兵应去者，皆准备归计，其父母妻子倚扉而望。",
+    "impact_score": 85,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_101_3"
+    ]
+  },
+  {
+    "id": "ev_101_4",
+    "chapter": 101,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "空城计",
+    "background": "又唤魏延、关兴引兵断后，城上四面遍插旌旗，城内乱堆柴草，虚放烟火。",
+    "process": "却教魏平引二万马步兵后行，以防埋伏。",
+    "result": "郃又与战十余合，延又败走。",
+    "impact_score": 85,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_101_4"
+    ]
+  },
+  {
+    "id": "ev_102_1",
+    "chapter": 102,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "臣又观天象，见奎星躔于太白之分，盛气在北，不利伐魏。",
+    "process": "孔明引蜀兵三十四万，分五路而进，令姜维、魏延为先锋，皆出祁山取齐；夏侯和为行军司马，共赞军机，以退蜀兵。",
+    "result": "今孔明自负才智，逆天而行，乃自取败亡也。",
+    "impact_score": 87,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_102_1"
+    ]
+  },
+  {
+    "id": "ev_102_2",
+    "chapter": 102,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "司马懿占北原渭桥",
+    "background": "自斜谷直至剑阁，一连又下十四个大寨，分屯军马，以为久计。",
+    "process": "报郭淮、孙礼领陇西之兵，于北原下寨；休要上岸，顺水取浮桥放火烧断，以攻其后。",
+    "result": "幸得吴懿兵杀来，救了败兵过岸拒住。",
+    "impact_score": 94,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "simashi",
+      "simazhao",
+      "sunquan",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_102_2"
+    ]
+  },
+  {
+    "id": "ev_102_3",
+    "chapter": 102,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "诸葛亮造木牛流马",
+    "background": "孔明正与诸将商议征进，忽报有魏将来投降。",
+    "process": "今与郑文交马只一合，便为文所杀，必不是秦朗也。",
+    "result": "魏兵大败，十伤八九，四散逃奔。",
+    "impact_score": 86,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "simashi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_102_3"
+    ]
+  },
+  {
+    "id": "ev_102_4",
+    "chapter": 102,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "司马懿正忧闷间",
+    "background": "待蜀兵驱过木牛流马，任他过尽，一齐杀出。",
+    "process": "二人依令，各引五百军，扮作蜀兵，夜间偷过小路，伏在谷中，果见高翔引兵驱木牛流马而来；将次过尽，两边一齐鼓噪杀出。",
+    "result": "郭淮心中疑惑，正无奈何，忽鼓角喧天，喊声四起，两路兵杀来，乃魏延、姜维也。",
+    "impact_score": 86,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_102_4"
+    ]
+  },
+  {
+    "id": "ev_103_1",
+    "chapter": 103,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "司马懿被张翼廖化一阵杀败",
+    "background": "司马懿被张翼、廖化一阵杀败，匹马单枪，望密林间而走。",
+    "process": "廖化取盔捎在马上，一直望东追赶；廖化追了一程，不见踪迹，奔出谷口，遇见姜维，同回寨见孔明。",
+    "result": "诸葛瑾率败兵逃走沔口。",
+    "impact_score": 88,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "jiangwei",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_103_1"
+    ]
+  },
+  {
+    "id": "ev_103_2",
+    "chapter": 103,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "上方谷司马受困",
+    "background": "乃修书一封，令人转达陆逊，议欲撤兵还国。",
+    "process": "机谋既泄，彼必知备；已差人奉表约主上缓缓退兵矣。",
+    "result": "二人一齐杀将过去，蜀兵大败奔走，木牛流马尽被魏兵抢获，解送司马懿营中。",
+    "impact_score": 95,
+    "character_ids": [
+      "simayi",
+      "luxun",
+      "zhugeliang",
+      "simashi",
+      "sunquan",
+      "lumeng"
+    ],
+    "evidence_ref_ids": [
+      "evi_103_2"
+    ]
+  },
+  {
+    "id": "ev_103_3",
+    "chapter": 103,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "秋风五丈原",
+    "background": "夏侯惠等，不时截杀，半月之间，连胜数阵。",
+    "process": "司马懿见蜀兵都去救祁山寨，便引二子并中军护卫人马，杀奔上方谷来；见一枝魏兵杀到，延纵马向前视之，正是司马懿。",
+    "result": "魏兵在祁山攻打蜀寨，听知司马懿大败，失了渭南营寨，军心慌乱。",
+    "impact_score": 95,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "simashi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_103_3"
+    ]
+  },
+  {
+    "id": "ev_103_4",
+    "chapter": 103,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "秋风五丈原（其二）",
+    "background": "孔明自引一军屯于五丈原，累令人搦战，魏兵只不出。",
+    "process": "魏将皆知孔明以巾帼女衣辱司马懿，懿受之不战；陆逊上表于吴王，约会前后夹攻，不意赍表人中途被魏兵所获，因此机关泄漏，吴兵无功而退。",
+    "result": "陆逊上表于吴王，约会前后夹攻，不意赍表人中途被魏兵所获，因此机关泄漏，吴兵无功而退。",
+    "impact_score": 95,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "luxun"
+    ],
+    "evidence_ref_ids": [
+      "evi_103_4"
+    ]
+  },
+  {
+    "id": "ev_104_1",
+    "chapter": 104,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "秋风五丈原",
+    "background": "姜维见魏延踏灭了灯，心中忿怒，拔剑欲杀之。",
+    "process": "姜维入帐，直至孔明榻前问安。",
+    "result": "于是孔明废之为庶人，徒之汶山。",
+    "impact_score": 97,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_104_1"
+    ]
+  },
+  {
+    "id": "ev_104_2",
+    "chapter": 104,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "秋风五丈原（其二）",
+    "background": "姜维、杨仪遵孔明遗命，不敢举哀，依法成殓，安置龛中，令心腹将卒三百人守护。",
+    "process": "司马懿夜观天文，见一大星，赤色，光芒有角，自东北方流于西南方，坠于蜀营内，三投再起，隐隐有声；今若追之，必中其计。",
+    "result": "魏延在寨中，不见费祎来回覆，心中疑惑，乃令马岱引十数骑往探消息。",
+    "impact_score": 96,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_104_2"
+    ]
+  },
+  {
+    "id": "ev_104_3",
+    "chapter": 104,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "秋风五丈原（其三）",
+    "background": "呐喊摇旗，杀入蜀寨时，果无一人。",
+    "process": "懿自引军当先，追到山脚下，望见蜀兵不远，乃奋力追赶；乃徐徐按辔，与二将寻小路奔归本寨，使众将引兵四散哨探。",
+    "result": "懿自引军当先，追到山脚下，望见蜀兵不远，乃奋力追赶。",
+    "impact_score": 99,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simashi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_104_3"
+    ]
+  },
+  {
+    "id": "ev_105_1",
+    "chapter": 105,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "杨仪闻报前路有兵拦截，忙令人哨探。",
+    "process": "遂惊觉，坐而待旦，聚集文武，入朝圆梦；报魏延表奏杨仪造反，群臣大骇，入宫启奏后主，时吴太后亦在宫中。",
+    "result": "杨仪乃文人，丞相委以长史之任，必其人可用。",
+    "impact_score": 83,
+    "character_ids": [
+      "jiangwei",
+      "zhugeliang",
+      "simayi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_105_1"
+    ]
+  },
+  {
+    "id": "ev_105_2",
+    "chapter": 105,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "武侯预伏锦囊计",
+    "background": "哨马飞报魏延，说杨仪令先锋何平引兵自槎山小路抄来搦战。",
+    "process": "战不数合，平诈败而走，延随后赶来；孔明临终之时，授马岱以密计，只待魏延喊叫时，便出其不意斩之。",
+    "result": "孔明临终之时，授马岱以密计，只待魏延喊叫时，便出其不意斩之。",
+    "impact_score": 82,
+    "character_ids": [
+      "jiangwei",
+      "zhugeliang",
+      "simayi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_105_2"
+    ]
+  },
+  {
+    "id": "ev_105_3",
+    "chapter": 105,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "后主降旨曰既已名正其罪",
+    "background": "董允未及到南郑，马岱已斩了魏延，与姜维合兵一处。",
+    "process": "后主命扶柩入城，停于丞相府中；其子诸葛瞻守孝居丧。",
+    "result": "后主降诏致祭，谥号忠武侯。",
+    "impact_score": 82,
+    "character_ids": [
+      "zhugeliang",
+      "jiangwei",
+      "simayi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_105_3"
+    ]
+  },
+  {
+    "id": "ev_105_4",
+    "chapter": 105,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "西川争夺",
+    "background": "宗预领命，径到金陵，入见吴主孙权。",
+    "process": "朕恐魏人乘丧取蜀，故增巴丘守兵万人，以为救援，别无他意也；其益兵巴丘者，恐魏人乘虚而入，别无异心。",
+    "result": "毛后大惊，回车至宫，睿即降诏赐毛皇后死，立郭夫人为皇后。",
+    "impact_score": 82,
+    "character_ids": [
+      "sunquan",
+      "simayi",
+      "zhugeliang",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_105_4"
+    ]
+  },
+  {
+    "id": "ev_106_1",
+    "chapter": 106,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "公孙渊兵败死襄平",
+    "background": "建安十二年，曹操追袁尚，未到辽东，康斩尚首级献操，操封康为襄平侯。",
+    "process": "后孙权遣张弥、许晏赍金珠珍玉赴辽东，封渊为燕王；渊心不足，与众商议，自号为燕王，改元绍汉元年。",
+    "result": "睿大惊，乃召司马懿入朝计议。",
+    "impact_score": 84,
+    "character_ids": [
+      "simayi",
+      "caocao",
+      "caopi",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_106_1"
+    ]
+  },
+  {
+    "id": "ev_106_2",
+    "chapter": 106,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "卑衍与杨祚商议曰若魏兵来攻",
+    "background": "待他退时，然后出奇兵击之，司马懿可擒也。",
+    "process": "彼千里而来，粮草不继，难以持久，粮尽必退；于是司马懿遣人赴洛阳催粮。",
+    "result": "于是司马懿遣人赴洛阳催粮。",
+    "impact_score": 83,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_106_2"
+    ]
+  },
+  {
+    "id": "ev_106_3",
+    "chapter": 106,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "白帝托孤",
+    "background": "人人怨恨，各无守心，欲斩渊首，献城归降。",
+    "process": "司马懿升帐，聚众将立于两边。",
+    "result": "司马懿遂勒兵来取襄平。",
+    "impact_score": 87,
+    "character_ids": [
+      "simayi",
+      "simashi",
+      "simazhao",
+      "zhugeliang",
+      "liubei"
+    ],
+    "evidence_ref_ids": [
+      "evi_106_3"
+    ]
+  },
+  {
+    "id": "ev_106_4",
+    "chapter": 106,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "高平陵政变",
+    "background": "司马懿、曹爽，扶太子曹芳即皇帝位。",
+    "process": "爽字昭伯，自幼出入宫中，明帝见爽谨慎，甚是爱敬。",
+    "result": "于是曹爽门下宾客日盛。",
+    "impact_score": 83,
+    "character_ids": [
+      "simayi",
+      "zhugeliang",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_106_4"
+    ]
+  },
+  {
+    "id": "ev_107_1",
+    "chapter": 107,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "魏主政归司马氏",
+    "background": "正见司马懿引兵过府前，举令人乱箭射下，懿不得过。",
+    "process": "司马昭护父司马懿而过，引兵出城屯于洛河，守住浮桥。",
+    "result": "司马懿览毕，遂遣人送粮一百斛，运至曹爽府内。",
+    "impact_score": 85,
+    "character_ids": [
+      "simayi",
+      "simazhao",
+      "zhugeliang",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_107_1"
+    ]
+  },
+  {
+    "id": "ev_107_2",
+    "chapter": 107,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "司马懿饶了辛敞等",
+    "background": "有镇守雍州刺史郭淮，听知夏侯霸反，即率本部兵来，与夏侯霸交战。",
+    "process": "听的后军呐喊，霸急回马时，陈泰引兵杀来；寻思无计，遂投汉中来降后主。",
+    "result": "人皆笑之，独司马懿奇其才，遂令参赞军机。",
+    "impact_score": 84,
+    "character_ids": [
+      "simayi",
+      "jiangwei",
+      "zhugeliang",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_107_2"
+    ]
+  },
+  {
+    "id": "ev_107_3",
+    "chapter": 107,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "西川争夺",
+    "background": "李歆撞出重围，从西山小路行了两日，正迎着姜维人马。",
+    "process": "连日交战，不分胜负，乃诱兵之计耳，必有异谋；只三合，杀败了司马师，维脱身径奔阳平关来。",
+    "result": "只三合，杀败了司马师，维脱身径奔阳平关来。",
+    "impact_score": 84,
+    "character_ids": [
+      "jiangwei",
+      "simashi",
+      "simayi",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_107_3"
+    ]
+  },
+  {
+    "id": "ev_108_1",
+    "chapter": 108,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "姜维取雍州之时，郭淮飞报入朝，魏主与司马懿商议停当，懿遣长子司马师引兵五万，前来雍州助战。",
+    "process": "麴山城中蜀将句安，见援兵不至，乃开门降魏；吴主孙权，先有太子孙登，乃徐夫人所生，于吴赤乌四年身亡，遂立次子孙和为太子，乃琅琊王夫人所生。",
+    "result": "司马师闻孙权已死，遂议起兵伐吴。",
+    "impact_score": 94,
+    "character_ids": [
+      "simashi",
+      "simazhao",
+      "jiangwei",
+      "simayi",
+      "sunquan",
+      "luxun"
+    ],
+    "evidence_ref_ids": [
+      "evi_108_1"
+    ]
+  },
+  {
+    "id": "ev_108_2",
+    "chapter": 108,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "孙峻席间施密计",
+    "background": "全、留二人见魏兵势大，不敢出战，死守城池。",
+    "process": "众军皆拔短刀，随奉上岸，砍入魏寨，魏兵措手不及；司马昭、王昶、毋丘俭听知东兴兵败，亦勒兵而退。",
+    "result": "吴兵大败而归，恪甚羞惭，托病不朝。",
+    "impact_score": 89,
+    "character_ids": [
+      "simazhao",
+      "simashi",
+      "jiangwei",
+      "sunjian",
+      "sunquan"
+    ],
+    "evidence_ref_ids": [
+      "evi_108_2"
+    ]
+  },
+  {
+    "id": "ev_108_3",
+    "chapter": 108,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "恪令拿下拷问",
+    "background": "诸葛恪自兵败回朝，托病居家，心神恍惚。",
+    "process": "恪惊归寝室，忽然一阵阴风起处，见所杀披麻人与守门军士数十人，各提头索命；恪正惊疑间，忽报天子有使至，宣太傅赴宴。",
+    "result": "姜维在成都，接得诸葛恪书，欲求相助伐魏，遂入朝，奏准后主，复起大兵，北伐中原。",
+    "impact_score": 85,
+    "character_ids": [
+      "simashi",
+      "jiangwei",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_108_3"
+    ]
+  },
+  {
+    "id": "ev_109_1",
+    "chapter": 109,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "蜀汉延熙十六年秋",
+    "background": "向者不克而还，盖因羌兵不至。",
+    "process": "羌王迷当，得了礼物，便起兵五万，令羌将俄何烧戈为大先锋，引兵南安来；徐质驱兵掩杀，蜀兵大败，退三十余里。",
+    "result": "徐质奋死只身而走，人困马乏，正奔走间，前面一枝兵杀到，乃姜维也。",
+    "impact_score": 87,
+    "character_ids": [
+      "simazhao",
+      "jiangwei",
+      "simashi",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_109_1"
+    ]
+  },
+  {
+    "id": "ev_109_2",
+    "chapter": 109,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "司马昭下山引兵追赶",
+    "background": "若退了此兵，方可救铁笼之围。",
+    "process": "俄何烧戈教泰降兵在后，令泰引羌兵为前部；陈泰兵从后面杀来，郭淮从左边杀来，羌兵大乱，自相践踏，死者无数，生者尽降。",
+    "result": "魏兵不敢追赶，急救淮归寨，拔出箭头，血流不止而死。",
+    "impact_score": 86,
+    "character_ids": [
+      "simazhao",
+      "jiangwei",
+      "simashi",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_109_2"
+    ]
+  },
+  {
+    "id": "ev_109_3",
+    "chapter": 109,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "司马师看毕",
+    "background": "芳叱退近侍，同三人至密室商议。",
+    "process": "三人辞出，至东华门左侧，正见司马师带剑而来，从者数百人，皆持兵器；魏主曹芳正与张皇后商议此事。",
+    "result": "比临东市中，牙齿尽被打落，各人含糊数骂而死。",
+    "impact_score": 86,
+    "character_ids": [
+      "simashi",
+      "dongzhuo",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_109_3"
+    ]
+  },
+  {
+    "id": "ev_109_4",
+    "chapter": 109,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "师令文武请髦出太极殿",
+    "background": "当日，司马师以太后命宣至，文武官僚备銮驾于西掖门外拜迎。",
+    "process": "此人温恭克让，可以立之；卿等大臣，从长计议。",
+    "result": "文武百官，各有封赐。",
+    "impact_score": 86,
+    "character_ids": [
+      "simashi",
+      "zhugeliang",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_109_4"
+    ]
+  },
+  {
+    "id": "ev_110_1",
+    "chapter": 110,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "闻司马师擅行废立之事，心中大怒。",
+    "process": "钦中子文淑，小字阿鸯，有万夫不当之勇，常欲杀司马师兄弟，与曹爽报仇，今可令为先锋；若遣人领兵去退，多是不利。",
+    "result": "毋丘俭在项城，闻知司马师自来，乃聚众商议。",
+    "impact_score": 96,
+    "character_ids": [
+      "simashi",
+      "simazhao",
+      "guanyu",
+      "sunquan",
+      "lumeng",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_110_1"
+    ]
+  },
+  {
+    "id": "ev_110_2",
+    "chapter": 110,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "文鸯单骑退雄兵",
+    "background": "司马师兵到乐嘉，立下营寨，等邓艾未至。",
+    "process": "正斗间，魏兵大进，前后夹攻，鸯部下兵乃各自逃散，只文鸯单人独马，冲开魏兵，望南而走；魏殿中校尉尹大目，乃曹爽心腹之人，因爽被司马懿谋杀，故事司马师，常有杀师报爽之心。",
+    "result": "维奋武扬威，杀入魏军之中，左冲右突，魏兵大乱，自相践踏，死者大半，逼入洮水者无数，斩首万余，垒尸数里。",
+    "impact_score": 91,
+    "character_ids": [
+      "simashi",
+      "simazhao",
+      "jiangwei",
+      "simayi",
+      "zhaoyun"
+    ],
+    "evidence_ref_ids": [
+      "evi_110_2"
+    ]
+  },
+  {
+    "id": "ev_110_3",
+    "chapter": 110,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "后主因姜维有洮西之功",
+    "background": "维受了职，上表谢恩毕，再议出师伐魏之策。",
+    "process": "多方势力继续调兵布阵，冲突由筹划转入实战。",
+    "result": "不知此番北伐如何，且看下文分解。",
+    "impact_score": 87,
+    "character_ids": [
+      "jiangwei",
+      "zhugeliang",
+      "simayi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_110_3"
+    ]
+  },
+  {
+    "id": "ev_111_1",
+    "chapter": 111,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "姜维退兵屯于钟提",
+    "background": "王经迎接陈泰、邓艾入城，拜谢解围之事，设宴相待，大赏三军。",
+    "process": "维自领前部，令众将随后而进，于是蜀兵尽离钟提，杀奔祁山来；哨马报说魏兵已先在祁山立下九个寨栅。",
+    "result": "维自领前部，令众将随后而进，于是蜀兵尽离钟提，杀奔祁山来。",
+    "impact_score": 89,
+    "character_ids": [
+      "jiangwei",
+      "simazhao",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_111_1"
+    ]
+  },
+  {
+    "id": "ev_111_2",
+    "chapter": 111,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "失守街亭",
+    "background": "见蜀兵连日不来搦战，一日五番哨马出寨，或十里或十五里而回。",
+    "process": "即令子邓忠，与帐前校尉师篡，各引五千兵，先去段谷埋伏，如此如此而行；山上数处精兵杀下，势不可当，前军大败。",
+    "result": "姜维令军士运粮草车仗，至武城山，穿连排定，欲立起寨栅，以为屯兵之计。",
+    "impact_score": 88,
+    "character_ids": [
+      "jiangwei",
+      "simazhao",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_111_2"
+    ]
+  },
+  {
+    "id": "ev_111_3",
+    "chapter": 111,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "诸葛诞义讨司马昭",
+    "background": "邓艾见蜀兵退尽，乃与陈泰设宴相贺，大赏三军。",
+    "process": "只推慰劳出征军士为名，以探消息。",
+    "result": "手下十余骁骑，下马渡壕，飞身上城，杀散军士，大开城门，于是诸葛诞引兵入城，乘风放火，杀至綝家。",
+    "impact_score": 88,
+    "character_ids": [
+      "simazhao",
+      "zhugeliang",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_111_3"
+    ]
+  },
+  {
+    "id": "ev_112_1",
+    "chapter": 112,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "救寿春于诠死节",
+    "background": "司马昭闻诸葛诞会合吴兵前来决战，乃召散骑长史裴秀、黄门侍郎钟会，商议破敌之策。",
+    "process": "成倅退走，诞驱兴掩杀，见牛马驴骡，遍满郊野；南兵争取，无心恋战。",
+    "result": "魏兵不得将令，未敢轻敌，任吴兵入城，乃报知司马昭。",
+    "impact_score": 83,
+    "character_ids": [
+      "simazhao",
+      "zhugeliang",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_112_1"
+    ]
+  },
+  {
+    "id": "ev_112_2",
+    "chapter": 112,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "取长城伯约鏖兵",
+    "background": "全祎引兵欲入寿春，见魏兵势大，寻思进退无路，遂降司马昭。",
+    "process": "因此城中虽有敢战之士，不敢言战；司马昭恨文鸯昔日单骑退兵之仇，欲斩之。",
+    "result": "唐咨因惧孙綝，不敢回国，亦来降魏。",
+    "impact_score": 82,
+    "character_ids": [
+      "simazhao",
+      "jiangwei",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_112_2"
+    ]
+  },
+  {
+    "id": "ev_112_3",
+    "chapter": 112,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "忽探马报说司马昭攻打寿春",
+    "background": "战不十合，佥卖个破绽，王真便挺枪来刺。",
+    "process": "正攻打之间，忽然背后喊声大震；维遂令后队为前队，自立于门旗下候之。",
+    "result": "维遂令后队为前队，自立于门旗下候之。",
+    "impact_score": 82,
+    "character_ids": [
+      "simazhao",
+      "jiangwei",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_112_3"
+    ]
+  },
+  {
+    "id": "ev_113_1",
+    "chapter": 113,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "荆州风云",
+    "background": "吴主孙亮，时年方十六，见綝杀戮太过，心甚不然。",
+    "process": "于是司马昭大喜，又加赏邓艾；一日出西苑，因食生梅，令黄门取蜜。",
+    "result": "但此事切不可令卿母知之，卿母乃綝之姊也。",
+    "impact_score": 84,
+    "character_ids": [
+      "jiangwei",
+      "simazhao",
+      "sunquan",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_113_1"
+    ]
+  },
+  {
+    "id": "ev_113_2",
+    "chapter": 113,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "丁奉定计斩孙綝",
+    "background": "狂风大作，飞沙走石，将老树连根拔起。",
+    "process": "后主刘禅遣使回贺，吴使薛珝答礼；与夏侯霸商议，当先攻取何地。",
+    "result": "于是张布牵孙綝下殿东斩讫。",
+    "impact_score": 83,
+    "character_ids": [
+      "jiangwei",
+      "simazhao",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_113_2"
+    ]
+  },
+  {
+    "id": "ev_113_3",
+    "chapter": 113,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "姜维斗阵破邓艾",
+    "background": "王含、蒋斌因立寨未定，恐魏兵来劫寨，不敢解甲而寝。",
+    "process": "令人下战书单搦邓艾来日交锋；邓艾出马，见维布成八卦，乃亦布之，左右前后，门户一般。",
+    "result": "邓艾、司马望知姜维中计，遂拔渭南之兵，随后掩杀。",
+    "impact_score": 83,
+    "character_ids": [
+      "jiangwei",
+      "zhugeliang",
+      "simayi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_113_3"
+    ]
+  },
+  {
+    "id": "ev_114_1",
+    "chapter": 114,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "命廖化、张翼断后，以防魏兵追袭。",
+    "process": "邓艾引兵追赶，只见前面蜀兵旗帜整齐，人马徐徐而退；姜维至成都，入见后主，问召回之故。",
+    "result": "髦归后宫，召侍中王沈、尚书王经、散骑常侍王业三人，入内计议。",
+    "impact_score": 85,
+    "character_ids": [
+      "simazhao",
+      "jiangwei",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_114_1"
+    ]
+  },
+  {
+    "id": "ev_114_2",
+    "chapter": 114,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "曹髦驱车死南阙",
+    "background": "只见贾充戎服乘马，左有成倅，右有成济，引数千铁甲禁兵，呐喊杀来。",
+    "process": "再一戟，刃从背上透出，死于辇傍；昭入内，见髦已死，乃佯作大惊之状，以头撞辇而哭，令人报知各大臣。",
+    "result": "焦伯挺枪来迎，被成济一戟刺死。",
+    "impact_score": 84,
+    "character_ids": [
+      "simazhao",
+      "jiangwei",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_114_2"
+    ]
+  },
+  {
+    "id": "ev_114_3",
+    "chapter": 114,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "受禅建晋",
+    "background": "贾充等劝司马昭受魏禅，即天子位。",
+    "process": "三路兵并起，杀奔祁山而来；时邓艾在祁山寨中，训练人马，闻报蜀兵三路杀到，乃聚诸将计议。",
+    "result": "姜维恐汉中有失，遂不追邓艾，提兵连夜抄小路来追杀王瓘。",
+    "impact_score": 92,
+    "character_ids": [
+      "simazhao",
+      "jiangwei",
+      "simayan",
+      "caocao"
+    ],
+    "evidence_ref_ids": [
+      "evi_114_3"
+    ]
+  },
+  {
+    "id": "ev_115_1",
+    "chapter": 115,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "今养兵日久，不战则懒，懒则致病。",
+    "process": "况今军思效死，将思用命。",
+    "result": "时邓艾正与司马望谈兵，闻知此信，遂令人哨探。",
+    "impact_score": 86,
+    "character_ids": [
+      "jiangwei",
+      "zhugeliang",
+      "simayi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_115_1"
+    ]
+  },
+  {
+    "id": "ev_115_2",
+    "chapter": 115,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "空城计",
+    "background": "姜维引接应兵到，杀退司马望，就傍城下寨。",
+    "process": "维自引兵到侯河搦邓艾交战；姜维又引兵挑战，邓艾按兵不出。",
+    "result": "看看待破，忽然邓艾兵至，冲杀了一阵，蜀兵大败，把张翼隔在山后，绝了归路。",
+    "impact_score": 85,
+    "character_ids": [
+      "jiangwei",
+      "zhugeliang",
+      "simayi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_115_2"
+    ]
+  },
+  {
+    "id": "ev_115_3",
+    "chapter": 115,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "托屯田姜维避祸",
+    "background": "须得一智勇之将，往刺杀之，可免动兵之劳。",
+    "process": "今蜀主刘禅溺于酒色，信用黄皓，大臣皆有避祸之心；姜维在沓中屯田，正避祸之计也。",
+    "result": "今先定西蜀，乘顺流之势，水陆并进，并吞东吴。",
+    "impact_score": 85,
+    "character_ids": [
+      "simazhao",
+      "jiangwei",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_115_3"
+    ]
+  },
+  {
+    "id": "ev_116_1",
+    "chapter": 116,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "心不怯，则破蜀必矣。",
+    "process": "至若魏人得胜思归，必不从会而反，更不足虑耳；钟会下寨已毕，升帐大集诸将听令。",
+    "result": "艾遂遣雍州刺史诸葛绪，引兵一万五千，先断姜维归路。",
+    "impact_score": 87,
+    "character_ids": [
+      "simazhao",
+      "jiangwei",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_116_1"
+    ]
+  },
+  {
+    "id": "ev_116_2",
+    "chapter": 116,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "武侯显圣定军山",
+    "background": "魏兵既发，早有细作入沓中报知姜维。",
+    "process": "前军先锋许仪，要立头功，先领兵至南郑关；会拨马便回，关上卢逊引五百军杀下来。",
+    "result": "佥左冲右突，往来死战，不能得脱。",
+    "impact_score": 86,
+    "character_ids": [
+      "jiangwei",
+      "xuchu",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_116_2"
+    ]
+  },
+  {
+    "id": "ev_116_3",
+    "chapter": 116,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "钟会分兵汉中道",
+    "background": "姜维在沓中，听知魏兵大至，传檄廖化、张翼、董厥提兵接应。",
+    "process": "又赶到十里，却遇邓艾倾兵杀到；魏兵大队而来，将姜维围住。",
+    "result": "诸葛绪听知桥头火起，复引兵回，姜维兵已过半日了，因此不敢追赶。",
+    "impact_score": 86,
+    "character_ids": [
+      "jiangwei",
+      "zhugeliang",
+      "simayi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_116_3"
+    ]
+  },
+  {
+    "id": "ev_117_1",
+    "chapter": 117,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "汉中争锋",
+    "background": "董厥自临军前视之，乃姜维、廖化、张翼也。",
+    "process": "厥大喜，接入关上，礼毕，哭诉后主黄皓之事；且守剑阁，徐图退敌之计。",
+    "result": "绪因赶至关下，不想又为所败。",
+    "impact_score": 88,
+    "character_ids": [
+      "jiangwei",
+      "zhugeliang",
+      "simayi",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_117_1"
+    ]
+  },
+  {
+    "id": "ev_117_2",
+    "chapter": 117,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "邓艾一面修密书遣使驰报司马昭",
+    "background": "艾选兵三万，各带干粮绳索进发。",
+    "process": "彼今得汉中，以为莫大之功。",
+    "result": "二士争衡，不久自死。",
+    "impact_score": 87,
+    "character_ids": [
+      "simazhao",
+      "jiangwei",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_117_2"
+    ]
+  },
+  {
+    "id": "ev_117_3",
+    "chapter": 117,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "邓士载偷度阴平",
+    "background": "邓艾暗度阴平，引兵行时，又见一个大空寨。",
+    "process": "江油城守将马邈，闻东川已失，虽为准备，只是提防大路。",
+    "result": "邓艾取了江油，遂接阴平小路诸军，皆到江油取齐，径来攻涪城。",
+    "impact_score": 87,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_117_3"
+    ]
+  },
+  {
+    "id": "ev_117_4",
+    "chapter": 117,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "诸葛瞻战死绵竹",
+    "background": "如迁延日久，姜维兵到，我军危矣。",
+    "process": "师、邓二人引兵将至锦竹，早遇蜀兵；蜀兵掩杀二十余里，遇见邓艾援兵接应。",
+    "result": "诸葛瞻指挥两掖兵冲出，直撞入魏阵中，左冲右突，往来杀有数十番，魏兵大败，死者不计其数。",
+    "impact_score": 87,
+    "character_ids": [
+      "zhugeliang",
+      "jiangwei",
+      "liuzhang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_117_4"
+    ]
+  },
+  {
+    "id": "ev_118_1",
+    "chapter": 118,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "西川争夺",
+    "background": "哨马报到，说魏兵将近城下。",
+    "process": "魏必裂土以封陛下，则上能自守宗庙，下可以保安黎民；后主从谯周之言，正欲出降。",
+    "result": "后主拆封视之，大喜，即遣太仆蒋显赍敕令姜维早降。",
+    "impact_score": 89,
+    "character_ids": [
+      "jiangwei",
+      "guanyu",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_118_1"
+    ]
+  },
+  {
+    "id": "ev_118_2",
+    "chapter": 118,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "忽蒋显至说姜维自降钟镇西了",
+    "background": "蒋显至，说姜维自降钟镇西了。",
+    "process": "宜留陇右兵二万、蜀兵二万，煮盐兴冶，并造舟船，预备顺流之计；若便送禅来京，吴人必疑，则于向化之心不劝。",
+    "result": "又遣贾充引三万兵入斜谷，昭乃同魏主曹奂御驾亲征。",
+    "impact_score": 88,
+    "character_ids": [
+      "simazhao",
+      "jiangwei",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_118_2"
+    ]
+  },
+  {
+    "id": "ev_119_1",
+    "chapter": 119,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "钟会请姜维计议收邓艾之策",
+    "background": "艾若杀瓘，反情实矣。",
+    "process": "若早来归，爵赏如先，敢有不出者，灭三族；比及鸡鸣，艾部将见檄文者，皆来投拜于卫瓘马前。",
+    "result": "建乃护军胡烈部下旧人也，时胡烈亦被监在宫。",
+    "impact_score": 83,
+    "character_ids": [
+      "jiangwei",
+      "simazhao",
+      "liubei",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_119_1"
+    ]
+  },
+  {
+    "id": "ev_119_2",
+    "chapter": 119,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "会从之即命姜维领武士往杀众…",
+    "background": "维领命，方欲行动，忽然一阵心疼，昏倒在地。",
+    "process": "宫外四面火起，外兵砍开殿门杀入；邓艾部下之人，见钟会、姜维已死，遂连夜去追劫邓艾。",
+    "result": "若魏主以礼待之，则举城而降，未为晚也。",
+    "impact_score": 82,
+    "character_ids": [
+      "jiangwei",
+      "simazhao",
+      "luxun",
+      "zhugeliang"
+    ],
+    "evidence_ref_ids": [
+      "evi_119_2"
+    ]
+  },
+  {
+    "id": "ev_119_3",
+    "chapter": 119,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "受禅建晋",
+    "background": "时霍戈探听得后主受封，遂率部下军士来降。",
+    "process": "昭设宴款待，先以魏乐舞戏于前，蜀官感伤，独后主有喜色。",
+    "result": "奂从之，遂令贾充筑受禅坛。",
+    "impact_score": 98,
+    "character_ids": [
+      "simazhao",
+      "simayan",
+      "simashi",
+      "simayi",
+      "caocao",
+      "caopi"
+    ],
+    "evidence_ref_ids": [
+      "evi_119_3"
+    ]
+  },
+  {
+    "id": "ev_120_1",
+    "chapter": 120,
+    "period_id": "p5",
+    "seq_in_chapter": 1,
+    "title": "兴出与群臣商议",
+    "background": "吴主孙休，闻司马炎已篡魏，知其必将伐吴，忧虑成疾，卧床不起，乃召丞相濮阳兴入宫中，令太子孙【上雨下单】出拜。",
+    "process": "当年七月，即皇帝位，改元为元兴元年，封太子孙【上雨下单】为豫章王，追谥父和为文皇帝，尊母何氏为太后，加丁奉为右大司马；昔汉室既衰，三家鼎立。",
+    "result": "陛下宜修德以安吴民，乃为上计。",
+    "impact_score": 84,
+    "character_ids": [
+      "simayan",
+      "sunquan",
+      "zhugeliang",
+      "simayi"
+    ],
+    "evidence_ref_ids": [
+      "evi_120_1"
+    ]
+  },
+  {
+    "id": "ev_120_2",
+    "chapter": 120,
+    "period_id": "p5",
+    "seq_in_chapter": 2,
+    "title": "丞相万彧将军留平大司农楼玄…",
+    "background": "来人回见羊祜，以抗所问并奉酒事，一一陈告。",
+    "process": "报吴主遣使来到，抗接入问之；前后十余年，杀忠臣四十余人。",
+    "result": "襄阳人思祜存日，常游于岘山，遂建庙立碑，四时祭之。",
+    "impact_score": 83,
+    "character_ids": [
+      "simayan",
+      "zhugeliang",
+      "simayi",
+      "jiangwei"
+    ],
+    "evidence_ref_ids": [
+      "evi_120_2"
+    ]
+  },
+  {
+    "id": "ev_120_3",
+    "chapter": 120,
+    "period_id": "p5",
+    "seq_in_chapter": 3,
+    "title": "预曰昔乐毅济西一战而并强齐",
+    "background": "歆引兵上岸，迤逦追时，不到二十里，一声炮响，四面晋兵大至。",
+    "process": "于是沅、湘一带，直抵广州诸郡，守令皆望风赍印而降；遂进兵攻武昌，武昌亦降，杜预军威大振，遂大会诸将，共议取建业之策。",
+    "result": "王濬等奉了晋主之命，水陆并进，风雷鼓动，吴人望旗而降。",
+    "impact_score": 83,
+    "character_ids": [
+      "zhugeliang",
+      "simayi",
+      "jiangwei",
+      "simazhao"
+    ],
+    "evidence_ref_ids": [
+      "evi_120_3"
+    ]
+  },
+  {
+    "id": "ev_120_4",
+    "chapter": 120,
+    "period_id": "p5",
+    "seq_in_chapter": 4,
+    "title": "受禅建晋",
+    "background": "孙皓闻晋兵已入城，欲自刎。",
+    "process": "千寻铁锁沉江底，一片降旗出石头；大事已定，出榜安民，尽封府库仓禀。",
+    "result": "帝封皓为归命侯，子孙封中郎，随降宰辅皆封列侯。",
+    "impact_score": 99,
+    "character_ids": [
+      "simayan",
+      "han_xiandi",
+      "dongzhuo",
+      "sunjian",
+      "sunce",
+      "yuanshao"
+    ],
+    "evidence_ref_ids": [
+      "evi_120_4"
+    ]
+  }
+]
