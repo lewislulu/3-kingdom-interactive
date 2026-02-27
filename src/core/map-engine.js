@@ -9,6 +9,18 @@
  */
 import * as d3 from 'd3';
 
+// ═══ Color palette — each layer has its own hue ═══
+const COLORS = {
+  capital:       { fill: '#ffd700',              stroke: '#ffd700',              label: '#ffd700',              glow: 'rgba(255, 215, 0, 0.25)' },
+  city:          { fill: 'rgba(184, 168, 152, 0.6)', stroke: 'rgba(184, 168, 152, 0.4)', label: 'rgba(200, 192, 180, 0.85)' },
+  battlefield:   { fill: 'rgba(192, 57, 43, 0.7)',   stroke: '#c0392b',              label: '#e07060' },
+  landmark:      { fill: 'rgba(126, 200, 184, 0.7)', stroke: '#7ec8b8',              label: '#7ec8b8' },
+  eventMajor:    { fill: '#ff8c42',              stroke: '#ff8c42',              label: '#ff8c42',              pulse: '#ff8c42' },
+  eventMinor:    { fill: 'rgba(212, 145, 94, 0.6)',  stroke: '#d4915e',              label: '#d4915e' },
+  province:      { fill: 'rgba(26, 26, 36, 0.6)',    stroke: 'rgba(160, 160, 180, 0.08)' },
+  cluster:       { fill: 'rgba(139, 187, 208, 0.2)', stroke: 'rgba(139, 187, 208, 0.6)', text: '#8bbbd0' },
+};
+
 export class MapEngine {
   constructor(container, data) {
     this.container = container;
@@ -109,8 +121,8 @@ export class MapEngine {
       .join('path')
       .attr('d', this.path)
       .attr('class', 'map-province')
-      .attr('fill', 'rgba(26, 26, 36, 0.6)')
-      .attr('stroke', 'rgba(255, 215, 0, 0.06)')
+      .attr('fill', COLORS.province.fill)
+      .attr('stroke', COLORS.province.stroke)
       .attr('stroke-width', 0.5)
       .each((d, i, nodes) => {
         // Store ref for territory coloring
@@ -174,6 +186,9 @@ export class MapEngine {
 
       const isCapital = loc.type === 'capital';
       const isBattlefield = loc.type === 'battlefield';
+      const isLandmark = loc.type === 'landmark';
+      const typeKey = isCapital ? 'capital' : isBattlefield ? 'battlefield' : isLandmark ? 'landmark' : 'city';
+      const palette = COLORS[typeKey];
       const r = isCapital ? 5 : isBattlefield ? 3 : 3.5;
 
       const group = this.cityGroup.append('g')
@@ -192,8 +207,8 @@ export class MapEngine {
         const s = r;
         group.append('path')
           .attr('d', `M0,-${s} L${s},0 L0,${s} L-${s},0 Z`)
-          .attr('fill', 'rgba(192, 57, 43, 0.7)')
-          .attr('stroke', '#c0392b')
+          .attr('fill', palette.fill)
+          .attr('stroke', palette.stroke)
           .attr('stroke-width', 1);
       } else {
         // Glow ring for capitals
@@ -201,13 +216,13 @@ export class MapEngine {
           group.append('circle')
             .attr('r', r + 3)
             .attr('fill', 'none')
-            .attr('stroke', 'rgba(255, 215, 0, 0.25)')
+            .attr('stroke', COLORS.capital.glow)
             .attr('stroke-width', 1);
         }
         group.append('circle')
           .attr('r', r)
-          .attr('fill', isCapital ? 'rgba(255, 215, 0, 0.9)' : 'rgba(212, 168, 83, 0.6)')
-          .attr('stroke', isCapital ? '#ffd700' : 'rgba(212, 168, 83, 0.4)')
+          .attr('fill', isCapital ? palette.fill : palette.fill)
+          .attr('stroke', palette.stroke)
           .attr('stroke-width', isCapital ? 1.5 : 1);
       }
 
@@ -217,10 +232,10 @@ export class MapEngine {
         .attr('x', 0)
         .attr('y', -(r + 5))
         .attr('text-anchor', 'middle')
-        .attr('fill', isCapital ? '#ffd700' : 'rgba(232, 228, 220, 0.8)')
+        .attr('fill', palette.label)
         .attr('font-size', isCapital ? 11 : 9)
         .attr('font-weight', isCapital ? 700 : 400)
-        .attr('opacity', isCapital ? 1 : 0) // non-capitals hidden by default
+        .attr('opacity', isCapital ? 1 : 0)
         .text(loc.name);
 
       // Hover: show label + description tooltip
@@ -260,6 +275,7 @@ export class MapEngine {
       if (!pt) continue;
 
       const isMajor = evt.importance === 'major';
+      const evtPalette = isMajor ? COLORS.eventMajor : COLORS.eventMinor;
       const group = this.eventGroup.append('g')
         .attr('class', 'map-event-marker')
         .attr('transform', `translate(${pt[0]}, ${pt[1]})`)
@@ -272,7 +288,7 @@ export class MapEngine {
           .attr('class', 'event-pulse-ring')
           .attr('r', 8)
           .attr('fill', 'none')
-          .attr('stroke', '#ffd700')
+          .attr('stroke', COLORS.eventMajor.pulse)
           .attr('stroke-width', 1)
           .attr('opacity', 0);
       }
@@ -280,8 +296,8 @@ export class MapEngine {
       // Event dot
       group.append('circle')
         .attr('r', isMajor ? 4.5 : 3)
-        .attr('fill', isMajor ? '#ffd700' : 'rgba(255, 215, 0, 0.6)')
-        .attr('stroke', '#ffd700')
+        .attr('fill', evtPalette.fill)
+        .attr('stroke', evtPalette.stroke)
         .attr('stroke-width', 0.8);
 
       // Event name label - hidden by default, show on hover or zoom
@@ -289,7 +305,7 @@ export class MapEngine {
         .attr('class', 'event-name-label')
         .attr('x', 7)
         .attr('y', 3)
-        .attr('fill', '#ffd700')
+        .attr('fill', evtPalette.label)
         .attr('font-size', isMajor ? 10 : 8)
         .attr('font-weight', isMajor ? 700 : 400)
         .attr('opacity', 0)
@@ -420,8 +436,8 @@ export class MapEngine {
       const color = provinceColorMap[name];
       pathEl.transition()
         .duration(600)
-        .attr('fill', color ? `${color}18` : 'rgba(26, 26, 36, 0.6)')
-        .attr('stroke', color ? `${color}40` : 'rgba(255, 215, 0, 0.06)');
+        .attr('fill', color ? `${color}18` : COLORS.province.fill)
+        .attr('stroke', color ? `${color}40` : COLORS.province.stroke);
     }
 
     // Update territory labels
@@ -546,50 +562,69 @@ export class MapEngine {
 
   _createCluster(x, y, markers, loc) {
     const count = markers.length;
+    const self = this;
+
     const clusterG = this.clusterGroup.append('g')
       .attr('transform', `translate(${x}, ${y})`)
       .style('cursor', 'pointer');
 
-    // Cluster bubble
-    const r = 14;
+    // Prevent D3 zoom from capturing pointer events on cluster
+    clusterG.on('mousedown.zoom touchstart.zoom', (e) => {
+      e.stopPropagation();
+    });
+
+    // Cluster bubble — larger hit area
+    const r = 16;
     clusterG.append('circle')
       .attr('r', r)
-      .attr('fill', 'rgba(212, 168, 83, 0.2)')
-      .attr('stroke', 'rgba(212, 168, 83, 0.6)')
+      .attr('fill', COLORS.cluster.fill)
+      .attr('stroke', COLORS.cluster.stroke)
       .attr('stroke-width', 1.5);
 
     // Count number
     clusterG.append('text')
       .attr('text-anchor', 'middle')
       .attr('dominant-baseline', 'central')
-      .attr('fill', '#ffd700')
+      .attr('fill', COLORS.cluster.text)
       .attr('font-size', 12)
       .attr('font-weight', 700)
+      .style('pointer-events', 'none')
       .text(count);
+
+    // "click to expand" hint
+    clusterG.append('text')
+      .attr('y', r + 12)
+      .attr('text-anchor', 'middle')
+      .attr('fill', COLORS.cluster.text)
+      .attr('font-size', 7)
+      .attr('opacity', 0.6)
+      .style('pointer-events', 'none')
+      .text('点击展开');
 
     // Expanded state
     let expanded = false;
-    const self = this;
 
-    clusterG.on('click', function () {
+    clusterG.on('click', (event) => {
+      event.stopPropagation();
       if (expanded) {
-        // Collapse
         expanded = false;
         collapseCluster();
       } else {
-        // Expand in fan
         expanded = true;
         expandCluster();
       }
     });
 
-    // Build tooltip with character names
+    // Tooltip with character names
     const names = markers.map(m => m.char.name).join('、');
     clusterG.append('title').text(`${loc.name}：${names}`);
 
     function expandCluster() {
+      // Hide the hint
+      clusterG.select('text:last-of-type').attr('opacity', 0);
+
       // Create individual avatars in a ring around the cluster
-      const ringR = 30 + count * 3;
+      const ringR = 32 + count * 4;
       const angleStep = (Math.PI * 2) / count;
 
       for (let i = 0; i < count; i++) {
@@ -600,12 +635,17 @@ export class MapEngine {
 
         const avatar = clusterG.append('g')
           .attr('class', 'cluster-expanded-avatar')
-          .attr('transform', `translate(0, 0)`)
+          .attr('transform', 'translate(0, 0)')
           .attr('opacity', 0)
           .style('cursor', 'pointer');
 
+        // Prevent zoom from capturing avatar clicks too
+        avatar.on('mousedown.zoom touchstart.zoom', (e) => {
+          e.stopPropagation();
+        });
+
         avatar.append('circle')
-          .attr('r', 10)
+          .attr('r', 12)
           .attr('fill', m.char.color)
           .attr('opacity', 0.3)
           .attr('stroke', m.char.color)
@@ -615,15 +655,18 @@ export class MapEngine {
           .attr('text-anchor', 'middle')
           .attr('dominant-baseline', 'central')
           .attr('fill', '#fff')
-          .attr('font-size', 9)
+          .attr('font-size', 10)
           .attr('font-weight', 700)
+          .style('pointer-events', 'none')
           .text(m.char.name.charAt(0));
 
         avatar.append('text')
-          .attr('y', 18)
+          .attr('y', 20)
           .attr('text-anchor', 'middle')
           .attr('fill', m.char.color)
-          .attr('font-size', 8)
+          .attr('font-size', 9)
+          .attr('font-weight', 600)
+          .style('pointer-events', 'none')
           .text(m.char.name);
 
         avatar.on('click', (e) => {
@@ -641,6 +684,9 @@ export class MapEngine {
     }
 
     function collapseCluster() {
+      // Show the hint again
+      clusterG.select('text:last-of-type').attr('opacity', 0.6);
+
       clusterG.selectAll('.cluster-expanded-avatar')
         .transition()
         .duration(300)
