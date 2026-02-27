@@ -16,8 +16,8 @@
       "subtitle": "黄巾起义·董卓乱政·群雄并起",
       "timeRange": [1, 9],
       "description": "东汉末年，朝纲不振，张角率黄巾军揭竿而起。刘关张桃园结义投身平乱，曹操起兵讨贼。董卓入京废立天子，各路诸侯歃血盟誓讨伐。关羽温酒斩华雄、三英战吕布，乱世英雄纷纷登场。王允巧施连环计，借貂蝉离间董卓与吕布，董卓伏诛。",
-      "characters": ["liubei", "guanyu", "zhangfei", "caocao", "dongzhuo", "lvbu", "yuanshao", "sunce", "diaochan", "xiandi"],
-      "events": ["taoyuan-oath", "huangjin-rebellion", "dongzhuo-capital", "wenjiu-huaxiong", "sanying-lvbu", "lianhuanji"],
+      "characters": ["liubei", "guanyu", "zhangfei", "caocao", "dongzhuo", "lvbu", "yuanshao", "sunce", "diaochan", "xiandi", "zhaoyun"],
+      "events": ["taoyuan-oath", "huangjin-rebellion", "dongzhuo-capital", "wenjiu-huaxiong", "sanying-lvbu", "zhaoyun-chujian", "lianhuanji"],
       "coverColor": "#c0392b"
     },
     {
@@ -28,7 +28,7 @@
       "timeRange": [10, 33],
       "description": "曹操挟天子以令诸侯，逐步扩张势力。吕布被擒杀于白门楼。曹操与刘备青梅煮酒论英雄，刘备惊觉杀机出逃。曹操征伐刘备，兄弟失散，关羽为保嫂嫂土山约三事暂降曹营。后挂印封金、过五关斩六将千里走单骑回归刘备。官渡一战曹操大破袁绍，奠定北方霸业。孙策平定江东，为东吴奠基。",
       "characters": ["caocao", "liubei", "guanyu", "zhangfei", "yuanshao", "lvbu", "sunce", "sunquan", "zhouyu", "zhaoyun", "xiandi", "zhangliao"],
-      "events": ["xietianzi", "sunge-jiangdong", "xiapi-lvbu", "zhuxu-lunying", "tushan-yueyue", "guanyu-wuguan", "gucheng-juyi", "guandu-battle"],
+      "events": ["xietianzi", "sunge-jiangdong", "xiapi-lvbu", "zhuxu-lunying", "gongsunzan-baiwang", "tushan-yueyue", "guanyu-wuguan", "gucheng-juyi", "guandu-battle"],
       "coverColor": "#d4a853"
     },
     {
@@ -77,9 +77,10 @@
   ],
   "events": [
     "taoyuan-oath", "huangjin-rebellion", "dongzhuo-capital",
-    "wenjiu-huaxiong", "sanying-lvbu", "lianhuanji",
+    "wenjiu-huaxiong", "sanying-lvbu", "zhaoyun-chujian", "lianhuanji",
     "xietianzi", "sunge-jiangdong", "xiapi-lvbu",
-    "zhuxu-lunying", "tushan-yueyue", "guanyu-wuguan", "gucheng-juyi", "guandu-battle",
+    "zhuxu-lunying", "gongsunzan-baiwang", "tushan-yueyue",
+    "guanyu-wuguan", "gucheng-juyi", "guandu-battle",
     "sangu-maolu", "bowangpo", "huoshao-xinye", "changban",
     "caochuan-jiejian", "zhuge-jiefeng", "chibi-battle", "huarong-dao",
     "ruchuan", "luofengpo", "dingjunshan", "hanzhong-chengwang",

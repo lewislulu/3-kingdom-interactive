@@ -1,0 +1,11 @@
+{
+  "id": "gongsunzan-baiwang",
+  "name": "公孙瓒败亡",
+  "year": 22,
+  "month": null,
+  "characters": ["yuanshao", "zhaoyun"],
+  "importance": "minor",
+  "narrative": "gongsunzan-baiwang.md",
+  "relatedEvents": ["zhaoyun-chujian", "gucheng-juyi"],
+  "scenes": ["易京覆灭", "子龙去国"]
+}

@@ -6,6 +6,6 @@
   "characters": ["liubei", "guanyu", "zhangfei", "zhaoyun"],
   "importance": "major",
   "narrative": "gucheng-juyi.md",
-  "relatedEvents": ["guanyu-wuguan", "guandu-battle"],
+  "relatedEvents": ["gongsunzan-baiwang", "guanyu-wuguan", "guandu-battle"],
   "scenes": ["兄弟重逢", "赵云来投"]
 }
