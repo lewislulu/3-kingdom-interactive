@@ -210,7 +210,7 @@ export class MapEngine {
 
       // Hit area (invisible, always present)
       group.append('circle')
-        .attr('r', 12)
+        .attr('r', 7)
         .attr('fill', 'transparent')
         .attr('class', 'city-hitarea');
 
