@@ -1,0 +1,27 @@
+{
+  "id": "shu-surrender",
+  "name": "蜀汉灭亡",
+  "year": 118,
+  "month": 1,
+  "characters": ["liuchan", "jiangwei", "dengai", "zhonghui"],
+  "importance": "major",
+  "narrative": "events/shu-surrender.md",
+  "relatedEvents": ["yinping-toudao", "sanfen-guijin"],
+  "scenes": [
+    {
+      "id": "liuchan-xiangwei",
+      "title": "刘禅降魏",
+      "hasDialogue": true
+    },
+    {
+      "id": "jiangwei-zhajiang",
+      "title": "姜维诈降",
+      "ះDialogue": true
+    },
+    {
+      "id": "lebusishu",
+      "title": "乐不思蜀",
+      "hasDialogue": true
+    }
+  ]
+}

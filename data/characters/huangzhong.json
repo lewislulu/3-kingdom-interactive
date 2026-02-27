@@ -1,0 +1,38 @@
+{
+  "id": "huangzhong",
+  "name": "黄忠",
+  "courtesy": "汉升",
+  "birth": 53,
+  "death": 83,
+  "color": "#f39c12",
+  "portrait": "portraits/huangzhong.jpg",
+  "bio": "南阳人，初随刘表任职，守长沙郡。年近六旬仍勇猛异常，百步穿杨，箭无虚发。与关羽大战百余合不分胜负，后归降刘备。虽年老而壮心不已，力斩夏侯渊于定军山，威震敌胆。刘备称汉中王后封为五虎上将之一。为人忠勇，老当益壮，不服老，不居人后。随刘备伐吴，虽年过七旬仍奋勇当先，中箭而亡，壮烈殉国。一生诠释何为老骥伏枥志在千里。",
+  "activeRange": [53, 83],
+  "tags": ["蜀汉", "老当益壮", "五虎上将"],
+  "personalEvents": [
+    {
+      "year": 53,
+      "title": "长沙之战",
+      "description": "镇守长沙，与关羽大战百余合不分胜负，后归降刘备",
+      "type": "milestone"
+    },
+    {
+      "year": 70,
+      "title": "定军山斩夏侯渊",
+      "description": "定军山力斩曹军大将夏侯渊，一战成名天下知",
+      "type": "milestone"
+    },
+    {
+      "year": 71,
+      "title": "计夺天荡山",
+      "description": "智计夺取天荡山，助刘备夺取汉中",
+      "type": "anecdote"
+    },
+    {
+      "year": 83,
+      "title": "伐吴阵亡",
+      "description": "随刘备伐吴，年逾七旬仍奋勇当先，中箭阵亡",
+      "type": "milestone"
+    }
+  ]
+}

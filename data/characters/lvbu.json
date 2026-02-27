@@ -1,0 +1,50 @@
+{
+  "id": "lvbu",
+  "name": "吕布",
+  "courtesy": "奉先",
+  "birth": 3,
+  "death": 19,
+  "color": "#e74c3c",
+  "portrait": "portraits/lvbu.jpg",
+  "bio": "吕布,字奉先,五原九原人,汉末第一猛将。人中吕布,马中赤兔,武艺超群,天下无敌。然有勇无谋,反复无常,先杀丁原投董卓,后又杀董卓。辕门射戟显神威,白门楼殒命,被曹操缢杀。",
+  "activeRange": [3, 19],
+  "tags": ["汉末", "飞将", "人中吕布马中赤兔"],
+  "personalEvents": [
+    {
+      "year": 3,
+      "title": "杀丁原投董卓",
+      "description": "受董卓诱惑,杀义父丁原,投靠董卓",
+      "type": "turning-point"
+    },
+    {
+      "year": 5,
+      "title": "虎牢关战三英",
+      "description": "虎牢关前,力战刘备、关羽、张飞三英,不落下风",
+      "type": "milestone"
+    },
+    {
+      "year": 8,
+      "title": "凤仪亭",
+      "description": "王允设连环计,貂蝉离间,吕布与董卓反目",
+      "type": "anecdote"
+    },
+    {
+      "year": 12,
+      "title": "辕门射戟",
+      "description": "辕门射戟,化解刘备与袁术之战,神技惊人",
+      "type": "anecdote"
+    },
+    {
+      "year": 16,
+      "title": "夺徐州",
+      "description": "夺取刘备徐州,据为己有",
+      "type": "milestone"
+    },
+    {
+      "year": 19,
+      "title": "白门楼殒命",
+      "description": "被曹操围困下邳,白门楼被擒,缢杀,一代飞将陨落",
+      "type": "turning-point"
+    }
+  ]
+}

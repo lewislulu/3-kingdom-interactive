@@ -1,0 +1,22 @@
+{
+  "id": "sangu-maolu",
+  "name": "三顾茅庐",
+  "year": 38,
+  "month": 1,
+  "characters": ["liubei", "zhugeliang", "guanyu", "zhangfei"],
+  "importance": "major",
+  "narrative": "events/sangu-maolu.md",
+  "relatedEvents": ["chibi-battle", "changban"],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "三访卧龙",
+      "hasDialogue": true
+    },
+    {
+      "id": "scene-2",
+      "title": "隆中对",
+      "hasDialogue": true
+    }
+  ]
+}

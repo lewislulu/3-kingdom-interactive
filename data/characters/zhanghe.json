@@ -1,0 +1,38 @@
+{
+  "id": "zhanghe",
+  "name": "张郃",
+  "courtesy": "儁乂",
+  "birth": 30,
+  "death": 101,
+  "color": "#6366f1",
+  "portrait": "portraits/zhanghe.jpg",
+  "bio": "张郃，字儁乂，河间鄚县人。三国时期魏国名将，曹魏五子良将之一。初为袁绍部将，官渡之战后投降曹操。善于用兵，巧变战术，多次击败蜀汉军队。在巴西击败张飞，在街亭大破马谡，屡立战功。诸葛亮北伐时的主要对手之一。后在木门道中诸葛亮埋伏，中箭身亡。",
+  "activeRange": [30, 101],
+  "tags": ["曹魏", "五子良将", "善于用兵"],
+  "personalEvents": [
+    {
+      "year": 30,
+      "title": "官渡投曹",
+      "description": "官渡之战，袁绍猜忌，张郃愤而投降曹操，受到重用。",
+      "type": "turning-point"
+    },
+    {
+      "year": 70,
+      "title": "战张飞于巴西",
+      "description": "巴西之战，与张飞对峙五十余日，后被张飞智取。",
+      "type": "anecdote"
+    },
+    {
+      "year": 96,
+      "title": "街亭破马谡",
+      "description": "诸葛亮第一次北伐，张郃在街亭大破马谡，蜀军北伐失败。",
+      "type": "milestone"
+    },
+    {
+      "year": 101,
+      "title": "木门道中伏",
+      "description": "追击诸葛亮退兵，在木门道中伏，被乱箭射死。",
+      "type": "turning-point"
+    }
+  ]
+}

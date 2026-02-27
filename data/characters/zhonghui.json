@@ -1,0 +1,32 @@
+{
+  "id": "zhonghui",
+  "name": "钟会",
+  "courtesy": "士季",
+  "birth": 107,
+  "death": 119,
+  "color": "#1a5276",
+  "portrait": "portraits/zhonghui.jpg",
+  "bio": "钟会，字士季，颍川长社人。三国后期魏国将领，钟繇之子。自幼聪慧，博学多才，深得司马氏信任。公元263年，与邓艾分兵伐蜀，任伐蜀主帅。蜀汉灭亡后，钟会嫉妒邓艾功劳，诬陷其谋反。后自己在成都企图叛乱自立，事败被杀，身死名裂。",
+  "activeRange": [107, 119],
+  "tags": ["曹魏", "智将", "野心家"],
+  "personalEvents": [
+    {
+      "year": 107,
+      "title": "从征蜀地",
+      "description": "钟会受司马昭重用，参与筹划伐蜀战略。",
+      "type": "milestone"
+    },
+    {
+      "year": 116,
+      "title": "伐蜀主帅",
+      "description": "担任伐蜀主帅，率大军进攻蜀汉。",
+      "type": "milestone"
+    },
+    {
+      "year": 119,
+      "title": "阴谋叛乱败死",
+      "description": "诬陷邓艾后，企图在成都叛乱自立，被魏军及姜维围攻，兵败身死。",
+      "type": "turning-point"
+    }
+  ]
+}

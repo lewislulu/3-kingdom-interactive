@@ -1,0 +1,68 @@
+{
+  "id": "liubei",
+  "name": "刘备",
+  "courtesy": "玄德",
+  "birth": 1,
+  "death": 85,
+  "color": "#e74c3c",
+  "portrait": "portraits/liubei.jpg",
+  "bio": "汉景帝之子中山靖王刘胜的后代，汉室宗亲。少年贫寒，贩履织席为业。胸怀大志，礼贤下士，以仁德著称。桃园结义，与关羽、张飞情同手足。历经坎坷，从无立锥之地到建立蜀汉政权。三顾茅庐请得诸葛亮，定三分天下之策。赤壁之战后取荆州、入益州，终成帝业。晚年因关羽被害举倾国之兵伐吴，兵败夷陵，白帝城托孤于诸葛亮，留下千古遗恨。",
+  "activeRange": [1, 85],
+  "tags": ["蜀汉", "仁义之主", "汉室宗亲"],
+  "personalEvents": [
+    {
+      "year": 1,
+      "title": "桃园结义",
+      "description": "与关羽、张飞桃园三结义，誓同生死，共图大业",
+      "type": "milestone"
+    },
+    {
+      "year": 21,
+      "title": "煮酒论英雄",
+      "description": "与曹操青梅煮酒论天下英雄，闻雷失箸掩饰野心",
+      "type": "turning-point"
+    },
+    {
+      "year": 36,
+      "title": "马跃檀溪",
+      "description": "的卢马跃檀溪，逃脱蔡瑁追杀，遇水镜先生",
+      "type": "anecdote"
+    },
+    {
+      "year": 38,
+      "title": "三顾茅庐",
+      "description": "三顾茅庐请得诸葛亮出山，得隆中对策",
+      "type": "milestone"
+    },
+    {
+      "year": 41,
+      "title": "携民渡江",
+      "description": "长坂坡败退，不忍弃百姓，携民渡江，仁义之名天下传",
+      "type": "turning-point"
+    },
+    {
+      "year": 60,
+      "title": "入川",
+      "description": "受刘璋之邀入川，后反目取西川为基业",
+      "type": "milestone"
+    },
+    {
+      "year": 73,
+      "title": "进位汉中王",
+      "description": "击败曹操夺取汉中，群臣劝进，称汉中王",
+      "type": "milestone"
+    },
+    {
+      "year": 81,
+      "title": "称帝伐吴",
+      "description": "于成都称帝，建立蜀汉，起兵伐吴为关羽报仇",
+      "type": "milestone"
+    },
+    {
+      "year": 85,
+      "title": "白帝城托孤",
+      "description": "夷陵惨败，病重于白帝城，托孤于诸葛亮，嘱以兴复汉室",
+      "type": "milestone"
+    }
+  ]
+}

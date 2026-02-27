@@ -1,0 +1,38 @@
+{
+  "id": "caoren",
+  "name": "曹仁",
+  "courtesy": "子孝",
+  "birth": 5,
+  "death": 78,
+  "color": "#5b8cb8",
+  "portrait": "portraits/caoren.jpg",
+  "bio": "曹仁，字子孝，沛国谯县人。曹操堂弟，曹魏名将。以守城著称，多次镇守要塞，屡破敌军围攻。新野之战、南郡之战、樊城之战中展现出色的防御能力。为人稳重，善于布阵，是曹魏军中倚重的守将。一生追随曹操，为曹魏江山立下不朽功勋。",
+  "activeRange": [5, 78],
+  "tags": ["曹魏", "守城名将", "曹氏宗族"],
+  "personalEvents": [
+    {
+      "year": 5,
+      "title": "从征起兵",
+      "description": "曹仁早年随曹操起兵，征讨四方，建功立业。",
+      "type": "milestone"
+    },
+    {
+      "year": 36,
+      "title": "新野之战",
+      "description": "率军进攻新野，与刘备交战。",
+      "type": "anecdote"
+    },
+    {
+      "year": 51,
+      "title": "守南郡",
+      "description": "镇守南郡，与周瑜、关羽激战，展现守城才能。",
+      "type": "turning-point"
+    },
+    {
+      "year": 73,
+      "title": "樊城死守",
+      "description": "樊城之战，面对关羽围攻，死守不退，待于禁、庞德援军。",
+      "type": "milestone"
+    }
+  ]
+}

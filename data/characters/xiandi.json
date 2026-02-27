@@ -1,0 +1,44 @@
+{
+  "id": "xiandi",
+  "name": "汉献帝刘协",
+  "courtesy": "",
+  "birth": 3,
+  "death": 80,
+  "color": "#bdc3c7",
+  "portrait": "portraits/xiandi.jpg",
+  "bio": "汉献帝刘协,汉灵帝之子,东汉末代皇帝。董卓废少帝而立之,一生为傀儡。历经董卓、曹操挟持,有帝王之名,无帝王之实。衣带诏事败,更受曹操监控。最终禅位曹丕,汉朝四百年江山终结。",
+  "activeRange": [3, 80],
+  "tags": ["汉室", "末代天子", "傀儡皇帝"],
+  "personalEvents": [
+    {
+      "year": 3,
+      "title": "被立为帝",
+      "description": "董卓废少帝刘辩,立刘协为帝,时年九岁",
+      "type": "turning-point"
+    },
+    {
+      "year": 9,
+      "title": "董卓死后",
+      "description": "董卓被杀,献帝仍无实权,被李傕郭汜控制",
+      "type": "milestone"
+    },
+    {
+      "year": 14,
+      "title": "曹操迎帝",
+      "description": "曹操迎献帝至许都,挟天子以令诸侯",
+      "type": "turning-point"
+    },
+    {
+      "year": 20,
+      "title": "衣带诏",
+      "description": "下衣带诏,密谋诛杀曹操,事败,董承等被杀",
+      "type": "milestone"
+    },
+    {
+      "year": 80,
+      "title": "禅位曹丕",
+      "description": "被迫禅位于曹丕,东汉灭亡,改封山阳公",
+      "type": "turning-point"
+    }
+  ]
+}

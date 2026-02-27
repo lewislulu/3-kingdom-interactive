@@ -1,0 +1,22 @@
+{
+  "id": "huarong-dao",
+  "name": "华容道义释曹操",
+  "year": 50,
+  "month": 1,
+  "characters": ["guanyu", "caocao", "zhugeliang"],
+  "importance": "major",
+  "narrative": "events/huarong-dao.md",
+  "relatedEvents": ["chibi-battle"],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "诸葛安排",
+      "hasDialogue": true
+    },
+    {
+      "id": "scene-2",
+      "title": "华容道",
+      "hasDialogue": true
+    }
+  ]
+}

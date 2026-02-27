@@ -1,0 +1,44 @@
+{
+  "id": "dengai",
+  "name": "邓艾",
+  "courtesy": "士载",
+  "birth": 107,
+  "death": 119,
+  "color": "#2980b9",
+  "portrait": "portraits/dengai.jpg",
+  "bio": "邓艾，字士载，义阳棘阳人。三国后期魏国名将，战略家。出身寒微，凭军功累迁。长期镇守西北边境，推行屯田，防备蜀汉。公元263年，与钟会分兵伐蜀，邓艾率军偷渡阴平，奇袭成都，灭亡蜀汉，立下盖世奇功。后被钟会、卫瓘诬陷谋反，遇害身亡，令人扼腕。",
+  "activeRange": [107, 119],
+  "tags": ["曹魏", "灭蜀奇功", "战略奇才"],
+  "personalEvents": [
+    {
+      "year": 107,
+      "title": "屯田防蜀",
+      "description": "邓艾在陇右屯田，积蓄军粮，防备蜀汉进攻。",
+      "type": "milestone"
+    },
+    {
+      "year": 116,
+      "title": "段谷之战",
+      "description": "与姜维在段谷交战，大破蜀军，姜维败退。",
+      "type": "turning-point"
+    },
+    {
+      "year": 117,
+      "title": "偷渡阴平",
+      "description": "率军偷渡阴平小道，翻越险峻山岭，直逼成都，创造军事奇迹。",
+      "type": "milestone"
+    },
+    {
+      "year": 118,
+      "title": "绵竹之战灭蜀",
+      "description": "绵竹一战击杀诸葛瞻，后主刘禅开城投降，蜀汉灭亡。",
+      "type": "milestone"
+    },
+    {
+      "year": 119,
+      "title": "被诬谋反遇害",
+      "description": "钟会、卫瓘诬陷邓艾谋反，邓艾父子被押解途中遇害。",
+      "type": "turning-point"
+    }
+  ]
+}

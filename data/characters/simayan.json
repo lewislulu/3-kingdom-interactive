@@ -1,0 +1,26 @@
+{
+  "id": "simayan",
+  "name": "司马炎",
+  "courtesy": "安世",
+  "birth": 119,
+  "death": 120,
+  "color": "#34495e",
+  "portrait": "portraits/simayan.jpg",
+  "bio": "司马炎,字安世,司马昭之子,晋朝开国皇帝,庙号世祖,谥号武帝。逼迫魏元帝曹奂禅让,建立晋朝。随后发兵灭吴,统一天下,结束三国鼎立局面,开创西晋王朝。",
+  "activeRange": [119, 120],
+  "tags": ["晋朝", "一统天下", "开国皇帝"],
+  "personalEvents": [
+    {
+      "year": 119,
+      "title": "逼魏帝禅让",
+      "description": "逼迫魏元帝曹奂禅让,建立晋朝,自立为帝",
+      "type": "turning-point"
+    },
+    {
+      "year": 120,
+      "title": "灭吴统一",
+      "description": "发兵灭东吴,统一天下,结束三国时代",
+      "type": "milestone"
+    }
+  ]
+}

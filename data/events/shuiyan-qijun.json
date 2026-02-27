@@ -1,0 +1,22 @@
+{
+  "id": "shuiyan-qijun",
+  "name": "水淹七军",
+  "year": 74,
+  "month": 1,
+  "characters": ["guanyu", "caocao", "caoren"],
+  "importance": "major",
+  "narrative": "events/shuiyan-qijun.md",
+  "relatedEvents": ["baizou-maicheng"],
+  "scenes": [
+    {
+      "id": "weizhen-huaxia",
+      "title": "威震华夏",
+      "hasDialogue": true
+    },
+    {
+      "id": "shuiyan",
+      "title": "水淹",
+      "hasDialogue": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "zhouyu",
+  "name": "周瑜",
+  "courtesy": "公瑾",
+  "birth": 15,
+  "death": 57,
+  "color": "#27ae60",
+  "portrait": "portraits/zhouyu.jpg",
+  "bio": "周瑜,字公瑾,庐江舒城人,人称\"美周郎\"。与孙策情同手足,助其平定江东。赤壁之战为东吴大都督,火烧曹军战船,大破曹操八十万大军。后与诸葛亮斗智,三番被气,含恨而终,年仅三十六岁。",
+  "activeRange": [15, 57],
+  "tags": ["东吴", "美周郎", "赤壁主帅"],
+  "personalEvents": [
+    {
+      "year": 15,
+      "title": "结识孙策",
+      "description": "与孙策结为生死之交,共创江东基业",
+      "type": "milestone"
+    },
+    {
+      "year": 44,
+      "title": "决策抗曹",
+      "description": "力排众议,坚决主战,被任命为大都督",
+      "type": "turning-point"
+    },
+    {
+      "year": 46,
+      "title": "苦肉计",
+      "description": "与黄盖设苦肉计,诈降曹操,为火攻做准备",
+      "type": "anecdote"
+    },
+    {
+      "year": 49,
+      "title": "火烧赤壁",
+      "description": "火烧赤壁,大破曹操八十万大军,奠定三分天下之势",
+      "type": "milestone"
+    },
+    {
+      "year": 56,
+      "title": "三气周瑜",
+      "description": "与诸葛亮斗智,三番被诸葛亮算计,气愤难平",
+      "type": "anecdote"
+    },
+    {
+      "year": 57,
+      "title": "柴桑含恨而终",
+      "description": "箭伤复发,仰天长叹'既生瑜,何生亮',含恨而终",
+      "type": "turning-point"
+    }
+  ]
+}

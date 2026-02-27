@@ -1,0 +1,22 @@
+{
+  "id": "jiufa-zhongyuan",
+  "name": "姜维北伐",
+  "year": 107,
+  "month": 1,
+  "characters": ["jiangwei", "simayi", "dengai"],
+  "importance": "major",
+  "narrative": "events/jiufa-zhongyuan.md",
+  "relatedEvents": ["wuzhangyuan", "yinping-toudao"],
+  "scenes": [
+    {
+      "id": "jicheng-yizhi",
+      "title": "继承遗志",
+      "hasDialogue": true
+    },
+    {
+      "id": "jiufa-zhongyuan",
+      "title": "九伐中原",
+      "hasDialogue": true
+    }
+  ]
+}

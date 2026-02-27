@@ -1,0 +1,26 @@
+{
+  "name": "vis-three-kingdoms",
+  "version": "1.0.0",
+  "description": "三国演义 -- Interactive cinematic storyline visualization with character timelines, events, and narrative scenes",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "visualization",
+    "storyline",
+    "timeline",
+    "d3",
+    "interactive",
+    "template"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^7.9.0",
+    "gsap": "^3.14.2",
+    "marked": "^17.0.3",
+    "vite": "^7.3.1"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "lvmeng",
+  "name": "吕蒙",
+  "courtesy": "子明",
+  "birth": 38,
+  "death": 77,
+  "color": "#0e6655",
+  "portrait": "portraits/lvmeng.jpg",
+  "bio": "吕蒙,字子明,汝南富陂人。少时从军,不喜读书。后经孙权、鲁肃劝学,发奋苦读,鲁肃赞曰'士别三日,当刮目相待'。白衣渡江,奇袭荆州,擒杀关羽,功成后暴毙而亡。",
+  "activeRange": [38, 77],
+  "tags": ["东吴", "士别三日刮目相看", "白衣渡江"],
+  "personalEvents": [
+    {
+      "year": 38,
+      "title": "初露头角",
+      "description": "随军征战,初露头角,展现军事才能",
+      "type": "milestone"
+    },
+    {
+      "year": 54,
+      "title": "与鲁肃论兵",
+      "description": "发奋读书后,与鲁肃论兵,鲁肃刮目相看",
+      "type": "anecdote"
+    },
+    {
+      "year": 75,
+      "title": "白衣渡江",
+      "description": "设白衣渡江之计,秘密渡江,奇袭荆州",
+      "type": "milestone"
+    },
+    {
+      "year": 76,
+      "title": "擒杀关羽",
+      "description": "攻克荆州,擒杀关羽父子,夺回荆州要地",
+      "type": "turning-point"
+    },
+    {
+      "year": 77,
+      "title": "暴毙",
+      "description": "擒关羽后不久暴毙,死因成谜,相传为关羽索命",
+      "type": "turning-point"
+    }
+  ]
+}

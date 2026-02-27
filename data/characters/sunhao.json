@@ -1,0 +1,32 @@
+{
+  "id": "sunhao",
+  "name": "孙皓",
+  "courtesy": "元宗",
+  "birth": 113,
+  "death": 120,
+  "color": "#839192",
+  "portrait": "portraits/sunhao.jpg",
+  "bio": "孙皓,字元宗,孙权之孙,东吴末代皇帝。初立时颇有明君之象,后渐露暴虐本性。酷刑峻法,奢侈无度,诛杀大臣,民心尽失。晋军南下,众叛亲离,肉袒出降,东吴灭亡,三国归晋。",
+  "activeRange": [113, 120],
+  "tags": ["东吴", "末帝", "暴虐亡国"],
+  "personalEvents": [
+    {
+      "year": 113,
+      "title": "即位",
+      "description": "孙休死后,孙皓即位为东吴皇帝",
+      "type": "turning-point"
+    },
+    {
+      "year": 118,
+      "title": "暴政失民心",
+      "description": "暴虐无道,刑罚酷烈,奢侈无度,民心尽失",
+      "type": "milestone"
+    },
+    {
+      "year": 120,
+      "title": "降晋",
+      "description": "晋军南下,众叛亲离,肉袒出降,东吴灭亡",
+      "type": "turning-point"
+    }
+  ]
+}

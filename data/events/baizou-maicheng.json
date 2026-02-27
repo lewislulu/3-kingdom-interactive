@@ -1,0 +1,27 @@
+{
+  "id": "baizou-maicheng",
+  "name": "败走麦城",
+  "year": 76,
+  "month": 1,
+  "characters": ["guanyu", "lvmeng", "sunquan", "liubei"],
+  "importance": "major",
+  "narrative": "events/baizou-maicheng.md",
+  "relatedEvents": ["shuiyan-qijun", "yiling-battle"],
+  "scenes": [
+    {
+      "id": "baiyi-dujiang",
+      "title": "白衣渡江",
+      "hasDialogue": true
+    },
+    {
+      "id": "maicheng-molu",
+      "title": "麦城末路",
+      "hasDialogue": true
+    },
+    {
+      "id": "guangong-yunming",
+      "title": "关公殒命",
+      "hasDialogue": true
+    }
+  ]
+}

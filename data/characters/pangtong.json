@@ -1,0 +1,44 @@
+{
+  "id": "pangtong",
+  "name": "庞统",
+  "courtesy": "士元",
+  "birth": 35,
+  "death": 63,
+  "color": "#af601a",
+  "portrait": "portraits/pangtong.jpg",
+  "bio": "襄阳人，号凤雏先生。相貌丑陋，但才智过人，与诸葛亮齐名，人称卧龙凤雏得一可安天下。初投孙权，不被重用。后投刘备，因貌丑被派往耒阳任县令，故意不理政务。张飞查访后发现其才，推荐于刘备。献计取西川，与诸葛亮分兵入川。进围雒城时，于落凤坡中张任埋伏，乱箭射死，时年仅三十六岁。英年早逝，令人扼腕叹息。",
+  "activeRange": [35, 63],
+  "tags": ["蜀汉", "凤雏", "奇谋之士"],
+  "personalEvents": [
+    {
+      "year": 35,
+      "title": "初出茅庐",
+      "description": "离开襄阳，开始寻求明主以展才华",
+      "type": "milestone"
+    },
+    {
+      "year": 47,
+      "title": "献连环计",
+      "description": "赤壁之战前假投曹操，献连环计助周瑜火攻",
+      "type": "milestone"
+    },
+    {
+      "year": 57,
+      "title": "耒阳理事",
+      "description": "因貌丑任耒阳县令，故意不理政务，后被张飞发现其才",
+      "type": "turning-point"
+    },
+    {
+      "year": 60,
+      "title": "入川献策",
+      "description": "献上中下三策取西川，与诸葛亮分兵入川",
+      "type": "milestone"
+    },
+    {
+      "year": 63,
+      "title": "落凤坡殉难",
+      "description": "进围雒城，于落凤坡中张任埋伏，乱箭射死，英年早逝",
+      "type": "milestone"
+    }
+  ]
+}

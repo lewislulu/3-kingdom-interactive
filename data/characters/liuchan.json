@@ -1,0 +1,50 @@
+{
+  "id": "liuchan",
+  "name": "刘禅",
+  "courtesy": "公嗣",
+  "birth": 41,
+  "death": 119,
+  "color": "#f5b041",
+  "portrait": "portraits/liuchan.jpg",
+  "bio": "刘禅,字公嗣,小字阿斗,刘备之子,蜀汉后主。长坂坡被赵云所救,刘备死后继位。在位四十余年,前期有诸葛亮辅佐,后期宦官黄皓弄权,国力衰败。邓艾兵临成都,开城投降,亡国后'乐不思蜀',传为笑谈。",
+  "activeRange": [41, 119],
+  "tags": ["蜀汉", "后主", "乐不思蜀"],
+  "personalEvents": [
+    {
+      "year": 41,
+      "title": "长坂坡被救",
+      "description": "长坂坡之战,赵云七进七出,救出刘禅",
+      "type": "milestone"
+    },
+    {
+      "year": 85,
+      "title": "继位蜀帝",
+      "description": "刘备白帝城托孤,刘禅继位为蜀汉皇帝",
+      "type": "turning-point"
+    },
+    {
+      "year": 91,
+      "title": "支持北伐",
+      "description": "诸葛亮北伐,刘禅支持丞相大计",
+      "type": "milestone"
+    },
+    {
+      "year": 115,
+      "title": "宦官黄皓弄权",
+      "description": "诸葛亮死后,宦官黄皓弄权,朝政败坏",
+      "type": "turning-point"
+    },
+    {
+      "year": 118,
+      "title": "开城投降",
+      "description": "邓艾兵临成都,刘禅开城投降,蜀汉灭亡",
+      "type": "turning-point"
+    },
+    {
+      "year": 119,
+      "title": "乐不思蜀",
+      "description": "降魏后,司马昭问是否思蜀,答曰'此间乐,不思蜀',成为千古笑谈",
+      "type": "anecdote"
+    }
+  ]
+}

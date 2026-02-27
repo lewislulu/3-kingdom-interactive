@@ -1,0 +1,22 @@
+{
+  "id": "yiling-battle",
+  "name": "夷陵之战",
+  "year": 84,
+  "month": 1,
+  "characters": ["liubei", "luxun", "zhugeliang"],
+  "importance": "major",
+  "narrative": "events/yiling-battle.md",
+  "relatedEvents": ["baizou-maicheng", "baidi-tuogu"],
+  "scenes": [
+    {
+      "id": "liubei-fawu",
+      "title": "刘备伐吴",
+      "hasDialogue": true
+    },
+    {
+      "id": "huoshao-lianying",
+      "title": "火烧连营",
+      "hasDialogue": true
+    }
+  ]
+}

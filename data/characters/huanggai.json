@@ -1,0 +1,32 @@
+{
+  "id": "huanggai",
+  "name": "黄盖",
+  "courtesy": "公覆",
+  "birth": 5,
+  "death": 50,
+  "color": "#d4ac0d",
+  "portrait": "portraits/huanggai.jpg",
+  "bio": "黄盖,字公覆,零陵泉陵人,东吴老将。自孙坚时期即追随孙氏,忠心耿耿。赤壁之战中,与周瑜设苦肉计,诈降曹操,亲率火船冲入曹军水寨,立下首功。",
+  "activeRange": [5, 50],
+  "tags": ["东吴", "苦肉计", "老将"],
+  "personalEvents": [
+    {
+      "year": 5,
+      "title": "追随孙坚",
+      "description": "追随孙坚起兵,征讨董卓,忠心不二",
+      "type": "milestone"
+    },
+    {
+      "year": 46,
+      "title": "苦肉计",
+      "description": "与周瑜设苦肉计,甘受杖刑,以取信曹操",
+      "type": "anecdote"
+    },
+    {
+      "year": 49,
+      "title": "诈降火攻",
+      "description": "诈降曹操,率火船冲入曹军水寨,火烧赤壁立首功",
+      "type": "milestone"
+    }
+  ]
+}

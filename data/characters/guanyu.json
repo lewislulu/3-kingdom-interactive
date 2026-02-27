@@ -1,0 +1,62 @@
+{
+  "id": "guanyu",
+  "name": "关羽",
+  "courtesy": "云长",
+  "birth": 1,
+  "death": 76,
+  "color": "#c0392b",
+  "portrait": "portraits/guanyu.jpg",
+  "bio": "河东解良人，因本处犯事逃难至涿郡。与刘备、张飞桃园结义，誓死追随刘备。身长九尺，髯长二尺，面如重枣，唇若涂脂，丹凤眼，卧蚕眉，相貌堂堂，威风凛凛。使青龙偃月刀，骑赤兔马，武艺高强，勇冠三军。温酒斩华雄，斩颜良诛文丑，过五关斩六将，义释曹操，威震华夏。为人忠义无双，但刚愎自用。镇守荆州时大意失荆州，败走麦城，父子被擒遇害。后世尊为武圣，忠义化身。",
+  "activeRange": [1, 76],
+  "tags": ["蜀汉", "武圣", "忠义无双"],
+  "personalEvents": [
+    {
+      "year": 1,
+      "title": "桃园结义",
+      "description": "与刘备、张飞桃园三结义，誓死追随刘备",
+      "type": "milestone"
+    },
+    {
+      "year": 5,
+      "title": "温酒斩华雄",
+      "description": "温酒未冷即斩华雄，震惊诸侯，一战成名",
+      "type": "milestone"
+    },
+    {
+      "year": 25,
+      "title": "封金挂印",
+      "description": "得知刘备下落，封金挂印辞别曹操",
+      "type": "turning-point"
+    },
+    {
+      "year": 27,
+      "title": "千里走单骑过五关斩六将",
+      "description": "千里寻兄，过五关斩六将，护送二位嫂嫂",
+      "type": "milestone"
+    },
+    {
+      "year": 50,
+      "title": "华容道义释曹操",
+      "description": "华容道上念旧情义释曹操，留下千古美名",
+      "type": "turning-point"
+    },
+    {
+      "year": 66,
+      "title": "单刀赴会",
+      "description": "单刀赴鲁肃之约，谈笑自若，震慑东吴",
+      "type": "anecdote"
+    },
+    {
+      "year": 73,
+      "title": "水淹七军",
+      "description": "水淹七军，擒于禁斩庞德，威震华夏",
+      "type": "milestone"
+    },
+    {
+      "year": 76,
+      "title": "败走麦城",
+      "description": "大意失荆州，败走麦城，父子被擒遇害",
+      "type": "milestone"
+    }
+  ]
+}

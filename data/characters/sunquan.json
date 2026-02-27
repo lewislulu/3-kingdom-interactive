@@ -1,0 +1,50 @@
+{
+  "id": "sunquan",
+  "name": "孙权",
+  "courtesy": "仲谋",
+  "birth": 29,
+  "death": 108,
+  "color": "#16a085",
+  "portrait": "portraits/sunquan.jpg",
+  "bio": "孙权,字仲谋,孙坚次子,东吴大帝。继兄孙策之业,守成江东,联刘抗曹,赤壁之战大败曹操。后称帝建吴,雄踞江东数十载。曹操赞曰:生子当如孙仲谋。",
+  "activeRange": [29, 120],
+  "tags": ["东吴", "守业之主", "生子当如孙仲谋"],
+  "personalEvents": [
+    {
+      "year": 29,
+      "title": "继承江东",
+      "description": "兄孙策遇刺身亡,孙权继位,年方十九,掌江东基业",
+      "type": "turning-point"
+    },
+    {
+      "year": 43,
+      "title": "决策抗曹",
+      "description": "力排众议,决意联刘抗曹,为赤壁之战奠定基础",
+      "type": "milestone"
+    },
+    {
+      "year": 54,
+      "title": "嫁妹刘备",
+      "description": "将妹孙尚香嫁与刘备,巩固孙刘联盟",
+      "type": "anecdote"
+    },
+    {
+      "year": 61,
+      "title": "合肥之战",
+      "description": "亲征合肥,遭张辽奇袭,几乎被擒,幸得凌统等拼死护卫",
+      "type": "turning-point"
+    },
+    {
+      "year": 82,
+      "title": "石亭大捷",
+      "description": "陆逊大败曹休于石亭,东吴声威大振",
+      "type": "milestone"
+    },
+    {
+      "year": 108,
+      "title": "病逝",
+      "description": "孙权病逝,在位二十四年,享年七十一岁",
+      "type": "turning-point"
+    }
+  ]
+}

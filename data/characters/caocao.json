@@ -1,0 +1,80 @@
+{
+  "id": "caocao",
+  "name": "曹操",
+  "courtesy": "孟德",
+  "birth": 1,
+  "death": 78,
+  "color": "#8e44ad",
+  "portrait": "portraits/caocao.jpg",
+  "bio": "魏武帝曹操，字孟德，沛国谯县人。东汉末年杰出的政治家、军事家、文学家、书法家。挟天子以令诸侯，统一北方，奠定曹魏基业。一生征战四方，官渡之战大破袁绍，赤壁之战败于孙刘联军。横槊赋诗，文采斐然。后世评价其为治世之能臣，乱世之奸雄。",
+  "activeRange": [1, 78],
+  "tags": ["曹魏", "乱世奸雄", "文韬武略"],
+  "personalEvents": [
+    {
+      "year": 1,
+      "title": "起兵讨黄巾",
+      "description": "汉灵帝时，黄巾起义，曹操应募起兵，平定乱世，崭露头角。",
+      "type": "milestone"
+    },
+    {
+      "year": 4,
+      "title": "献刀刺董卓",
+      "description": "董卓专权，曹操假献七星宝刀，欲刺杀董卓，事败而逃。",
+      "type": "turning-point"
+    },
+    {
+      "year": 12,
+      "title": "陈宫就义",
+      "description": "徐州之战，陈宫随吕布兵败被擒，曹操含泪送别昔日谋士。",
+      "type": "anecdote"
+    },
+    {
+      "year": 17,
+      "title": "挟天子以令诸侯",
+      "description": "迎汉献帝于许昌，从此挟天子以令诸侯，占据政治优势。",
+      "type": "milestone"
+    },
+    {
+      "year": 30,
+      "title": "官渡之战",
+      "description": "以少胜多，大破袁绍十万大军于官渡，奠定统一北方基础。",
+      "type": "milestone"
+    },
+    {
+      "year": 34,
+      "title": "横槊赋诗",
+      "description": "赤壁之战前夕，横槊赋《短歌行》，抒发雄心壮志。",
+      "type": "anecdote"
+    },
+    {
+      "year": 48,
+      "title": "赤壁败北",
+      "description": "孙刘联军火攻赤壁，曹操大军惨败，仓皇北归。",
+      "type": "turning-point"
+    },
+    {
+      "year": 58,
+      "title": "割须弃袍",
+      "description": "潼关之战，被马超追杀，割须弃袍而逃，险些丧命。",
+      "type": "anecdote"
+    },
+    {
+      "year": 68,
+      "title": "汉中之战",
+      "description": "与刘备争夺汉中，因法正妙计而败，退出汉中。",
+      "type": "turning-point"
+    },
+    {
+      "year": 72,
+      "title": "梦中杀人",
+      "description": "疑心病重，假装梦中杀侍卫，震慑众人。",
+      "type": "anecdote"
+    },
+    {
+      "year": 78,
+      "title": "洛阳病逝",
+      "description": "一代枭雄病逝洛阳，终年六十六岁，谥号武王。",
+      "type": "milestone"
+    }
+  ]
+}

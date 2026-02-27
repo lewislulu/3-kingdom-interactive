@@ -1,0 +1,38 @@
+{
+  "id": "sunce",
+  "name": "孙策",
+  "courtesy": "伯符",
+  "birth": 7,
+  "death": 29,
+  "color": "#1abc9c",
+  "portrait": "portraits/sunce.jpg",
+  "bio": "孙策,字伯符,孙坚长子,人称\"小霸王\"。年少英勇,继承父志,借兵起家,平定江东六郡,为东吴基业奠定根基。然英年早逝,遇刺身亡,临终托孤于弟孙权。",
+  "activeRange": [7, 29],
+  "tags": ["东吴", "小霸王", "江东基业"],
+  "personalEvents": [
+    {
+      "year": 7,
+      "title": "随父征讨",
+      "description": "孙策随父孙坚征讨董卓,初露锋芒",
+      "type": "milestone"
+    },
+    {
+      "year": 15,
+      "title": "借兵起家",
+      "description": "向袁术借兵数千,起兵江东,开创基业",
+      "type": "turning-point"
+    },
+    {
+      "year": 18,
+      "title": "平定江东",
+      "description": "征服江东六郡,奠定东吴基业,威震江南",
+      "type": "milestone"
+    },
+    {
+      "year": 29,
+      "title": "遇刺身亡",
+      "description": "遭许贡门客刺杀,箭疮迸裂而亡,年仅二十六岁",
+      "type": "turning-point"
+    }
+  ]
+}

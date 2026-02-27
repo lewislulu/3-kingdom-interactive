@@ -1,0 +1,44 @@
+{
+  "id": "caopi",
+  "name": "曹丕",
+  "courtesy": "子桓",
+  "birth": 32,
+  "death": 80,
+  "color": "#7d3c98",
+  "portrait": "portraits/caopi.jpg",
+  "bio": "魏文帝曹丕，字子桓，曹操次子。三国时期魏国开国皇帝，文学家、诗人。自幼聪慧，文武双全。在与弟弟曹植的嗣位之争中胜出，继承魏王位。公元220年逼迫汉献帝禅让，称帝建立曹魏，终结东汉四百年基业。在位七年，巩固魏国统治，推行九品中正制。著有《典论》等作品。",
+  "activeRange": [32, 80],
+  "tags": ["曹魏", "魏文帝", "篡汉自立"],
+  "personalEvents": [
+    {
+      "year": 32,
+      "title": "随父征战",
+      "description": "年少随父曹操征战，积累军政经验。",
+      "type": "milestone"
+    },
+    {
+      "year": 68,
+      "title": "兄弟争嗣",
+      "description": "与弟弟曹植争夺世子之位，凭借谋略胜出。",
+      "type": "turning-point"
+    },
+    {
+      "year": 78,
+      "title": "继位魏王",
+      "description": "曹操病逝，曹丕继位为魏王，掌控朝政。",
+      "type": "milestone"
+    },
+    {
+      "year": 80,
+      "title": "逼汉帝禅让",
+      "description": "逼迫汉献帝刘协禅让帝位，接受禅让。",
+      "type": "turning-point"
+    },
+    {
+      "year": 80,
+      "title": "称帝建魏",
+      "description": "登基称帝，国号魏，定都洛阳，改元黄初，东汉灭亡。",
+      "type": "milestone"
+    }
+  ]
+}

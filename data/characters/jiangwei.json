@@ -1,0 +1,50 @@
+{
+  "id": "jiangwei",
+  "name": "姜维",
+  "courtesy": "伯约",
+  "birth": 93,
+  "death": 119,
+  "color": "#dc7633",
+  "portrait": "portraits/jiangwei.jpg",
+  "bio": "天水冀县人，少年丧父，事母至孝。初为魏将，智勇双全。诸葛亮北伐时巧施反间计使其归降蜀汉，诸葛亮赞其为幼麟，悉心栽培。诸葛亮临终前传授兵法，托以北伐大业。诸葛亮死后，独撑蜀汉危局，九伐中原，志继先师遗志。然蜀中大臣多主和亲，阻其北伐。蜀汉将亡之际，假投降钟会，图谋复国，事败，力尽殉国。一生为兴复汉室鞠躬尽瘁，虽败犹荣。",
+  "activeRange": [93, 119],
+  "tags": ["蜀汉", "幼麟", "诸葛传人"],
+  "personalEvents": [
+    {
+      "year": 93,
+      "title": "归降蜀汉",
+      "description": "诸葛亮施反间计，姜维归降蜀汉，被赞为幼麟",
+      "type": "milestone"
+    },
+    {
+      "year": 97,
+      "title": "受兵书",
+      "description": "诸葛亮临终前传授兵法，托以北伐大业",
+      "type": "milestone"
+    },
+    {
+      "year": 107,
+      "title": "北伐起始",
+      "description": "接替诸葛亮遗志，开始主持北伐中原",
+      "type": "turning-point"
+    },
+    {
+      "year": 115,
+      "title": "九伐中原",
+      "description": "多次北伐，九伐中原，虽屡遭挫折仍坚持不懈",
+      "type": "milestone"
+    },
+    {
+      "year": 118,
+      "title": "假投降",
+      "description": "蜀汉将亡，假投降钟会，暗中谋划复国大计",
+      "type": "turning-point"
+    },
+    {
+      "year": 119,
+      "title": "力尽殉国",
+      "description": "复国计划败露，力战而死，为蜀汉尽忠到最后",
+      "type": "milestone"
+    }
+  ]
+}

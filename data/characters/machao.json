@@ -1,0 +1,44 @@
+{
+  "id": "machao",
+  "name": "马超",
+  "courtesy": "孟起",
+  "birth": 10,
+  "death": 78,
+  "color": "#cb4335",
+  "portrait": "portraits/machao.jpg",
+  "bio": "扶风茂陵人，伏波将军马援之后，马腾之子。面如冠玉，眼若流星，虎体猿臂，彪腹狼腰，身披银铠白袍，号称锦马超。少年英武，随父起兵。潼关之战杀得曹操割须弃袍，威震天下。然家族被曹操所灭，报仇无望。后投张鲁，与张飞大战数百合，不分胜负。感刘备仁义，归降蜀汉，封为五虎上将之一。虽位列将军，终因家破人亡，郁郁寡欢，年仅四十七岁便病逝。",
+  "activeRange": [10, 78],
+  "tags": ["蜀汉", "锦马超", "西凉猛将"],
+  "personalEvents": [
+    {
+      "year": 10,
+      "title": "随父起兵",
+      "description": "随父马腾起兵讨伐董卓，初露锋芒",
+      "type": "milestone"
+    },
+    {
+      "year": 58,
+      "title": "潼关大战曹操",
+      "description": "潼关之战杀得曹操割须弃袍，威震天下",
+      "type": "milestone"
+    },
+    {
+      "year": 64,
+      "title": "战张飞",
+      "description": "与张飞大战数百合不分胜负，英雄惜英雄",
+      "type": "anecdote"
+    },
+    {
+      "year": 65,
+      "title": "归降刘备",
+      "description": "感刘备仁义，归降蜀汉，封为五虎上将",
+      "type": "turning-point"
+    },
+    {
+      "year": 78,
+      "title": "病逝",
+      "description": "家破人亡，郁郁寡欢，病逝于蜀，年仅四十七岁",
+      "type": "milestone"
+    }
+  ]
+}

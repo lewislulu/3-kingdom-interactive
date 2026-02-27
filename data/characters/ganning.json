@@ -1,0 +1,38 @@
+{
+  "id": "ganning",
+  "name": "甘宁",
+  "courtesy": "兴霸",
+  "birth": 38,
+  "death": 83,
+  "color": "#f1c40f",
+  "portrait": "portraits/ganning.jpg",
+  "bio": "甘宁,字兴霸,巴郡临江人。少时为锦帆贼,后归孙权,成为东吴猛将。性情豪爽,勇猛善战。百骑劫魏营一战,威震天下,孙权赞其胆略过人。",
+  "activeRange": [38, 83],
+  "tags": ["东吴", "锦帆贼", "百骑劫魏营"],
+  "personalEvents": [
+    {
+      "year": 38,
+      "title": "投孙权",
+      "description": "弃刘表投孙权,深受孙权器重",
+      "type": "turning-point"
+    },
+    {
+      "year": 67,
+      "title": "百骑劫魏营",
+      "description": "率百骑夜袭曹营,往来冲杀,曹军大乱,威名远扬",
+      "type": "milestone"
+    },
+    {
+      "year": 68,
+      "title": "孙权赞赏",
+      "description": "孙权赞甘宁胆略,待之愈厚",
+      "type": "anecdote"
+    },
+    {
+      "year": 83,
+      "title": "战死",
+      "description": "随孙权征战,中箭身亡,孙权痛失爱将",
+      "type": "turning-point"
+    }
+  ]
+}

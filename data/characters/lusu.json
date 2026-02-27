@@ -1,0 +1,38 @@
+{
+  "id": "lusu",
+  "name": "鲁肃",
+  "courtesy": "子敬",
+  "birth": 29,
+  "death": 66,
+  "color": "#2ecc71",
+  "portrait": "portraits/lusu.jpg",
+  "bio": "鲁肃,字子敬,临淮东城人,东吴名臣。为人忠厚长者,有大局观。力主联刘抗曹,为孙刘联盟的缔造者。多次为两家调停,维护联盟大局。周瑜死后继任大都督。",
+  "activeRange": [29, 66],
+  "tags": ["东吴", "忠厚长者", "孙刘联盟缔造者"],
+  "personalEvents": [
+    {
+      "year": 29,
+      "title": "荐诸葛亮",
+      "description": "出使荆州,结识诸葛亮,为孙刘联盟奠基",
+      "type": "milestone"
+    },
+    {
+      "year": 43,
+      "title": "力主联刘",
+      "description": "曹操大军压境,鲁肃力主联刘抗曹,促成赤壁之战",
+      "type": "turning-point"
+    },
+    {
+      "year": 54,
+      "title": "讨荆州",
+      "description": "赴荆州讨还荆州,与关羽单刀会,展现胆识",
+      "type": "anecdote"
+    },
+    {
+      "year": 66,
+      "title": "病逝",
+      "description": "鲁肃病逝,孙权痛失栋梁之臣",
+      "type": "turning-point"
+    }
+  ]
+}

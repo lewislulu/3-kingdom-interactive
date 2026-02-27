@@ -1,0 +1,44 @@
+{
+  "id": "yuanshao",
+  "name": "袁绍",
+  "courtesy": "本初",
+  "birth": 1,
+  "death": 32,
+  "color": "#7f8c8d",
+  "portrait": "portraits/yuanshao.jpg",
+  "bio": "袁绍,字本初,汝南汝阳人,四世三公,汉末北方最强诸侯。起兵讨董,为关东盟主。据河北四州,兵强马壮。然刚愎自用,不纳良言,官渡之战大败于曹操,从此一蹶不振,病亡。",
+  "activeRange": [1, 32],
+  "tags": ["汉末", "四世三公", "北方霸主"],
+  "personalEvents": [
+    {
+      "year": 1,
+      "title": "起兵",
+      "description": "起兵讨伐董卓,号召天下英雄",
+      "type": "milestone"
+    },
+    {
+      "year": 5,
+      "title": "盟主讨董",
+      "description": "关东联军盟主,率诸侯讨伐董卓",
+      "type": "turning-point"
+    },
+    {
+      "year": 22,
+      "title": "与曹操决裂",
+      "description": "与曹操决裂,双雄相争,天下瞩目",
+      "type": "turning-point"
+    },
+    {
+      "year": 30,
+      "title": "官渡大败",
+      "description": "官渡之战,不纳田丰等谋士之言,大败于曹操,损失惨重",
+      "type": "turning-point"
+    },
+    {
+      "year": 32,
+      "title": "病亡",
+      "description": "官渡败后,忧愤成疾,病亡,河北霸业旁落",
+      "type": "turning-point"
+    }
+  ]
+}

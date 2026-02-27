@@ -1,0 +1,44 @@
+{
+  "id": "dongzhuo",
+  "name": "董卓",
+  "courtesy": "仲颖",
+  "birth": 3,
+  "death": 9,
+  "color": "#95a5a6",
+  "portrait": "portraits/dongzhuo.jpg",
+  "bio": "董卓,字仲颖,陇西临洮人,汉末权臣。入京后废少帝,立献帝,专擅朝政,暴虐无道。火烧洛阳,迁都长安,天下共愤。后被义子吕布于凤仪亭刺杀,暴尸街头。",
+  "activeRange": [3, 9],
+  "tags": ["汉末", "权臣", "暴虐无道"],
+  "personalEvents": [
+    {
+      "year": 3,
+      "title": "入京废立",
+      "description": "受何进之召入京,废少帝刘辩,立献帝刘协",
+      "type": "turning-point"
+    },
+    {
+      "year": 4,
+      "title": "鸩杀少帝",
+      "description": "鸩杀少帝刘辩及何太后,独揽大权",
+      "type": "milestone"
+    },
+    {
+      "year": 5,
+      "title": "虎牢关之战",
+      "description": "虎牢关前,吕布力战刘关张三英,威震天下",
+      "type": "anecdote"
+    },
+    {
+      "year": 6,
+      "title": "火烧洛阳",
+      "description": "火烧洛阳,迁都长安,掘陵墓,天下共愤",
+      "type": "milestone"
+    },
+    {
+      "year": 9,
+      "title": "凤仪亭吕布杀董卓",
+      "description": "王允设连环计,吕布于凤仪亭刺杀董卓,暴尸街头",
+      "type": "turning-point"
+    }
+  ]
+}

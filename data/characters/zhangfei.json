@@ -1,0 +1,56 @@
+{
+  "id": "zhangfei",
+  "name": "张飞",
+  "courtesy": "翼德",
+  "birth": 1,
+  "death": 81,
+  "color": "#d35400",
+  "portrait": "portraits/zhangfei.jpg",
+  "bio": "涿郡人，世居涿郡，颇有庄田，卖酒屠猪为业。身长八尺，豹头环眼，燕颔虎须，声若巨雷，势如奔马。使丈八蛇矛，勇猛无敌，号称万人敌。与刘备、关羽桃园结义，情同手足。虎牢关三英战吕布，长坂桥一声喝退曹军百万，威名远扬。为人粗中有细，义释严颜传为佳话。性格暴躁，鞭打督邮，嗜酒易怒。镇守阆中时因暴虐士卒，被部将范疆、张达刺杀，时年五十五岁。",
+  "activeRange": [1, 81],
+  "tags": ["蜀汉", "猛将", "万人敌"],
+  "personalEvents": [
+    {
+      "year": 1,
+      "title": "桃园结义",
+      "description": "与刘备、关羽桃园三结义，共谋大业",
+      "type": "milestone"
+    },
+    {
+      "year": 3,
+      "title": "怒鞭督邮",
+      "description": "怒鞭贪官督邮，显豪侠本色",
+      "type": "anecdote"
+    },
+    {
+      "year": 5,
+      "title": "三英战吕布",
+      "description": "虎牢关与刘备、关羽三英战吕布，威震天下",
+      "type": "milestone"
+    },
+    {
+      "year": 42,
+      "title": "长坂桥喝退曹军",
+      "description": "长坂桥上一声断喝，喝退曹军百万，救护刘备",
+      "type": "milestone"
+    },
+    {
+      "year": 63,
+      "title": "义释严颜",
+      "description": "生擒严颜后义释之，显粗中有细之智",
+      "type": "turning-point"
+    },
+    {
+      "year": 70,
+      "title": "智取瓦口关",
+      "description": "智取瓦口关，助刘备夺取汉中",
+      "type": "milestone"
+    },
+    {
+      "year": 81,
+      "title": "遇害",
+      "description": "闻关羽死讯悲愤不已，醉后鞭打士卒，被范疆、张达刺杀",
+      "type": "milestone"
+    }
+  ]
+}

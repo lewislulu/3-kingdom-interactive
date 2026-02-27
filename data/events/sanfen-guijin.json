@@ -1,0 +1,22 @@
+{
+  "id": "sanfen-guijin",
+  "name": "三分归晋",
+  "year": 120,
+  "month": 1,
+  "characters": ["simayan", "sunhao"],
+  "importance": "major",
+  "narrative": "events/sanfen-guijin.md",
+  "relatedEvents": ["shu-surrender"],
+  "scenes": [
+    {
+      "id": "sima-daiwei",
+      "title": "司马代魏",
+      "hasDialogue": true
+    },
+    {
+      "id": "yitong-tianxia",
+      "title": "一统天下",
+      "hasDialogue": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "zhuge-jiefeng",
+  "name": "诸葛亮借东风",
+  "year": 49,
+  "month": 0,
+  "characters": ["zhugeliang", "zhouyu"],
+  "importance": "minor",
+  "narrative": "events/zhuge-jiefeng.md",
+  "relatedEvents": ["chibi-battle"],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "七星坛",
+      "hasDialogue": true
+    },
+    {
+      "id": "scene-2",
+      "title": "东风起",
+      "hasDialogue": false
+    }
+  ]
+}

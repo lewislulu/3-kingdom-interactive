@@ -1,0 +1,14 @@
+{
+  "id": "xietianzi",
+  "name": "挟天子以令诸侯",
+  "year": 14,
+  "month": 1,
+  "characters": ["caocao", "xiandi"],
+  "importance": "major",
+  "narrative": "events/xietianzi.md",
+  "relatedEvents": ["dongzhuo-capital", "guandu-battle"],
+  "scenes": [
+    { "id": "yingjia-xudu", "title": "迎驾许都", "hasDialogue": true },
+    { "id": "bachi-chaozheng", "title": "把持朝政", "hasDialogue": true }
+  ]
+}

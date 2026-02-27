@@ -1,0 +1,56 @@
+{
+  "id": "zhaoyun",
+  "name": "赵云",
+  "courtesy": "子龙",
+  "birth": 7,
+  "death": 97,
+  "color": "#e67e22",
+  "portrait": "portraits/zhaoyun.jpg",
+  "bio": "常山真定人，身长八尺，浓眉大眼，阔面重颐，威风凛凛。初随公孙瓒，后归刘备，终身追随，忠心耿耿。使一杆银枪，浑身是胆，号称常胜将军。穰山救主显忠心，长坂坡单骑救主怀抱幼主阿斗七进七出，如入无人之境。截江夺阿斗，汉水之战力斩敌将。为人沉稳忠勇，从不居功，深得刘备信任。晚年随诸葛亮北伐，力斩五将，宝刀未老。一生征战，未尝败绩，蜀汉栋梁。",
+  "activeRange": [7, 97],
+  "tags": ["蜀汉", "常胜将军", "忠勇无双"],
+  "personalEvents": [
+    {
+      "year": 7,
+      "title": "初遇公孙瓒",
+      "description": "随公孙瓒参加讨伐黄巾军，初露锋芒",
+      "type": "milestone"
+    },
+    {
+      "year": 31,
+      "title": "穰山救主",
+      "description": "穰山救护刘备，显忠心耿耿",
+      "type": "turning-point"
+    },
+    {
+      "year": 41,
+      "title": "长坂坡单骑救主",
+      "description": "长坂坡怀抱阿斗七进七出，杀退曹军，救护幼主",
+      "type": "milestone"
+    },
+    {
+      "year": 52,
+      "title": "截江夺阿斗",
+      "description": "截江夺回被孙夫人带往东吴的阿斗",
+      "type": "anecdote"
+    },
+    {
+      "year": 71,
+      "title": "汉水之战",
+      "description": "汉水之战以少胜多，空营退敌，显智勇双全",
+      "type": "milestone"
+    },
+    {
+      "year": 92,
+      "title": "力斩五将",
+      "description": "年过七旬随诸葛亮北伐，力斩五将，宝刀未老",
+      "type": "milestone"
+    },
+    {
+      "year": 97,
+      "title": "病逝",
+      "description": "病逝于成都，终年七十三岁，一生忠勇",
+      "type": "milestone"
+    }
+  ]
+}

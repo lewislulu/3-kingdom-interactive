@@ -1,0 +1,32 @@
+{
+  "id": "xuchu",
+  "name": "许褚",
+  "courtesy": "仲康",
+  "birth": 12,
+  "death": 78,
+  "color": "#a569bd",
+  "portrait": "portraits/xuchu.jpg",
+  "bio": "许褚，字仲康，谯国谯县人。曹操麾下猛将，曹魏名将。身材魁梧，力大无穷，忠心护主。曾裸衣战马超，威震敌胆，被曹操誉为虎痴。长期担任曹操近身护卫，多次救曹操于危难之中。为人忠诚勇猛，深受曹操信任，是曹营中不可或缺的虎将。",
+  "activeRange": [12, 78],
+  "tags": ["曹魏", "虎痴", "曹操近卫"],
+  "personalEvents": [
+    {
+      "year": 12,
+      "title": "初遇曹操",
+      "description": "许褚率乡勇投奔曹操，展现惊人武力，被曹操收为近卫。",
+      "type": "milestone"
+    },
+    {
+      "year": 58,
+      "title": "裸衣斗马超",
+      "description": "渭水之战，马超诈降欲刺曹操，许褚裸衣与马超大战，保护曹操周全。",
+      "type": "turning-point"
+    },
+    {
+      "year": 59,
+      "title": "护卫潼关",
+      "description": "潼关之战，许褚拼死护卫曹操，力战西凉群将。",
+      "type": "anecdote"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chibi-battle",
+  "name": "赤壁之战",
+  "year": 49,
+  "month": 1,
+  "characters": ["zhugeliang", "zhouyu", "caocao", "sunquan", "huanggai", "lusu"],
+  "importance": "major",
+  "narrative": "events/chibi-battle.md",
+  "relatedEvents": ["sangu-maolu", "caochuan-jiejian", "huarong-dao"],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "舌战群儒",
+      "hasDialogue": true
+    },
+    {
+      "id": "scene-2",
+      "title": "苦肉计",
+      "hasDialogue": true
+    },
+    {
+      "id": "scene-3",
+      "title": "借东风",
+      "hasDialogue": true
+    },
+    {
+      "id": "scene-4",
+      "title": "火烧赤壁",
+      "hasDialogue": true
+    }
+  ]
+}

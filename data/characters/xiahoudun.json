@@ -1,0 +1,38 @@
+{
+  "id": "xiahoudun",
+  "name": "夏侯惇",
+  "courtesy": "元让",
+  "birth": 5,
+  "death": 78,
+  "color": "#5b2c6f",
+  "portrait": "portraits/xiahoudun.jpg",
+  "bio": "夏侯惇，字元让，沛国谯县人。曹操麾下猛将，曹魏开国元勋。自幼习武，勇猛善战。曾因拔矢啖睛而闻名，被称为独目将军。一生追随曹操，忠心耿耿，屡立战功。虽武艺高强，但智谋稍逊。深受曹操信任，为曹魏建立立下汗马功劳。",
+  "activeRange": [5, 78],
+  "tags": ["曹魏", "独目将军", "忠烈无双"],
+  "personalEvents": [
+    {
+      "year": 5,
+      "title": "讨伐吕布",
+      "description": "随曹操征讨吕布，初展武勇。",
+      "type": "milestone"
+    },
+    {
+      "year": 18,
+      "title": "拔矢啖睛",
+      "description": "与吕布交战，被曹性射中左眼，拔矢啖睛，怒杀曹性，威名远扬。",
+      "type": "turning-point"
+    },
+    {
+      "year": 25,
+      "title": "与关羽交锋",
+      "description": "关羽过五关斩六将，夏侯惇奉命追击，与关羽交手。",
+      "type": "anecdote"
+    },
+    {
+      "year": 78,
+      "title": "随曹操终",
+      "description": "曹操病逝，夏侯惇悲痛欲绝，不久亦病逝。",
+      "type": "milestone"
+    }
+  ]
+}

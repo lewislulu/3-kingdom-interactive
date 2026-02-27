@@ -1,0 +1,14 @@
+{
+  "id": "xiapi-lvbu",
+  "name": "下邳擒吕布",
+  "year": 19,
+  "month": 1,
+  "characters": ["caocao", "lvbu", "liubei", "guanyu", "zhangliao"],
+  "importance": "major",
+  "narrative": "events/xiapi-lvbu.md",
+  "relatedEvents": ["xietianzi", "lianhuanji"],
+  "scenes": [
+    { "id": "shuiyan-xiapi", "title": "水淹下邳", "hasDialogue": true },
+    { "id": "baimenlou", "title": "白门楼", "hasDialogue": true }
+  ]
+}

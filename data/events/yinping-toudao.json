@@ -1,0 +1,22 @@
+{
+  "id": "yinping-toudao",
+  "name": "偷渡阴平",
+  "year": 117,
+  "month": 1,
+  "characters": ["dengai", "zhonghui", "jiangwei", "liuchan"],
+  "importance": "major",
+  "narrative": "events/yinping-toudao.md",
+  "relatedEvents": ["jiufa-zhongyuan", "shu-surrender"],
+  "scenes": [
+    {
+      "id": "dengai-qibing",
+      "title": "邓艾奇兵",
+      "hasDialogue": true
+    },
+    {
+      "id": "mianzhu-zhizhan",
+      "title": "绵竹之战",
+      "hasDialogue": true
+    }
+  ]
+}

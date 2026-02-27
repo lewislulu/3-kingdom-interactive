@@ -1,0 +1,22 @@
+{
+  "id": "qiqin-menghuo",
+  "name": "七擒孟获",
+  "year": 87,
+  "month": 1,
+  "characters": ["zhugeliang"],
+  "importance": "minor",
+  "narrative": "events/qiqin-menghuo.md",
+  "relatedEvents": ["baidi-tuogu", "kongcheng-ji"],
+  "scenes": [
+    {
+      "id": "qiqin-qizong",
+      "title": "七擒七纵",
+      "hasDialogue": true
+    },
+    {
+      "id": "xinyue-chengfu",
+      "title": "心悦诚服",
+      "hasDialogue": true
+    }
+  ]
+}

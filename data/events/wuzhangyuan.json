@@ -1,0 +1,27 @@
+{
+  "id": "wuzhangyuan",
+  "name": "五丈原",
+  "year": 104,
+  "month": 1,
+  "characters": ["zhugeliang", "simayi", "jiangwei"],
+  "importance": "major",
+  "narrative": "events/wuzhangyuan.md",
+  "relatedEvents": ["kongcheng-ji", "jiufa-zhongyuan"],
+  "scenes": [
+    {
+      "id": "jugong-jincui",
+      "title": "鞠躬尽瘁",
+      "hasDialogue": true
+    },
+    {
+      "id": "rangxing-shibai",
+      "title": "禳星失败",
+      "hasDialogue": true
+    },
+    {
+      "id": "qiufeng-wuzhangyuan",
+      "title": "秋风五丈原",
+      "hasDialogue": true
+    }
+  ]
+}

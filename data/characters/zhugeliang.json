@@ -1,0 +1,80 @@
+{
+  "id": "zhugeliang",
+  "name": "诸葛亮",
+  "courtesy": "孔明",
+  "birth": 38,
+  "death": 104,
+  "color": "#2ecc71",
+  "portrait": "portraits/zhugeliang.jpg",
+  "bio": "琅琊阳都人，号卧龙先生。早年隐居隆中，躬耕陇亩，好为《梁父吟》。刘备三顾茅庐请出，献隆中对策，定三分天下之计。赤壁之战，舌战群儒，草船借箭，借东风，火烧赤壁，大败曹操。后入川辅佐刘备，运筹帷幄，内政外交无所不能。刘备托孤，鞠躬尽瘁，死而后已。六出祁山，九伐中原，北定中原以兴复汉室。然天不假年，秋风五丈原，出师未捷身先死。千古一相，智慧化身，忠诚典范。",
+  "activeRange": [38, 104],
+  "tags": ["蜀汉", "卧龙", "千古一相"],
+  "personalEvents": [
+    {
+      "year": 38,
+      "title": "隆中对",
+      "description": "刘备三顾茅庐，提出隆中对策，定三分天下之计",
+      "type": "milestone"
+    },
+    {
+      "year": 43,
+      "title": "舌战群儒",
+      "description": "江东舌战群儒，力主孙刘联盟抗曹",
+      "type": "milestone"
+    },
+    {
+      "year": 46,
+      "title": "草船借箭",
+      "description": "妙用草船借箭十万，挫周瑜之计",
+      "type": "anecdote"
+    },
+    {
+      "year": 49,
+      "title": "借东风",
+      "description": "七星坛借东风，助周瑜火烧赤壁大败曹操",
+      "type": "milestone"
+    },
+    {
+      "year": 69,
+      "title": "入川辅政",
+      "description": "随刘备入川，运筹帷幄，定西川基业",
+      "type": "turning-point"
+    },
+    {
+      "year": 84,
+      "title": "八阵图",
+      "description": "夷陵之败后布八阵图困陆逊，救刘备残军",
+      "type": "anecdote"
+    },
+    {
+      "year": 87,
+      "title": "七擒孟获",
+      "description": "南征孟获，七擒七纵，平定南中",
+      "type": "milestone"
+    },
+    {
+      "year": 91,
+      "title": "出师表",
+      "description": "北伐前上《出师表》，表明忠心，感动天下",
+      "type": "milestone"
+    },
+    {
+      "year": 95,
+      "title": "空城计",
+      "description": "西城设空城计，智退司马懿大军",
+      "type": "anecdote"
+    },
+    {
+      "year": 103,
+      "title": "禳星失败",
+      "description": "禳星续命，魏延误闯，功亏一篑",
+      "type": "turning-point"
+    },
+    {
+      "year": 104,
+      "title": "秋风五丈原",
+      "description": "病逝五丈原，出师未捷身先死，长使英雄泪满襟",
+      "type": "milestone"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ruchuan",
+  "name": "刘备入川",
+  "year": 60,
+  "month": 1,
+  "characters": ["liubei", "zhugeliang", "pangtong", "machao", "weiyan"],
+  "importance": "major",
+  "narrative": "events/ruchuan.md",
+  "relatedEvents": ["sangu-maolu", "dingjunshan"],
+  "scenes": [
+    {
+      "id": "pangtong-献策",
+      "title": "庞统献策",
+      "hasDialogue": true
+    },
+    {
+      "id": "luofengpo",
+      "title": "落凤坡",
+      "hasDialogue": true
+    }
+  ]
+}

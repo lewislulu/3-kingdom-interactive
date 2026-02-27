@@ -1,0 +1,91 @@
+{
+  "title": "三国演义",
+  "timeRange": [1, 120],
+  "eras": [
+    { "name": "黄巾之乱·群雄割据", "start": 1, "end": 9 },
+    { "name": "诸侯争霸·官渡定北", "start": 10, "end": 33 },
+    { "name": "三顾茅庐·赤壁鏖兵", "start": 34, "end": 50 },
+    { "name": "三分天下·蜀汉兴亡", "start": 51, "end": 85 },
+    { "name": "秋风五丈原·三分归晋", "start": 86, "end": 120 }
+  ],
+  "chapters": [
+    {
+      "id": "ch1",
+      "number": 1,
+      "title": "乱世狂澜",
+      "subtitle": "黄巾起义·董卓乱政·群雄并起",
+      "timeRange": [1, 9],
+      "description": "东汉末年，朝纲不振，张角率黄巾军揭竿而起。董卓入京废立天子，各路诸侯歃血盟誓讨伐逆贼，刘关张桃园结义、吕布横扫天下，乱世英雄纷纷登场。",
+      "characters": ["liubei", "guanyu", "zhangfei", "caocao", "dongzhuo", "lvbu", "yuanshao", "sunce", "diaochan", "xiandi"],
+      "events": ["taoyuan-oath", "huangjin-rebellion", "dongzhuo-capital", "sanying-lvbu", "lianhuanji", "wenjiu-huaxiong"],
+      "coverColor": "#c0392b"
+    },
+    {
+      "id": "ch2",
+      "number": 2,
+      "title": "群雄逐鹿",
+      "subtitle": "吕布覆灭·官渡之战·北方一统",
+      "timeRange": [10, 33],
+      "description": "曹操挟天子以令诸侯，逐步统一北方。吕布被擒杀于白门楼，官渡一战大破袁绍，奠定曹魏基业。孙策平定江东，刘备辗转流离。",
+      "characters": ["caocao", "liubei", "guanyu", "zhangfei", "yuanshao", "lvbu", "sunce", "sunquan", "zhouyu", "zhaoyun", "xiandi"],
+      "events": ["xiapi-lvbu", "xietianzi", "guandu-battle", "guanyu-wuguan", "sunge-jiangdong", "changban"],
+      "coverColor": "#d4a853"
+    },
+    {
+      "id": "ch3",
+      "number": 3,
+      "title": "赤壁风云",
+      "subtitle": "三顾茅庐·赤壁大战·荆州之争",
+      "timeRange": [34, 50],
+      "description": "刘备三顾茅庐得诸葛亮辅佐，隆中对定天下三分之策。曹操率八十万大军南下，孙刘联盟于赤壁以火攻大破曹军，三国鼎立之势初成。",
+      "characters": ["liubei", "zhugeliang", "caocao", "sunquan", "zhouyu", "guanyu", "zhangfei", "zhaoyun", "lusu", "huanggai"],
+      "events": ["sangu-maolu", "chibi-battle", "caochuan-jiejian", "huarong-dao", "zhuge-jiefeng"],
+      "coverColor": "#e67e22"
+    },
+    {
+      "id": "ch4",
+      "number": 4,
+      "title": "三分天下",
+      "subtitle": "入川称王·关羽败走·白帝托孤",
+      "timeRange": [51, 85],
+      "description": "刘备入川建立蜀汉，关羽镇守荆州威震华夏。然吕蒙白衣渡江，关羽败走麦城，张飞遇害。刘备倾国伐吴，夷陵大败，白帝城托孤于诸葛亮。",
+      "characters": ["liubei", "zhugeliang", "guanyu", "zhangfei", "caocao", "sunquan", "lvmeng", "luxun", "machao", "huangzhong", "weiyan", "caopi", "jiangwei", "simayi", "zhaoyun"],
+      "events": ["ruchuan", "dingjunshan", "shuiyan-qijun", "baizou-maicheng", "yiling-battle", "baidi-tuogu", "qiqin-menghuo"],
+      "coverColor": "#8e44ad"
+    },
+    {
+      "id": "ch5",
+      "number": 5,
+      "title": "星落五丈原",
+      "subtitle": "六出祁山·秋风五丈原·三分归晋",
+      "timeRange": [86, 120],
+      "description": "诸葛亮六出祁山，鞠躬尽瘁死而后已，星落五丈原。姜维继承遗志九伐中原终无功。邓艾偷渡阴平灭蜀，司马氏代魏建晋，最终一统天下，三分归晋。",
+      "characters": ["zhugeliang", "simayi", "jiangwei", "liuchan", "dengai", "zhonghui", "simayan", "sunhao"],
+      "events": ["kongcheng-ji", "wuzhangyuan", "jiufa-zhongyuan", "yinping-toudao", "shu-surrender", "sanfen-guijin"],
+      "coverColor": "#5b8cb8"
+    }
+  ],
+  "characters": [
+    "liubei", "guanyu", "zhangfei", "zhugeliang", "zhaoyun",
+    "huangzhong", "machao", "weiyan", "jiangwei", "pangtong",
+    "caocao", "simayi", "xiahoudun", "caopi", "xuchu",
+    "caoren", "dengai", "zhonghui", "zhanghe", "zhangliao",
+    "sunce", "sunquan", "zhouyu", "lusu", "lvmeng",
+    "luxun", "huanggai", "ganning",
+    "dongzhuo", "lvbu", "yuanshao", "diaochan", "xiandi",
+    "liuchan", "simayan", "sunhao"
+  ],
+  "events": [
+    "taoyuan-oath", "huangjin-rebellion", "dongzhuo-capital",
+    "wenjiu-huaxiong", "sanying-lvbu", "lianhuanji",
+    "xiapi-lvbu", "xietianzi", "guandu-battle",
+    "guanyu-wuguan", "sunge-jiangdong", "changban",
+    "sangu-maolu", "chibi-battle", "caochuan-jiejian",
+    "huarong-dao", "zhuge-jiefeng",
+    "ruchuan", "dingjunshan", "shuiyan-qijun",
+    "baizou-maicheng", "yiling-battle", "baidi-tuogu",
+    "qiqin-menghuo", "kongcheng-ji", "wuzhangyuan",
+    "jiufa-zhongyuan", "yinping-toudao",
+    "shu-surrender", "sanfen-guijin"
+  ]
+}

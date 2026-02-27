@@ -1,0 +1,32 @@
+{
+  "id": "luxun",
+  "name": "陆逊",
+  "courtesy": "伯言",
+  "birth": 75,
+  "death": 108,
+  "color": "#117a65",
+  "portrait": "portraits/luxun.jpg",
+  "bio": "陆逊,字伯言,吴郡吴县人,东吴名将,儒将典范。少年英才,文武双全。夷陵之战火烧连营七百里,大败刘备,一战成名。后辅佐孙权,为东吴中流砥柱。",
+  "activeRange": [75, 108],
+  "tags": ["东吴", "儒将", "夷陵大捷"],
+  "personalEvents": [
+    {
+      "year": 75,
+      "title": "荆州之谋",
+      "description": "参与白衣渡江之谋,协助吕蒙夺取荆州",
+      "type": "milestone"
+    },
+    {
+      "year": 84,
+      "title": "火烧连营七百里",
+      "description": "夷陵之战,火烧刘备连营七百里,大败蜀军,一战成名",
+      "type": "milestone"
+    },
+    {
+      "year": 108,
+      "title": "辅政东吴",
+      "description": "孙权病逝后,陆逊辅政东吴,稳定朝局",
+      "type": "turning-point"
+    }
+  ]
+}

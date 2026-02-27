@@ -1,0 +1,22 @@
+{
+  "id": "kongcheng-ji",
+  "name": "空城计",
+  "year": 95,
+  "month": 1,
+  "characters": ["zhugeliang", "simayi"],
+  "importance": "major",
+  "narrative": "events/kongcheng-ji.md",
+  "relatedEvents": ["wuzhangyuan", "baidi-tuogu"],
+  "scenes": [
+    {
+      "id": "mashu-jieting",
+      "title": "马谡失街亭",
+      "hasDialogue": true
+    },
+    {
+      "id": "kongcheng-tuidi",
+      "title": "空城退敌",
+      "hasDialogue": true
+    }
+  ]
+}

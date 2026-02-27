@@ -1,0 +1,38 @@
+{
+  "id": "zhangliao",
+  "name": "张辽",
+  "courtesy": "文远",
+  "birth": 11,
+  "death": 86,
+  "color": "#4f46e5",
+  "portrait": "portraits/zhangliao.jpg",
+  "bio": "张辽，字文远，雁门马邑人。三国时期魏国名将，曹魏五子良将之首。初随吕布，白门楼归降曹操后，屡立战功。公元215年，以八百壮士突袭孙权十万大军于逍遥津，威震敌胆，从此名扬天下，江东小儿闻张辽之名而止啼。智勇双全，深受曹操倚重，是曹魏不可多得的良将。",
+  "activeRange": [11, 86],
+  "tags": ["曹魏", "五子良将", "威震逍遥津"],
+  "personalEvents": [
+    {
+      "year": 11,
+      "title": "吕布帐下",
+      "description": "早年追随吕布，在吕布麾下担任大将。",
+      "type": "milestone"
+    },
+    {
+      "year": 19,
+      "title": "白门楼归降",
+      "description": "吕布败亡，张辽在白门楼归降曹操，受到礼遇重用。",
+      "type": "turning-point"
+    },
+    {
+      "year": 67,
+      "title": "逍遥津大战",
+      "description": "率八百精锐突袭孙权十万大军，大破东吴，威震逍遥津，孙权险些被擒。",
+      "type": "milestone"
+    },
+    {
+      "year": 86,
+      "title": "病逝",
+      "description": "张辽晚年抱病征战，最终病逝军中，一代名将陨落。",
+      "type": "turning-point"
+    }
+  ]
+}

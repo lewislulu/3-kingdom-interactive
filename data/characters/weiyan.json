@@ -1,0 +1,44 @@
+{
+  "id": "weiyan",
+  "name": "魏延",
+  "courtesy": "文长",
+  "birth": 41,
+  "death": 105,
+  "color": "#a04000",
+  "portrait": "portraits/weiyan.json",
+  "bio": "义阳人，面带凶相，初随刘表部将韩玄镇守长沙，后杀韩玄献城投刘备。诸葛亮观其面相，言其脑后有反骨，日后必反，欲斩之，为刘备所阻。勇猛善战，屡立战功。镇守汉中多年，防御曹魏，功勋卓著。北伐时任先锋，屡献奇计。然性格桀骜，与杨仪不和。诸葛亮死后不服杨仪节制，起兵叛乱，被马岱所斩。一代猛将，终应谶言。",
+  "activeRange": [41, 105],
+  "tags": ["蜀汉", "猛将", "脑后有反骨"],
+  "personalEvents": [
+    {
+      "year": 41,
+      "title": "投刘备",
+      "description": "杀韩玄献长沙城投刘备，诸葛亮言其脑后有反骨",
+      "type": "milestone"
+    },
+    {
+      "year": 62,
+      "title": "取雒城",
+      "description": "随刘备入川，勇猛作战，攻取雒城",
+      "type": "anecdote"
+    },
+    {
+      "year": 70,
+      "title": "汉中之战",
+      "description": "汉中之战立功，后被任命为汉中太守，镇守要地",
+      "type": "milestone"
+    },
+    {
+      "year": 92,
+      "title": "北伐先锋",
+      "description": "诸葛亮北伐，魏延为先锋大将，屡立战功",
+      "type": "milestone"
+    },
+    {
+      "year": 105,
+      "title": "谋反被斩",
+      "description": "诸葛亮死后不服杨仪节制，起兵谋反，被马岱所斩",
+      "type": "milestone"
+    }
+  ]
+}

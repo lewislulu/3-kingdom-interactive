@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>三国演义 -- 时空交汇可视化</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/src/styles/main.css" />
+</head>
+<body>
+  <!-- Cinematic background layers -->
+  <div id="bg-grain" class="bg-layer"></div>
+  <canvas id="bg-particles" class="bg-layer"></canvas>
+
+  <!-- App shell -->
+  <div id="app">
+    <!-- Chapter navigation bar (injected by JS) -->
+    <div id="chapter-bar-mount"></div>
+
+    <!-- Title / header -->
+    <header id="header">
+      <h1 class="title">三国演义</h1>
+      <p class="subtitle">人物命运交汇 &middot; 全一百二十回</p>
+    </header>
+
+    <!-- Biography mode banner -->
+    <div id="bio-banner" class="bio-banner hidden">
+      <span class="bio-banner-text"></span>
+      <button class="bio-banner-exit">退出传记模式</button>
+    </div>
+
+    <!-- Main SVG timeline area -->
+    <div id="timeline-container">
+      <svg id="timeline-svg"></svg>
+    </div>
+
+    <!-- Character bio card (floating) -->
+    <div id="character-card" class="panel hidden">
+      <button class="panel-close">&times;</button>
+      <div class="card-portrait"></div>
+      <h2 class="card-name"></h2>
+      <p class="card-years"></p>
+      <p class="card-bio"></p>
+      <div class="card-actions">
+        <button class="card-follow-btn">追踪此人物线</button>
+        <button class="card-bio-mode-btn">人物传记</button>
+      </div>
+    </div>
+
+    <!-- Event detail panel (right side) -->
+    <div id="event-panel" class="panel hidden">
+      <button class="panel-close">&times;</button>
+      <div class="panel-header">
+        <h2 class="event-title"></h2>
+        <span class="event-year"></span>
+        <div class="event-characters"></div>
+      </div>
+      <nav class="event-tabs">
+        <button class="tab active" data-tab="background">事件背景</button>
+        <button class="tab" data-tab="process">事件经过</button>
+        <button class="tab" data-tab="result">事件结果</button>
+      </nav>
+      <div class="event-content"></div>
+      <div class="event-scenes"></div>
+      <div class="event-related"></div>
+    </div>
+
+    <!-- Scene deep-dive overlay -->
+    <div id="scene-overlay" class="overlay hidden">
+      <div class="overlay-backdrop"></div>
+      <div class="scene-container">
+        <button class="overlay-close">&times;</button>
+        <h3 class="scene-title"></h3>
+        <div class="scene-content"></div>
+      </div>
+    </div>
+
+    <!-- Minimap -->
+    <div id="minimap">
+      <canvas id="minimap-canvas"></canvas>
+      <div id="minimap-viewport"></div>
+    </div>
+
+    <!-- Legend (injected by JS) -->
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "id": "taoyuan-oath",
+  "name": "桃园三结义",
+  "year": 1,
+  "month": 1,
+  "characters": ["liubei", "guanyu", "zhangfei"],
+  "importance": "major",
+  "narrative": "events/taoyuan-oath.md",
+  "relatedEvents": ["huangjin-rebellion"],
+  "scenes": [
+    { "id": "brotherhood-oath", "title": "桃园结义", "hasDialogue": true },
+    { "id": "first-battle", "title": "黄巾初战", "hasDialogue": true }
+  ]
+}

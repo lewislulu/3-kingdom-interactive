@@ -1,0 +1,22 @@
+{
+  "id": "dingjunshan",
+  "name": "定军山之战",
+  "year": 70,
+  "month": 1,
+  "characters": ["huangzhong", "caocao", "zhugeliang"],
+  "importance": "major",
+  "narrative": "events/dingjunshan.md",
+  "relatedEvents": ["ruchuan", "shuiyan-qijun"],
+  "scenes": [
+    {
+      "id": "laojiang-chuma",
+      "title": "老将出马",
+      "hasDialogue": true
+    },
+    {
+      "id": "zhan-xiahouyuan",
+      "title": "斩夏侯渊",
+      "hasDialogue": true
+    }
+  ]
+}

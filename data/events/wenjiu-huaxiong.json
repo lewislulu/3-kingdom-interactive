@@ -1,0 +1,14 @@
+{
+  "id": "wenjiu-huaxiong",
+  "name": "温酒斩华雄",
+  "year": 5,
+  "month": 1,
+  "characters": ["guanyu", "yuanshao", "caocao"],
+  "importance": "major",
+  "narrative": "events/wenjiu-huaxiong.md",
+  "relatedEvents": ["sanying-lvbu"],
+  "scenes": [
+    { "id": "guanyu-volunteers", "title": "请战", "hasDialogue": true },
+    { "id": "warm-wine-beheading", "title": "温酒斩将", "hasDialogue": true }
+  ]
+}

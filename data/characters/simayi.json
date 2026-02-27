@@ -1,0 +1,50 @@
+{
+  "id": "simayi",
+  "name": "司马懿",
+  "courtesy": "仲达",
+  "birth": 39,
+  "death": 106,
+  "color": "#6c3483",
+  "portrait": "portraits/simayi.jpg",
+  "bio": "晋宣帝司马懿，字仲达，河内温县人。三国时期魏国杰出的政治家、军事家、战略家。初仕曹操，历仕曹丕、曹叡、曹芳四代，以隐忍著称。多次与诸葛亮对峙，坚守不战而耗敌。晚年发动高平陵之变，掌控曹魏大权，为晋朝奠基。被誉为冢虎，智谋深远。",
+  "activeRange": [39, 106],
+  "tags": ["曹魏", "冢虎", "隐忍终成大业"],
+  "personalEvents": [
+    {
+      "year": 39,
+      "title": "初仕曹操",
+      "description": "司马懿初出茅庐，投效曹操，展现非凡才能。",
+      "type": "milestone"
+    },
+    {
+      "year": 94,
+      "title": "上方谷之围",
+      "description": "诸葛亮设计火烧上方谷，司马懿父子险些葬身火海，幸得大雨脱险。",
+      "type": "turning-point"
+    },
+    {
+      "year": 95,
+      "title": "被空城计骗",
+      "description": "诸葛亮设空城计，司马懿疑心其有伏兵，引军而退。",
+      "type": "anecdote"
+    },
+    {
+      "year": 100,
+      "title": "对峙五丈原",
+      "description": "与诸葛亮对峙于五丈原，坚守不出，耗其粮草。",
+      "type": "milestone"
+    },
+    {
+      "year": 106,
+      "title": "诈病赚曹爽",
+      "description": "假装病重，麻痹曹爽，暗中策划夺权。",
+      "type": "turning-point"
+    },
+    {
+      "year": 107,
+      "title": "高平陵之变",
+      "description": "趁曹爽随曹芳祭陵，发动政变，诛灭曹爽一党，独揽大权。",
+      "type": "milestone"
+    }
+  ]
+}
