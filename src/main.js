@@ -124,6 +124,8 @@ async function boot() {
         const filterPanel = document.createElement('div');
         filterPanel.className = 'map-layer-filter';
         const layers = [
+          { key: 'territories', label: '势力', color: '#9b59b6' },
+          { key: 'rivers', label: '河流', color: '#4a90c4' },
           { key: 'cities', label: '地名', color: '#ffd700' },
           { key: 'events', label: '事件', color: '#ff8c42' },
           { key: 'characters', label: '人物', color: '#8bbbd0' },

@@ -34,7 +34,7 @@ export class MapEngine {
     this.currentZoomScale = 1;
 
     // Layer visibility
-    this.layerVisibility = { cities: true, events: true, characters: true };
+    this.layerVisibility = { territories: true, rivers: true, cities: true, events: true, characters: true };
 
     this._buildLocationIndex();
 
@@ -154,7 +154,8 @@ export class MapEngine {
     const rivers = this.mapData.rivers?.rivers;
     if (!rivers) return;
 
-    const riverGroup = this.g.append('g').attr('class', 'map-rivers');
+    this.riverGroup = this.g.append('g').attr('class', 'map-rivers');
+    const riverGroup = this.riverGroup;
 
     for (const river of rivers) {
       const line = d3.line()
@@ -259,9 +260,7 @@ export class MapEngine {
         group.select('circle:not(.city-hitarea)').attr('r', r + 1.5);
       });
       group.on('mouseleave', () => {
-        if (!isCapital && this.currentZoomScale < 2.5) {
-          label.attr('opacity', 0);
-        }
+        if (!isCapital) label.attr('opacity', 0);
         group.select('circle:not(.city-hitarea)').attr('r', r);
       });
 
@@ -329,9 +328,7 @@ export class MapEngine {
 
       // Hover: show label
       group.on('mouseenter', () => { eventLabel.attr('opacity', 1); });
-      group.on('mouseleave', () => {
-        if (this.currentZoomScale < 3) eventLabel.attr('opacity', 0);
-      });
+      group.on('mouseleave', () => { eventLabel.attr('opacity', 0); });
 
       group.on('click', () => {
         if (this.onEventClick) this.onEventClick(evt);
@@ -396,9 +393,7 @@ export class MapEngine {
         .text(char.name);
 
       group.on('mouseenter', () => { nameLabel.attr('opacity', 1); });
-      group.on('mouseleave', () => {
-        if (this.currentZoomScale < 3) nameLabel.attr('opacity', 0);
-      });
+      group.on('mouseleave', () => { nameLabel.attr('opacity', 0); });
       group.on('click', () => {
         if (this.onCharacterClick) this.onCharacterClick(char);
       });
@@ -484,29 +479,24 @@ export class MapEngine {
 
   _updateEvents() {
     const ch = this.currentChapter;
-    const chapterConfig = (this.timeline.chapters || []).find(
-      c => ch >= c.timeRange[0] && ch <= c.timeRange[1]
-    );
-    const range = chapterConfig ? chapterConfig.timeRange : [ch, ch];
 
     for (const m of this.eventMarkers) {
-      const visible = m.year >= range[0] && m.year <= range[1];
-      const isCurrent = m.year === ch;
+      const visible = m.year === ch;
       m.element
         .style('pointer-events', visible ? 'auto' : 'none')
         .transition()
         .duration(400)
-        .attr('opacity', visible ? (isCurrent ? 1 : 0.5) : 0);
+        .attr('opacity', visible ? 1 : 0);
 
-      // Pulse for current chapter event (label stays hidden until hover)
+      // Pulse for current chapter event
       const pulse = m.element.select('.event-pulse-ring');
-      if (isCurrent) {
+      if (visible) {
         if (!pulse.empty()) pulse.attr('opacity', 0.6);
       } else {
         if (!pulse.empty()) pulse.attr('opacity', 0);
       }
-      // Labels only shown on hover or at high zoom
-      if (this.currentZoomScale < 3) m.label.attr('opacity', 0);
+      // Labels only shown on hover
+      m.label.attr('opacity', 0);
     }
   }
 
@@ -719,20 +709,7 @@ export class MapEngine {
   _updateVisibilityForZoom() {
     const scale = this.currentZoomScale;
 
-    // Detail labels (city names for non-capitals, river names)
-    const detailOpacity = scale >= 2.5 ? 1 : 0;
-    this.g.selectAll('.city-label-detail').attr('opacity', detailOpacity);
-    this.g.selectAll('.map-detail-label').attr('opacity', detailOpacity);
-
-    // Event name labels
-    const eventLabelOpacity = scale >= 3 ? 1 : 0;
-    this.g.selectAll('.event-name-label').attr('opacity', eventLabelOpacity);
-
-    // Character name labels
-    const charLabelOpacity = scale >= 3 ? 1 : 0;
-    this.g.selectAll('.char-name-label').attr('opacity', charLabelOpacity);
-
-    // Non-capital cities visibility
+    // Non-capital cities: show at medium+ zoom
     const cityDetailVisible = scale >= 1.5;
     this.g.selectAll('.city-city, .city-battlefield, .city-landmark')
       .style('pointer-events', cityDetailVisible ? 'auto' : 'none')
@@ -778,7 +755,21 @@ export class MapEngine {
 
   setLayerVisibility(layer, visible) {
     this.layerVisibility[layer] = visible;
+
+    // Territories = province group + territory labels
+    if (layer === 'territories') {
+      const groups = [this.provinceGroup, this.territoryLabelGroup];
+      for (const g of groups) {
+        if (!g) continue;
+        g.transition().duration(300).style('opacity', visible ? 1 : 0);
+        if (!visible) g.style('pointer-events', 'none');
+        else g.style('pointer-events', null);
+      }
+      return;
+    }
+
     const groupMap = {
+      rivers: this.riverGroup,
       cities: this.cityGroup,
       events: this.eventGroup,
       characters: this.characterGroup,
