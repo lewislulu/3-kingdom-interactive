@@ -3,10 +3,17 @@
   "name": "五丈原",
   "year": 104,
   "month": 1,
-  "characters": ["zhugeliang", "simayi", "jiangwei"],
+  "characters": [
+    "zhugeliang",
+    "simayi",
+    "jiangwei"
+  ],
   "importance": "major",
   "narrative": "events/wuzhangyuan.md",
-  "relatedEvents": ["kongcheng-ji", "jiufa-zhongyuan"],
+  "relatedEvents": [
+    "kongcheng-ji",
+    "jiufa-zhongyuan"
+  ],
   "scenes": [
     {
       "id": "jugong-jincui",
@@ -23,5 +30,6 @@
       "title": "秋风五丈原",
       "hasDialogue": true
     }
-  ]
+  ],
+  "location": "wuzhang"
 }

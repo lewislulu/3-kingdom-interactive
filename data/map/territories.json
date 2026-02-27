@@ -1,0 +1,126 @@
+{
+  "factions": {
+    "wei": { "name": "魏", "color": "#4a90d9", "ruler": "曹操/曹丕" },
+    "shu": { "name": "蜀", "color": "#2ecc71", "ruler": "刘备/刘禅" },
+    "wu": { "name": "吴", "color": "#e74c3c", "ruler": "孙权" },
+    "han": { "name": "汉", "color": "#d4a853", "ruler": "汉献帝" },
+    "yuan": { "name": "袁", "color": "#9b59b6", "ruler": "袁绍" },
+    "dongzhuo": { "name": "董", "color": "#c0392b", "ruler": "董卓" },
+    "jin": { "name": "晋", "color": "#f1c40f", "ruler": "司马炎" }
+  },
+  "periods": [
+    {
+      "id": "era1",
+      "name": "黄巾之乱·群雄割据",
+      "chapters": [1, 9],
+      "territories": [
+        {
+          "faction": "han",
+          "label": "东汉朝廷",
+          "center": [112.45, 34.62],
+          "provinces": ["河南省", "河北省", "山东省", "山西省", "陕西省", "安徽省", "江苏省", "湖北省", "湖南省", "四川省", "浙江省", "江西省", "广东省", "广西壮族自治区", "甘肃省"]
+        },
+        {
+          "faction": "dongzhuo",
+          "label": "董卓势力",
+          "center": [108.94, 34.26],
+          "provinces": ["陕西省", "甘肃省"]
+        }
+      ]
+    },
+    {
+      "id": "era2",
+      "name": "诸侯争霸·官渡定北",
+      "chapters": [10, 33],
+      "territories": [
+        {
+          "faction": "wei",
+          "label": "曹操势力",
+          "center": [113.85, 35.00],
+          "provinces": ["河南省", "山东省", "安徽省", "江苏省", "陕西省"]
+        },
+        {
+          "faction": "yuan",
+          "label": "袁绍势力",
+          "center": [115.00, 38.00],
+          "provinces": ["河北省", "山西省", "辽宁省"]
+        },
+        {
+          "faction": "wu",
+          "label": "孙策/孙权",
+          "center": [119.50, 30.50],
+          "provinces": ["浙江省", "江西省"]
+        }
+      ]
+    },
+    {
+      "id": "era3",
+      "name": "三顾茅庐·赤壁鏖兵",
+      "chapters": [34, 50],
+      "territories": [
+        {
+          "faction": "wei",
+          "label": "曹操势力",
+          "center": [113.85, 36.00],
+          "provinces": ["河南省", "河北省", "山东省", "山西省", "陕西省", "安徽省", "江苏省", "甘肃省", "辽宁省"]
+        },
+        {
+          "faction": "wu",
+          "label": "孙权势力",
+          "center": [118.00, 30.00],
+          "provinces": ["浙江省", "江西省", "福建省"]
+        }
+      ]
+    },
+    {
+      "id": "era4",
+      "name": "三分天下·蜀汉兴亡",
+      "chapters": [51, 85],
+      "territories": [
+        {
+          "faction": "wei",
+          "label": "曹魏",
+          "center": [113.00, 36.00],
+          "provinces": ["河南省", "河北省", "山东省", "山西省", "陕西省", "甘肃省", "安徽省", "江苏省", "辽宁省", "宁夏回族自治区"]
+        },
+        {
+          "faction": "shu",
+          "label": "蜀汉",
+          "center": [105.50, 31.00],
+          "provinces": ["四川省", "重庆市", "云南省", "贵州省"]
+        },
+        {
+          "faction": "wu",
+          "label": "东吴",
+          "center": [117.00, 29.00],
+          "provinces": ["浙江省", "江西省", "湖南省", "湖北省", "福建省", "广东省", "广西壮族自治区"]
+        }
+      ]
+    },
+    {
+      "id": "era5",
+      "name": "秋风五丈原·三分归晋",
+      "chapters": [86, 120],
+      "territories": [
+        {
+          "faction": "wei",
+          "label": "曹魏/晋",
+          "center": [113.00, 36.00],
+          "provinces": ["河南省", "河北省", "山东省", "山西省", "陕西省", "甘肃省", "安徽省", "江苏省", "辽宁省", "宁夏回族自治区"]
+        },
+        {
+          "faction": "shu",
+          "label": "蜀汉",
+          "center": [105.50, 31.00],
+          "provinces": ["四川省", "重庆市", "云南省", "贵州省"]
+        },
+        {
+          "faction": "wu",
+          "label": "东吴",
+          "center": [117.00, 29.00],
+          "provinces": ["浙江省", "江西省", "湖南省", "湖北省", "福建省", "广东省", "广西壮族自治区"]
+        }
+      ]
+    }
+  ]
+}

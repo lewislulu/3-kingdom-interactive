@@ -3,9 +3,21 @@
   "name": "赵云初逢刘备",
   "year": 7,
   "month": null,
-  "characters": ["zhaoyun", "liubei", "guanyu", "zhangfei"],
+  "characters": [
+    "zhaoyun",
+    "liubei",
+    "guanyu",
+    "zhangfei"
+  ],
   "importance": "minor",
   "narrative": "zhaoyun-chujian.md",
-  "relatedEvents": ["sanying-lvbu", "gongsunzan-baiwang"],
-  "scenes": ["磐河相逢", "依依惜别"]
+  "relatedEvents": [
+    "sanying-lvbu",
+    "gongsunzan-baiwang"
+  ],
+  "scenes": [
+    "磐河相逢",
+    "依依惜别"
+  ],
+  "location": "jibei"
 }

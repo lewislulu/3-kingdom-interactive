@@ -3,10 +3,16 @@
   "name": "草船借箭",
   "year": 46,
   "month": 1,
-  "characters": ["zhugeliang", "zhouyu", "caocao"],
+  "characters": [
+    "zhugeliang",
+    "zhouyu",
+    "caocao"
+  ],
   "importance": "major",
   "narrative": "events/caochuan-jiejian.md",
-  "relatedEvents": ["chibi-battle"],
+  "relatedEvents": [
+    "chibi-battle"
+  ],
   "scenes": [
     {
       "id": "scene-1",
@@ -18,5 +24,6 @@
       "title": "雾中借箭",
       "hasDialogue": true
     }
-  ]
+  ],
+  "location": "chibi"
 }

@@ -3,9 +3,19 @@
   "name": "出师表",
   "year": 91,
   "month": null,
-  "characters": ["zhugeliang", "liuchan"],
+  "characters": [
+    "zhugeliang",
+    "liuchan"
+  ],
   "importance": "major",
   "narrative": "chushi-biao.md",
-  "relatedEvents": ["baidi-tuogu", "qiqin-menghuo", "kongcheng-ji"],
-  "scenes": ["上表北伐"]
+  "relatedEvents": [
+    "baidi-tuogu",
+    "qiqin-menghuo",
+    "kongcheng-ji"
+  ],
+  "scenes": [
+    "上表北伐"
+  ],
+  "location": "chengdu"
 }

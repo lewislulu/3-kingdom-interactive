@@ -3,13 +3,38 @@
   "name": "董卓进京",
   "year": 3,
   "month": 1,
-  "characters": ["dongzhuo", "lvbu", "xiandi", "caocao", "dingyuan", "wangyun", "hejin"],
+  "characters": [
+    "dongzhuo",
+    "lvbu",
+    "xiandi",
+    "caocao",
+    "dingyuan",
+    "wangyun",
+    "hejin"
+  ],
   "importance": "major",
   "narrative": "events/dongzhuo-capital.md",
-  "relatedEvents": ["huangjin-rebellion", "sanying-lvbu", "lianhuanji"],
+  "relatedEvents": [
+    "huangjin-rebellion",
+    "sanying-lvbu",
+    "lianhuanji"
+  ],
   "scenes": [
-    { "id": "lvbu-kill-dingyuan", "title": "吕布弑父", "hasDialogue": true },
-    { "id": "depose-emperor", "title": "废立天子", "hasDialogue": true },
-    { "id": "caocao-dagger", "title": "曹操献刀", "hasDialogue": true }
-  ]
+    {
+      "id": "lvbu-kill-dingyuan",
+      "title": "吕布弑父",
+      "hasDialogue": true
+    },
+    {
+      "id": "depose-emperor",
+      "title": "废立天子",
+      "hasDialogue": true
+    },
+    {
+      "id": "caocao-dagger",
+      "title": "曹操献刀",
+      "hasDialogue": true
+    }
+  ],
+  "location": "luoyang"
 }

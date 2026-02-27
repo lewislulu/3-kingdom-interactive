@@ -3,12 +3,29 @@
   "name": "黄巾起义",
   "year": 1,
   "month": 1,
-  "characters": ["liubei", "guanyu", "zhangfei", "caocao"],
+  "characters": [
+    "liubei",
+    "guanyu",
+    "zhangfei",
+    "caocao"
+  ],
   "importance": "major",
   "narrative": "events/huangjin-rebellion.md",
-  "relatedEvents": ["taoyuan-oath", "dongzhuo-capital"],
+  "relatedEvents": [
+    "taoyuan-oath",
+    "dongzhuo-capital"
+  ],
   "scenes": [
-    { "id": "yellow-turban-rise", "title": "苍天已死黄天当立", "hasDialogue": true },
-    { "id": "heroes-rise", "title": "英雄起兵", "hasDialogue": true }
-  ]
+    {
+      "id": "yellow-turban-rise",
+      "title": "苍天已死黄天当立",
+      "hasDialogue": true
+    },
+    {
+      "id": "heroes-rise",
+      "title": "英雄起兵",
+      "hasDialogue": true
+    }
+  ],
+  "location": "luoyang"
 }

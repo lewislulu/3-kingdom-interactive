@@ -26,6 +26,7 @@ export class EventPanel {
     this.isVisible = false;
     this.onSceneClick = null;
     this.onRelatedEventClick = null;
+    this.onMapClick = null;
 
     this._bindEvents();
   }
@@ -85,6 +86,42 @@ export class EventPanel {
       chip.style.borderColor = `${char.color}30`;
       this.charsEl.appendChild(chip);
     });
+
+    // Map button (only if event has location)
+    const existingMapBtn = this.element.querySelector('.event-map-btn');
+    if (existingMapBtn) existingMapBtn.remove();
+    if (event.location) {
+      const mapBtn = document.createElement('button');
+      mapBtn.className = 'event-map-btn';
+      mapBtn.style.cssText = `
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        margin-top: 10px;
+        padding: 6px 14px;
+        background: rgba(91, 140, 184, 0.1);
+        border: 1px solid rgba(91, 140, 184, 0.3);
+        border-radius: 6px;
+        color: var(--color-blue-steel);
+        font-family: var(--font-serif);
+        font-size: 12px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+      `;
+      mapBtn.textContent = '查看地图';
+      mapBtn.addEventListener('mouseenter', () => {
+        mapBtn.style.background = 'rgba(91, 140, 184, 0.2)';
+        mapBtn.style.borderColor = 'var(--color-blue-steel)';
+      });
+      mapBtn.addEventListener('mouseleave', () => {
+        mapBtn.style.background = 'rgba(91, 140, 184, 0.1)';
+        mapBtn.style.borderColor = 'rgba(91, 140, 184, 0.3)';
+      });
+      mapBtn.addEventListener('click', () => {
+        if (this.onMapClick) this.onMapClick(event);
+      });
+      this.charsEl.parentNode.insertBefore(mapBtn, this.charsEl.nextSibling);
+    }
 
     this._updateActiveTab();
     this._renderContent();

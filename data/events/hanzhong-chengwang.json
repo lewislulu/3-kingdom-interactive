@@ -3,9 +3,23 @@
   "name": "刘备进位汉中王",
   "year": 73,
   "month": null,
-  "characters": ["liubei", "zhugeliang", "guanyu", "zhangfei", "zhaoyun", "machao", "huangzhong"],
+  "characters": [
+    "liubei",
+    "zhugeliang",
+    "guanyu",
+    "zhangfei",
+    "zhaoyun",
+    "machao",
+    "huangzhong"
+  ],
   "importance": "major",
   "narrative": "hanzhong-chengwang.md",
-  "relatedEvents": ["dingjunshan", "shuiyan-qijun"],
-  "scenes": ["封五虎上将"]
+  "relatedEvents": [
+    "dingjunshan",
+    "shuiyan-qijun"
+  ],
+  "scenes": [
+    "封五虎上将"
+  ],
+  "location": "hanzhong"
 }

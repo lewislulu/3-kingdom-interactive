@@ -3,12 +3,29 @@
   "name": "连环计",
   "year": 8,
   "month": 1,
-  "characters": ["dongzhuo", "lvbu", "diaochan", "wangyun"],
+  "characters": [
+    "dongzhuo",
+    "lvbu",
+    "diaochan",
+    "wangyun"
+  ],
   "importance": "major",
   "narrative": "events/lianhuanji.md",
-  "relatedEvents": ["dongzhuo-capital", "xiapi-lvbu"],
+  "relatedEvents": [
+    "dongzhuo-capital",
+    "xiapi-lvbu"
+  ],
   "scenes": [
-    { "id": "wangyun-scheme", "title": "王允设计", "hasDialogue": true },
-    { "id": "fengyi-pavilion", "title": "凤仪亭", "hasDialogue": true }
-  ]
+    {
+      "id": "wangyun-scheme",
+      "title": "王允设计",
+      "hasDialogue": true
+    },
+    {
+      "id": "fengyi-pavilion",
+      "title": "凤仪亭",
+      "hasDialogue": true
+    }
+  ],
+  "location": "changan"
 }

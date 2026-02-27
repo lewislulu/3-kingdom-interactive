@@ -9,11 +9,14 @@ import { loadAllData } from './data/loader.js';
 import { Timeline } from './core/timeline.js';
 import { Router } from './core/router.js';
 import { Minimap } from './core/minimap.js';
+import { MapEngine } from './core/map-engine.js';
 import { ChapterBar } from './ui/chapter-bar.js';
 import { CharacterCard } from './ui/character-card.js';
 import { EventPanel } from './ui/event-panel.js';
 import { DetailView } from './ui/detail-view.js';
 import { PersonalTooltip } from './ui/personal-tooltip.js';
+import { MapScrubber } from './ui/map-scrubber.js';
+import { EventMapPopup } from './ui/event-map-popup.js';
 import { Legend } from './ui/legend.js';
 import { Feedback } from './ui/feedback.js';
 import { ParticleSystem } from './ui/particles.js';
@@ -86,6 +89,92 @@ async function boot() {
     document.getElementById('app').appendChild(feedback.getButton());
     document.getElementById('app').appendChild(feedback.getOverlay());
 
+    // 12. Map engine (lazy-initialized on first switch to map view)
+    let mapEngine = null;
+    let mapScrubber = null;
+    const mapView = document.getElementById('map-view');
+    const mapContainer = document.getElementById('map-container');
+
+    function initMapView() {
+      if (mapEngine) return;
+
+      mapEngine = new MapEngine(mapContainer, data);
+
+      // Map scrubber
+      mapScrubber = new MapScrubber(data.timeline, (chapter) => {
+        mapEngine.setChapter(chapter);
+      });
+      mapView.appendChild(mapScrubber.getElement());
+
+      // Map interactions -> reuse existing panels
+      mapEngine.onEventClick = (event) => {
+        eventPanel.show(event);
+      };
+      mapEngine.onCharacterClick = (character) => {
+        characterCard.show(character);
+      };
+    }
+
+    // 13. Event map popup (for storyline view)
+    const eventMapPopup = new EventMapPopup(data);
+    document.getElementById('app').appendChild(eventMapPopup.getElement());
+
+    // 14. View switcher (buttons are now inside the chapter bar)
+    let currentView = 'storyline';
+    const viewSwitcherBtns = chapterBar.getElement().querySelectorAll('.view-switcher-btn');
+    const storylineElements = [
+      document.getElementById('header'),
+      document.getElementById('bio-banner'),
+      document.getElementById('timeline-container'),
+      document.getElementById('minimap'),
+    ];
+
+    function switchView(view) {
+      if (view === currentView) return;
+      currentView = view;
+
+      viewSwitcherBtns.forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.view === view);
+      });
+
+      // Toggle chapter cards in the bar via CSS class
+      chapterBar.getElement().classList.toggle('map-mode', view === 'map');
+
+      if (view === 'map') {
+        // Hide storyline-only elements (chapter bar stays visible)
+        for (const el of storylineElements) {
+          if (el) el.style.display = 'none';
+        }
+        legend.getElement().style.display = 'none';
+
+        // Show map
+        mapView.classList.add('active');
+        initMapView();
+
+        // Sync chapter if possible
+        const ch = timeline.getCurrentChapter();
+        if (ch && mapEngine) {
+          const chConfig = (data.timeline.chapters || []).find(c => c.id === ch);
+          if (chConfig) {
+            mapScrubber.setChapter(chConfig.timeRange[0]);
+          }
+        }
+      } else {
+        // Show storyline elements
+        for (const el of storylineElements) {
+          if (el) el.style.display = '';
+        }
+        legend.getElement().style.display = '';
+
+        // Hide map
+        mapView.classList.remove('active');
+      }
+    }
+
+    viewSwitcherBtns.forEach(btn => {
+      btn.addEventListener('click', () => switchView(btn.dataset.view));
+    });
+
     // ── Biography mode banner ──
     const bioBanner = document.getElementById('bio-banner');
     const bioBannerText = bioBanner.querySelector('.bio-banner-text');
@@ -147,6 +236,10 @@ async function boot() {
       detailView.show(scene, event);
     };
 
+    eventPanel.onMapClick = (event) => {
+      eventMapPopup.show(event);
+    };
+
     eventPanel.onRelatedEventClick = (relatedEvent) => {
       eventPanel.hide();
       setTimeout(() => {
@@ -203,7 +296,9 @@ async function boot() {
     // ── Keyboard shortcuts ──
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape') {
-        if (detailView.isVisible) {
+        if (eventMapPopup.isVisible) {
+          eventMapPopup.hide();
+        } else if (detailView.isVisible) {
           detailView.hide();
         } else if (eventPanel.isVisible) {
           eventPanel.hide();

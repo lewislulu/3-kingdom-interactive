@@ -31,8 +31,38 @@ export class ChapterBar {
       overflow-y: hidden;
     `;
 
+    // View switcher (left side)
+    const switcher = document.createElement('div');
+    switcher.className = 'view-switcher';
+    switcher.innerHTML = `
+      <button class="view-switcher-btn active" data-view="storyline">故事线</button>
+      <button class="view-switcher-btn" data-view="map">地图</button>
+    `;
+    this.container.appendChild(switcher);
+
+    const switcherSep = document.createElement('div');
+    switcherSep.className = 'chapter-storyline-part';
+    switcherSep.style.cssText = `
+      width: 1px;
+      height: 50px;
+      background: rgba(255, 215, 0, 0.3);
+      margin: 0 16px;
+      flex-shrink: 0;
+    `;
+    this.container.appendChild(switcherSep);
+
+    // Storyline chapter controls (hidden when in map view)
+    this.storylinePart = document.createElement('div');
+    this.storylinePart.className = 'chapter-storyline-part';
+    this.storylinePart.style.cssText = `
+      display: flex;
+      align-items: center;
+      flex: 1;
+      overflow: hidden;
+    `;
+
     const overviewBtn = this.createOverviewButton();
-    this.container.appendChild(overviewBtn);
+    this.storylinePart.appendChild(overviewBtn);
 
     const separator = document.createElement('div');
     separator.style.cssText = `
@@ -42,7 +72,7 @@ export class ChapterBar {
       margin: 0 20px;
       flex-shrink: 0;
     `;
-    this.container.appendChild(separator);
+    this.storylinePart.appendChild(separator);
 
     const cardsContainer = document.createElement('div');
     cardsContainer.className = 'chapter-cards';
@@ -60,7 +90,8 @@ export class ChapterBar {
       cardsContainer.appendChild(card);
     });
 
-    this.container.appendChild(cardsContainer);
+    this.storylinePart.appendChild(cardsContainer);
+    this.container.appendChild(this.storylinePart);
   }
 
   createOverviewButton() {

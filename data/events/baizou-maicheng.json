@@ -3,10 +3,18 @@
   "name": "败走麦城",
   "year": 76,
   "month": 1,
-  "characters": ["guanyu", "lvmeng", "sunquan", "liubei"],
+  "characters": [
+    "guanyu",
+    "lvmeng",
+    "sunquan",
+    "liubei"
+  ],
   "importance": "major",
   "narrative": "events/baizou-maicheng.md",
-  "relatedEvents": ["baiyidu-jiang", "zhangfei-yuhai"],
+  "relatedEvents": [
+    "baiyidu-jiang",
+    "zhangfei-yuhai"
+  ],
   "scenes": [
     {
       "id": "baiyi-dujiang",
@@ -23,5 +31,6 @@
       "title": "关公殒命",
       "hasDialogue": true
     }
-  ]
+  ],
+  "location": "maicheng"
 }

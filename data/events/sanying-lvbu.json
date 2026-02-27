@@ -3,12 +3,29 @@
   "name": "三英战吕布",
   "year": 5,
   "month": 2,
-  "characters": ["liubei", "guanyu", "zhangfei", "lvbu"],
+  "characters": [
+    "liubei",
+    "guanyu",
+    "zhangfei",
+    "lvbu"
+  ],
   "importance": "major",
   "narrative": "events/sanying-lvbu.md",
-  "relatedEvents": ["wenjiu-huaxiong", "dongzhuo-capital"],
+  "relatedEvents": [
+    "wenjiu-huaxiong",
+    "dongzhuo-capital"
+  ],
   "scenes": [
-    { "id": "hulao-pass", "title": "虎牢关", "hasDialogue": true },
-    { "id": "three-heroes-battle", "title": "三英合战", "hasDialogue": true }
-  ]
+    {
+      "id": "hulao-pass",
+      "title": "虎牢关",
+      "hasDialogue": true
+    },
+    {
+      "id": "three-heroes-battle",
+      "title": "三英合战",
+      "hasDialogue": true
+    }
+  ],
+  "location": "hulao"
 }

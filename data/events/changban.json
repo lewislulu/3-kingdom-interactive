@@ -3,12 +3,29 @@
   "name": "长坂坡之战",
   "year": 41,
   "month": 1,
-  "characters": ["liubei", "zhaoyun", "zhangfei", "caocao"],
+  "characters": [
+    "liubei",
+    "zhaoyun",
+    "zhangfei",
+    "caocao"
+  ],
   "importance": "major",
   "narrative": "events/changban.md",
-  "relatedEvents": ["huoshao-xinye", "chibi-battle"],
+  "relatedEvents": [
+    "huoshao-xinye",
+    "chibi-battle"
+  ],
   "scenes": [
-    { "id": "zhaoyun-jiuzhu", "title": "赵云救主", "hasDialogue": true },
-    { "id": "zhangfei-duanqiao", "title": "张飞断桥", "hasDialogue": true }
-  ]
+    {
+      "id": "zhaoyun-jiuzhu",
+      "title": "赵云救主",
+      "hasDialogue": true
+    },
+    {
+      "id": "zhangfei-duanqiao",
+      "title": "张飞断桥",
+      "hasDialogue": true
+    }
+  ],
+  "location": "changban"
 }

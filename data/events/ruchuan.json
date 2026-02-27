@@ -3,10 +3,19 @@
   "name": "刘备入川",
   "year": 60,
   "month": 1,
-  "characters": ["liubei", "zhugeliang", "pangtong", "machao", "weiyan"],
+  "characters": [
+    "liubei",
+    "zhugeliang",
+    "pangtong",
+    "machao",
+    "weiyan"
+  ],
   "importance": "major",
   "narrative": "events/ruchuan.md",
-  "relatedEvents": ["huarong-dao", "luofengpo"],
+  "relatedEvents": [
+    "huarong-dao",
+    "luofengpo"
+  ],
   "scenes": [
     {
       "id": "pangtong-献策",
@@ -18,5 +27,6 @@
       "title": "落凤坡",
       "hasDialogue": true
     }
-  ]
+  ],
+  "location": "jiameng"
 }

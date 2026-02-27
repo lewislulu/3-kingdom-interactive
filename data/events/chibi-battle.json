@@ -3,10 +3,21 @@
   "name": "赤壁之战",
   "year": 49,
   "month": 1,
-  "characters": ["zhugeliang", "zhouyu", "caocao", "sunquan", "huanggai", "lusu"],
+  "characters": [
+    "zhugeliang",
+    "zhouyu",
+    "caocao",
+    "sunquan",
+    "huanggai",
+    "lusu"
+  ],
   "importance": "major",
   "narrative": "events/chibi-battle.md",
-  "relatedEvents": ["sangu-maolu", "caochuan-jiejian", "huarong-dao"],
+  "relatedEvents": [
+    "sangu-maolu",
+    "caochuan-jiejian",
+    "huarong-dao"
+  ],
   "scenes": [
     {
       "id": "scene-1",
@@ -28,5 +39,6 @@
       "title": "火烧赤壁",
       "hasDialogue": true
     }
-  ]
+  ],
+  "location": "chibi"
 }

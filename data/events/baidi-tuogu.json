@@ -3,10 +3,17 @@
   "name": "白帝城托孤",
   "year": 85,
   "month": 1,
-  "characters": ["liubei", "zhugeliang", "liuchan"],
+  "characters": [
+    "liubei",
+    "zhugeliang",
+    "liuchan"
+  ],
   "importance": "major",
   "narrative": "events/baidi-tuogu.md",
-  "relatedEvents": ["yiling-battle", "kongcheng-ji"],
+  "relatedEvents": [
+    "yiling-battle",
+    "kongcheng-ji"
+  ],
   "scenes": [
     {
       "id": "yongan-gong",
@@ -18,5 +25,6 @@
       "title": "托孤",
       "hasDialogue": true
     }
-  ]
+  ],
+  "location": "baidicheng"
 }

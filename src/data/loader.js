@@ -35,6 +35,9 @@ const eventModules = import.meta.glob('/data/events/*.json', { eager: true });
 const eventMarkdown = import.meta.glob('/data/events/*.md', { eager: true, query: '?raw', import: 'default' });
 const timelineModule = import.meta.glob('/data/timeline.json', { eager: true });
 
+// Map data imports
+const mapModules = import.meta.glob('/data/map/*.json', { eager: true });
+
 /**
  * Load the master timeline configuration
  */
@@ -154,12 +157,25 @@ export function parseNarrative(markdownContent) {
 }
 
 /**
+ * Load map data (geo, locations, territories, character-locations, rivers)
+ */
+export function loadMapData() {
+  const mapData = {};
+  for (const [path, mod] of Object.entries(mapModules)) {
+    const filename = path.split('/').pop().replace('.json', '');
+    mapData[filename] = mod.default || mod;
+  }
+  return mapData;
+}
+
+/**
  * Load everything and return a unified data store
  */
 export async function loadAllData() {
   const timeline = loadTimeline();
   const characters = loadCharacters();
   const events = loadEvents();
+  const mapData = loadMapData();
 
   for (const event of Object.values(events)) {
     if (event.markdownContent) {
@@ -168,5 +184,5 @@ export async function loadAllData() {
     }
   }
 
-  return { timeline, characters, events };
+  return { timeline, characters, events, mapData };
 }

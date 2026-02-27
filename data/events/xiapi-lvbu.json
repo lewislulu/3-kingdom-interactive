@@ -3,12 +3,30 @@
   "name": "下邳擒吕布",
   "year": 19,
   "month": 1,
-  "characters": ["caocao", "lvbu", "liubei", "guanyu", "zhangliao"],
+  "characters": [
+    "caocao",
+    "lvbu",
+    "liubei",
+    "guanyu",
+    "zhangliao"
+  ],
   "importance": "major",
   "narrative": "events/xiapi-lvbu.md",
-  "relatedEvents": ["lianhuanji", "zhuxu-lunying"],
+  "relatedEvents": [
+    "lianhuanji",
+    "zhuxu-lunying"
+  ],
   "scenes": [
-    { "id": "shuiyan-xiapi", "title": "水淹下邳", "hasDialogue": true },
-    { "id": "baimenlou", "title": "白门楼", "hasDialogue": true }
-  ]
+    {
+      "id": "shuiyan-xiapi",
+      "title": "水淹下邳",
+      "hasDialogue": true
+    },
+    {
+      "id": "baimenlou",
+      "title": "白门楼",
+      "hasDialogue": true
+    }
+  ],
+  "location": "xiapi"
 }

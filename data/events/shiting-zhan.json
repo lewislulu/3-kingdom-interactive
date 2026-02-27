@@ -3,9 +3,20 @@
   "name": "街亭之战",
   "year": 96,
   "month": null,
-  "characters": ["zhugeliang", "simayi", "zhanghe"],
+  "characters": [
+    "zhugeliang",
+    "simayi",
+    "zhanghe"
+  ],
   "importance": "major",
   "narrative": "shiting-zhan.md",
-  "relatedEvents": ["chushi-biao", "kongcheng-ji"],
-  "scenes": ["马谡失街亭", "挥泪斩马谡"]
+  "relatedEvents": [
+    "chushi-biao",
+    "kongcheng-ji"
+  ],
+  "scenes": [
+    "马谡失街亭",
+    "挥泪斩马谡"
+  ],
+  "location": "jieting"
 }

@@ -3,9 +3,18 @@
   "name": "煮酒论英雄",
   "year": 21,
   "month": null,
-  "characters": ["caocao", "liubei"],
+  "characters": [
+    "caocao",
+    "liubei"
+  ],
   "importance": "major",
   "narrative": "zhuxu-lunying.md",
-  "relatedEvents": ["xiapi-lvbu", "tushan-yueyue"],
-  "scenes": ["青梅煮酒"]
+  "relatedEvents": [
+    "xiapi-lvbu",
+    "tushan-yueyue"
+  ],
+  "scenes": [
+    "青梅煮酒"
+  ],
+  "location": "xuchang"
 }

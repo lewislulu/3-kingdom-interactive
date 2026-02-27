@@ -3,10 +3,17 @@
   "name": "定军山之战",
   "year": 70,
   "month": 1,
-  "characters": ["huangzhong", "caocao", "zhugeliang"],
+  "characters": [
+    "huangzhong",
+    "caocao",
+    "zhugeliang"
+  ],
   "importance": "major",
   "narrative": "events/dingjunshan.md",
-  "relatedEvents": ["luofengpo", "hanzhong-chengwang"],
+  "relatedEvents": [
+    "luofengpo",
+    "hanzhong-chengwang"
+  ],
   "scenes": [
     {
       "id": "laojiang-chuma",
@@ -18,5 +25,6 @@
       "title": "斩夏侯渊",
       "hasDialogue": true
     }
-  ]
+  ],
+  "location": "dingjunshan"
 }

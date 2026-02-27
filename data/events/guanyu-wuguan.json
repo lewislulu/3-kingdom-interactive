@@ -3,12 +3,28 @@
   "name": "千里走单骑",
   "year": 27,
   "month": 1,
-  "characters": ["guanyu", "caocao", "liubei"],
+  "characters": [
+    "guanyu",
+    "caocao",
+    "liubei"
+  ],
   "importance": "major",
   "narrative": "events/guanyu-wuguan.md",
-  "relatedEvents": ["tushan-yueyue", "gucheng-juyi"],
+  "relatedEvents": [
+    "tushan-yueyue",
+    "gucheng-juyi"
+  ],
   "scenes": [
-    { "id": "fengjin-guayin", "title": "封金挂印", "hasDialogue": true },
-    { "id": "wuguan-zhanliu", "title": "过五关斩六将", "hasDialogue": true }
-  ]
+    {
+      "id": "fengjin-guayin",
+      "title": "封金挂印",
+      "hasDialogue": true
+    },
+    {
+      "id": "wuguan-zhanliu",
+      "title": "过五关斩六将",
+      "hasDialogue": true
+    }
+  ],
+  "location": "xuchang"
 }

@@ -3,10 +3,15 @@
   "name": "三分归晋",
   "year": 120,
   "month": 1,
-  "characters": ["simayan", "sunhao"],
+  "characters": [
+    "simayan",
+    "sunhao"
+  ],
   "importance": "major",
   "narrative": "events/sanfen-guijin.md",
-  "relatedEvents": ["shu-surrender"],
+  "relatedEvents": [
+    "shu-surrender"
+  ],
   "scenes": [
     {
       "id": "sima-daiwei",
@@ -18,5 +23,6 @@
       "title": "一统天下",
       "hasDialogue": true
     }
-  ]
+  ],
+  "location": "jianye"
 }

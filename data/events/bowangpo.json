@@ -3,9 +3,21 @@
   "name": "博望坡之战",
   "year": 39,
   "month": null,
-  "characters": ["zhugeliang", "liubei", "guanyu", "zhangfei", "zhaoyun"],
+  "characters": [
+    "zhugeliang",
+    "liubei",
+    "guanyu",
+    "zhangfei",
+    "zhaoyun"
+  ],
   "importance": "minor",
   "narrative": "bowangpo.md",
-  "relatedEvents": ["sangu-maolu", "huoshao-xinye"],
-  "scenes": ["初次用兵"]
+  "relatedEvents": [
+    "sangu-maolu",
+    "huoshao-xinye"
+  ],
+  "scenes": [
+    "初次用兵"
+  ],
+  "location": "bowangpo"
 }

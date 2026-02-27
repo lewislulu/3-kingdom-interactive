@@ -1,0 +1,229 @@
+{
+  "characterLocations": [
+    {
+      "id": "liubei",
+      "movements": [
+        { "chapters": [1, 1], "location": "taoyuan", "label": "桃园结义" },
+        { "chapters": [2, 6], "location": "luoyang", "label": "讨伐黄巾·入京" },
+        { "chapters": [7, 9], "location": "hulao", "label": "讨伐董卓" },
+        { "chapters": [10, 14], "location": "xuzhou", "label": "领徐州牧" },
+        { "chapters": [15, 20], "location": "xuchang", "label": "依附曹操" },
+        { "chapters": [21, 24], "location": "xuzhou", "label": "据徐州自立" },
+        { "chapters": [25, 28], "location": "guancheng", "label": "兵败投袁绍·古城聚义" },
+        { "chapters": [29, 33], "location": "jingzhou", "label": "投奔刘表" },
+        { "chapters": [34, 38], "location": "xinye", "label": "新野驻军·三顾茅庐" },
+        { "chapters": [39, 42], "location": "changban", "label": "携民南逃·长坂坡" },
+        { "chapters": [43, 50], "location": "chibi", "label": "孙刘联盟·赤壁之战" },
+        { "chapters": [51, 59], "location": "jingzhou", "label": "借荆州" },
+        { "chapters": [60, 65], "location": "jiameng", "label": "入川" },
+        { "chapters": [66, 72], "location": "chengdu", "label": "定蜀" },
+        { "chapters": [73, 80], "location": "hanzhong", "label": "汉中称王" },
+        { "chapters": [81, 84], "location": "yiling", "label": "伐吴·夷陵之战" },
+        { "chapters": [85, 85], "location": "baidicheng", "label": "白帝城托孤" }
+      ]
+    },
+    {
+      "id": "caocao",
+      "movements": [
+        { "chapters": [1, 3], "location": "luoyang", "label": "入京为官" },
+        { "chapters": [4, 5], "location": "chenliu", "label": "献刀出逃·陈留起兵" },
+        { "chapters": [6, 9], "location": "hulao", "label": "讨伐董卓" },
+        { "chapters": [10, 14], "location": "puyang", "label": "兖州征战·战吕布" },
+        { "chapters": [15, 20], "location": "xuchang", "label": "挟天子令诸侯" },
+        { "chapters": [21, 24], "location": "xuchang", "label": "煮酒论英雄" },
+        { "chapters": [25, 28], "location": "xuchang", "label": "待关羽·征战" },
+        { "chapters": [29, 33], "location": "guandu", "label": "官渡之战·统一北方" },
+        { "chapters": [34, 40], "location": "ye", "label": "经营北方" },
+        { "chapters": [41, 50], "location": "chibi", "label": "南征·赤壁大败" },
+        { "chapters": [51, 60], "location": "xuchang", "label": "退回许昌" },
+        { "chapters": [61, 72], "location": "ye", "label": "魏公·魏王" },
+        { "chapters": [73, 78], "location": "xuchang", "label": "与蜀汉争汉中" }
+      ]
+    },
+    {
+      "id": "sunquan",
+      "movements": [
+        { "chapters": [1, 28], "location": "wujun", "label": "幼年随兄" },
+        { "chapters": [29, 33], "location": "wujun", "label": "继领江东" },
+        { "chapters": [34, 42], "location": "chaisang", "label": "据守江东" },
+        { "chapters": [43, 50], "location": "chaisang", "label": "孙刘联盟·赤壁" },
+        { "chapters": [51, 85], "location": "jianye", "label": "建业称帝" },
+        { "chapters": [86, 120], "location": "jianye", "label": "吴主" }
+      ]
+    },
+    {
+      "id": "guanyu",
+      "movements": [
+        { "chapters": [1, 1], "location": "taoyuan", "label": "桃园结义" },
+        { "chapters": [2, 9], "location": "hulao", "label": "随刘备征战·温酒斩华雄" },
+        { "chapters": [10, 20], "location": "xuzhou", "label": "随刘备" },
+        { "chapters": [21, 24], "location": "xuzhou", "label": "下邳被围" },
+        { "chapters": [25, 27], "location": "xuchang", "label": "土山约三事·降曹" },
+        { "chapters": [28, 28], "location": "guancheng", "label": "过五关·古城聚义" },
+        { "chapters": [29, 38], "location": "xinye", "label": "随刘备" },
+        { "chapters": [39, 50], "location": "chibi", "label": "赤壁·华容道" },
+        { "chapters": [51, 72], "location": "jingzhou", "label": "镇守荆州" },
+        { "chapters": [73, 74], "location": "fancheng", "label": "水淹七军" },
+        { "chapters": [75, 76], "location": "maicheng", "label": "败走麦城" }
+      ]
+    },
+    {
+      "id": "zhangfei",
+      "movements": [
+        { "chapters": [1, 1], "location": "taoyuan", "label": "桃园结义" },
+        { "chapters": [2, 9], "location": "hulao", "label": "随刘备征战" },
+        { "chapters": [10, 20], "location": "xuzhou", "label": "随刘备" },
+        { "chapters": [21, 27], "location": "guancheng", "label": "失散·据古城" },
+        { "chapters": [28, 38], "location": "xinye", "label": "随刘备" },
+        { "chapters": [39, 42], "location": "changban", "label": "长坂坡断后" },
+        { "chapters": [43, 50], "location": "chibi", "label": "赤壁" },
+        { "chapters": [51, 65], "location": "jingzhou", "label": "随刘备入川" },
+        { "chapters": [66, 80], "location": "chengdu", "label": "镇守蜀地" },
+        { "chapters": [81, 81], "location": "chengdu", "label": "遇害" }
+      ]
+    },
+    {
+      "id": "zhugeliang",
+      "movements": [
+        { "chapters": [34, 38], "location": "longzhong", "label": "隐居隆中" },
+        { "chapters": [39, 40], "location": "bowangpo", "label": "初出茅庐·火烧博望" },
+        { "chapters": [41, 42], "location": "changban", "label": "携民南逃" },
+        { "chapters": [43, 50], "location": "chibi", "label": "舌战群儒·借东风·赤壁" },
+        { "chapters": [51, 59], "location": "jingzhou", "label": "治荆州" },
+        { "chapters": [60, 65], "location": "chengdu", "label": "辅佐入川" },
+        { "chapters": [66, 85], "location": "chengdu", "label": "治蜀·受托孤" },
+        { "chapters": [86, 90], "location": "nanman", "label": "南征·七擒孟获" },
+        { "chapters": [91, 95], "location": "chengdu", "label": "上出师表" },
+        { "chapters": [96, 100], "location": "qishan", "label": "北伐·街亭·空城计" },
+        { "chapters": [101, 103], "location": "qishan", "label": "六出祁山" },
+        { "chapters": [104, 104], "location": "wuzhang", "label": "星落五丈原" }
+      ]
+    },
+    {
+      "id": "zhaoyun",
+      "movements": [
+        { "chapters": [1, 7], "location": "jibei", "label": "公孙瓒麾下" },
+        { "chapters": [8, 22], "location": "jibei", "label": "北平·公孙瓒败亡" },
+        { "chapters": [23, 28], "location": "guancheng", "label": "古城投刘备" },
+        { "chapters": [29, 38], "location": "xinye", "label": "随刘备" },
+        { "chapters": [39, 42], "location": "changban", "label": "长坂坡单骑救主" },
+        { "chapters": [43, 50], "location": "chibi", "label": "赤壁" },
+        { "chapters": [51, 65], "location": "jingzhou", "label": "随刘备入川" },
+        { "chapters": [66, 85], "location": "chengdu", "label": "镇守蜀地" },
+        { "chapters": [86, 97], "location": "chengdu", "label": "随诸葛亮北伐" }
+      ]
+    },
+    {
+      "id": "lvbu",
+      "movements": [
+        { "chapters": [1, 3], "location": "luoyang", "label": "丁原义子·弑父投董卓" },
+        { "chapters": [4, 8], "location": "changan", "label": "随董卓·凤仪亭" },
+        { "chapters": [9, 12], "location": "puyang", "label": "流浪中原" },
+        { "chapters": [13, 19], "location": "xiapi", "label": "据徐州·下邳" },
+        { "chapters": [20, 20], "location": "xiapi", "label": "白门楼被擒" }
+      ]
+    },
+    {
+      "id": "dongzhuo",
+      "movements": [
+        { "chapters": [1, 2], "location": "guanzhong", "label": "西凉起兵" },
+        { "chapters": [3, 5], "location": "luoyang", "label": "入京·废立·专权" },
+        { "chapters": [6, 8], "location": "changan", "label": "迁都长安" },
+        { "chapters": [9, 9], "location": "changan", "label": "被吕布所杀" }
+      ]
+    },
+    {
+      "id": "zhouyu",
+      "movements": [
+        { "chapters": [1, 28], "location": "wujun", "label": "辅佐孙策" },
+        { "chapters": [29, 42], "location": "chaisang", "label": "大都督" },
+        { "chapters": [43, 50], "location": "chibi", "label": "赤壁大战·火攻破曹" },
+        { "chapters": [51, 57], "location": "jianye", "label": "三气周瑜" }
+      ]
+    },
+    {
+      "id": "simayi",
+      "movements": [
+        { "chapters": [39, 72], "location": "ye", "label": "曹魏谋臣" },
+        { "chapters": [73, 85], "location": "xuchang", "label": "辅佐曹丕" },
+        { "chapters": [86, 95], "location": "xuchang", "label": "应对蜀汉北伐" },
+        { "chapters": [96, 104], "location": "wuzhang", "label": "与诸葛亮对峙" },
+        { "chapters": [105, 106], "location": "ye", "label": "司马氏掌权" }
+      ]
+    },
+    {
+      "id": "yuanshao",
+      "movements": [
+        { "chapters": [1, 5], "location": "luoyang", "label": "京中世家" },
+        { "chapters": [6, 9], "location": "hulao", "label": "盟主·讨董" },
+        { "chapters": [10, 28], "location": "ye", "label": "据冀州" },
+        { "chapters": [29, 33], "location": "guandu", "label": "官渡大败" }
+      ]
+    },
+    {
+      "id": "huangzhong",
+      "movements": [
+        { "chapters": [51, 59], "location": "jingzhou", "label": "长沙守将" },
+        { "chapters": [60, 65], "location": "chengdu", "label": "随刘备入川" },
+        { "chapters": [66, 72], "location": "hanzhong", "label": "定军山斩夏侯渊" },
+        { "chapters": [73, 83], "location": "chengdu", "label": "五虎上将" }
+      ]
+    },
+    {
+      "id": "machao",
+      "movements": [
+        { "chapters": [51, 64], "location": "guanzhong", "label": "西凉马超" },
+        { "chapters": [65, 85], "location": "chengdu", "label": "归蜀" }
+      ]
+    },
+    {
+      "id": "weiyan",
+      "movements": [
+        { "chapters": [51, 59], "location": "jingzhou", "label": "荆州将领" },
+        { "chapters": [60, 72], "location": "chengdu", "label": "入川" },
+        { "chapters": [73, 85], "location": "hanzhong", "label": "镇守汉中" },
+        { "chapters": [86, 104], "location": "qishan", "label": "随诸葛亮北伐" },
+        { "chapters": [105, 105], "location": "hanzhong", "label": "谋反被杀" }
+      ]
+    },
+    {
+      "id": "jiangwei",
+      "movements": [
+        { "chapters": [93, 104], "location": "qishan", "label": "降蜀·随诸葛亮" },
+        { "chapters": [105, 115], "location": "chengdu", "label": "继承北伐遗志" },
+        { "chapters": [116, 119], "location": "chengdu", "label": "九伐中原·蜀亡" }
+      ]
+    },
+    {
+      "id": "pangtong",
+      "movements": [
+        { "chapters": [34, 50], "location": "chibi", "label": "连环计·赤壁" },
+        { "chapters": [51, 59], "location": "jingzhou", "label": "荆州从事" },
+        { "chapters": [60, 63], "location": "jiameng", "label": "入川·落凤坡" }
+      ]
+    },
+    {
+      "id": "lvmeng",
+      "movements": [
+        { "chapters": [38, 57], "location": "chaisang", "label": "东吴将领" },
+        { "chapters": [58, 72], "location": "jianye", "label": "吴下阿蒙·刮目相看" },
+        { "chapters": [73, 76], "location": "jingzhou", "label": "白衣渡江·夺荆州" }
+      ]
+    },
+    {
+      "id": "luxun",
+      "movements": [
+        { "chapters": [73, 80], "location": "jianye", "label": "东吴书生" },
+        { "chapters": [81, 84], "location": "yiling", "label": "火烧连营·夷陵大胜" },
+        { "chapters": [85, 120], "location": "jianye", "label": "东吴重臣" }
+      ]
+    },
+    {
+      "id": "dengai",
+      "movements": [
+        { "chapters": [107, 116], "location": "guanzhong", "label": "魏将·防蜀" },
+        { "chapters": [117, 119], "location": "yinping", "label": "偷渡阴平·灭蜀" }
+      ]
+    }
+  ]
+}

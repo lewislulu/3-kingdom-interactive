@@ -3,9 +3,21 @@
   "name": "白衣渡江",
   "year": 75,
   "month": null,
-  "characters": ["lvmeng", "sunquan", "guanyu", "luxun"],
+  "characters": [
+    "lvmeng",
+    "sunquan",
+    "guanyu",
+    "luxun"
+  ],
   "importance": "major",
   "narrative": "baiyidu-jiang.md",
-  "relatedEvents": ["shuiyan-qijun", "baizou-maicheng"],
-  "scenes": ["陆逊骄兵", "白衣商船"]
+  "relatedEvents": [
+    "shuiyan-qijun",
+    "baizou-maicheng"
+  ],
+  "scenes": [
+    "陆逊骄兵",
+    "白衣商船"
+  ],
+  "location": "jingzhou"
 }

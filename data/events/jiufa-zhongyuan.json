@@ -3,10 +3,17 @@
   "name": "姜维北伐",
   "year": 107,
   "month": 1,
-  "characters": ["jiangwei", "simayi", "dengai"],
+  "characters": [
+    "jiangwei",
+    "simayi",
+    "dengai"
+  ],
   "importance": "major",
   "narrative": "events/jiufa-zhongyuan.md",
-  "relatedEvents": ["wuzhangyuan", "yinping-toudao"],
+  "relatedEvents": [
+    "wuzhangyuan",
+    "yinping-toudao"
+  ],
   "scenes": [
     {
       "id": "jicheng-yizhi",
@@ -18,5 +25,6 @@
       "title": "九伐中原",
       "hasDialogue": true
     }
-  ]
+  ],
+  "location": "qishan"
 }

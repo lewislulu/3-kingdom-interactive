@@ -3,10 +3,18 @@
   "name": "蜀汉灭亡",
   "year": 118,
   "month": 1,
-  "characters": ["liuchan", "jiangwei", "dengai", "zhonghui"],
+  "characters": [
+    "liuchan",
+    "jiangwei",
+    "dengai",
+    "zhonghui"
+  ],
   "importance": "major",
   "narrative": "events/shu-surrender.md",
-  "relatedEvents": ["yinping-toudao", "sanfen-guijin"],
+  "relatedEvents": [
+    "yinping-toudao",
+    "sanfen-guijin"
+  ],
   "scenes": [
     {
       "id": "liuchan-xiangwei",
@@ -23,5 +31,6 @@
       "title": "乐不思蜀",
       "hasDialogue": true
     }
-  ]
+  ],
+  "location": "chengdu"
 }

@@ -3,9 +3,22 @@
   "name": "古城聚义",
   "year": 28,
   "month": null,
-  "characters": ["liubei", "guanyu", "zhangfei", "zhaoyun"],
+  "characters": [
+    "liubei",
+    "guanyu",
+    "zhangfei",
+    "zhaoyun"
+  ],
   "importance": "major",
   "narrative": "gucheng-juyi.md",
-  "relatedEvents": ["gongsunzan-baiwang", "guanyu-wuguan", "guandu-battle"],
-  "scenes": ["兄弟重逢", "赵云来投"]
+  "relatedEvents": [
+    "gongsunzan-baiwang",
+    "guanyu-wuguan",
+    "guandu-battle"
+  ],
+  "scenes": [
+    "兄弟重逢",
+    "赵云来投"
+  ],
+  "location": "guancheng"
 }

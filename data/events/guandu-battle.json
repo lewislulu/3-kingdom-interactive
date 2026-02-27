@@ -3,12 +3,27 @@
   "name": "官渡之战",
   "year": 30,
   "month": 1,
-  "characters": ["caocao", "yuanshao"],
+  "characters": [
+    "caocao",
+    "yuanshao"
+  ],
   "importance": "major",
   "narrative": "events/guandu-battle.md",
-  "relatedEvents": ["gucheng-juyi", "sangu-maolu"],
+  "relatedEvents": [
+    "gucheng-juyi",
+    "sangu-maolu"
+  ],
   "scenes": [
-    { "id": "yishao-shengduo", "title": "以少胜多", "hasDialogue": true },
-    { "id": "huoshao-wuchao", "title": "火烧乌巢", "hasDialogue": true }
-  ]
+    {
+      "id": "yishao-shengduo",
+      "title": "以少胜多",
+      "hasDialogue": true
+    },
+    {
+      "id": "huoshao-wuchao",
+      "title": "火烧乌巢",
+      "hasDialogue": true
+    }
+  ],
+  "location": "guandu"
 }

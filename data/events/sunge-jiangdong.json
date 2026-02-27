@@ -3,12 +3,26 @@
   "name": "孙策平江东",
   "year": 15,
   "month": 1,
-  "characters": ["sunce", "zhouyu"],
+  "characters": [
+    "sunce",
+    "zhouyu"
+  ],
   "importance": "minor",
   "narrative": "events/sunge-jiangdong.md",
-  "relatedEvents": ["changban"],
+  "relatedEvents": [
+    "changban"
+  ],
   "scenes": [
-    { "id": "jiebing-qijia", "title": "借兵起家", "hasDialogue": true },
-    { "id": "xiaobawang-hengsao", "title": "小霸王横扫", "hasDialogue": true }
-  ]
+    {
+      "id": "jiebing-qijia",
+      "title": "借兵起家",
+      "hasDialogue": true
+    },
+    {
+      "id": "xiaobawang-hengsao",
+      "title": "小霸王横扫",
+      "hasDialogue": true
+    }
+  ],
+  "location": "wujun"
 }

@@ -3,10 +3,18 @@
   "name": "三顾茅庐",
   "year": 38,
   "month": 1,
-  "characters": ["liubei", "zhugeliang", "guanyu", "zhangfei"],
+  "characters": [
+    "liubei",
+    "zhugeliang",
+    "guanyu",
+    "zhangfei"
+  ],
   "importance": "major",
   "narrative": "events/sangu-maolu.md",
-  "relatedEvents": ["guandu-battle", "bowangpo"],
+  "relatedEvents": [
+    "guandu-battle",
+    "bowangpo"
+  ],
   "scenes": [
     {
       "id": "scene-1",
@@ -18,5 +26,6 @@
       "title": "隆中对",
       "hasDialogue": true
     }
-  ]
+  ],
+  "location": "longzhong"
 }

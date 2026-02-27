@@ -3,10 +3,17 @@
   "name": "水淹七军",
   "year": 74,
   "month": 1,
-  "characters": ["guanyu", "caocao", "caoren"],
+  "characters": [
+    "guanyu",
+    "caocao",
+    "caoren"
+  ],
   "importance": "major",
   "narrative": "events/shuiyan-qijun.md",
-  "relatedEvents": ["hanzhong-chengwang", "baiyidu-jiang"],
+  "relatedEvents": [
+    "hanzhong-chengwang",
+    "baiyidu-jiang"
+  ],
   "scenes": [
     {
       "id": "weizhen-huaxia",
@@ -18,5 +25,6 @@
       "title": "水淹",
       "hasDialogue": true
     }
-  ]
+  ],
+  "location": "fancheng"
 }

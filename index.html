@@ -16,7 +16,7 @@
 
   <!-- App shell -->
   <div id="app">
-    <!-- Chapter navigation bar (injected by JS) -->
+    <!-- Chapter navigation bar (injected by JS) + view switcher -->
     <div id="chapter-bar-mount"></div>
 
     <!-- Title / header -->
@@ -75,6 +75,12 @@
         <h3 class="scene-title"></h3>
         <div class="scene-content"></div>
       </div>
+    </div>
+
+    <!-- Map View (hidden by default) -->
+    <div id="map-view">
+      <div id="map-container"></div>
+      <!-- Scrubber injected by JS -->
     </div>
 
     <!-- Minimap -->
