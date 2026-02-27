@@ -91,20 +91,26 @@ export class Minimap {
    * Update viewport rectangle based on current zoom transform
    */
   update(transform) {
-    const { width, height, innerWidth, innerHeight } = this.timeline.getDimensions();
-    const scaleX = this.mapWidth / innerWidth;
-    const scaleY = this.mapHeight / innerHeight;
+    this._pendingTransform = transform;
+    if (this._rafId) return;
+    this._rafId = requestAnimationFrame(() => {
+      this._rafId = null;
+      const t = this._pendingTransform;
+      const { width, height, innerWidth, innerHeight } = this.timeline.getDimensions();
+      const scaleX = this.mapWidth / innerWidth;
+      const scaleY = this.mapHeight / innerHeight;
 
-    // Calculate visible area in content coordinates
-    const visibleX = -transform.x / transform.k;
-    const visibleY = -transform.y / transform.k;
-    const visibleWidth = width / transform.k;
-    const visibleHeight = height / transform.k;
+      // Calculate visible area in content coordinates
+      const visibleX = -t.x / t.k;
+      const visibleY = -t.y / t.k;
+      const visibleWidth = width / t.k;
+      const visibleHeight = height / t.k;
 
-    // Map to minimap coordinates
-    this.viewport.style.left = `${visibleX * scaleX}px`;
-    this.viewport.style.top = `${visibleY * scaleY}px`;
-    this.viewport.style.width = `${Math.min(visibleWidth * scaleX, this.mapWidth)}px`;
-    this.viewport.style.height = `${Math.min(visibleHeight * scaleY, this.mapHeight)}px`;
+      // Map to minimap coordinates
+      this.viewport.style.left = `${visibleX * scaleX}px`;
+      this.viewport.style.top = `${visibleY * scaleY}px`;
+      this.viewport.style.width = `${Math.min(visibleWidth * scaleX, this.mapWidth)}px`;
+      this.viewport.style.height = `${Math.min(visibleHeight * scaleY, this.mapHeight)}px`;
+    });
   }
 }

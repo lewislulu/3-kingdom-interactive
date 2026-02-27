@@ -473,10 +473,34 @@ html, body {
 /* ---- Utility ---- */
 .hidden { pointer-events: none; }
 
+/* ---- Zoom performance: reduce rendering quality during active pan/zoom ---- */
+.zooming .character-line,
+.zooming .convergence-glow,
+.zooming .node-connector {
+  shape-rendering: optimizeSpeed;
+}
+.zooming .node-label,
+.zooming .personal-label,
+.zooming .personal-year,
+.zooming .era-label {
+  visibility: hidden;
+}
+.zooming .node-pulse {
+  animation: none;
+  opacity: 0;
+}
+
 /* SVG styles */
-.character-line { fill: none; stroke-width: 2.5; stroke-linecap: round; transition: opacity 0.4s ease; }
+.character-line {
+  fill: none;
+  stroke-width: 2.5;
+  stroke-linecap: round;
+  transition: opacity 0.4s ease;
+  pointer-events: stroke;
+  paint-order: stroke;
+}
 .character-line.dimmed { opacity: 0.15; }
-.character-line.highlighted { stroke-width: 3.5; filter: url(#line-glow); }
+.character-line.highlighted { stroke-width: 3.5; }
 
 .event-node { cursor: pointer; transition: transform 0.3s ease; }
 .event-node:hover .node-ring { stroke-width: 3; }

@@ -185,45 +185,8 @@ export class Timeline {
   _createDefs() {
     const defs = this.svg.append('defs');
 
-    // Glow filter for lines
-    const glowFilter = defs.append('filter')
-      .attr('id', 'line-glow')
-      .attr('x', '-50%').attr('y', '-50%')
-      .attr('width', '200%').attr('height', '200%');
-    glowFilter.append('feGaussianBlur')
-      .attr('in', 'SourceGraphic').attr('stdDeviation', '4').attr('result', 'blur');
-    glowFilter.append('feComposite')
-      .attr('in', 'SourceGraphic').attr('in2', 'blur').attr('operator', 'over');
-
-    // Node glow filter
-    const nodeGlow = defs.append('filter')
-      .attr('id', 'node-glow')
-      .attr('x', '-100%').attr('y', '-100%')
-      .attr('width', '300%').attr('height', '300%');
-    nodeGlow.append('feGaussianBlur')
-      .attr('in', 'SourceGraphic').attr('stdDeviation', '6').attr('result', 'blur');
-    nodeGlow.append('feComposite')
-      .attr('in', 'SourceGraphic').attr('in2', 'blur').attr('operator', 'over');
-
-    // Personal event glow (softer)
-    const personalGlow = defs.append('filter')
-      .attr('id', 'personal-glow')
-      .attr('x', '-100%').attr('y', '-100%')
-      .attr('width', '300%').attr('height', '300%');
-    personalGlow.append('feGaussianBlur')
-      .attr('in', 'SourceGraphic').attr('stdDeviation', '3').attr('result', 'blur');
-    personalGlow.append('feComposite')
-      .attr('in', 'SourceGraphic').attr('in2', 'blur').attr('operator', 'over');
-
-    // Convergence glow filter (softer, wider)
-    const convGlow = defs.append('filter')
-      .attr('id', 'convergence-glow')
-      .attr('x', '-150%').attr('y', '-150%')
-      .attr('width', '400%').attr('height', '400%');
-    convGlow.append('feGaussianBlur')
-      .attr('in', 'SourceGraphic').attr('stdDeviation', '10').attr('result', 'blur');
-    convGlow.append('feComposite')
-      .attr('in', 'SourceGraphic').attr('in2', 'blur').attr('operator', 'over');
+    // NOTE: SVG feGaussianBlur filters removed for performance.
+    // Character lines use a single path per character (no duplicate glow/hitarea paths).
 
     // Era gradients
     this.timeline.eras.forEach((era, i) => {
@@ -238,7 +201,8 @@ export class Timeline {
   }
 
   _createGroups() {
-    this.mainGroup = this.svg.append('g').attr('class', 'main-group');
+    this.mainGroup = this.svg.append('g').attr('class', 'main-group')
+      .style('will-change', 'transform');
     this.eraGroup = this.mainGroup.append('g').attr('class', 'era-layer');
     this.gridGroup = this.mainGroup.append('g').attr('class', 'grid-layer');
     this.lineGroup = this.mainGroup.append('g').attr('class', 'line-layer');
@@ -463,18 +427,7 @@ export class Timeline {
       const convergencePoints = this._buildConvergencePoints(charId);
       this._convergenceData[charId] = convergencePoints;
 
-      // Glow layer
-      this.lineGroup.append('path')
-        .attr('class', 'character-line-glow')
-        .attr('data-character', charId)
-        .attr('d', pathD)
-        .attr('fill', 'none')
-        .attr('stroke', char.color)
-        .attr('stroke-opacity', 0.15)
-        .attr('stroke-width', 8)
-        .attr('stroke-linecap', 'round');
-
-      // Main line
+      // Main line (single path, no glow/hitarea duplicates)
       this.lineGroup.append('path')
         .attr('class', 'character-line')
         .attr('data-character', charId)
@@ -482,16 +435,6 @@ export class Timeline {
         .attr('fill', 'none')
         .attr('stroke', char.color)
         .attr('stroke-opacity', 0.7)
-        .attr('filter', 'url(#line-glow)');
-
-      // Hit area (wider invisible path for easier mouse interaction)
-      this.lineGroup.append('path')
-        .attr('class', 'character-line-hitarea')
-        .attr('data-character', charId)
-        .attr('d', pathD)
-        .attr('fill', 'none')
-        .attr('stroke', 'transparent')
-        .attr('stroke-width', 24)
         .attr('cursor', 'pointer')
         .on('mouseenter', () => this._highlightCharacter(charId))
         .on('mouseleave', () => this._unhighlightCharacter());
@@ -529,8 +472,7 @@ export class Timeline {
         .attr('cy', cp.centerY)
         .attr('r', glowRadius)
         .attr('fill', '#d4a853')
-        .attr('fill-opacity', 0.08)
-        .attr('filter', 'url(#convergence-glow)');
+        .attr('fill-opacity', 0.08);
     });
   }
 
@@ -566,8 +508,7 @@ export class Timeline {
           .attr('fill-opacity', 0.15)
           .attr('stroke', char.color)
           .attr('stroke-width', 1)
-          .attr('stroke-opacity', 0.4)
-          .attr('filter', 'url(#personal-glow)');
+          .attr('stroke-opacity', 0.4);
 
         // Inner diamond
         const innerSize = 3;
@@ -758,8 +699,7 @@ export class Timeline {
 
       // Core
       g.append('circle').attr('class', 'node-core')
-        .attr('r', nodeRadius).attr('fill', '#d4a853')
-        .attr('filter', 'url(#node-glow)');
+        .attr('r', nodeRadius).attr('fill', '#d4a853');
 
       // Event label
       g.append('text').attr('class', 'node-label')
@@ -802,11 +742,6 @@ export class Timeline {
       .attr('stroke-opacity', function () {
         return d3.select(this).attr('data-character') === charId ? 1 : 0.1;
       });
-    this.lineGroup.selectAll('.character-line-glow')
-      .transition().duration(300)
-      .attr('stroke-opacity', function () {
-        return d3.select(this).attr('data-character') === charId ? 0.3 : 0.02;
-      });
     // Show personal event labels for highlighted character
     this.personalGroup.selectAll('.personal-event')
       .transition().duration(300)
@@ -825,8 +760,6 @@ export class Timeline {
 
     this.lineGroup.selectAll('.character-line')
       .transition().duration(300).attr('stroke-opacity', 0.7);
-    this.lineGroup.selectAll('.character-line-glow')
-      .transition().duration(300).attr('stroke-opacity', 0.15);
     this.personalGroup.selectAll('.personal-event')
       .transition().duration(300).attr('opacity', 1);
     if (!this.biographyCharacter) {
@@ -838,11 +771,21 @@ export class Timeline {
   // ── Zoom ───────────────────────────────────────────
 
   _setupZoom() {
+    this._zoomEndTimer = null;
     this.zoomBehavior = d3.zoom()
       .scaleExtent([0.3, 3])
       .on('zoom', (event) => {
         this.currentTransform = event.transform;
-        this.mainGroup.attr('transform', event.transform);
+        const { x, y, k } = event.transform;
+        this.mainGroup.style('transform', `translate(${x}px, ${y}px) scale(${k})`);
+        this.mainGroup.style('transform-origin', '0 0');
+
+        // Add .zooming class for reduced rendering quality during active zoom
+        this.svg.classed('zooming', true);
+        clearTimeout(this._zoomEndTimer);
+        this._zoomEndTimer = setTimeout(() => {
+          this.svg.classed('zooming', false);
+        }, 150);
         if (this.onZoomChange) this.onZoomChange(event.transform);
       });
 
