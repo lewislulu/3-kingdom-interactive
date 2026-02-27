@@ -1,0 +1,11 @@
+{
+  "id": "zhangfei-yuhai",
+  "name": "张飞遇害",
+  "year": 81,
+  "month": null,
+  "characters": ["zhangfei", "liubei"],
+  "importance": "major",
+  "narrative": "zhangfei-yuhai.md",
+  "relatedEvents": ["baizou-maicheng", "yiling-battle"],
+  "scenes": ["急怒鞭卒", "阆中遇害"]
+}

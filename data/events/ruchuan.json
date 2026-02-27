@@ -6,7 +6,7 @@
   "characters": ["liubei", "zhugeliang", "pangtong", "machao", "weiyan"],
   "importance": "major",
   "narrative": "events/ruchuan.md",
-  "relatedEvents": ["sangu-maolu", "dingjunshan"],
+  "relatedEvents": ["huarong-dao", "luofengpo"],
   "scenes": [
     {
       "id": "pangtong-献策",

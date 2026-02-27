@@ -1,0 +1,11 @@
+{
+  "id": "luofengpo",
+  "name": "落凤坡",
+  "year": 63,
+  "month": null,
+  "characters": ["pangtong", "liubei", "zhugeliang"],
+  "importance": "major",
+  "narrative": "luofengpo.md",
+  "relatedEvents": ["ruchuan", "dingjunshan"],
+  "scenes": ["凤雏陨落"]
+}

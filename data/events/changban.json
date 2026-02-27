@@ -6,7 +6,7 @@
   "characters": ["liubei", "zhaoyun", "zhangfei", "caocao"],
   "importance": "major",
   "narrative": "events/changban.md",
-  "relatedEvents": ["sangu-maolu", "chibi-battle"],
+  "relatedEvents": ["huoshao-xinye", "chibi-battle"],
   "scenes": [
     { "id": "zhaoyun-jiuzhu", "title": "赵云救主", "hasDialogue": true },
     { "id": "zhangfei-duanqiao", "title": "张飞断桥", "hasDialogue": true }

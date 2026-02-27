@@ -6,7 +6,7 @@
   "characters": ["liubei", "luxun", "zhugeliang"],
   "importance": "major",
   "narrative": "events/yiling-battle.md",
-  "relatedEvents": ["baizou-maicheng", "baidi-tuogu"],
+  "relatedEvents": ["zhangfei-yuhai", "baidi-tuogu"],
   "scenes": [
     {
       "id": "liubei-fawu",

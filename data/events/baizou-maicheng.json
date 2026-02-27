@@ -6,7 +6,7 @@
   "characters": ["guanyu", "lvmeng", "sunquan", "liubei"],
   "importance": "major",
   "narrative": "events/baizou-maicheng.md",
-  "relatedEvents": ["shuiyan-qijun", "yiling-battle"],
+  "relatedEvents": ["baiyidu-jiang", "zhangfei-yuhai"],
   "scenes": [
     {
       "id": "baiyi-dujiang",

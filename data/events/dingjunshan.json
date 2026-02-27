@@ -6,7 +6,7 @@
   "characters": ["huangzhong", "caocao", "zhugeliang"],
   "importance": "major",
   "narrative": "events/dingjunshan.md",
-  "relatedEvents": ["ruchuan", "shuiyan-qijun"],
+  "relatedEvents": ["luofengpo", "hanzhong-chengwang"],
   "scenes": [
     {
       "id": "laojiang-chuma",

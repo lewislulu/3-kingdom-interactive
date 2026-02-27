@@ -6,7 +6,7 @@
   "characters": ["dongzhuo", "lvbu", "diaochan"],
   "importance": "major",
   "narrative": "events/lianhuanji.md",
-  "relatedEvents": ["dongzhuo-capital"],
+  "relatedEvents": ["dongzhuo-capital", "xiapi-lvbu"],
   "scenes": [
     { "id": "wangyun-scheme", "title": "王允设计", "hasDialogue": true },
     { "id": "fengyi-pavilion", "title": "凤仪亭", "hasDialogue": true }

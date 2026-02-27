@@ -6,7 +6,7 @@
   "characters": ["zhugeliang"],
   "importance": "minor",
   "narrative": "events/qiqin-menghuo.md",
-  "relatedEvents": ["baidi-tuogu", "kongcheng-ji"],
+  "relatedEvents": ["baidi-tuogu", "chushi-biao"],
   "scenes": [
     {
       "id": "qiqin-qizong",

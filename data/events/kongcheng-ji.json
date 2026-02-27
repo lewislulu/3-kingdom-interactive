@@ -6,7 +6,7 @@
   "characters": ["zhugeliang", "simayi"],
   "importance": "major",
   "narrative": "events/kongcheng-ji.md",
-  "relatedEvents": ["wuzhangyuan", "baidi-tuogu"],
+  "relatedEvents": ["shiting-zhan", "wuzhangyuan"],
   "scenes": [
     {
       "id": "mashu-jieting",

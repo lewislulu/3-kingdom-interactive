@@ -1,0 +1,11 @@
+{
+  "id": "huoshao-xinye",
+  "name": "火烧新野",
+  "year": 40,
+  "month": null,
+  "characters": ["zhugeliang", "liubei", "zhaoyun", "zhangfei"],
+  "importance": "minor",
+  "narrative": "huoshao-xinye.md",
+  "relatedEvents": ["bowangpo", "changban"],
+  "scenes": ["弃城诱敌"]
+}

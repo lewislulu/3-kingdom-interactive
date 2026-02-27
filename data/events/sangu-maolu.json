@@ -6,7 +6,7 @@
   "characters": ["liubei", "zhugeliang", "guanyu", "zhangfei"],
   "importance": "major",
   "narrative": "events/sangu-maolu.md",
-  "relatedEvents": ["chibi-battle", "changban"],
+  "relatedEvents": ["guandu-battle", "bowangpo"],
   "scenes": [
     {
       "id": "scene-1",

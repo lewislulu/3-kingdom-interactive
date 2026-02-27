@@ -6,7 +6,7 @@
   "characters": ["guanyu", "caocao", "caoren"],
   "importance": "major",
   "narrative": "events/shuiyan-qijun.md",
-  "relatedEvents": ["baizou-maicheng"],
+  "relatedEvents": ["hanzhong-chengwang", "baiyidu-jiang"],
   "scenes": [
     {
       "id": "weizhen-huaxia",
