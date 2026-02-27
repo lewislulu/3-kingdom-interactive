@@ -1,0 +1,32 @@
+{
+  "id": "wangyun",
+  "name": "王允",
+  "courtesy": "子师",
+  "birth": 1,
+  "death": 9,
+  "color": "#B8860B",
+  "portrait": null,
+  "bio": "东汉司徒，忠心汉室。面对董卓暴政，暗中谋划除奸。以义女貂蝉施连环计，离间董卓与吕布，终使吕布反戈刺杀董卓。后因处事不当，被董卓余党李傕郭汜所杀。",
+  "activeRange": [1, 9],
+  "tags": ["东汉朝廷"],
+  "personalEvents": [
+    {
+      "year": 1,
+      "title": "忧国忧民",
+      "description": "身为司徒，眼见朝纲崩坏，暗自结交忠臣，图谋匡复汉室。",
+      "type": "milestone"
+    },
+    {
+      "year": 8,
+      "title": "连环计",
+      "description": "以义女貂蝉同时许配董卓和吕布，使二人反目成仇，堪称三国第一离间计。",
+      "type": "milestone"
+    },
+    {
+      "year": 9,
+      "title": "功成身死",
+      "description": "董卓伏诛后，王允主持朝政，但拒绝赦免董卓旧部李傕、郭汜。二人反攻长安，王允被杀。",
+      "type": "turning-point"
+    }
+  ]
+}

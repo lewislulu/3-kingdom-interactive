@@ -1,0 +1,26 @@
+{
+  "id": "dingyuan",
+  "name": "丁原",
+  "courtesy": "建阳",
+  "birth": 2,
+  "death": 3,
+  "color": "#8B7355",
+  "portrait": null,
+  "bio": "并州刺史，吕布义父。为人刚正，领兵入京欲保幼帝。然吕布被董卓以赤兔马、金珠收买，杀丁原投奔董卓。丁原之死揭示了吕布反复无常的本性。",
+  "activeRange": [2, 3],
+  "tags": ["独立势力"],
+  "personalEvents": [
+    {
+      "year": 2,
+      "title": "领兵入京",
+      "description": "率并州军入京，欲诛宦官、保护少帝。收吕布为义子，倚为臂膀。",
+      "type": "milestone"
+    },
+    {
+      "year": 3,
+      "title": "被吕布所杀",
+      "description": "董卓以赤兔马、金珠贿赂吕布，吕布夜入丁原帐中，斩其首级，投奔董卓。",
+      "type": "turning-point"
+    }
+  ]
+}

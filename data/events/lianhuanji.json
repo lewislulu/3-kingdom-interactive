@@ -3,7 +3,7 @@
   "name": "连环计",
   "year": 8,
   "month": 1,
-  "characters": ["dongzhuo", "lvbu", "diaochan"],
+  "characters": ["dongzhuo", "lvbu", "diaochan", "wangyun"],
   "importance": "major",
   "narrative": "events/lianhuanji.md",
   "relatedEvents": ["dongzhuo-capital", "xiapi-lvbu"],

@@ -16,7 +16,7 @@
       "subtitle": "黄巾起义·董卓乱政·群雄并起",
       "timeRange": [1, 9],
       "description": "东汉末年，朝纲不振，张角率黄巾军揭竿而起。刘关张桃园结义投身平乱，曹操起兵讨贼。董卓入京废立天子，各路诸侯歃血盟誓讨伐。关羽温酒斩华雄、三英战吕布，乱世英雄纷纷登场。王允巧施连环计，借貂蝉离间董卓与吕布，董卓伏诛。",
-      "characters": ["liubei", "guanyu", "zhangfei", "caocao", "dongzhuo", "lvbu", "yuanshao", "sunce", "diaochan", "xiandi", "zhaoyun"],
+      "characters": ["liubei", "guanyu", "zhangfei", "caocao", "dongzhuo", "lvbu", "yuanshao", "sunce", "diaochan", "xiandi", "zhaoyun", "dingyuan", "wangyun", "hejin"],
       "events": ["taoyuan-oath", "huangjin-rebellion", "dongzhuo-capital", "wenjiu-huaxiong", "sanying-lvbu", "zhaoyun-chujian", "lianhuanji"],
       "coverColor": "#c0392b"
     },
@@ -73,7 +73,8 @@
     "sunce", "sunquan", "zhouyu", "lusu", "lvmeng",
     "luxun", "huanggai", "ganning",
     "dongzhuo", "lvbu", "yuanshao", "diaochan", "xiandi",
-    "liuchan", "simayan", "sunhao"
+    "liuchan", "simayan", "sunhao",
+    "dingyuan", "wangyun", "hejin"
   ],
   "events": [
     "taoyuan-oath", "huangjin-rebellion", "dongzhuo-capital",

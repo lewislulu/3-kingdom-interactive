@@ -1,0 +1,32 @@
+{
+  "id": "hejin",
+  "name": "何进",
+  "courtesy": "遂高",
+  "birth": 1,
+  "death": 2,
+  "color": "#9B7653",
+  "portrait": null,
+  "bio": "大将军，何太后之兄。灵帝崩后，欲诛杀宦官十常侍以正朝纲，却犯下致命错误——密诏董卓领兵入京。宦官先发制人，将何进诱入宫中杀害。何进之死直接导致董卓入京，引发天下大乱。",
+  "activeRange": [1, 2],
+  "tags": ["东汉朝廷"],
+  "personalEvents": [
+    {
+      "year": 1,
+      "title": "大将军辅政",
+      "description": "灵帝驾崩，何进以大将军身份辅佐少帝，掌握朝中军权。",
+      "type": "milestone"
+    },
+    {
+      "year": 2,
+      "title": "密诏董卓",
+      "description": "欲借外兵诛杀宦官，密诏董卓领兵入京。此举引狼入室，成为汉末乱局的导火索。",
+      "type": "turning-point"
+    },
+    {
+      "year": 2,
+      "title": "遇害身亡",
+      "description": "宦官十常侍假太后之名诱何进入宫，伏兵杀之。何进部将袁绍等随即攻入宫中屠杀宦官。",
+      "type": "turning-point"
+    }
+  ]
+}
