@@ -6,7 +6,7 @@
   "characters": ["guanyu", "caocao", "liubei"],
   "importance": "major",
   "narrative": "events/guanyu-wuguan.md",
-  "relatedEvents": ["tushan-yueyue", "guandu-battle"],
+  "relatedEvents": ["tushan-yueyue", "gucheng-juyi"],
   "scenes": [
     { "id": "fengjin-guayin", "title": "封金挂印", "hasDialogue": true },
     { "id": "wuguan-zhanliu", "title": "过五关斩六将", "hasDialogue": true }

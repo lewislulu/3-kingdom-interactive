@@ -6,7 +6,7 @@
   "characters": ["caocao", "yuanshao"],
   "importance": "major",
   "narrative": "events/guandu-battle.md",
-  "relatedEvents": ["xietianzi"],
+  "relatedEvents": ["gucheng-juyi", "sangu-maolu"],
   "scenes": [
     { "id": "yishao-shengduo", "title": "以少胜多", "hasDialogue": true },
     { "id": "huoshao-wuchao", "title": "火烧乌巢", "hasDialogue": true }
