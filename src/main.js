@@ -120,6 +120,34 @@ async function boot() {
           characterCard.show(character);
         };
 
+        // Layer filter panel
+        const filterPanel = document.createElement('div');
+        filterPanel.className = 'map-layer-filter';
+        const layers = [
+          { key: 'cities', label: '地名', color: '#ffd700' },
+          { key: 'events', label: '事件', color: '#ff8c42' },
+          { key: 'characters', label: '人物', color: '#8bbbd0' },
+        ];
+        for (const layer of layers) {
+          const item = document.createElement('label');
+          item.className = 'map-filter-item';
+          const checkbox = document.createElement('input');
+          checkbox.type = 'checkbox';
+          checkbox.checked = true;
+          checkbox.addEventListener('change', () => {
+            mapEngine.setLayerVisibility(layer.key, checkbox.checked);
+          });
+          const dot = document.createElement('span');
+          dot.className = 'map-filter-dot';
+          dot.style.background = layer.color;
+          const text = document.createTextNode(layer.label);
+          item.appendChild(checkbox);
+          item.appendChild(dot);
+          item.appendChild(text);
+          filterPanel.appendChild(item);
+        }
+        mapContainer.appendChild(filterPanel);
+
         // Sync chapter now that engine is ready
         const ch = timeline.getCurrentChapter();
         if (ch) {

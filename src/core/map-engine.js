@@ -33,6 +33,9 @@ export class MapEngine {
     this.currentChapter = 1;
     this.currentZoomScale = 1;
 
+    // Layer visibility
+    this.layerVisibility = { cities: true, events: true, characters: true };
+
     this._buildLocationIndex();
 
     this.svg = null;
@@ -495,15 +498,15 @@ export class MapEngine {
         .duration(400)
         .attr('opacity', visible ? (isCurrent ? 1 : 0.5) : 0);
 
-      // Pulse + show label for current chapter event
+      // Pulse for current chapter event (label stays hidden until hover)
       const pulse = m.element.select('.event-pulse-ring');
       if (isCurrent) {
         if (!pulse.empty()) pulse.attr('opacity', 0.6);
-        m.label.attr('opacity', 1);
       } else {
         if (!pulse.empty()) pulse.attr('opacity', 0);
-        if (this.currentZoomScale < 3) m.label.attr('opacity', 0);
       }
+      // Labels only shown on hover or at high zoom
+      if (this.currentZoomScale < 3) m.label.attr('opacity', 0);
     }
   }
 
@@ -771,6 +774,28 @@ export class MapEngine {
       .duration(800)
       .ease(d3.easeCubicInOut)
       .call(this.zoom.transform, d3.zoomIdentity);
+  }
+
+  setLayerVisibility(layer, visible) {
+    this.layerVisibility[layer] = visible;
+    const groupMap = {
+      cities: this.cityGroup,
+      events: this.eventGroup,
+      characters: this.characterGroup,
+    };
+    const group = groupMap[layer];
+    if (group) {
+      group
+        .transition()
+        .duration(300)
+        .style('opacity', visible ? 1 : 0)
+        .on('end', () => {
+          group.style('pointer-events', visible ? 'auto' : 'none');
+        });
+      if (!visible) {
+        group.style('pointer-events', 'none');
+      }
+    }
   }
 
   resize() {
