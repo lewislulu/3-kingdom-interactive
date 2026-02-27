@@ -88,7 +88,6 @@ html, body {
 }
 
 #chapter-bar-mount .chapter-bar {
-  position: relative !important;
   font-family: var(--font-serif);
 }
 
@@ -736,11 +735,6 @@ html, body {
   position: relative;
   overflow: hidden;
   background: var(--color-bg);
-}
-
-.map-svg {
-  width: 100%;
-  height: 100%;
 }
 
 .map-svg text {

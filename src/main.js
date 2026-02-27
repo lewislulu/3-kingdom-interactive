@@ -95,24 +95,41 @@ async function boot() {
     const mapView = document.getElementById('map-view');
     const mapContainer = document.getElementById('map-container');
 
+    let mapInitPending = false;
     function initMapView() {
-      if (mapEngine) return;
+      if (mapEngine || mapInitPending) return;
+      mapInitPending = true;
 
-      mapEngine = new MapEngine(mapContainer, data);
+      // Defer initialization to next frame so the container is fully laid out
+      requestAnimationFrame(() => {
+        if (mapEngine) return;
 
-      // Map scrubber
-      mapScrubber = new MapScrubber(data.timeline, (chapter) => {
-        mapEngine.setChapter(chapter);
+        mapEngine = new MapEngine(mapContainer, data);
+
+        // Map scrubber
+        mapScrubber = new MapScrubber(data.timeline, (chapter) => {
+          mapEngine.setChapter(chapter);
+        });
+        mapView.appendChild(mapScrubber.getElement());
+
+        // Map interactions -> reuse existing panels
+        mapEngine.onEventClick = (event) => {
+          eventPanel.show(event);
+        };
+        mapEngine.onCharacterClick = (character) => {
+          characterCard.show(character);
+        };
+
+        // Sync chapter now that engine is ready
+        const ch = timeline.getCurrentChapter();
+        if (ch) {
+          const chConfig = (data.timeline.chapters || []).find(c => c.id === ch);
+          if (chConfig) {
+            mapEngine.setChapter(chConfig.timeRange[0]);
+            if (mapScrubber) mapScrubber.setChapter(chConfig.timeRange[0]);
+          }
+        }
       });
-      mapView.appendChild(mapScrubber.getElement());
-
-      // Map interactions -> reuse existing panels
-      mapEngine.onEventClick = (event) => {
-        eventPanel.show(event);
-      };
-      mapEngine.onCharacterClick = (character) => {
-        characterCard.show(character);
-      };
     }
 
     // 13. Event map popup (for storyline view)
@@ -150,15 +167,6 @@ async function boot() {
         // Show map
         mapView.classList.add('active');
         initMapView();
-
-        // Sync chapter if possible
-        const ch = timeline.getCurrentChapter();
-        if (ch && mapEngine) {
-          const chConfig = (data.timeline.chapters || []).find(c => c.id === ch);
-          if (chConfig) {
-            mapScrubber.setChapter(chConfig.timeRange[0]);
-          }
-        }
       } else {
         // Show storyline elements
         for (const el of storylineElements) {

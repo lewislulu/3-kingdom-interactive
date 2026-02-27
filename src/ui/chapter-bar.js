@@ -15,10 +15,8 @@ export class ChapterBar {
     this.container = document.createElement('div');
     this.container.className = 'chapter-bar';
     this.container.style.cssText = `
-      position: fixed;
-      top: 0;
-      left: 0;
-      right: 0;
+      position: relative;
+      width: 100%;
       height: 100px;
       background: rgba(10, 10, 15, 0.95);
       backdrop-filter: blur(10px);

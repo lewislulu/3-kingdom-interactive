@@ -68,16 +68,17 @@ export class MapEngine {
     const rect = this.container.getBoundingClientRect();
     const width = rect.width || 800;
     const height = rect.height || 600;
+    this._width = width;
+    this._height = height;
 
     this.svg = d3.select(this.container)
       .append('svg')
       .attr('class', 'map-svg')
-      .attr('width', '100%')
-      .attr('height', '100%')
-      .attr('viewBox', `0 0 ${width} ${height}`);
+      .attr('width', width)
+      .attr('height', height)
+      .style('display', 'block');
 
     this.g = this.svg.append('g').attr('class', 'map-main-group');
-    this.g.node().style.willChange = 'transform';
 
     this.projection = d3.geoMercator()
       .center([110, 33])
@@ -107,6 +108,17 @@ export class MapEngine {
     this._renderCharacters();
 
     this.setChapter(1);
+
+    // Auto-resize when container size changes
+    this._resizeObserver = new ResizeObserver(() => {
+      const r = this.container.getBoundingClientRect();
+      const newW = Math.round(r.width);
+      const newH = Math.round(r.height);
+      if (newW && newH && (newW !== this._width || newH !== this._height)) {
+        this.resize();
+      }
+    });
+    this._resizeObserver.observe(this.container);
   }
 
   // ═══ LAYER 1: Province outlines + territory coloring ═══
@@ -760,7 +772,13 @@ export class MapEngine {
     const rect = this.container.getBoundingClientRect();
     const w = rect.width || 800;
     const h = rect.height || 600;
-    this.svg.attr('viewBox', `0 0 ${w} ${h}`);
+    this._width = w;
+    this._height = h;
+
+    this.svg
+      .attr('width', w)
+      .attr('height', h);
+
     this.projection
       .scale(Math.min(w, h) * 2.2)
       .translate([w / 2, h / 2]);
@@ -781,6 +799,7 @@ export class MapEngine {
   }
 
   destroy() {
+    if (this._resizeObserver) this._resizeObserver.disconnect();
     if (this.svg) this.svg.remove();
   }
 }
