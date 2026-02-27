@@ -292,7 +292,8 @@ export class MapEngine {
         .attr('class', 'map-event-marker')
         .attr('transform', `translate(${pt[0]}, ${pt[1]})`)
         .attr('opacity', 0)
-        .style('cursor', 'pointer');
+        .style('cursor', 'pointer')
+        .style('pointer-events', 'none');
 
       // Pulse ring for major events
       if (isMajor) {
@@ -360,7 +361,8 @@ export class MapEngine {
       const group = this.characterGroup.append('g')
         .attr('class', `map-char-avatar map-char-${charLoc.id}`)
         .attr('opacity', 0)
-        .style('cursor', 'pointer');
+        .style('cursor', 'pointer')
+        .style('pointer-events', 'none');
 
       const r = 10;
       group.append('circle')
@@ -488,6 +490,7 @@ export class MapEngine {
       const visible = m.year >= range[0] && m.year <= range[1];
       const isCurrent = m.year === ch;
       m.element
+        .style('pointer-events', visible ? 'auto' : 'none')
         .transition()
         .duration(400)
         .attr('opacity', visible ? (isCurrent ? 1 : 0.5) : 0);
@@ -516,12 +519,12 @@ export class MapEngine {
         mv => ch >= mv.chapters[0] && ch <= mv.chapters[1]
       );
       if (!movement) {
-        m.element.transition().duration(400).attr('opacity', 0);
+        m.element.style('pointer-events', 'none').transition().duration(400).attr('opacity', 0);
         continue;
       }
       const loc = this.locationMap[movement.location];
       if (!loc) {
-        m.element.transition().duration(400).attr('opacity', 0);
+        m.element.style('pointer-events', 'none').transition().duration(400).attr('opacity', 0);
         continue;
       }
 
@@ -550,7 +553,7 @@ export class MapEngine {
       if (count > CLUSTER_THRESHOLD) {
         // Hide individual avatars
         for (const m of markers) {
-          m.element.transition().duration(300).attr('opacity', 0);
+          m.element.style('pointer-events', 'none').transition().duration(300).attr('opacity', 0);
         }
 
         // Create cluster bubble
@@ -562,6 +565,7 @@ export class MapEngine {
           const m = markers[i];
           const offsetX = (i - (count - 1) / 2) * spacing;
           m.element
+            .style('pointer-events', 'auto')
             .transition()
             .duration(600)
             .ease(d3.easeCubicInOut)
@@ -726,11 +730,12 @@ export class MapEngine {
     this.g.selectAll('.char-name-label').attr('opacity', charLabelOpacity);
 
     // Non-capital cities visibility
-    const cityDetailOpacity = scale >= 1.5 ? 1 : 0;
+    const cityDetailVisible = scale >= 1.5;
     this.g.selectAll('.city-city, .city-battlefield, .city-landmark')
+      .style('pointer-events', cityDetailVisible ? 'auto' : 'none')
       .transition()
       .duration(200)
-      .attr('opacity', cityDetailOpacity);
+      .attr('opacity', cityDetailVisible ? 1 : 0);
 
     // Capitals always visible
     this.g.selectAll('.city-capital').attr('opacity', 1);
