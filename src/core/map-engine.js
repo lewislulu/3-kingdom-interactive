@@ -756,14 +756,23 @@ export class MapEngine {
   setLayerVisibility(layer, visible) {
     this.layerVisibility[layer] = visible;
 
+    // Use visibility:hidden instead of pointer-events:none because
+    // pointer-events:none on a parent <g> does NOT cascade to children
+    // that have their own inline pointer-events:auto. visibility:hidden
+    // truly blocks all rendering AND interaction for all descendants.
+
     // Territories = province group + territory labels
     if (layer === 'territories') {
       const groups = [this.provinceGroup, this.territoryLabelGroup];
       for (const g of groups) {
         if (!g) continue;
-        g.transition().duration(300).style('opacity', visible ? 1 : 0);
-        if (!visible) g.style('pointer-events', 'none');
-        else g.style('pointer-events', null);
+        if (visible) {
+          g.style('visibility', 'visible');
+          g.transition().duration(300).style('opacity', 1);
+        } else {
+          g.transition().duration(300).style('opacity', 0)
+            .on('end', () => { g.style('visibility', 'hidden'); });
+        }
       }
       return;
     }
@@ -776,15 +785,12 @@ export class MapEngine {
     };
     const group = groupMap[layer];
     if (group) {
-      group
-        .transition()
-        .duration(300)
-        .style('opacity', visible ? 1 : 0)
-        .on('end', () => {
-          group.style('pointer-events', visible ? 'auto' : 'none');
-        });
-      if (!visible) {
-        group.style('pointer-events', 'none');
+      if (visible) {
+        group.style('visibility', 'visible');
+        group.transition().duration(300).style('opacity', 1);
+      } else {
+        group.transition().duration(300).style('opacity', 0)
+          .on('end', () => { group.style('visibility', 'hidden'); });
       }
     }
   }
