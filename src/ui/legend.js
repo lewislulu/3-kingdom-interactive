@@ -14,8 +14,8 @@ export class Legend {
     this.container.className = 'legend';
     this.container.style.cssText = `
       position: fixed;
-      bottom: 30px;
-      right: 30px;
+      bottom: 90px;
+      left: 20px;
       background: rgba(15, 15, 20, 0.95);
       border: 1px solid rgba(255, 215, 0, 0.3);
       border-radius: 8px;

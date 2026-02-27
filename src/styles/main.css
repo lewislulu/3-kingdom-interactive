@@ -546,7 +546,7 @@ html, body {
 /* ---- Feedback Button & Modal ---- */
 .feedback-btn {
   position: fixed;
-  bottom: 20px; right: 20px;
+  top: 16px; right: 16px;
   width: 44px; height: 44px;
   border-radius: 50%;
   border: 1px solid rgba(212, 168, 83, 0.3);
